@@ -1,2 +1,2 @@
 gzip -k --force  *.ini
-mv *.ini tmp5
+mv *.ini tmp
