@@ -1,0 +1,4039 @@
+﻿[RLANRFO]
+Alpha.Delay = 100
+Alpha.Mode = 0
+Back.Alpha = 0
+Back.Color = Beige
+Clear = 0
+Color.Delay = 4502
+Color.Hue = 72
+Color.Saturation = 98
+Color.Value = 50
+Context = 1
+Delay = 415384
+Delay.Interval = 121
+Fill.Alpha = 100
+Fill.Color = Beige
+Fit = 100000
+Fit.Delay = 100000
+Fit.Landscape = 0
+Fit.Mode = 1
+Layout = 1x1
+Media = 54000.svg
+Media.Delay = 120
+Media.Mode = 0
+Media.Size = 1
+Media.Total = 1
+Mode = 2
+Palette = 6
+Pan = 100000
+Pan.Mode = 0
+Pan.Pause = 0
+Position.X = 274000
+Position.Y = 48000
+Repba.Count = 559
+Repba.Func1 = sine
+Repba.Func2 = cosine
+Repba.Func3 = cosine
+Repba.Radius = 119
+Repba.Rotation = 138
+Repba.Width = 14
+Rotate = 0
+Rotate.Delay = 17462
+Rotate.Mode = 0
+Shadow.Alpha = 100
+Shadow.Color = Black
+Shadow.Mode = 0
+Shadow.Offset = 0
+Speed = 14975
+Stroke.Alpha = 100
+Stroke.Color = Black
+Stroke.Width = 1
+Time.Start = 200779
+Alpha.Delay_2 = 100
+Alpha.Mode_2 = 0
+Back.Alpha_2 = 0
+Back.Color_2 = Beige
+Clear_2 = 1
+Color.Delay_2 = 100
+Color.Hue_2 = 50
+Color.Saturation_2 = 50
+Color.Value_2 = 50
+Context_2 = 2
+Delay_2 = 10
+Delay.Interval_2 = 6162
+Fill.Alpha_2 = 100
+Fill.Color_2 = White
+Fit_2 = 100000
+Fit.Delay_2 = 100000
+Fit.Landscape_2 = 0
+Fit.Mode_2 = 0
+Layout_2 = 1x1
+Media_2 = 54000.svg
+Media.Delay_2 = 200
+Media.Mode_2 = 1
+Media.Size_2 = 0
+Media.Total_2 = 5
+Mode_2 = 0
+Palette_2 = 0
+Pan_2 = 100000
+Pan.Mode_2 = 0
+Pan.Pause_2 = 0
+Position.X_2 = 243000.00000000003
+Position.Y_2 = 86000
+Rotate_2 = 0
+Rotate.Delay_2 = 100
+Rotate.Mode_2 = 0
+Shadow.Alpha_2 = 100
+Shadow.Color_2 = Black
+Shadow.Mode_2 = 0
+Shadow.Offset_2 = 2
+Speed_2 = 1600
+Stroke.Alpha_2 = 100
+Stroke.Color_2 = Black
+Stroke.Width_2 = 0
+Time.Start_2 = 0
+Alpha.Delay_3 = 100
+Alpha.Mode_3 = 0
+Back.Alpha_3 = 0
+Back.Color_3 = Beige
+Clear_3 = 1
+Color.Delay_3 = 12
+Color.Hue_3 = 100
+Color.Saturation_3 = 69
+Color.Value_3 = 49
+Context_3 = 3
+Delay_3 = 1
+Delay.Interval_3 = 129
+Fill.Alpha_3 = 100
+Fill.Color_3 = Black
+Fit_3 = 100000
+Fit.Delay_3 = 100000
+Fit.Landscape_3 = 0
+Fit.Mode_3 = 0
+Layout_3 = 1x1
+Media_3 = MUSICIAN00
+Media.Delay_3 = 250
+Media.Mode_3 = 1
+Media.Size_3 = 0
+Media.Total_3 = 1
+Mode_3 = 3
+Palette_3 = 0
+Pan_3 = 100000
+Pan.Mode_3 = 0
+Pan.Pause_3 = 0
+Position.X_3 = 41000
+Position.Y_3 = 199000
+Rotate_3 = 0
+Rotate.Delay_3 = 4
+Rotate.Mode_3 = 0
+Shadow.Alpha_3 = 100
+Shadow.Color_3 = White
+Shadow.Mode_3 = 0
+Shadow.Offset_3 = -2
+Speed_3 = 5580
+Stroke.Alpha_3 = 100
+Stroke.Color_3 = Beige
+Stroke.Width_3 = 0
+Time.Start_3 = 0
+Alpha.Delay_4 = 100
+Alpha.Mode_4 = 0
+Back.Alpha_4 = 0
+Back.Color_4 = Beige
+Clear_4 = 1
+Color.Delay_4 = 26
+Color.Hue_4 = 100
+Color.Saturation_4 = 70
+Color.Value_4 = 70
+Context_4 = 4
+Delay_4 = 16
+Delay.Interval_4 = 1742
+Fill.Alpha_4 = 100
+Fill.Color_4 = Black
+Fit_4 = 100000
+Fit.Delay_4 = 100000
+Fit.Landscape_4 = 0
+Fit.Mode_4 = 0
+Layout_4 = 1x1
+Media_4 = MUSICIAN00
+Media.Delay_4 = 28
+Media.Mode_4 = 1
+Media.Size_4 = 0
+Media.Total_4 = 6
+Mode_4 = 0
+Palette_4 = 0
+Pan_4 = 100000
+Pan.Mode_4 = 0
+Pan.Pause_4 = 0
+Position.X_4 = 167000
+Position.Y_4 = 143000
+Rotate_4 = 0
+Rotate.Delay_4 = 100
+Rotate.Mode_4 = 0
+Shadow.Alpha_4 = 93
+Shadow.Color_4 = White
+Shadow.Mode_4 = 0
+Shadow.Offset_4 = -3
+Speed_4 = 1000
+Stroke.Alpha_4 = 100
+Stroke.Color_4 = White
+Stroke.Width_4 = 0
+Time.Start_4 = 0
+Alpha.Delay_5 = 131
+Alpha.Mode_5 = 0
+Back.Alpha_5 = 0
+Back.Color_5 = Beige
+Clear_5 = 1
+Color.Delay_5 = 26
+Color.Hue_5 = 100
+Color.Saturation_5 = 70
+Color.Value_5 = 70
+Context_5 = 5
+Delay_5 = 8
+Delay.Interval_5 = 1742
+Fill.Alpha_5 = 100
+Fill.Color_5 = Black
+Fit_5 = 100000
+Fit.Delay_5 = 100000
+Fit.Landscape_5 = 0
+Fit.Mode_5 = 0
+Layout_5 = 1x1
+Media_5 = MUSICIAN00
+Media.Delay_5 = 28
+Media.Mode_5 = 0
+Media.Size_5 = 0
+Media.Total_5 = 0
+Mode_5 = 1
+Palette_5 = 0
+Pan_5 = 100000
+Pan.Mode_5 = 0
+Pan.Pause_5 = 0
+Position.X_5 = 167000
+Position.Y_5 = 143000
+Rotate_5 = 0
+Rotate.Delay_5 = 1212
+Rotate.Mode_5 = 1
+Shadow.Alpha_5 = 93
+Shadow.Color_5 = White
+Shadow.Mode_5 = 0
+Shadow.Offset_5 = -3
+Speed_5 = 1615
+Stroke.Alpha_5 = 100
+Stroke.Color_5 = White
+Stroke.Width_5 = 0
+Time.Start_5 = 0
+Alpha.Delay_6 = 131
+Alpha.Mode_6 = 0
+Back.Alpha_6 = 0
+Back.Color_6 = Beige
+Clear_6 = 1
+Color.Delay_6 = 26
+Color.Hue_6 = 100
+Color.Saturation_6 = 70
+Color.Value_6 = 70
+Context_6 = 6
+Delay_6 = 8
+Delay.Interval_6 = 1742
+Fill.Alpha_6 = 100
+Fill.Color_6 = Black
+Fit_6 = 100000
+Fit.Delay_6 = 100000
+Fit.Landscape_6 = 0
+Fit.Mode_6 = 0
+Layout_6 = 1x1
+Media_6 = MUSICIAN00
+Media.Delay_6 = 28
+Media.Mode_6 = 0
+Media.Size_6 = 0
+Media.Total_6 = 0
+Mode_6 = 1
+Palette_6 = 0
+Pan_6 = 100000
+Pan.Mode_6 = 0
+Pan.Pause_6 = 0
+Position.X_6 = 167000
+Position.Y_6 = 143000
+Rotate_6 = 0
+Rotate.Delay_6 = 1212
+Rotate.Mode_6 = 1
+Shadow.Alpha_6 = 93
+Shadow.Color_6 = White
+Shadow.Mode_6 = 0
+Shadow.Offset_6 = -3
+Speed_6 = 1615
+Stroke.Alpha_6 = 100
+Stroke.Color_6 = White
+Stroke.Width_6 = 0
+Time.Start_6 = 0
+Alpha.Delay_7 = 131
+Alpha.Mode_7 = 0
+Back.Alpha_7 = 0
+Back.Color_7 = Beige
+Clear_7 = 1
+Color.Delay_7 = 26
+Color.Hue_7 = 100
+Color.Saturation_7 = 70
+Color.Value_7 = 70
+Context_7 = 7
+Delay_7 = 8
+Delay.Interval_7 = 1742
+Fill.Alpha_7 = 100
+Fill.Color_7 = Black
+Fit_7 = 100000
+Fit.Delay_7 = 100000
+Fit.Landscape_7 = 0
+Fit.Mode_7 = 0
+Layout_7 = 1x1
+Media_7 = MUSICIAN00
+Media.Delay_7 = 28
+Media.Mode_7 = 0
+Media.Size_7 = 0
+Media.Total_7 = 0
+Mode_7 = 1
+Palette_7 = 0
+Pan_7 = 100000
+Pan.Mode_7 = 0
+Pan.Pause_7 = 0
+Position.X_7 = 167000
+Position.Y_7 = 143000
+Rotate_7 = 0
+Rotate.Delay_7 = 1212
+Rotate.Mode_7 = 1
+Shadow.Alpha_7 = 93
+Shadow.Color_7 = White
+Shadow.Mode_7 = 0
+Shadow.Offset_7 = -3
+Speed_7 = 1615
+Stroke.Alpha_7 = 100
+Stroke.Color_7 = White
+Stroke.Width_7 = 0
+Time.Start_7 = 0
+Alpha.Delay_8 = 131
+Alpha.Mode_8 = 0
+Back.Alpha_8 = 0
+Back.Color_8 = Beige
+Clear_8 = 1
+Color.Delay_8 = 26
+Color.Hue_8 = 100
+Color.Saturation_8 = 70
+Color.Value_8 = 70
+Context_8 = 8
+Delay_8 = 8
+Delay.Interval_8 = 1742
+Fill.Alpha_8 = 100
+Fill.Color_8 = Black
+Fit_8 = 100000
+Fit.Delay_8 = 100000
+Fit.Landscape_8 = 0
+Fit.Mode_8 = 0
+Layout_8 = 1x1
+Media_8 = MUSICIAN00
+Media.Delay_8 = 28
+Media.Mode_8 = 0
+Media.Size_8 = 0
+Media.Total_8 = 0
+Mode_8 = 1
+Palette_8 = 0
+Pan_8 = 100000
+Pan.Mode_8 = 0
+Pan.Pause_8 = 0
+Position.X_8 = 167000
+Position.Y_8 = 143000
+Rotate_8 = 0
+Rotate.Delay_8 = 1212
+Rotate.Mode_8 = 1
+Shadow.Alpha_8 = 93
+Shadow.Color_8 = White
+Shadow.Mode_8 = 0
+Shadow.Offset_8 = -3
+Speed_8 = 1615
+Stroke.Alpha_8 = 100
+Stroke.Color_8 = White
+Stroke.Width_8 = 0
+Time.Start_8 = 0
+Alpha.Delay_9 = 131
+Alpha.Mode_9 = 0
+Back.Alpha_9 = 0
+Back.Color_9 = Beige
+Clear_9 = 1
+Color.Delay_9 = 26
+Color.Hue_9 = 100
+Color.Saturation_9 = 70
+Color.Value_9 = 70
+Context_9 = 9
+Delay_9 = 8
+Delay.Interval_9 = 1742
+Fill.Alpha_9 = 100
+Fill.Color_9 = Red
+Fit_9 = 100000
+Fit.Delay_9 = 100000
+Fit.Landscape_9 = 0
+Fit.Mode_9 = 0
+Layout_9 = 1x1
+Media_9 = MUSICIAN00
+Media.Delay_9 = 28
+Media.Mode_9 = 0
+Media.Size_9 = 0
+Media.Total_9 = 0
+Mode_9 = 1
+Palette_9 = 0
+Pan_9 = 100000
+Pan.Mode_9 = 0
+Pan.Pause_9 = 0
+Position.X_9 = 167000
+Position.Y_9 = 143000
+Rotate_9 = 0
+Rotate.Delay_9 = 1212
+Rotate.Mode_9 = 1
+Shadow.Alpha_9 = 93
+Shadow.Color_9 = White
+Shadow.Mode_9 = 0
+Shadow.Offset_9 = -3
+Speed_9 = 1615
+Stroke.Alpha_9 = 100
+Stroke.Color_9 = White
+Stroke.Width_9 = 0
+Time.Start_9 = 0
+
+[LAVVMVU]
+Color.Delay = 122
+Color.Value = 69
+Delay.Interval = 100
+Media.Delay = 100
+Palette = 2
+Repba.Radius = 462
+Time.Start = 0
+
+[HCNSNJU]
+Fit = 148337
+Fit.Delay = 16130
+Mode = 1
+Repba.Count = 796
+Repba.Radius = 197
+
+[QODODWP]
+Color.Delay = 39
+Color.Saturation = 84
+Color.Value = 100
+Delay = 376923
+Fill.Alpha = 67
+Fit = 97119
+Fit.Delay = 9088
+Mode = 0
+Palette = 0
+Position.X = 267000
+Position.Y = 327000
+Repba.Count = 567
+Repba.Radius = 127
+Repba.Rotation = 38
+Repba.Width = 34
+Rotate.Delay = 22649
+Shadow.Offset = 1
+Speed = 6911
+Delay.Interval_2 = 100
+Media.Mode_2 = 2
+Media.Total_2 = 1
+Position.X_2 = 336000
+Position.Y_2 = 254999.99999999997
+Rotate.Mode_2 = 1
+
+[FSTLUED]
+Color.Delay = 100
+Color.Saturation = 98
+Color.Value = 50
+Delay = 350000
+Fill.Alpha = 54
+Fit = 100000
+Fit.Delay = 100000
+Palette = 2
+Position.X = 154000
+Position.Y = 172000
+Repba.Count = 615
+Repba.Radius = 704
+Repba.Rotation = 847
+Repba.Width = 19
+Rotate.Delay = 100
+Speed = 23076
+Media.Delay_2 = 6
+Position.X_2 = 175000
+Position.Y_2 = 28999.999999999996
+Rotate.Mode_2 = 0
+
+[DOYHRFX]
+Delay = 550660
+Fit.Delay = 7169
+Mode = 1
+Speed = 15713
+
+[ROKFVKA]
+Color.Delay = 208196
+Color.Hue = 185
+Color.Saturation = 79
+Color.Value = 84
+Delay = 195301
+Delay.Interval = 0
+Fit.Delay = 100000
+Mode = 2
+Palette = 6
+Position.X = 326000
+Position.Y = 330000
+Repba.Count = 1000
+Repba.Radius = 292
+Repba.Rotation = 236
+Repba.Width = 22
+Shadow.Offset = 2
+Speed = 13306
+Stroke.Alpha = 89
+Stroke.Width = 0
+Delay.Interval_2 = 17
+Media.Delay_2 = 200
+Media.Mode_2 = 1
+Position.X_2 = 331000
+Position.Y_2 = 43000
+
+[WZXDULE]
+Fit.Delay = 6528
+Speed = 73723
+
+[JFSRVEZ]
+Color.Delay = 35593
+Color.Hue = 325
+Color.Saturation = 70
+Color.Value = 50
+Delay = 999999
+Delay.Interval = 507692
+Fill.Alpha = 100
+Fit.Delay = 10370
+Media.Size = 10
+Media.Total = 3
+Mode = 0
+Palette = 4
+Position.X = 312000
+Position.Y = 241000
+Repba.Count = 167
+Repba.Radius = 26
+Repba.Rotation = 649
+Repba.Width = 10
+Rotate.Delay = 29229
+Shadow.Offset = -2
+Speed = 7937
+Stroke.Alpha = 48
+Stroke.Color = White
+Stroke.Width = 1
+Delay.Interval_2 = 100
+Media.Mode_2 = 2
+Position.X_2 = 137000
+Position.Y_2 = 189000
+
+[UBDXSDC]
+Delay = 121951
+Delay.Interval = 87288
+Fit = 248722
+Fit.Delay = 100000
+Media.Size = 1
+Mode = 1
+Repba.Radius = 773
+Rotate.Delay = 100
+Speed = 23622
+
+[WWOIOYQ]
+Color.Delay = 100
+Delay = 646153
+Delay.Interval = 100
+Fill.Alpha = 90
+Fit = 100000
+Media.Total = 1
+Palette = 0
+Position.X = 324000
+Position.Y = 159000
+Repba.Count = 520
+Repba.Radius = 103
+Repba.Rotation = 2
+Repba.Width = 30
+Shadow.Alpha = 64
+Shadow.Offset = 2
+Speed = 10646
+Stroke.Alpha = 35
+Position.X_2 = 282000
+Position.Y_2 = 152000
+
+[EKGJMJI]
+Fit.Mode = 0
+Palette = 6
+Position.X = 190000
+Position.Y = 337000
+
+[JMZOTWN]
+Color.Delay = 85575
+Delay = 719230
+Fill.Alpha = 100
+Fit.Mode = 1
+Palette = 1
+Position.X = 274000
+Position.Y = 191000
+Repba.Count = 560
+Repba.Radius = 200
+Repba.Rotation = 862
+Repba.Width = 15
+Shadow.Alpha = 13
+Shadow.Offset = 12
+Speed = 6250
+Stroke.Alpha = 55
+Stroke.Color = Black
+Position.X_2 = 225999.99999999997
+Position.Y_2 = 122000
+
+[BHZYYAF]
+Color.Delay = 100
+Color.Hue = 90
+Color.Value = 46
+Delay = 361538
+Fill.Alpha = 85
+Palette = 0
+Position.X = 97000
+Position.Y = 272000
+Repba.Count = 1380
+Repba.Radius = 289
+Repba.Rotation = 930
+Repba.Width = 17
+Shadow.Alpha = 100
+Shadow.Offset = 1
+Speed = 19626
+Stroke.Alpha = 100
+Position.X_2 = 252000
+Position.Y_2 = 250000
+
+[VZGPULA]
+Color.Delay = 190
+Palette = 6
+
+[BKRNGWA]
+Color.Delay = 100
+Delay = 30019
+Fill.Alpha = 60
+Fit = 115972
+Fit.Delay = 1815
+Mode = 6
+Palette = 1
+Position.X = 8000
+Position.Y = 30000
+Repba.Count = 479
+Repba.Radius = 44
+Repba.Rotation = 215
+Repba.Width = 19
+Rotate.Delay = 69545
+Shadow.Offset = -3
+Speed = 104059
+Stroke.Color = Beige
+Stroke.Width = 2
+Position.X_2 = 210000
+Position.Y_2 = 90000
+
+[WTWRNYF]
+Color.Delay = 70484
+Delay = 755084
+Fill.Alpha = 100
+Fit = 100000
+Fit.Delay = 100000
+Mode = 0
+Palette = 6
+Position.X = 347000
+Position.Y = 317000
+Repba.Count = 1380
+Repba.Radius = 705
+Repba.Rotation = 930
+Repba.Width = 24
+Rotate.Delay = 100
+Shadow.Alpha = 22
+Shadow.Offset = 6
+Speed = 10703
+Stroke.Alpha = 50
+Stroke.Color = White
+Stroke.Width = 1
+Position.X_2 = 86000
+Position.Y_2 = 9000
+
+[YYKBZHW]
+Color.Delay = 27
+Delay = 176923
+Fill.Alpha = 68
+Fit.Delay = 28471
+Media.Mode = 1
+Palette = 1
+Position.X = 290000
+Position.Y = 331000
+Repba.Radius = 289
+Repba.Rotation = 126
+Repba.Width = 39
+Shadow.Alpha = 100
+Shadow.Offset = 4
+Speed = 32473
+Stroke.Alpha = 56
+Stroke.Color = Black
+Stroke.Width = 0
+Position.X_2 = 82000
+Position.Y_2 = 288000
+
+[AGYYUYS]
+Color.Delay = 227966
+Fit.Delay = 100000
+Media.Mode = 0
+Mode = 2
+Palette = 6
+Position.X = 210000
+Position.Y = 200000
+
+[RZQHBTT]
+Color.Delay = 100
+Delay = 538461
+Fill.Alpha = 83
+Mode = 0
+Palette = 5
+Position.X = 340000
+Position.Y = 349000
+Repba.Count = 750
+Repba.Radius = 866
+Repba.Rotation = 94
+Repba.Width = 11
+Rotate.Delay = 219230
+Rotate.Mode = 1
+Shadow.Offset = 3
+Speed = 10005
+Stroke.Alpha = 54
+Position.X_2 = 178000
+Position.Y_2 = 246000
+
+[RTZGARR]
+Delay = 361538
+Fit.Mode = 0
+Mode = 1
+Repba.Count = 850
+Repba.Radius = 315
+Repba.Rotation = 851
+Repba.Width = 26
+Rotate.Delay = 425
+Speed = 17550
+
+[CNMLENR]
+Delay = 326923
+Fit.Mode = 1
+Mode = 0
+Palette = 0
+Position.X = 302000
+Position.Y = 320000
+Repba.Count = 700
+Repba.Radius = 45
+Repba.Rotation = 440
+Repba.Width = 33
+Rotate.Delay = 100
+Rotate.Mode = 0
+Shadow.Offset = 2
+Speed = 22083
+Stroke.Alpha = 57
+Stroke.Color = Beige
+Stroke.Width = 1
+Position.X_2 = 316000
+Position.Y_2 = 195000
+
+[OQNMSTL]
+Delay = 18750
+Fit.Delay = 3072
+Mode = 2
+Palette = 3
+Position.X = 299000
+Position.Y = 311000
+Repba.Count = 690
+Repba.Radius = 916
+Repba.Rotation = 270
+Rotate.Delay = 469
+Shadow.Alpha = 31
+Shadow.Offset = 5
+Speed = 630769
+Stroke.Alpha = 100
+Stroke.Color = White
+Position.X_2 = 289000
+Position.Y_2 = 254999.99999999997
+
+[HSXKLHS]
+Color.Delay = 21858
+Delay = 444933
+Delay.Interval = 561539
+Fit = 129167
+Fit.Delay = 17053
+Media.Size = 3
+Mode = 0
+Palette = 6
+Repba.Count = 296
+Repba.Radius = 178
+Repba.Rotation = 8
+Repba.Width = 15
+Rotate.Delay = 269231
+Rotate.Mode = 1
+Speed = 10831
+
+[ASYYGYC]
+Color.Delay = 246610
+Delay = 6928
+Delay.Interval = 100
+Fit = 100000
+Fit.Delay = 24304
+Media.Size = 1
+Mode = 2
+Repba.Count = 710
+Repba.Radius = 916
+Repba.Rotation = 270
+Repba.Width = 33
+Rotate.Delay = 26164
+Speed = 176923
+
+[VIEBVJC]
+Color.Delay = 72
+Delay = 546154
+Fit = 143055
+Fit.Delay = 3864
+Fit.Mode = 0
+Mode = 1
+Position.X = 87000
+Position.Y = 219000
+Repba.Count = 960
+Repba.Radius = 411
+Repba.Rotation = 854
+Repba.Width = 11
+Rotate.Delay = 100
+Rotate.Mode = 0
+Shadow.Alpha = 77
+Shadow.Offset = 9
+Speed = 27198
+Stroke.Alpha = 45
+Stroke.Color = Black
+Stroke.Width = 0
+Position.X_2 = 271000
+Position.Y_2 = 68000
+
+[IOVVWAJ]
+Color.Delay = 100
+Color.Hue = 101
+Color.Value = 52
+Delay = 296153
+Fill.Alpha = 100
+Fit = 100000
+Fit.Delay = 33097
+Fit.Mode = 1
+Palette = 0
+Position.X = 305000
+Position.Y = 299000
+Repba.Count = 484
+Repba.Radius = 50
+Repba.Rotation = 50
+Repba.Width = 23
+Rotate.Delay = 6383
+Rotate.Mode = 1
+Shadow.Alpha = 100
+Shadow.Offset = 1
+Speed = 10760
+Stroke.Alpha = 46
+Stroke.Color = Beige
+Stroke.Width = 1
+Position.X_2 = 54000
+Position.Y_2 = 75000
+
+[LFOGBTM]
+Color.Delay = 526923
+Delay = 726923
+Fill.Alpha = 75
+Fit.Delay = 54167
+Media.Mode = 1
+Palette = 2
+Position.X = 83000
+Position.Y = 288000
+Repba.Count = 2060
+Repba.Radius = 80
+Repba.Rotation = 924
+Repba.Width = 30
+Rotate.Delay = 100
+Rotate.Mode = 0
+Shadow.Offset = 5
+Speed = 22056
+Stroke.Alpha = 55
+Stroke.Color = Black
+Position.X_2 = 87000
+Position.Y_2 = 109000.00000000001
+
+[LVCNQST]
+Color.Delay = 55798
+Fit.Delay = 31249
+Media.Mode = 0
+Palette = 6
+Position.X = 320000
+Position.Y = 198000
+Speed = 23445
+
+[RSRYFSP]
+Color.Delay = 146794
+Delay = 219230
+Fill.Alpha = 80
+Fit.Delay = 25694
+Media.Mode = 1
+Palette = 1
+Position.X = 295000
+Position.Y = 273000
+Repba.Count = 510
+Repba.Radius = 65
+Repba.Rotation = 1
+Repba.Width = 51
+Rotate.Delay = 507692
+Shadow.Alpha = 56
+Shadow.Offset = 2
+Speed = 9987
+Stroke.Alpha = 53
+Stroke.Width = 0
+Position.X_2 = 338000
+Position.Y_2 = 20000
+
+[VVARDXA]
+Color.Delay = 100
+Delay = 503846
+Fill.Alpha = 100
+Fit = 116666
+Fit.Delay = 20138
+Media.Mode = 0
+Palette = 2
+Position.X = 138000
+Position.Y = 189000
+Repba.Count = 661
+Repba.Radius = 83
+Repba.Rotation = 535
+Repba.Width = 35
+Rotate.Delay = 100
+Shadow.Alpha = 54
+Shadow.Offset = -4
+Speed = 19280
+Stroke.Alpha = 55
+Stroke.Color = White
+Stroke.Width = 1
+Position.X_2 = 49000
+Position.Y_2 = 48000
+
+[ZILZPEZ]
+Fit = 100000
+Fit.Delay = 100000
+Palette = 5
+Repba.Count = 1060
+Speed = 24139
+
+[OSLEFAZ]
+Alpha.Delay = 101
+Color.Delay = 18
+Color.Hue = 125
+Fit.Delay = 21526
+Palette = 4
+Repba.Rotation = 22
+Repba.Width = 55
+Speed = 12333
+
+[PUZKUQP]
+Color.Delay = 209549
+Delay = 9719
+Fit = 116249
+Fit.Delay = 36111
+Palette = 2
+Repba.Count = 469
+Repba.Radius = 69
+Repba.Width = 10
+Rotate.Delay = 378981
+Rotate.Mode = 1
+Speed = 13814
+
+[SNRFVXJ]
+Alpha.Delay = 100
+Color.Delay = 100
+Color.Hue = 90
+Color.Value = 30
+Delay = 430769
+Fit = 100000
+Fit.Delay = 100000
+Media.Mode = 1
+Palette = 3
+Position.X = 305000
+Position.Y = 259000
+Repba.Count = 1030
+Repba.Radius = 777
+Repba.Rotation = 781
+Repba.Width = 50
+Rotate.Delay = 100
+Rotate.Mode = 0
+Shadow.Alpha = 50
+Shadow.Offset = -6
+Speed = 22056
+Stroke.Alpha = 56
+Stroke.Width = 0
+Position.X_2 = 95000
+Position.Y_2 = 0
+
+[HTYTJHE]
+Delay = 357692
+Media.Mode = 0
+Palette = 0
+Position.X = 145000
+Position.Y = 148000
+Repba.Radius = 88
+Repba.Rotation = 827
+Repba.Width = 15
+Shadow.Alpha = 100
+Shadow.Offset = 3
+Speed = 22055
+Stroke.Alpha = 55
+Stroke.Color = Beige
+Stroke.Width = 1
+Position.X_2 = 221000
+Position.Y_2 = 86000
+
+[IYVEVJI]
+Color.Value = 69
+Delay = 392307
+Palette = 5
+Position.X = 247000.00000000003
+Position.Y = 159000
+Repba.Count = 760
+Repba.Radius = 89
+Repba.Rotation = 838
+Repba.Width = 35
+Shadow.Offset = 0
+Speed = 44973
+Stroke.Alpha = 51
+Stroke.Color = White
+Stroke.Width = 0
+Position.X_2 = 292000
+Position.Y_2 = 182000
+
+[CGJGPKS]
+Color.Value = 62
+Delay = 469230
+Palette = 1
+Position.X = 142000
+Position.Y = 297000
+Repba.Count = 1030
+Repba.Radius = 234
+Repba.Rotation = 969
+Repba.Width = 20
+Shadow.Alpha = 54
+Shadow.Offset = 4
+Speed = 18583
+Stroke.Alpha = 55
+Stroke.Color = Beige
+Position.X_2 = 202999.99999999997
+Position.Y_2 = 151000
+
+[HWNJNZQ]
+Color.Value = 81
+Delay = 380769
+Mode = 0
+Palette = 2
+Position.X = 319000
+Position.Y = 144000
+Repba.Radius = 508
+Repba.Rotation = 672
+Shadow.Alpha = 55
+Shadow.Offset = 2
+Speed = 22751
+Stroke.Alpha = 100
+Stroke.Width = 1
+Position.X_2 = 252999.99999999997
+Position.Y_2 = 249000.00000000003
+
+[YYSEGQO]
+Color.Value = 91
+Delay = 384615
+Fill.Alpha = 78
+Mode = 1
+Position.X = 286000
+Position.Y = 163000
+Repba.Radius = 89
+Repba.Rotation = 906
+Repba.Width = 22
+Shadow.Alpha = 100
+Speed = 24139
+Stroke.Alpha = 51
+Stroke.Color = White
+Position.X_2 = 245000.00000000003
+Position.Y_2 = 224000.00000000003
+
+[UDQKHTA]
+Color.Value = 81
+Delay = 534615
+Fill.Alpha = 100
+Palette = 5
+Position.X = 136000
+Position.Y = 107000
+Repba.Radius = 282
+Repba.Rotation = 672
+Repba.Width = 20
+Shadow.Alpha = 54
+Shadow.Offset = -2
+Speed = 32473
+Stroke.Alpha = 100
+Stroke.Color = Beige
+Position.X_2 = 33000
+Position.Y_2 = 254000
+
+[SSHDFRX]
+Delay = 322881
+Fit.Mode = 0
+Mode = 0
+Palette = 2
+Position.X = 218000.00000000003
+Position.Y = 30000
+Repba.Radius = 5
+Repba.Rotation = 303
+Repba.Width = 12
+Shadow.Alpha = 100
+Shadow.Offset = 0
+Speed = 23235
+Position.X_2 = 153000
+Position.Y_2 = 110000.00000000001
+
+[MAYJHAU]
+Color.Delay = 44545
+Delay = 211016
+Fit.Mode = 1
+Palette = 4
+Position.X = 8000
+Repba.Count = 750
+Repba.Radius = 120
+Repba.Rotation = 616
+Repba.Width = 16
+Shadow.Offset = -1
+Speed = 59555
+Stroke.Alpha = 53
+Position.X_2 = 174000
+Position.Y_2 = 179000
+
+[CZEYNKN]
+Color.Delay = 100
+Delay = 719231
+Fit = 154167
+Fit.Delay = 37499
+Mode = 4
+Palette = 3
+Position.X = 273000
+Repba.Count = 1030
+Repba.Radius = 212
+Repba.Rotation = 534
+Repba.Width = 12
+Rotate.Delay = 70239
+Rotate.Mode = 1
+Shadow.Offset = 1
+Speed = 52611
+Stroke.Alpha = 100
+Position.X_2 = 339000
+Position.Y_2 = 206999.99999999997
+
+[TYUJFMR]
+Palette = 1
+
+[DXYVNXD]
+Delay = 415384
+Fit = 130556
+Fit.Delay = 51388
+Mode = 1
+Position.X = 154000
+Position.Y = 318000
+Repba.Count = 530
+Repba.Radius = 219
+Repba.Rotation = 838
+Repba.Width = 36
+Rotate.Delay = 100
+Rotate.Mode = 0
+Shadow.Alpha = 48
+Shadow.Offset = 4
+Speed = 18583
+Stroke.Alpha = 83
+Stroke.Color = Black
+Position.X_2 = 303000
+Position.Y_2 = 31000
+
+[XFVGQRU]
+Delay = 329543
+Fit = 100000
+Fit.Delay = 100000
+Mode = 0
+Palette = 5
+Position.X = 147000
+Position.Y = 265000
+Repba.Count = 750
+Repba.Radius = 282
+Repba.Rotation = 220
+Repba.Width = 40
+Shadow.Alpha = 56
+Shadow.Offset = -3
+Speed = 6257
+Stroke.Alpha = 100
+Stroke.Color = Beige
+Position.X_2 = 12000
+Position.Y_2 = 119000
+
+[HFKGLTU]
+Delay = 411016
+Fit.Mode = 0
+Mode = 1
+Position.X = 118000
+Position.Y = 273000
+Repba.Count = 800
+Repba.Radius = 969
+Repba.Rotation = 265
+Repba.Width = 16
+Rotate.Delay = 20933
+Rotate.Mode = 1
+Shadow.Alpha = 100
+Shadow.Offset = -1
+Speed = 24428
+Position.X_2 = 229000
+Position.Y_2 = 311000
+
+[YUAOEVY]
+Delay = 163559
+Fit.Delay = 20138
+Fit.Mode = 1
+Palette = 4
+Position.X = 181000
+Position.Y = 302000
+Repba.Count = 554
+Repba.Radius = 61
+Repba.Rotation = 995
+Repba.Width = 22
+Shadow.Offset = -4
+Speed = 11429
+Position.X_2 = 322000
+Position.Y_2 = 155000
+
+[QBAUBWC]
+Color.Value = 83
+Delay = 596153
+Fit.Delay = 100000
+Palette = 2
+Position.X = 272000
+Position.Y = 138000
+Repba.Count = 1030
+Repba.Radius = 150
+Repba.Rotation = 5
+Repba.Width = 50
+Rotate.Delay = 100
+Rotate.Mode = 0
+Speed = 10271
+Stroke.Color = White
+Position.X_2 = 300000
+Position.Y_2 = 40000
+
+[TSXMFJO]
+Color.Delay = 21605
+Fill.Alpha = 64
+Palette = 6
+Position.X = 124000
+Position.Y = 269000
+Repba.Rotation = 613
+Shadow.Offset = -2
+
+[JFBMTNX]
+Color.Delay = 325
+Delay = 383898
+Fill.Alpha = 100
+Fit.Landscape = 1
+Palette = 2
+Position.X = 308000
+Position.Y = 94000
+Repba.Count = 1020
+Repba.Radius = 141
+Repba.Rotation = 1
+Repba.Width = 8
+Shadow.Offset = 8
+Speed = 11161
+Stroke.Color = Black
+Stroke.Width = 0
+Position.X_2 = 225999.99999999997
+Position.Y_2 = 104000
+
+[SBIQHQG]
+Delay = 623077
+Fit = 153984
+Fit.Landscape = 0
+Palette = 5
+Position.X = 195000
+Position.Y = 311000
+Repba.Radius = 415
+
+[WZNIJKR]
+Color.Delay = 129700
+Delay = 383898
+Fit = 100000
+Fit.Mode = 0
+Mode = 2
+Palette = 6
+Position.X = 193000
+Position.Y = 53000
+Repba.Radius = 754
+Repba.Rotation = 180
+
+[MYXEBAB]
+Color.Delay = 14249
+Position.X = 204999.99999999997
+Position.Y = 217000
+Repba.Radius = 141
+Repba.Rotation = 1
+Speed = 31729
+
+[MQZGAPP]
+Color.Delay = 100
+Delay = 676271
+Delay.Interval = 254237
+Fit.Delay = 35416
+Fit.Mode = 1
+Media.Total = 2
+Mode = 0
+Palette = 1
+Position.X = 301000
+Position.Y = 309000
+Repba.Count = 744
+Repba.Radius = 819
+Repba.Rotation = 499
+Repba.Width = 12
+Shadow.Offset = 2
+Speed = 8925
+Stroke.Alpha = 16
+Stroke.Width = 1
+Position.X_2 = 236000
+Position.Y_2 = 204999.99999999997
+
+[XKTTAOS]
+Delay = 130769
+Delay.Interval = 11819
+Fit = 145139
+Fit.Delay = 22222
+Media.Total = 4
+Mode = 1
+Palette = 5
+Position.X = 8000
+Position.Y = 30000
+Repba.Count = 337
+Repba.Radius = 44
+Repba.Rotation = 13
+Repba.Width = 31
+Shadow.Offset = -5
+Speed = 67465
+Position.X_2 = 295000
+Position.Y_2 = 198000
+
+[DJCUWKM]
+Color.Delay = 325
+Delay = 396153
+Delay.Interval = 10
+Fit = 100000
+Fit.Delay = 100000
+Media.Size = 2
+Media.Total = 2
+Palette = 1
+Position.X = 317000
+Position.Y = 115999.99999999999
+Repba.Count = 1130
+Repba.Radius = 207
+Repba.Rotation = 979
+Repba.Width = 8
+Shadow.Offset = 8
+Speed = 12550
+Stroke.Alpha = 100
+Stroke.Width = 0
+Position.X_2 = 176000
+Position.Y_2 = 15000
+
+[OPFGYMC]
+Palette = 5
+Repba.Width = 14
+
+[CFHDFCN]
+Alpha.Delay = 268131
+Alpha.Mode = 1
+Color.Delay = 31738
+Color.Hue = 263
+Delay = 462555
+Delay.Interval = 301098
+Media.Size = 3
+Media.Total = 6
+Palette = 4
+Position.X = 222000.00000000003
+Position.Y = 297000
+Repba.Count = 350
+Repba.Radius = 844
+Repba.Rotation = 499
+Repba.Width = 12
+Shadow.Offset = 4
+Speed = 15829
+Stroke.Alpha = 16
+Stroke.Width = 1
+Position.X_2 = 254000
+Position.Y_2 = 126000
+
+[HWGKUTR]
+Alpha.Delay = 100
+Alpha.Mode = 0
+Color.Delay = 100
+Color.Hue = 90
+Delay = 726923
+Delay.Interval = 100
+Media.Size = 1
+Media.Total = 1
+Mode = 0
+Palette = 1
+Position.X = 329000
+Position.Y = 268000
+Repba.Count = 1030
+Repba.Radius = 111
+Repba.Rotation = 597
+Repba.Width = 25
+Shadow.Offset = 0
+Speed = 5626
+Stroke.Alpha = 100
+Position.X_2 = 43000
+Position.Y_2 = 151000
+
+[BTTOLXZ]
+Fit.Delay = 34027
+Palette = 5
+Position.X = 204999.99999999997
+Position.Y = 354000
+Speed = 13959
+
+[ZUBRNMS]
+Fit.Delay = 100000
+Fit.Mode = 0
+Position.X = 329000
+Position.Y = 288000
+Speed = 5626
+
+[XTWEFON]
+Palette = 6
+Repba.Count = 1444
+Repba.Radius = 137
+Repba.Width = 16
+
+[EVUETPW]
+Color.Delay = 32814
+Delay = 229661
+Delay.Interval = 52542
+Fit.Delay = 35416
+Fit.Mode = 1
+Media.Size = 3
+Media.Total = 3
+Position.X = 8000
+Position.Y = 30000
+Repba.Count = 380
+Repba.Radius = 819
+Repba.Rotation = 499
+Repba.Width = 12
+Shadow.Offset = 2
+Speed = 46362
+Stroke.Alpha = 16
+Position.X_2 = 276000
+Position.Y_2 = 329000
+
+[PKDYQYU]
+Color.Delay = 100
+Color.Hue = 313
+Color.Saturation = 99
+Color.Value = 59
+Delay = 252
+Delay.Interval = 100
+Fill.Alpha = 2
+Fit.Delay = 100000
+Fit.Mode = 0
+Palette = 0
+Position.X = 21000
+Position.Y = 74000
+Repba.Count = 720
+Repba.Radius = 120
+Repba.Rotation = 3
+Repba.Width = 21
+Shadow.Offset = 0
+Speed = 58168
+Stroke.Alpha = 100
+Stroke.Width = 0
+Position.X_2 = 30000
+Position.Y_2 = 268000
+
+[GPZNTBM]
+Color.Delay = 324
+Delay = 137
+Delay.Interval = 438461
+Media.Size = 5
+Media.Total = 5
+Palette = 4
+Position.X = 8000
+Position.Y = 30000
+Repba.Count = 670
+Repba.Radius = 797
+Repba.Rotation = 537
+Repba.Width = 35
+Speed = 37334
+Position.X_2 = 175000
+Position.Y_2 = 182000
+
+[EWXOIMX]
+Color.Delay = 100
+Delay = 284745
+Delay.Interval = 372033
+Media.Size = 3
+Media.Total = 3
+Mode = 1
+Palette = 0
+Repba.Count = 1340
+Repba.Radius = 120
+Repba.Rotation = 3
+Repba.Width = 21
+Speed = 40806
+Position.X_2 = 82000
+Position.Y_2 = 225999.99999999997
+
+[DHWIIZE]
+Delay = 143220
+Delay.Interval = 100
+Fill.Alpha = 55
+Media.Size = 1
+Media.Total = 1
+Mode = 0
+Repba.Count = 2100
+Repba.Rotation = 884
+Repba.Width = 17
+Shadow.Alpha = 83
+Shadow.Offset = 2
+Speed = 29694
+Stroke.Color = Beige
+Stroke.Width = 1
+Position.X_2 = 131000
+Position.Y_2 = 36000
+
+[VWPNNNC]
+Delay = 174576
+Delay.Interval = 6335
+Palette = 1
+Position.X = 256000
+Position.Y = 302000
+Repba.Count = 1554
+Repba.Radius = 642
+Repba.Rotation = 420
+Repba.Width = 14
+Shadow.Alpha = 100
+Shadow.Offset = 1
+Speed = 16505
+Stroke.Alpha = 51
+Stroke.Color = White
+Position.X_2 = 0
+Position.Y_2 = 145000
+
+[DTOIOUT]
+Color.Delay = 8103
+Mode = 2
+Palette = 4
+Position.X = 177000
+Position.Y = 256000
+Repba.Count = 584
+Rotate.Delay = 72970
+Speed = 14585
+
+[TTUCMSP]
+Color.Delay = 550
+Color.Saturation = 56
+Color.Value = 52
+Delay = 137288
+Delay.Interval = 100
+Fill.Alpha = 100
+Mode = 0
+Palette = 1
+Position.X = 8000
+Position.Y = 30000
+Repba.Count = 2100
+Repba.Radius = 120
+Repba.Rotation = 3
+Repba.Width = 40
+Rotate.Delay = 100
+Shadow.Offset = 4
+Speed = 35944
+Stroke.Alpha = 53
+Position.X_2 = 143000
+Position.Y_2 = 227000
+
+[XOSDPGN]
+Color.Delay = 100
+Color.Hue = 90
+Color.Saturation = 70
+Color.Value = 80
+Delay = 120338
+Repba.Count = 1060
+Repba.Radius = 142
+Repba.Rotation = 9
+Repba.Width = 15
+Shadow.Offset = 3
+Speed = 38028
+Stroke.Alpha = 100
+Position.X_2 = 156000
+Position.Y_2 = 8000
+
+[ZHDESUQ]
+Color.Delay = 37
+Delay = 351694
+Delay.Interval = 578
+Media.Size = 6
+Media.Total = 3
+Palette = 5
+Position.X = 140000
+Position.Y = 290000
+Repba.Count = 193
+Repba.Radius = 195
+Repba.Rotation = 152
+Repba.Width = 18
+Speed = 7081
+Stroke.Alpha = 44
+Stroke.Color = Black
+Stroke.Width = 0
+Position.X_2 = 121000
+Position.Y_2 = 143000
+
+[RFWSWIL]
+Alpha.Delay = 233898
+Alpha.Mode = 1
+Color.Delay = 100
+Color.Value = 85
+Delay = 249152
+Delay.Interval = 344915
+Fill.Alpha = 27
+Media.Size = 2
+Media.Total = 2
+Palette = 3
+Position.X = 8000
+Position.Y = 30000
+Repba.Count = 1620
+Repba.Radius = 142
+Repba.Rotation = 583
+Repba.Width = 15
+Shadow.Offset = 0
+Speed = 35250
+Stroke.Alpha = 100
+Position.X_2 = 355000
+Position.Y_2 = 46000
+
+[MTEDJOL]
+Alpha.Delay = 100
+Alpha.Mode = 0
+Delay = 125423
+Delay.Interval = 416
+Media.Size = 1
+Palette = 0
+Repba.Rotation = 25
+Shadow.Offset = 1
+Speed = 44973
+Position.X_2 = 132000
+Position.Y_2 = 275000
+
+[XDPWUKD]
+Color.Delay = 686
+Color.Value = 30
+Delay = 298305
+Delay.Interval = 564
+Fill.Alpha = 11
+Media.Size = 3
+Media.Total = 3
+Position.X = 101000
+Repba.Count = 640
+Repba.Radius = 82
+Repba.Rotation = 336
+Repba.Width = 47
+Shadow.Alpha = 53
+Shadow.Offset = 0
+Speed = 11984
+Stroke.Alpha = 25
+Stroke.Color = White
+Stroke.Width = 1
+Position.X_2 = 229000
+Position.Y_2 = 287000
+
+[SRAVETA]
+Palette = 5
+Position.X = 161000
+Position.Y = 250999.99999999997
+
+[OPHKYWS]
+Delay = 440677
+Delay.Interval = 682
+Fill.Alpha = 66
+Palette = 0
+Position.X = 298000
+Position.Y = 180000
+Repba.Count = 320
+Repba.Width = 26
+Shadow.Alpha = 100
+Shadow.Offset = 3
+Speed = 10813
+Stroke.Alpha = 52
+Position.X_2 = 217000
+Position.Y_2 = 136000
+
+[NGIBITX]
+Color.Delay = 557692
+Color.Saturation = 84
+Delay = 207627
+Delay.Interval = 100
+Fill.Alpha = 100
+Media.Size = 1
+Media.Total = 1
+Mode = 1
+Position.X = 305000
+Position.Y = 119000
+Repba.Count = 880
+Repba.Radius = 1
+Repba.Rotation = 28
+Repba.Width = 18
+Shadow.Alpha = 54
+Shadow.Color = Beige
+Shadow.Offset = 2
+Speed = 42195
+Stroke.Alpha = 100
+Stroke.Color = Black
+Position.X_2 = 32000
+Position.Y_2 = 82000
+
+[LZSPVYI]
+Color.Delay = 23672
+Palette = 6
+Position.X = 188000
+Position.Y = 331000
+
+[ICSKHAM]
+Color.Delay = 100
+Palette = 2
+Position.X = 305000
+Position.Y = 119000
+
+[OGSYTOR]
+Color.Hue = 249
+Mode = 2
+Palette = 3
+Repba.Rotation = 908
+
+[PGRPWSA]
+Color.Delay = 139500
+Color.Hue = 90
+Color.Saturation = 70
+Color.Value = 89
+Delay = 496328
+Delay.Interval = 7766
+Media.Size = 8
+Media.Total = 3
+Mode = 1
+Palette = 4
+Position.X = 316000
+Position.Y = 254999.99999999997
+Repba.Count = 170
+Repba.Radius = 59
+Repba.Rotation = 483
+Repba.Width = 13
+Shadow.Alpha = 57
+Shadow.Color = Black
+Shadow.Offset = -3
+Speed = 57101
+Stroke.Color = White
+Position.X_2 = 156000
+Position.Y_2 = 112000.00000000001
+
+[PDBNEHX]
+Color.Delay = 96916
+Color.Value = 82
+Delay = 196769
+Delay.Interval = 86637
+Media.Size = 4
+Media.Total = 4
+Mode = 0
+Palette = 6
+Position.X = 337000
+Position.Y = 265000
+Repba.Count = 160
+Repba.Radius = 51
+Repba.Rotation = 466
+Repba.Width = 20
+Shadow.Alpha = 100
+Shadow.Offset = 2
+Speed = 15285
+Stroke.Alpha = 40
+Stroke.Color = Black
+Position.X_2 = 182000
+Position.Y_2 = 193000
+
+[WCBHBEJ]
+Color.Delay = 64122
+Color.Saturation = 39
+Color.Value = 71
+Delay = 659324
+Delay.Interval = 236440
+Media.Size = 2
+Media.Total = 2
+Position.X = 138000
+Position.Y = 305000
+Repba.Count = 210
+Repba.Radius = 224
+Repba.Rotation = 3
+Repba.Width = 24
+Speed = 22056
+Stroke.Alpha = 100
+Stroke.Width = 0
+Position.X_2 = 18000
+Position.Y_2 = 3000
+
+[ZHUBNKC]
+Color.Delay = 100
+Color.Hue = 2
+Color.Saturation = 70
+Color.Value = 45
+Delay = 211538
+Delay.Interval = 100
+Fill.Alpha = 73
+Mode = 1
+Palette = 2
+Position.X = 188000
+Position.Y = 250000
+Repba.Count = 240
+Repba.Radius = 26
+Repba.Rotation = 13
+Repba.Width = 21
+Speed = 24834
+Stroke.Alpha = 33
+Stroke.Color = White
+Stroke.Width = 1
+Position.X_2 = 254000
+Position.Y_2 = 191000
+
+[OKZBBSQ]
+Alpha.Delay = 149779
+Color.Delay = 10898
+Delay = 446153
+Delay.Interval = 224669
+Media.Size = 3
+Mode = 0
+Palette = 5
+Position.X = 258000
+Position.Y = 105000
+Repba.Count = 210
+Repba.Rotation = 14
+Speed = 9462
+
+[BRHTHZO]
+Alpha.Delay = 100
+Color.Delay = 100
+Delay = 337288
+Delay.Interval = 100
+Media.Size = 1
+Media.Total = 1
+Mode = 2
+Palette = 2
+Position.X = 8000
+Position.Y = 30000
+Repba.Count = 3000
+Repba.Radius = 101
+Repba.Rotation = 90
+Repba.Width = 34
+Speed = 49834
+Stroke.Alpha = 35
+Stroke.Color = Black
+Stroke.Width = 0
+Position.X_2 = 273000
+Position.Y_2 = 231000
+
+[AAPIJGP]
+Color.Delay = 35
+Delay = 200000
+Media.Size = 2
+Media.Total = 2
+Mode = 0
+Palette = 6
+Repba.Count = 420
+Repba.Radius = 21
+Repba.Rotation = 53
+Shadow.Offset = 3
+Speed = 41500
+Stroke.Alpha = 13
+Stroke.Width = 1
+Position.X_2 = 140000
+Position.Y_2 = 210000
+
+[JICGWET]
+Color.Delay = 12
+Delay = 392070
+Delay.Interval = 38179
+Media.Size = 3
+Media.Total = 3
+Position.X = 249000.00000000003
+Position.Y = 312000
+Repba.Count = 149
+Repba.Radius = 36
+Repba.Rotation = 90
+Repba.Width = 17
+Shadow.Offset = 1
+Speed = 22983
+Stroke.Alpha = 52
+Stroke.Color = White
+Position.X_2 = 62000
+Position.Y_2 = 272000
+
+[NAONHCP]
+Color.Delay = 100
+Color.Hue = 90
+Color.Value = 30
+Delay = 200000
+Delay.Interval = 100
+Fill.Alpha = 84
+Media.Size = 1
+Media.Total = 1
+Palette = 0
+Position.X = 8000
+Position.Y = 30000
+Repba.Count = 840
+Repba.Radius = 72
+Repba.Rotation = 690
+Repba.Width = 48
+Shadow.Offset = 2
+Speed = 99834
+Stroke.Alpha = 68
+Stroke.Color = Black
+Stroke.Width = 0
+Position.X_2 = 102000
+Position.Y_2 = 18000
+
+[IZYHSNY]
+Color.Hue = 312
+Color.Value = 52
+Delay = 115384
+Media.Size = 3
+Media.Total = 3
+Palette = 2
+Repba.Count = 290
+Repba.Radius = 48
+Repba.Rotation = 486
+Repba.Width = 24
+Speed = 85946
+Stroke.Alpha = 24
+Position.X_2 = 178000
+Position.Y_2 = 209000
+
+[VMXAIPS]
+Color.Delay = 262848
+Color.Hue = 90
+Color.Value = 59
+Delay = 202511
+Media.Size = 2
+Media.Total = 2
+Palette = 6
+Position.X = 319000
+Position.Y = 109000.00000000001
+Repba.Count = 260
+Repba.Radius = 136
+Repba.Rotation = 690
+Repba.Width = 46
+Shadow.Offset = 3
+Speed = 29829
+Stroke.Alpha = 50
+Position.X_2 = 54000
+Position.Y_2 = 89000
+
+[ZACGTJW]
+Color.Delay = 100
+Color.Value = 80
+Delay = 484581
+Delay.Interval = 145241
+Palette = 2
+Position.X = 8000
+Position.Y = 30000
+Repba.Count = 280
+Repba.Radius = 146
+Repba.Rotation = 403
+Repba.Width = 28
+Shadow.Alpha = 39
+Shadow.Offset = 1
+Speed = 54001
+Stroke.Width = 1
+Position.X_2 = 176000
+Position.Y_2 = 248000
+
+[YSGWFBP]
+Color.Delay = 44840
+Delay = 730769
+Media.Size = 3
+Palette = 6
+Position.X = 320000
+Shadow.Offset = 2
+Speed = 46941
+
+[AVSFHFE]
+Color.Delay = 100
+Color.Hue = 312
+Color.Value = 51
+Delay = 86637
+Delay.Interval = 100
+Fill.Alpha = 79
+Media.Size = 1
+Media.Total = 1
+Mode = 1
+Palette = 0
+Position.X = 8000
+Repba.Count = 450
+Repba.Radius = 51
+Repba.Rotation = 706
+Repba.Width = 14
+Shadow.Alpha = 100
+Speed = 76917
+Stroke.Alpha = 100
+Stroke.Width = 0
+Position.X_2 = 171000
+Position.Y_2 = 143000
+
+[EIQQTEK]
+Color.Delay = 32305
+Color.Saturation = 36
+Color.Value = 89
+Delay = 538461
+Delay.Interval = 8599
+Fill.Alpha = 100
+Media.Size = 5
+Media.Total = 6
+Palette = 6
+Position.X = 305000
+Position.Y = 329000
+Repba.Count = 150
+Repba.Radius = 66
+Repba.Rotation = 198
+Shadow.Alpha = 55
+Shadow.Offset = 4
+Speed = 15112
+Stroke.Alpha = 51
+Stroke.Width = 1
+Position.X_2 = 120000
+Position.Y_2 = 123000
+
+[EXASABF]
+Color.Delay = 7
+Delay = 999999
+Delay.Interval = 588461
+Mode = 0
+
+[QEBSZIT]
+Color.Delay = 10888
+Color.Saturation = 70
+Color.Value = 51
+Delay = 237885
+Delay.Interval = 100
+Media.Size = 1
+Media.Total = 1
+Mode = 2
+Position.X = 336000
+Position.Y = 112999.99999999999
+Repba.Count = 400
+Repba.Radius = 85
+Repba.Rotation = 258
+Repba.Width = 30
+Shadow.Alpha = 100
+Shadow.Offset = 3
+Speed = 40111
+Stroke.Alpha = 52
+Stroke.Width = 0
+Position.X_2 = 12000
+Position.Y_2 = 204000
+
+[BMPRPFF]
+Color.Delay = 100
+Color.Hue = 129
+Delay = 734
+Delay.Interval = 713
+Fill.Alpha = 79
+Media.Size = 8
+Media.Total = 8
+Mode = 0
+Palette = 2
+Position.X = 326000
+Position.Y = 134000
+Repba.Count = 90
+Repba.Radius = 17
+Repba.Rotation = 855
+Repba.Width = 14
+Shadow.Offset = 2
+Speed = 30389
+Stroke.Alpha = 50
+Position.X_2 = 73000
+Position.Y_2 = 172000
+
+[PTFKWTP]
+Color.Delay = 19272
+Color.Hue = 304
+Delay = 596181
+Delay.Interval = 461086
+Fill.Alpha = 71
+Media.Size = 3
+Media.Total = 3
+Palette = 4
+Position.X = 330000
+Position.Y = 90000
+Repba.Count = 160
+Repba.Radius = 1000
+Repba.Rotation = 7
+Shadow.Offset = 3
+Speed = 10279
+Stroke.Alpha = 44
+Position.X_2 = 143000
+Position.Y_2 = 7000.000000000001
+
+[JOMXLRG]
+Color.Delay = 42466
+Delay = 175427
+Delay.Interval = 36710
+Media.Size = 2
+Media.Total = 2
+Mode = 1
+Palette = 6
+Position.X = 319000
+Position.Y = 186000
+Repba.Count = 240
+Repba.Radius = 511
+Repba.Rotation = 967
+Repba.Width = 16
+Shadow.Offset = -3
+Speed = 37518
+Stroke.Alpha = 50
+Stroke.Width = 1
+Position.X_2 = 59000
+Position.Y_2 = 313000
+
+[BQNYQVN]
+Color.Delay = 100
+Delay = 411538
+Delay.Interval = 100
+Media.Size = 1
+Media.Total = 1
+Mode = 2
+Palette = 2
+Position.X = 292000
+Position.Y = 309000
+Repba.Count = 990
+Repba.Radius = 746
+Repba.Rotation = 627
+Repba.Width = 18
+Shadow.Offset = 3
+Speed = 38722
+Stroke.Alpha = 49
+Stroke.Width = 0
+Position.X_2 = 6000
+Position.Y_2 = 246000
+
+[BDTMVKB]
+Color.Delay = 3941
+Delay = 160058
+Mode = 0
+Palette = 6
+Repba.Radius = 521
+Repba.Rotation = 1
+Speed = 18234
+
+[YIATBHJ]
+Color.Delay = 792
+Color.Hue = 40
+Color.Value = 52
+Delay = 4775
+Fill.Alpha = 84
+Mode = 2
+Palette = 2
+Position.X = 301000
+Position.Y = 138000
+Repba.Radius = 115
+Repba.Rotation = 755
+Repba.Width = 13
+Shadow.Offset = 2
+Speed = 978572
+Stroke.Alpha = 51
+Position.X_2 = 120000
+Position.Y_2 = 20000
+
+[UZQYXNP]
+Palette = 1
+
+[HJCHGCS]
+Color.Delay = 149
+Palette = 6
+Repba.Radius = 176
+Repba.Rotation = 620
+
+[MVEVCAA]
+Color.Delay = 9
+Color.Hue = 102
+Delay = 96916
+Position.X = 102000
+Position.Y = 319000
+Repba.Radius = 115
+Repba.Rotation = 755
+Repba.Width = 44
+Shadow.Offset = 3
+Speed = 337738
+Stroke.Alpha = 50
+Position.X_2 = 164000
+Position.Y_2 = 353000
+
+[XXUDYJP]
+Color.Delay = 1
+Color.Hue = 308
+Delay = 312775
+Fill.Alpha = 85
+Mode = 1
+Position.X = 308000
+Position.Y = 186000
+Repba.Count = 1290
+Repba.Rotation = 41
+Repba.Width = 11
+Shadow.Offset = 2
+Speed = 11575
+Stroke.Alpha = 49
+Position.X_2 = 238000
+Position.Y_2 = 19000
+
+[LJYWPOL]
+Color.Delay = 100
+Color.Hue = 284
+Color.Value = 53
+Delay = 461538
+Fill.Alpha = 79
+Mode = 2
+Palette = 1
+Position.X = 159000
+Position.Y = 304000
+Repba.Count = 3720
+Repba.Radius = 104
+Repba.Rotation = 56
+Repba.Width = 24
+Speed = 29694
+Stroke.Alpha = 51
+Position.X_2 = 246000
+Position.Y_2 = 121000
+
+[OCPRKMK]
+Delay = 303846
+Fill.Alpha = 100
+Mode = 1
+Palette = 2
+Position.X = 297000
+Position.Y = 93000
+Repba.Radius = 215
+Shadow.Offset = 1
+Speed = 40112
+Stroke.Alpha = 47
+Stroke.Width = 1
+Position.X_2 = 301000
+Position.Y_2 = 132000
+
+[XYPRAYJ]
+Color.Saturation = 71
+Delay = 534615
+Delay.Interval = 717
+Media.Size = 3
+Media.Total = 3
+Mode = 0
+Position.X = 311000
+Position.Y = 194000
+Repba.Count = 340
+Repba.Radius = 34
+Shadow.Offset = 2
+Speed = 30389
+Stroke.Alpha = 51
+Stroke.Width = 0
+Position.X_2 = 340000
+Position.Y_2 = 294000
+
+[QGTZWUP]
+Color.Hue = 90
+Color.Saturation = 95
+Color.Value = 83
+Delay = 234615
+Delay.Interval = 100
+Fill.Alpha = 83
+Media.Size = 1
+Media.Total = 1
+Mode = 1
+Palette = 3
+Position.X = 281000
+Position.Y = 118000
+Repba.Count = 1980
+Repba.Radius = 271
+Repba.Rotation = 94
+Repba.Width = 29
+Speed = 22751
+Stroke.Color = White
+Stroke.Width = 1
+Position.X_2 = 134000
+Position.Y_2 = 135000
+
+[RNDTDLQ]
+Color.Delay = 62713
+Color.Saturation = 88
+Color.Value = 57
+Delay = 623076
+Delay.Interval = 38970
+Fill.Alpha = 84
+Media.Size = 4
+Media.Total = 4
+Mode = 0
+Palette = 6
+Position.X = 292000
+Position.Y = 148000
+Repba.Count = 100
+Repba.Radius = 15
+Repba.Rotation = 504
+Repba.Width = 14
+Shadow.Offset = 0
+Speed = 36639
+Stroke.Alpha = 100
+Stroke.Color = Black
+Position.X_2 = 310000
+Position.Y_2 = 32000
+
+[OTACXSS]
+Color.Delay = 22
+Delay = 326923
+Delay.Interval = 644
+Media.Size = 8
+Media.Total = 8
+Palette = 3
+Position.X = 305000
+Position.Y = 161000
+Repba.Count = 200
+Repba.Radius = 45
+Repba.Rotation = 358
+Repba.Width = 18
+Shadow.Offset = 5
+Speed = 31084
+Stroke.Alpha = 41
+Stroke.Width = 0
+Position.X_2 = 360000
+Position.Y_2 = 252000
+
+[FMZKKSM]
+Color.Delay = 100
+Delay = 453846
+Delay.Interval = 100
+Media.Size = 1
+Media.Total = 1
+Mode = 1
+Palette = 2
+Position.X = 254000
+Position.Y = 195000
+Repba.Count = 3580
+Repba.Radius = 200
+Repba.Rotation = 409
+Repba.Width = 25
+Shadow.Offset = 2
+Speed = 26917
+Stroke.Alpha = 51
+Position.X_2 = 349000
+Position.Y_2 = 174000
+
+[YBHYFKL]
+Color.Saturation = 70
+Color.Value = 30
+Delay = 350000
+Fill.Alpha = 100
+Mode = 2
+Position.X = 8000
+Position.Y = 30000
+Repba.Count = 700
+Repba.Radius = 150
+Repba.Rotation = 5
+Repba.Width = 50
+Speed = 51223
+Stroke.Alpha = 100
+Position.X_2 = 32000
+Position.Y_2 = 3000
+
+[NONPRQO]
+Delay = 323076
+Fill.Alpha = 78
+Palette = 0
+Repba.Radius = 53
+Repba.Rotation = 4
+Repba.Width = 17
+Shadow.Offset = 4
+Speed = 54695
+Stroke.Alpha = 49
+Stroke.Color = White
+Position.X_2 = 285000
+Position.Y_2 = 335000
+
+[OCMUTZT]
+Color.Delay = 70238
+Color.Value = 65
+Delay = 265115
+Fill.Alpha = 100
+Palette = 6
+Repba.Radius = 150
+Repba.Rotation = 5
+Repba.Width = 27
+Speed = 49140
+Stroke.Width = 1
+Position.X_2 = 268000
+Position.Y_2 = 349000
+
+[LBFXYHO]
+Color.Delay = 100
+Color.Value = 51
+Delay = 246153
+Delay.Interval = 600000
+Media.Size = 2
+Media.Total = 2
+Mode = 0
+Palette = 1
+Repba.Count = 359
+Repba.Radius = 120
+Repba.Rotation = 3
+Repba.Width = 16
+Shadow.Offset = 1
+Speed = 69973
+Stroke.Alpha = 100
+Position.X_2 = 189000
+Position.Y_2 = 347000
+
+[CPWMXKT]
+Color.Value = 65
+Delay = 426923
+Delay.Interval = 100
+Media.Size = 1
+Media.Total = 1
+Mode = 1
+Repba.Count = 400
+Repba.Radius = 38
+Repba.Rotation = 908
+Repba.Width = 100
+Shadow.Offset = 2
+Stroke.Alpha = 50
+Position.X_2 = 171000
+Position.Y_2 = 218000.00000000003
+
+[CBBKRQC]
+Color.Value = 70
+Fill.Alpha = 93
+Mode = 2
+Palette = 5
+Repba.Count = 1220
+Repba.Radius = 482
+Repba.Rotation = 11
+Repba.Width = 16
+Shadow.Offset = 1
+Speed = 73445
+Stroke.Alpha = 100
+Position.X_2 = 358000
+Position.Y_2 = 302000
+
+[IAVULNS]
+Color.Value = 30
+Delay = 303846
+Palette = 1
+Repba.Count = 2100
+Repba.Radius = 25
+Repba.Rotation = 490
+Shadow.Offset = 2
+Speed = 85251
+Stroke.Alpha = 50
+Position.X_2 = 340000
+Position.Y_2 = 194000
+
+[JVBBXWR]
+Color.Delay = 269230
+Color.Hue = 181
+Color.Value = 79
+Delay = 326923
+Fill.Alpha = 90
+Palette = 2
+Repba.Count = 1100
+Repba.Radius = 101
+Repba.Rotation = 7
+Repba.Width = 25
+Shadow.Offset = 4
+Speed = 47750
+Stroke.Alpha = 36
+Stroke.Width = 0
+Position.X_2 = 342000
+Position.Y_2 = 200999.99999999997
+
+[BZWJVDM]
+Color.Delay = 100
+Color.Hue = 90
+Color.Value = 58
+Delay = 307692
+Fill.Alpha = 98
+Palette = 3
+Repba.Radius = 223
+Repba.Rotation = 661
+Repba.Width = 26
+Shadow.Offset = 3
+Speed = 55390
+Stroke.Alpha = 51
+Stroke.Color = Black
+Position.X_2 = 169000
+Position.Y_2 = 256999.99999999997
+
+[ZIXTKNJ]
+Color.Delay = 20939
+Delay = 303846
+Delay.Interval = 365384
+Fill.Alpha = 100
+Palette = 6
+Repba.Radius = 1000
+Repba.Rotation = 270
+Repba.Width = 23
+Shadow.Offset = 2
+Speed = 77612
+Stroke.Alpha = 50
+Position.X_2 = 55000.00000000001
+Position.Y_2 = 62000
+
+[QOHRHBT]
+Color.Delay = 42146
+Color.Value = 30
+Delay = 203846
+Delay.Interval = 100
+Mode = 0
+Repba.Count = 1200
+Repba.Radius = 978
+Repba.Rotation = 945
+Repba.Width = 29
+Shadow.Offset = 4
+Speed = 121207
+Stroke.Color = White
+Stroke.Width = 1
+Position.X_2 = 326000
+Position.Y_2 = 166000
+
+[LYPCUVY]
+Color.Delay = 100
+Color.Value = 44
+Delay = 319230
+Media.Size = 12
+Media.Total = 12
+Palette = 2
+Repba.Count = 70
+Repba.Radius = 20
+Repba.Rotation = 3
+Repba.Width = 37
+Shadow.Offset = 0
+Speed = 148876
+Stroke.Alpha = 100
+Stroke.Color = Black
+Position.X_2 = 76000
+Position.Y_2 = 114999.99999999999
+
+[PLDMYXX]
+Color.Delay = 13567
+Color.Value = 64
+Delay = 730769
+Delay.Interval = 98711
+Media.Size = 8
+Media.Total = 10
+Mode = 1
+Palette = 4
+Position.X = 319000
+Position.Y = 302000
+Repba.Count = 90
+Repba.Radius = 45
+Repba.Rotation = 512
+Shadow.Offset = 2
+Speed = 53846
+Stroke.Alpha = 98
+Stroke.Color = White
+Position.X_2 = 268000
+Position.Y_2 = 356000
+
+[ZQGNRPS]
+Color.Delay = 100
+Color.Value = 30
+Delay = 113889
+Delay.Interval = 100
+Media.Size = 6
+Media.Total = 6
+Mode = 0
+Palette = 2
+Position.X = 8000
+Position.Y = 30000
+Repba.Count = 160
+Repba.Radius = 523
+Repba.Rotation = 24
+Repba.Width = 19
+Speed = 138030
+Stroke.Alpha = 51
+Position.X_2 = 23000
+Position.Y_2 = 229000
+
+[AQBPYUL]
+Color.Value = 91
+Delay = 284615
+Fill.Alpha = 89
+Media.Size = 4
+Media.Total = 3
+Palette = 0
+Repba.Count = 170
+Repba.Radius = 53
+Repba.Rotation = 215
+Repba.Width = 13
+Speed = 97751
+Stroke.Alpha = 50
+Position.X_2 = 12000
+Position.Y_2 = 143000
+
+[VXECBTT]
+Color.Value = 30
+Delay = 223076
+Fill.Alpha = 100
+Media.Size = 2
+Media.Total = 2
+Repba.Count = 610
+Repba.Radius = 213
+Repba.Rotation = 904
+Repba.Width = 35
+Shadow.Offset = 3
+Speed = 142305
+Stroke.Alpha = 44
+Position.X_2 = 252000
+Position.Y_2 = 62000
+
+[QWRIQRX]
+Color.Saturation = 83
+Color.Value = 50
+Delay = 376923
+Fill.Alpha = 99
+Media.Size = 1
+Media.Total = 1
+Mode = 1
+Position.X = 193000
+Position.Y = 303000
+Repba.Count = 690
+Repba.Radius = 136
+Repba.Rotation = 523
+Repba.Width = 39
+Shadow.Offset = 5
+Speed = 14417
+Stroke.Alpha = 53
+Stroke.Color = Beige
+Position.X_2 = 240000
+Position.Y_2 = 225000
+
+[UXKSGGW]
+Color.Saturation = 92
+Color.Value = 56
+Delay = 288461
+Fill.Alpha = 100
+Media.Size = 3
+Media.Total = 3
+Mode = 0
+Palette = 1
+Position.X = 8000
+Position.Y = 30000
+Repba.Count = 220
+Repba.Rotation = 920
+Repba.Width = 32
+Shadow.Offset = 3
+Speed = 81778
+Stroke.Alpha = 100
+Stroke.Color = White
+Position.X_2 = 306000
+Position.Y_2 = 185000
+
+[PFBVCNA]
+Color.Saturation = 87
+Color.Value = 50
+Delay = 292307
+Fill.Alpha = 8
+Media.Size = 1
+Media.Total = 1
+Palette = 0
+Repba.Count = 3000
+Repba.Rotation = 690
+Repba.Width = 66
+Shadow.Offset = 0
+Speed = 81779
+Stroke.Alpha = 50
+Stroke.Color = Black
+Position.X_2 = 79000
+Position.Y_2 = 35000
+
+[CVDRPRP]
+Color.Delay = 283
+Color.Value = 97
+Delay = 184615
+Fill.Alpha = 88
+Media.Size = 3
+Media.Total = 3
+Repba.Count = 260
+Shadow.Offset = 4
+Speed = 118584
+Stroke.Alpha = 44
+Stroke.Color = White
+Position.X_2 = 283000
+Position.Y_2 = 5000
+
+[XBXTZCC]
+Color.Delay = 100
+Color.Value = 50
+Delay = 330769
+Fill.Alpha = 100
+Media.Size = 6
+Media.Total = 6
+Repba.Radius = 518
+Repba.Rotation = 999
+Repba.Width = 20
+Shadow.Offset = 9
+Speed = 115112
+Stroke.Alpha = 100
+Position.X_2 = 242000
+Position.Y_2 = 187000
+
+[GNOTUXU]
+Delay = 380769
+Delay.Interval = 434615
+Fill.Alpha = 49
+Media.Size = 4
+Media.Total = 4
+Repba.Radius = 136
+Repba.Rotation = 690
+Repba.Width = 66
+Speed = 97750
+Position.X_2 = 67000
+Position.Y_2 = 14000.000000000002
+
+[JIILSRJ]
+Palette = 5
+
+[WTRRLUN]
+Delay = 469230
+Delay.Interval = 100
+Palette = 0
+Repba.Radius = 518
+Repba.Rotation = 959
+Speed = 110251
+Position.X_2 = 186000
+Position.Y_2 = 56999.99999999999
+
+[UVVDGMY]
+Color.Delay = 99
+Color.Hue = 158
+Color.Saturation = 70
+Color.Value = 77
+Delay = 411538
+Fill.Alpha = 41
+Media.Size = 2
+Media.Total = 2
+Palette = 1
+Repba.Count = 890
+Repba.Radius = 120
+Repba.Rotation = 524
+Repba.Width = 25
+Shadow.Offset = 4
+Speed = 156085
+Position.X_2 = 173000
+Position.Y_2 = 85000
+
+[HLZDSKD]
+Color.Delay = 100
+Color.Value = 54
+Delay = 623076
+Fill.Alpha = 73
+Media.Size = 1
+Media.Total = 3
+Palette = 5
+Repba.Count = 970
+Repba.Radius = 946
+Repba.Rotation = 522
+Repba.Width = 9
+Shadow.Offset = 1
+Speed = 104696
+Position.X_2 = 93000
+Position.Y_2 = 309000
+
+[YYNDIBH]
+Color.Value = 30
+Delay = 223076
+Media.Total = 1
+Palette = 2
+Repba.Count = 1430
+Repba.Radius = 762
+Repba.Rotation = 3
+Repba.Width = 25
+Shadow.Offset = 3
+Speed = 98444
+Stroke.Color = Black
+Stroke.Width = 0
+Position.X_2 = 313000
+Position.Y_2 = 174000
+
+[LASUUFY]
+Delay = 273076
+Media.Size = 3
+Media.Total = 3
+Palette = 5
+Repba.Count = 600
+Repba.Radius = 195
+Repba.Rotation = 1000
+Repba.Width = 9
+Shadow.Offset = 1
+Speed = 102613
+Stroke.Alpha = 57
+Stroke.Color = White
+Stroke.Width = 1
+Position.X_2 = 8000
+Position.Y_2 = 254999.99999999997
+
+[VGYTQDU]
+Color.Hue = 277
+Delay = 246153
+Fill.Alpha = 100
+Media.Size = 1
+Media.Total = 1
+Palette = 3
+Repba.Count = 210
+Repba.Radius = 1
+Repba.Rotation = 25
+Repba.Width = 52
+Shadow.Offset = 3
+Speed = 117890
+Stroke.Alpha = 100
+Stroke.Color = Black
+Stroke.Width = 0
+Position.X_2 = 284000
+Position.Y_2 = 288000
+
+[XQWZOED]
+Color.Value = 50
+Delay = 72648
+Fill.Alpha = 84
+Palette = 0
+Repba.Count = 1520
+Repba.Radius = 142
+Repba.Rotation = 616
+Repba.Width = 35
+Shadow.Offset = 2
+Speed = 164209
+Stroke.Color = White
+Stroke.Width = 1
+Position.X_2 = 54000
+Position.Y_2 = 297000
+
+[VKUDADI]
+Color.Value = 30
+Delay = 138461
+Fill.Alpha = 100
+Media.Size = 2
+Media.Total = 2
+Palette = 1
+Repba.Count = 550
+Repba.Radius = 612
+Repba.Rotation = 658
+Repba.Width = 12
+Shadow.Offset = 9
+Speed = 97057
+Position.X_2 = 331000
+Position.Y_2 = 3000
+
+[YSQGPIV]
+Color.Delay = 22380
+Color.Value = 69
+Delay = 36748
+Delay.Interval = 596153
+Media.Size = 4
+Media.Total = 4
+Palette = 6
+Repba.Count = 120
+Repba.Radius = 13
+Repba.Rotation = 1
+Repba.Width = 15
+Shadow.Offset = 2
+Speed = 91501
+Stroke.Color = Black
+Stroke.Width = 0
+Position.X_2 = 65000
+Position.Y_2 = 336000
+
+[PZHNUHL]
+Color.Delay = 44818
+Color.Hue = 90
+Color.Value = 51
+Delay = 295244
+Delay.Interval = 0
+Media.Size = 1
+Media.Total = 1
+Mode = 2
+Palette = 5
+Repba.Count = 1200
+Repba.Radius = 190
+Repba.Rotation = 215
+Repba.Width = 56
+Shadow.Offset = 0
+Speed = 25528
+Position.X_2 = 350000
+Position.Y_2 = 61000
+
+[ANOTXCS]
+Color.Delay = 100
+Color.Value = 30
+Delay = 146153
+Delay.Interval = 100
+Media.Size = 3
+Media.Total = 3
+Mode = 0
+Palette = 0
+Repba.Count = 420
+Repba.Rotation = 152
+Repba.Width = 47
+Speed = 183863
+Stroke.Width = 1
+Position.X_2 = 186000
+Position.Y_2 = 336000
+
+[MAMCIUW]
+Color.Value = 53
+Delay = 850000
+Media.Size = 1
+Media.Total = 1
+Mode = 2
+Palette = 5
+Position.X = 298000
+Position.Y = 266000
+Repba.Count = 670
+Repba.Radius = 492
+Repba.Rotation = 266
+Repba.Width = 36
+Speed = 17889
+Position.X_2 = 346000
+Position.Y_2 = 77000
+
+[AEMVPCQ]
+Color.Value = 50
+Delay = 465384
+Fill.Alpha = 71
+Mode = 1
+Palette = 2
+Position.X = 254000
+Position.Y = 115999.99999999999
+Repba.Count = 990
+Repba.Radius = 521
+Repba.Rotation = 1
+Repba.Width = 25
+Speed = 56083
+Stroke.Alpha = 51
+Position.X_2 = 143000
+Position.Y_2 = 73000
+
+[JMSMPZG]
+Delay = 319230
+Palette = 3
+Position.X = 121000
+Position.Y = 185000
+Repba.Radius = 146
+Repba.Width = 20
+Speed = 53307
+Stroke.Alpha = 100
+Stroke.Width = 0
+Position.X_2 = 254999.99999999997
+Position.Y_2 = 243000.00000000003
+
+[RIZUPEY]
+Delay = 253846
+Mode = 0
+Palette = 2
+Position.X = 8000
+Position.Y = 30000
+Repba.Radius = 127
+Repba.Width = 37
+Shadow.Offset = 1
+Speed = 83861
+Position.X_2 = 80000
+Position.Y_2 = 179000
+
+[YZLCPUM]
+Color.Delay = 223076
+Delay = 183012
+Mode = 1
+Palette = 6
+Repba.Radius = 192
+Repba.Rotation = 265
+Repba.Width = 8
+Shadow.Offset = 2
+Speed = 49834
+Position.X_2 = 190000
+Position.Y_2 = 189000
+
+[XAGICHW]
+Color.Delay = 100
+Color.Hue = 251
+Color.Saturation = 77
+Color.Value = 51
+Delay = 242307
+Fill.Alpha = 2
+Mode = 0
+Palette = 2
+Position.X = 312000
+Position.Y = 172000
+Repba.Radius = 673
+Repba.Rotation = 608
+Repba.Width = 100
+Shadow.Offset = 0
+Speed = 21683
+Stroke.Width = 1
+Position.X_2 = 43000
+Position.Y_2 = 85000
+
+[QGJEBNU]
+Delay = 642307
+Palette = 0
+Position.X = 198000
+Position.Y = 262000
+Repba.Radius = 171
+Repba.Rotation = 616
+Repba.Width = 26
+Speed = 15308
+Position.X_2 = 260000
+Position.Y_2 = 326000
+
+[IFFIJOP]
+Color.Hue = 90
+Color.Saturation = 70
+Color.Value = 30
+Delay = 492
+Delay.Interval = 186885
+Media.Size = 2
+Mode = 1
+Position.X = 188000
+Position.Y = 192000
+Repba.Count = 2100
+Repba.Radius = 120
+Repba.Rotation = 3
+Repba.Width = 35
+Speed = 42321
+Stroke.Alpha = 24
+Position.X_2 = 282000
+Position.Y_2 = 69000
+
+[MJBAPKD]
+Color.Saturation = 56
+Color.Value = 61
+Delay = 315384
+Delay.Interval = 100
+Fill.Alpha = 43
+Media.Size = 1
+Mode = 0
+Palette = 1
+Position.X = 8000
+Position.Y = 30000
+Repba.Radius = 234
+Repba.Rotation = 748
+Repba.Width = 51
+Shadow.Offset = 3
+Speed = 73445
+Stroke.Alpha = 38
+Stroke.Color = Beige
+Position.X_2 = 208000
+Position.Y_2 = 190000
+
+[SATFEGY]
+Color.Saturation = 26
+Color.Value = 54
+Delay = 723076
+Fill.Alpha = 30
+Mode = 1
+Palette = 4
+Position.X = 337000
+Position.Y = 284000
+Repba.Count = 1900
+Repba.Radius = 839
+Repba.Rotation = 3
+Speed = 18583
+Position.X_2 = 91000
+Position.Y_2 = 24000
+
+[JGCLKPI]
+Color.Saturation = 72
+Color.Value = 37
+Delay = 113114
+Mode = 2
+Palette = 2
+Position.X = 8000
+Position.Y = 30000
+Repba.Count = 2100
+Repba.Radius = 234
+Repba.Rotation = 748
+Speed = 138029
+Position.X_2 = 126000
+Position.Y_2 = 334000
+
+[YQLDYUK]
+Color.Saturation = 70
+Color.Value = 48
+Delay = 403846
+Fill.Alpha = 76
+Palette = 5
+Repba.Radius = 839
+Repba.Rotation = 3
+Shadow.Offset = 1
+Speed = 142891
+Stroke.Color = Black
+Stroke.Width = 0
+Position.X_2 = 134000
+Position.Y_2 = 66000
+
+[HVWIRLJ]
+Color.Hue = 199
+Color.Value = 30
+Delay = 408
+Fill.Alpha = 3
+Mode = 1
+Palette = 0
+Position.X = 313000
+Position.Y = 267000
+Repba.Radius = 120
+Repba.Width = 12
+Shadow.Offset = 0
+Speed = 31104
+Stroke.Alpha = 34
+Stroke.Width = 1
+Position.X_2 = 250999.99999999997
+Position.Y_2 = 299000
+
+[TMRIYUW]
+Delay = 684
+Delay.Interval = 336065
+Media.Size = 2
+Media.Total = 2
+Mode = 0
+Position.X = 310000
+Position.Y = 310000
+Repba.Width = 26
+Rotate.Delay = 0
+Speed = 36678
+Stroke.Alpha = 16
+Stroke.Color = White
+Position.X_2 = 9000
+Position.Y_2 = 199000
+
+[RKFKQAW]
+Color.Hue = 90
+Delay = 377
+Delay.Interval = 575409
+Fill.Alpha = 1
+Media.Size = 3
+Media.Total = 3
+Palette = 2
+Position.X = 231999.99999999997
+Position.Y = 350000
+Repba.Radius = 967
+Repba.Rotation = 18
+Repba.Width = 22
+Rotate.Delay = 100
+Speed = 43622
+Stroke.Alpha = 100
+Stroke.Color = Black
+Stroke.Width = 0
+Position.X_2 = 340000
+Position.Y_2 = 70000
+
+[PGCBZDS]
+Delay = 284615
+Delay.Interval = 100
+Fill.Alpha = 2
+Media.Size = 1
+Media.Total = 1
+Mode = 1
+Position.X = 109000.00000000001
+Position.Y = 112000.00000000001
+Repba.Radius = 120
+Repba.Rotation = 3
+Repba.Width = 65
+Speed = 27925
+Stroke.Alpha = 36
+Stroke.Width = 1
+Position.X_2 = 314000
+Position.Y_2 = 336000
+
+[XCISOGG]
+Color.Saturation = 99
+Delay = 511475
+Fill.Alpha = 10
+Position.X = 184000
+Position.Y = 179000
+Repba.Count = 2180
+Repba.Radius = 803
+Repba.Rotation = 342
+Repba.Width = 69
+Speed = 19894
+Stroke.Alpha = 52
+Position.X_2 = 340000
+Position.Y_2 = 311000
+
+[QNGQVQI]
+Color.Hue = 241
+Delay = 445901
+Position.X = 216000
+Position.Y = 173000
+Repba.Radius = 234
+Repba.Rotation = 820
+Repba.Width = 47
+Speed = 27475
+Stroke.Alpha = 25
+Position.X_2 = 163000
+Position.Y_2 = 254000
+
+[UQWUQWC]
+Color.Hue = 90
+Color.Saturation = 70
+Delay = 168852
+Fill.Alpha = 7
+Palette = 0
+Position.X = 8000
+Position.Y = 30000
+Repba.Count = 2100
+Repba.Radius = 120
+Repba.Rotation = 3
+Repba.Width = 50
+Speed = 32628
+Stroke.Alpha = 16
+Stroke.Color = White
+Position.X_2 = 114999.99999999999
+Position.Y_2 = 266000
+
+[ANQSKND]
+Color.Delay = 897
+Delay = 283606
+Palette = 3
+Position.X = 113999.99999999999
+Position.Y = 185000
+Repba.Count = 700
+Repba.Radius = 915
+Repba.Rotation = 546
+Repba.Width = 27
+Speed = 42802
+Stroke.Alpha = 33
+Stroke.Color = Black
+Position.X_2 = 162000
+Position.Y_2 = 40000
+
+[BGEGVVB]
+Color.Delay = 100
+Delay = 159016
+Position.X = 131000
+Position.Y = 178000
+Repba.Radius = 120
+Repba.Rotation = 3
+Repba.Width = 50
+Speed = 46362
+Stroke.Alpha = 36
+Stroke.Color = White
+Position.X_2 = 134000
+Position.Y_2 = 6000
+
+[OGPWHVY]
+Delay = 785245
+Delay.Interval = 373770
+Media.Size = 2
+Position.X = 353000
+Position.Y = 126000
+Repba.Radius = 915
+Repba.Rotation = 546
+Repba.Width = 27
+Shadow.Offset = 2
+Speed = 18770
+Stroke.Alpha = 30
+Stroke.Color = Beige
+Position.X_2 = 43000
+Position.Y_2 = 52000
+
+[FXKAWRE]
+Color.Value = 73
+Delay = 117
+Delay.Interval = 100
+Media.Size = 1
+Mode = 0
+Position.X = 8000
+Position.Y = 30000
+Repba.Radius = 120
+Repba.Rotation = 3
+Repba.Width = 50
+Shadow.Offset = 3
+Speed = 56084
+Stroke.Alpha = 0
+Stroke.Color = Black
+Stroke.Width = 0
+Position.X_2 = 154000
+Position.Y_2 = 309000
+
+[WMXCDSC]
+Alpha.Mode = 1
+Color.Delay = 467
+Color.Value = 30
+Delay = 445901
+Delay.Interval = 703278
+Media.Size = 2
+Mode = 1
+Position.X = 342000
+Position.Y = 275000
+Repba.Radius = 915
+Repba.Rotation = 546
+Repba.Width = 63
+Shadow.Offset = 0
+Speed = 10797
+Stroke.Alpha = 55
+Stroke.Width = 1
+Position.X_2 = 338000
+Position.Y_2 = 169000
+
+[WPEFAUC]
+Alpha.Mode = 0
+Color.Delay = 100
+Delay = 173
+Delay.Interval = 100
+Media.Size = 1
+Mode = 0
+Position.X = 8000
+Position.Y = 30000
+Repba.Count = 2100
+Repba.Radius = 120
+Repba.Rotation = 3
+Repba.Width = 100
+Speed = 122751
+Stroke.Alpha = 27
+Position.X_2 = 324000
+Position.Y_2 = 349000
+
+[IXMBVLD]
+Alpha.Delay = 329508
+Alpha.Mode = 1
+Color.Saturation = 100
+Color.Value = 25
+Delay = 749180
+Delay.Interval = 21945
+Fill.Alpha = 99
+Media.Size = 4
+Media.Total = 4
+Mode = 1
+Palette = 1
+Position.X = 328000
+Position.Y = 275000
+Repba.Count = 390
+Repba.Radius = 477
+Repba.Rotation = 859
+Repba.Width = 7
+Speed = 12002
+Stroke.Alpha = 100
+Stroke.Width = 0
+Position.X_2 = 327000
+Position.Y_2 = 323000
+
+[OVLVCNE]
+Alpha.Delay = 100
+Alpha.Mode = 0
+Color.Delay = 37384
+Color.Hue = 46
+Color.Saturation = 91
+Color.Value = 66
+Delay = 270491
+Delay.Interval = 100
+Fill.Alpha = 100
+Media.Size = 1
+Media.Total = 1
+Mode = 2
+Palette = 6
+Position.X = 8000
+Position.Y = 30000
+Repba.Count = 1910
+Repba.Radius = 975
+Repba.Rotation = 3
+Repba.Width = 31
+Shadow.Offset = 2
+Speed = 116501
+Position.X_2 = 308000
+Position.Y_2 = 22000
+
+[CSSLLAV]
+Color.Delay = 133455
+Delay = 40983
+Delay.Interval = 285245
+Fill.Alpha = 76
+Media.Size = 2
+Media.Total = 3
+Repba.Count = 623
+Repba.Radius = 137
+Repba.Rotation = 489
+Repba.Width = 12
+Rotate.Delay = 43850
+Rotate.Mode = 1
+Shadow.Offset = 1
+Speed = 40983
+Position.X_2 = 262000
+Position.Y_2 = 287000
+
+[JHOKJAT]
+Color.Delay = 120427
+Repba.Count = 773
+Repba.Rotation = 480
+
+[JLKMTWT]
+Color.Delay = 800000
+Delay = 32180
+Repba.Rotation = 467
+Repba.Width = 19
+Speed = 12814
+
+[OHEKBWR]
+Repba.Rotation = 99
+
+[JDOOWSK]
+Delay = 349180
+Repba.Rotation = 475
+
+[PTADVFR]
+Color.Delay = 74980
+Repba.Radius = 503
+Repba.Width = 13
+Speed = 25843
+
+[DOPLLAP]
+Repba.Radius = 951
+Repba.Rotation = 862
+
+[GEPYZYS]
+Color.Delay = 951913
+Delay = 109836
+Delay.Interval = 221311
+Fill.Alpha = 98
+Media.Size = 3
+Media.Total = 1
+Mode = 1
+Position.X = 159000
+Position.Y = 202000
+Repba.Count = 196
+Repba.Radius = 109
+Repba.Rotation = 94
+Repba.Width = 23
+Rotate.Delay = 100
+Rotate.Mode = 0
+Shadow.Offset = 0
+Speed = 4000
+Stroke.Width = 1
+Position.X_2 = 288000
+Position.Y_2 = 123000
+
+[CSODGRA]
+Color.Delay = 100
+Color.Hue = 90
+Color.Saturation = 70
+Color.Value = 51
+Delay = 134426
+Delay.Interval = 100
+Media.Size = 4
+Media.Total = 4
+Mode = 0
+Palette = 3
+Position.X = 8000
+Position.Y = 30000
+Repba.Count = 930
+Repba.Radius = 301
+Repba.Rotation = 895
+Repba.Width = 12
+Speed = 34426
+Stroke.Width = 0
+Position.X_2 = 20000
+Position.Y_2 = 357000
+
+[MHJMBVY]
+Color.Delay = 219672
+Delay.Interval = 288524
+Palette = 4
+
+[XFOSRDY]
+Color.Delay = 42
+Color.Value = 82
+Delay = 309836
+Delay.Interval = 28
+Fill.Alpha = 89
+Media.Size = 3
+Media.Total = 3
+Mode = 1
+Palette = 3
+Position.X = 146000
+Position.Y = 210000
+Repba.Count = 920
+Repba.Radius = 984
+Repba.Rotation = 463
+Repba.Width = 10
+Shadow.Offset = 1
+Speed = 21358
+Stroke.Color = White
+Stroke.Width = 1
+Position.X_2 = 339000
+Position.Y_2 = 358000
+
+[MXELKLC]
+Palette = 5
+
+[NVYJBTH]
+Color.Delay = 107105
+Palette = 6
+
+[JBDRGLH]
+Color.Delay = 42
+Color.Value = 51
+Delay = 109836
+Fill.Alpha = 98
+Media.Size = 4
+Media.Total = 4
+Mode = 0
+Palette = 3
+Position.X = 8000
+Position.Y = 30000
+Repba.Count = 660
+Repba.Radius = 511
+Repba.Rotation = 37
+Repba.Width = 12
+Shadow.Offset = 0
+Speed = 4000
+Stroke.Color = Black
+Stroke.Width = 0
+Position.X_2 = 72000
+Position.Y_2 = 60000
+
+[TBCBOGO]
+Palette = 5
+Position.X = 261000
+Position.Y = 321000
+Speed = 1153
+
+[FGFVXLF]
+Color.Delay = 267213
+Delay = 373770
+Delay.Interval = 295081
+Media.Size = 3
+Media.Total = 3
+Palette = 4
+Position.X = 8000
+Position.Y = 30000
+Repba.Count = 970
+Repba.Radius = 984
+Repba.Rotation = 504
+Repba.Width = 25
+Speed = 4000
+Position.X_2 = 106000
+Position.Y_2 = 209000
+
+[SOTPQGB]
+Color.Delay = 773770
+Color.Value = 82
+Delay = 93442
+Delay.Interval = 404918
+Fill.Alpha = 89
+Palette = 6
+Repba.Count = 920
+Repba.Rotation = 463
+Repba.Width = 10
+Shadow.Offset = 1
+Stroke.Color = White
+Stroke.Width = 1
+Position.X_2 = 157000
+Position.Y_2 = 15000
+
+[VDHWZQA]
+Color.Delay = 42
+Color.Value = 51
+Delay = 218032
+Delay.Interval = 182
+Fill.Alpha = 98
+Media.Size = 4
+Media.Total = 4
+Palette = 3
+Position.X = 221000
+Position.Y = 240000
+Repba.Count = 660
+Repba.Radius = 1
+Repba.Rotation = 73
+Repba.Width = 19
+Shadow.Offset = 2
+Speed = 1535
+Stroke.Alpha = 52
+Stroke.Color = Black
+Stroke.Width = 0
+Position.X_2 = 39000
+Position.Y_2 = 9000
+
+[LQCVFDB]
+Color.Delay = 100
+Delay = 334615
+Delay.Interval = 100
+Mode = 1
+Position.X = 131000
+Position.Y = 204999.99999999997
+Repba.Count = 930
+Repba.Radius = 301
+Repba.Rotation = 895
+Repba.Width = 12
+Shadow.Offset = 0
+Speed = 14586
+Stroke.Alpha = 100
+Position.X_2 = 208000
+Position.Y_2 = 321000
+
+[ZOJEEME]
+Delay = 488461
+Media.Size = 6
+Media.Total = 6
+Mode = 0
+Position.X = 302000
+Position.Y = 283000
+Repba.Count = 700
+Repba.Radius = 1000
+Repba.Rotation = 398
+Speed = 13028
+Position.X_2 = 6000
+Position.Y_2 = 162000
+
+[KNDDMHH]
+Delay = 391803
+Delay.Interval = 614754
+Media.Total = 4
+Palette = 5
+Position.X = 321000
+Position.Y = 240000
+Repba.Count = 510
+Shadow.Offset = 3
+Speed = 5056
+Position.X_2 = 234000
+Position.Y_2 = 346000
+
+[JUHGUDO]
+Alpha.Delay = 336065
+Alpha.Mode = 1
+Color.Delay = 1
+Delay = 598360
+Delay.Interval = 506557
+Fill.Alpha = 33
+Media.Size = 7
+Media.Total = 7
+Palette = 3
+Position.X = 310000
+Position.Y = 262000
+Repba.Count = 200
+Repba.Radius = 22
+Repba.Rotation = 407
+Shadow.Offset = 0
+Speed = 5205
+Position.X_2 = 247000.00000000003
+Position.Y_2 = 308000
+
+[JPFFKWS]
+Alpha.Delay = 100
+Alpha.Mode = 0
+Color.Delay = 5611
+Delay = 531147
+Delay.Interval = 5223
+Fill.Alpha = 98
+Media.Size = 9
+Media.Total = 9
+Mode = 1
+Palette = 1
+Position.X = 252000
+Position.Y = 333000
+Repba.Count = 180
+Repba.Radius = 1000
+Repba.Rotation = 827
+Shadow.Offset = 3
+Speed = 10338
+Position.X_2 = 180000
+Position.Y_2 = 44000
+
+[PKBWXFP]
+Color.Delay = 100
+Delay = 354
+Delay.Interval = 5281
+Media.Size = 6
+Media.Total = 6
+Palette = 3
+Position.X = 334000
+Position.Y = 294000
+Repba.Count = 700
+Repba.Rotation = 398
+Shadow.Offset = 0
+Speed = 22663
+Position.X_2 = 254999.99999999997
+Position.Y_2 = 192000
+
+[DRGOMEM]
+Delay = 384615
+Repba.Rotation = 400
+Speed = 8226
+
+[PPIJWUQ]
+Delay = 822950
+Delay.Interval = 9608
+Media.Size = 8
+Media.Total = 8
+Position.X = 252999.99999999997
+Position.Y = 337000
+Repba.Count = 170
+Repba.Rotation = 829
+Repba.Width = 37
+Shadow.Offset = 3
+Speed = 10338
+Position.X_2 = 276000
+Position.Y_2 = 346000
+
+[YEHTOUU]
+Color.Delay = 119672
+Delay = 246
+Delay.Interval = 11268
+Fill.Alpha = 48
+Media.Size = 6
+Media.Total = 6
+Palette = 5
+Position.X = 247000.00000000003
+Position.Y = 180000
+Repba.Count = 430
+Repba.Rotation = 398
+Repba.Width = 12
+Shadow.Offset = 0
+Speed = 16676
+Position.X_2 = 303000
+Position.Y_2 = 202000
+
+[WDUNWLO]
+Color.Delay = 100
+Delay = 959016
+Delay.Interval = 100
+Fill.Alpha = 98
+Media.Size = 3
+Media.Total = 3
+Mode = 0
+Palette = 3
+Position.X = 254999.99999999997
+Position.Y = 297000
+Repba.Count = 510
+Repba.Radius = 605
+Repba.Rotation = 1
+Speed = 9634
+Position.X_2 = 302000
+Position.Y_2 = 23000
+
+[UJZNWJY]
+Delay = 849180
+Delay.Interval = 2566
+Media.Mode = 1
+Media.Size = 6
+Media.Total = 4
+Mode = 1
+Position.X = 240000
+Position.Y = 334000
+Repba.Count = 387
+Repba.Radius = 1000
+Repba.Rotation = 468
+Shadow.Offset = 1
+Speed = 8166
+Position.X_2 = 109000.00000000001
+Position.Y_2 = 100000
+
+[MHZTTTQ]
+Color.Delay = 11520
+Delay = 768852
+Delay.Interval = 3975
+Media.Mode = 0
+Media.Size = 13
+Palette = 6
+Position.X = 315000
+Position.Y = 234000
+Repba.Count = 120
+Repba.Radius = 865
+Repba.Rotation = 498
+Shadow.Offset = 0
+Speed = 11729
+Stroke.Width = 1
+Position.X_2 = 76000
+Position.Y_2 = 138000
+
+[VWWIOAU]
+Color.Delay = 100
+Delay = 606557
+Delay.Interval = 8903
+Media.Size = 9
+Palette = 2
+Position.X = 234000
+Position.Y = 328000
+Repba.Count = 240
+Repba.Radius = 504
+Repba.Rotation = 850
+Repba.Width = 13
+Speed = 14564
+Stroke.Width = 0
+Position.X_2 = 101000
+Position.Y_2 = 100000
+
+[EOJGBHZ]
+Delay = 719672
+Delay.Interval = 10312
+Fill.Alpha = 97
+Media.Size = 14
+Media.Total = 14
+Palette = 3
+Position.X = 221000
+Position.Y = 283000
+Repba.Count = 80
+Repba.Radius = 35
+Repba.Rotation = 379
+Repba.Width = 30
+Speed = 22663
+Stroke.Width = 1
+Position.X_2 = 141000
+Position.Y_2 = 11000
+
+[JYSVYMH]
+Color.Value = 72
+Delay = 557377
+Delay.Interval = 100
+Fill.Alpha = 100
+Media.Size = 2
+Media.Total = 2
+Mode = 0
+Palette = 1
+Position.X = 229999.99999999997
+Position.Y = 315000
+Repba.Count = 320
+Repba.Radius = 79
+Repba.Rotation = 946
+Repba.Width = 26
+Shadow.Offset = 4
+Speed = 8167
+Stroke.Color = White
+Position.X_2 = 208000
+Position.Y_2 = 39000
+
+[FPVONCZ]
+Color.Delay = 200
+Color.Hue = 228
+Color.Saturation = 55
+Delay = 737704
+Fill.Alpha = 99
+Palette = 3
+Position.X = 225000
+Position.Y = 269000
+Repba.Count = 260
+Repba.Radius = 930
+Repba.Rotation = 986
+Repba.Width = 24
+Shadow.Offset = 7
+Speed = 12334
+Stroke.Alpha = 88
+Stroke.Color = Magenta
+Stroke.Width = 0
+Position.X_2 = 298000
+Position.Y_2 = 125000
+
+[OYMCFZX]
+Color.Delay = 68
+Color.Saturation = 91
+Color.Value = 39
+Delay = 729508
+Delay.Interval = 9
+Fill.Alpha = 87
+Media.Size = 1
+Media.Total = 1
+Mode = 1
+Palette = 2
+Position.X = 150000
+Position.Y = 224000.00000000003
+Repba.Count = 920
+Repba.Radius = 992
+Repba.Rotation = 574
+Repba.Width = 26
+Shadow.Offset = -2
+Speed = 9634
+Stroke.Alpha = 84
+Stroke.Color = White
+Stroke.Width = 1
+Position.X_2 = 269000
+Position.Y_2 = 119000
+
+[QVMMTJW]
+Color.Delay = 89
+Color.Saturation = 70
+Color.Value = 71
+Delay = 668852
+Delay.Interval = 96
+Fill.Alpha = 52
+Media.Total = 2
+Mode = 0
+Position.X = 235000
+Position.Y = 279000
+Repba.Count = 1340
+Repba.Radius = 188
+Repba.Rotation = 551
+Shadow.Offset = 2
+Speed = 4000
+Stroke.Alpha = 50
+Position.X_2 = 146000
+
+[XHUIKER]
+Color.Delay = 200
+Color.Saturation = 55
+Color.Value = 72
+Delay = 611475
+Delay.Interval = 100
+Fill.Alpha = 73
+Media.Size = 2
+Palette = 5
+Position.X = 321000
+Position.Y = 254999.99999999997
+Repba.Count = 250
+Repba.Radius = 3
+Repba.Rotation = 258
+Repba.Width = 19
+Shadow.Offset = 4
+Speed = 6084
+Stroke.Alpha = 100
+Position.X_2 = 65000
+Position.Y_2 = 176000
+
+[LNGGUQH]
+Color.Saturation = 70
+Delay = 332786
+Fill.Alpha = 99
+Media.Size = 1
+Palette = 0
+Position.X = 340000
+Position.Y = 269000
+Repba.Count = 960
+Repba.Radius = 418
+Repba.Rotation = 933
+Repba.Width = 9
+Shadow.Offset = 8
+Speed = 8578
+Stroke.Alpha = 13
+Position.X_2 = 154000
+Position.Y_2 = 55000.00000000001
+
+[YCRJEKT]
+Color.Delay = 41173
+Color.Saturation = 55
+Delay = 490163
+Delay.Interval = 10517
+Fill.Alpha = 90
+Media.Size = 6
+Media.Total = 4
+Mode = 1
+Palette = 4
+Position.X = 202000
+Position.Y = 320000
+Repba.Count = 190
+Repba.Radius = 67
+Repba.Rotation = 513
+Repba.Width = 23
+Shadow.Offset = 7
+Speed = 14417
+Stroke.Alpha = 88
+Stroke.Color = Magenta
+Stroke.Width = 0
+Position.X_2 = 43000
+Position.Y_2 = 256999.99999999997
+
+[OYPGEWD]
+Color.Delay = 27
+Color.Saturation = 70
+Delay = 616
+Delay.Interval = 599
+Fill.Alpha = 99
+Media.Size = 3
+Media.Total = 3
+Mode = 0
+Palette = 2
+Position.X = 312000
+Position.Y = 308000
+Repba.Count = 220
+Repba.Radius = 238
+Repba.Rotation = 1
+Repba.Width = 14
+Shadow.Offset = 3
+Speed = 4000
+Stroke.Alpha = 45
+Stroke.Color = Black
+Stroke.Width = 1
+Position.X_2 = 33000
+Position.Y_2 = 0
+
+[KUHTXYE]
+Color.Delay = 89
+Color.Hue = 46
+Color.Value = 71
+Delay = 256
+Delay.Interval = 36
+Fill.Alpha = 72
+Media.Size = 1
+Media.Total = 1
+Mode = 1
+Position.X = 284000
+Position.Y = 302000
+Repba.Count = 1460
+Repba.Radius = 960
+Repba.Rotation = 54
+Repba.Width = 15
+Shadow.Offset = -2
+Stroke.Alpha = 3
+Stroke.Color = Magenta
+Stroke.Width = 0
+Position.X_2 = 60000
+Position.Y_2 = 104000
+
+[SYZGEOD]
+Color.Delay = 861538
+Color.Hue = 228
+Color.Value = 72
+Delay = 403846
+Delay.Interval = 100
+Fill.Alpha = 99
+Media.Size = 2
+Media.Total = 2
+Palette = 6
+Position.X = 186000
+Position.Y = 130000
+Repba.Count = 1080
+Repba.Radius = 418
+Repba.Rotation = 933
+Repba.Width = 9
+Shadow.Offset = 8
+Speed = 25528
+Stroke.Alpha = 13
+Stroke.Color = White
+Stroke.Width = 1
+Position.X_2 = 95000
+Position.Y_2 = 344000
+
+[YUYKXRN]
+Color.Delay = 27
+Delay = 173076
+Delay.Interval = 700000
+Media.Total = 1
+Mode = 2
+Palette = 2
+Position.X = 115999.99999999999
+Position.Y = 187000
+Repba.Count = 573
+Repba.Radius = 161
+Repba.Rotation = 834
+Repba.Width = 17
+Shadow.Offset = 2
+Speed = 100960
+Stroke.Alpha = 11
+Stroke.Color = Black
+Position.X_2 = 118000
+Position.Y_2 = 56999.99999999999
+
+[JBXLFJB]
+Palette = 5
+
+[GCUGYVL]
+Color.Delay = 2
+Palette = 6
+
