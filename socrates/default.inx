@@ -25,7 +25,6 @@ Media.Size = 6
 Media.Total = 5
 Palette = 2
 Pan = 100000
-Pan.End = 0
 Pan.Mode = 0
 Position.Mode = 0
 Position.X = 79804
@@ -76,7 +75,6 @@ Media.Size_2 = 1
 Media.Total_2 = 0
 Palette_2 = 1
 Pan_2 = 100000
-Pan.End_2 = 0
 Pan.Mode_2 = 0
 Position.Mode_2 = 0
 Position.X_2 = 80
@@ -120,7 +118,6 @@ Media.Size_3 = 0
 Media.Total_3 = 0
 Palette_3 = 0
 Pan_3 = 100000
-Pan.End_3 = 0
 Pan.Mode_3 = 0
 Position.Mode_3 = 0
 Position.X_3 = 75
@@ -164,7 +161,6 @@ Media.Size_4 = 0
 Media.Total_4 = 0
 Palette_4 = 0
 Pan_4 = 100000
-Pan.End_4 = 0
 Pan.Mode_4 = 0
 Position.Mode_4 = 0
 Position.X_4 = 167
@@ -208,7 +204,6 @@ Media.Size_5 = 0
 Media.Total_5 = 0
 Palette_5 = 0
 Pan_5 = 100000
-Pan.End_5 = 0
 Pan.Mode_5 = 0
 Position.Mode_5 = 0
 Position.X_5 = 167
@@ -252,7 +247,6 @@ Media.Size_6 = 0
 Media.Total_6 = 0
 Palette_6 = 0
 Pan_6 = 100000
-Pan.End_6 = 0
 Pan.Mode_6 = 0
 Position.Mode_6 = 0
 Position.X_6 = 167
@@ -296,7 +290,6 @@ Media.Size_7 = 0
 Media.Total_7 = 0
 Palette_7 = 0
 Pan_7 = 100000
-Pan.End_7 = 0
 Pan.Mode_7 = 0
 Position.Mode_7 = 0
 Position.X_7 = 167
@@ -340,7 +333,6 @@ Media.Size_8 = 0
 Media.Total_8 = 0
 Palette_8 = 0
 Pan_8 = 100000
-Pan.End_8 = 0
 Pan.Mode_8 = 0
 Position.Mode_8 = 0
 Position.X_8 = 167
@@ -384,7 +376,6 @@ Media.Size_9 = 0
 Media.Total_9 = 0
 Palette_9 = 0
 Pan_9 = 100000
-Pan.End_9 = 0
 Pan.Mode_9 = 0
 Position.Mode_9 = 0
 Position.X_9 = 167
@@ -432,20 +423,21 @@ Palette = 1
 Position.X = 13029
 Position.Y = 21172
 Rotate.Delay = 108065
-Socrates.Count = 301
+Socrates.Count = 284
 Socrates.Width = 9
-Speed = 9320
+Speed = 21820
 
 [OLHWTUP]
 Color.Saturation = 70
 Color.Value = 50
 Delay = 289676
-Delay.Interval = 765385
+Delay.Interval = 300000
 Fit.Delay = 35415
 Media = 86201.png
 Media.Mode = 1
 Media.Size = 2
 Media.Total = 6
+Position.Mode = 3
 Position.X = 27687
 Position.Y = 70032
 Rotate.Delay = 120184
@@ -456,16 +448,17 @@ Socrates.Effect2 = 46
 Socrates.Effect3 = 531
 Socrates.Effect4 = 25
 Socrates.Width = 10
-Speed = 5527
+Speed = 15944
 Stroke.Width = 1
 
 [QLCMAJC]
 Delay = 220524
-Delay.Interval = 453846
+Delay.Interval = 253846
 Fit.Delay = 100000
 Media = 54000.svg
 Media.Size = 6
 Palette = 5
+Position.Mode = 0
 Position.X = 26058
 Position.Y = 40716
 Rotate.Delay = 201848
@@ -514,42 +507,37 @@ Speed = 29462
 [UQVHYWK]
 Color.Delay = 61111
 Fit.Delay = 100000
+Fit.Landscape = 26390
+Fit.Mode = 0
+Fit.Portrait = 47916
 Palette = 6
-Position.X = 61
-Position.Y = 198
+Position.X = 107547
+Position.Y = 139622
+Rotate = 2
 Socrates.Func1 = cosine
 Socrates.Width = 7
-Speed = 21128
+Speed = 112102
 
 [FPNBYRB]
 Delay = 646153
 Delay.Interval = 154005
+Fit.Landscape = 0
+Fit.Mode = 1
+Fit.Portrait = 0
 Palette = 5
+Position.X = 64151
+Position.Y = 86792
+Rotate = 0
 Rotate.Delay = 119940
 Socrates.Width = 9
 Speed = 14184
 
-[JFSFKLA]
-Delay.Interval = 653846
-Media.Size = 10
-Position.Mode = 0
-Position.X = 35830
-Position.Y = 21172
-Socrates.Count = 1197
-Socrates.Effect2 = 0
-Socrates.Effect3 = 2689
-Socrates.Effect4 = 19
-
 [IQJKJMC]
-Delay.Interval = 154005
 Fit.Delay = 9026
 Media.Size = 2
-Position.X = 110749
-Position.Y = 43973
-Socrates.Count = 810
-Socrates.Effect2 = 1
-Socrates.Effect3 = 2026
-Socrates.Effect4 = 7
+Position.Mode = 0
+Position.X = 241509
+Position.Y = 228302
 Socrates.Func1 = sine
 
 [WYIVBRY]
@@ -558,22 +546,29 @@ Fit.Delay = 100000
 Media.Size = 1
 Palette = 2
 Position.Mode = 2
-Position.X = 61
-Position.Y = 198
+Position.X = 118868
+Position.Y = 190566
 Socrates.Effect3 = 623
 
 [ZZIBHMT]
 Fill.Alpha = 100
 Media.Size = 2
 Position.Mode = 0
+Position.X = 267924
+Position.Y = 107547
 Shadow.Alpha = 92
 Shadow.Offset = 5
 Socrates.Width = 12
 
 [TGFNXGO]
 Color.Value = 64
+Fit.Landscape = 147169
+Fit.Mode = 0
+Fit.Portrait = 75471
 Media.Size = 1
 Position.Mode = 2
+Position.X = 61
+Position.Y = 198
 Rotate.Delay = 27883
 Shadow.Offset = 0
 
@@ -581,6 +576,8 @@ Shadow.Offset = 0
 Color.Value = 93
 Delay = 61751
 Delay.Interval = 500000
+Fit.Landscape = 166037
+Fit.Portrait = 156603
 Palette = 6
 Rotate.Delay = 134989
 Shadow.Alpha = 43
@@ -590,13 +587,21 @@ Socrates.Width = 9
 
 [LRWDZIE]
 Fit.Delay = 47222
+Fit.Landscape = 0
+Fit.Mode = 1
+Fit.Portrait = 0
 Media.Size = 6
 Position.Mode = 0
+Position.X = 115094
+Position.Y = 149056
 Socrates.Width = 3
 
 [ZURHGQO]
+Delay.Interval = 23659
 Fit.Delay = 100000
 Media.Size = 5
+Position.X = 154717
+Position.Y = 233962
 Rotate.Delay = 89207
 Socrates.Count = 692
 Socrates.Func1 = cosine
@@ -605,27 +610,96 @@ Speed = 8629
 
 [BHMBECQ]
 Color.Delay = 121528
+Delay.Interval = 500000
 Fit.Delay = 43749
 Media.Size = 1
 Palette = 4
 Position.Mode = 2
+Position.X = 61
+Position.Y = 198
+Socrates.Count = 1064
 Socrates.Width = 10
 Speed = 24603
 
 [YFZTFZK]
 Palette = 3
+Position.Mode = 3
+Position.X = 73076
+Position.Y = 114956
+Socrates.Count = 1349
+Speed = 26687
 
 [BRLNZYP]
+Delay = 67924
+Delay.Interval = 200000
 Palette = 2
+Position.X = 61
+Position.Y = 22420
+Rotate.Mode = 0
+Socrates.Count = 1377
+Socrates.Effect3 = 147
+Socrates.Effect4 = 12
+Socrates.Func1 = tangent
+Speed = 73909
+
+[CLXGBWW]
+Color.Delay = 26065
+Color.Hue = 246
+Delay = 324380
+Palette = 3
+
+[COMGJPN]
+Color.Delay = 121528
+Color.Hue = 100
+Delay = 49250
+Delay.Interval = 500000
+Media.Mode = 2
+Palette = 4
+Position.Y = 213207
+Rotate.Mode = 1
+Socrates.Effect3 = 2026
+Socrates.Effect4 = 7
+Socrates.Func1 = cosine
+Speed = 20336
+
+[DBAPTKM]
+Speed = 9206
+
+[STYMMQS]
+Delay = 964876
+Fit.Landscape = 272727
+Fit.Mode = 0
+Fit.Portrait = 157024
+Palette = 5
+Position.X = 241509
+Position.Y = 479245
+Rotate.Mode = 0
+Speed = 3272
 
 [ATBBCMJ]
+Delay = 61751
+Fit.Landscape = 0
+Fit.Mode = 1
+Fit.Portrait = 0
+Media.Mode = 0
 Palette = 1
+Position.Mode = 2
+Position.X = 61
+Position.Y = 198
+Rotate.Mode = 1
+Speed = 24603
 
 [XEHMMGZ]
+Delay = 62446
 Fit.Delay = 16665
 Palette = 3
+Position.Mode = 5
+Position.X = 99367
+Position.Y = 19643
 Shadow.Offset = 0
-Socrates.Width = 16
+Socrates.Count = 692
+Socrates.Width = 12
+Speed = 25991
 
 [RLFOOQF]
 Alpha.Delay = 0
@@ -638,8 +712,8 @@ Media.Size = 3
 Media.Total = 9
 Palette = 1
 Position.Mode = 0
-Position.X = 336
-Position.Y = 310
+Position.X = 116981
+Position.Y = 188679
 Rotate = 1
 Rotate.Delay = 388289
 Shadow.Alpha = 100
@@ -653,6 +727,7 @@ Speed = 1995
 Stroke.Width = 1
 
 [TURHFYG]
+Color.Delay = 7639
 Delay = 39653
 Delay.Interval = 0
 Fit.Landscape = 49740
@@ -660,7 +735,7 @@ Fit.Mode = 0
 Fit.Portrait = 123778
 Media.Size = 1
 Media.Total = 3
-Palette = 5
+Palette = 6
 Position.Mode = 2
 Position.X = 57003
 Position.Y = 57003
@@ -670,98 +745,54 @@ Socrates.Effect3 = 266
 Socrates.Width = 8
 Speed = 92833
 
-[XZSVXYB]
-Color.Delay = 14635
-Delay = 395196
-Fit.Landscape = 123778
-Fit.Portrait = 179153
-Palette = 6
-Position.Mode = 0
-Position.X = 40716
-Position.Y = 68403
-Rotate.Delay = 42444
-Speed = 1711
-
-[TSBPBIW]
-Color.Delay = 14583
-Color.Hue = 104
-Fit.Landscape = 87947
-Fit.Portrait = 96091
-Media.Mode = 2
-Position.Mode = 2
-Position.X = 314
-Position.Y = 315
-Rotate.Delay = 569230
-
 [EHPHUWH]
 Color.Delay = 0
-Color.Hue = 100
 Delay = 218798
 Delay.Interval = 685670
 Fit.Landscape = 130293
+Fit.Mode = 1
 Fit.Portrait = 188925
-Media.Mode = 0
 Media.Size = 3
 Palette = 3
-Position.Mode = 0
+Position.Mode = 1
+Position.X = 735849
+Position.Y = 83018
 Rotate.Delay = 134412
 Socrates.Count = 960
 Socrates.Effect3 = 1443
 Socrates.Width = 6
-Speed = 5518
+Speed = 3137
 
 [JQUFFCV]
 Delay = 185589
 Delay.Interval = 434615
 Fit.Landscape = 120521
+Fit.Mode = 0
 Fit.Portrait = 127035
 Media.Size = 1
 Palette = 0
+Position.Mode = 0
+Position.X = 22536
+Position.Y = 698113
 Rotate.Delay = 63635
-Socrates.Count = 3304
+Socrates.Count = 1407
 Socrates.Effect3 = 2527
-Speed = 7600
-
-[LDNMTYL]
-Color.Delay = 50488
-Delay = 299126
-Delay.Interval = 0
-Fit.Landscape = 114006
-Fit.Mode = 1
-Fit.Portrait = 105863
-Media.Size = 4
-Palette = 6
-Rotate.Delay = 42398
-Socrates.Count = 1151
-Socrates.Effect2 = 0
-Socrates.Effect3 = 276
-Socrates.Effect4 = 8
-Speed = 17416
-
-[LUHKNBI]
-Color.Delay = 4862
-Delay = 217364
-Fit.Landscape = 128664
-Fit.Portrait = 114006
-Media.Size = 5
-Palette = 4
-Socrates.Count = 1788
-Speed = 31305
+Speed = 4028
 
 [HHMXXRP]
 Alpha.Delay = 291217
 Color.Delay = 88461
 Color.Saturation = 70
-Delay = 6568
+Delay = 23930
 Delay.Interval = 109989
 Fit.Landscape = 138436
-Fit.Mode = 0
+Fit.Mode = 1
 Fit.Portrait = 117263
 Media.Size = 10
 Media.Total = 6
-Palette = 5
-Position.X = 318
-Position.Y = 312
+Palette = 4
+Position.X = 296226
+Position.Y = 713208
 Rotate = 0
 Rotate.Delay = 0
 Rotate.Mode = 0
@@ -773,7 +804,7 @@ Socrates.Effect4 = 44
 Socrates.Func1 = cosine
 Socrates.Func2 = sine
 Socrates.Width = 5
-Speed = 44446
+Speed = 3277
 
 [ISADVPE]
 Alpha.Delay = 357692
@@ -782,7 +813,6 @@ Delay = 96087
 Delay.Interval = 379598
 Fill.Alpha = 63
 Fit.Landscape = 0
-Fit.Mode = 1
 Fit.Portrait = 0
 Media.Size = 12
 Palette = 6
@@ -825,25 +855,44 @@ Fill.Alpha = 63
 Media.Size = 1
 Media.Total = 4
 Palette = 5
-Position.X = 247
-Position.Y = 317
+Position.Mode = 2
+Position.X = 15525
+Position.Y = 3095
 Rotate.Delay = 0
 Socrates.Count = 1126
 Socrates.Width = 9
 Speed = 2589
 
 [LQHDFOK]
+Delay.Interval = 223140
+Media.Size = 4
 Palette = 2
-Position.Mode = 2
+Position.X = 247
+Position.Y = 317
 Rotate.Delay = 103473
+Speed = 1734
+
+[CVXQGSC]
+Color.Delay = 43388
+Palette = 6
+
+[AIOUDFT]
+Palette = 4
+Socrates.Width = 6
+Speed = 935
+
+[RDKWWRT]
+Palette = 5
+Rotate.Delay = 32929
 
 [QVJYJGO]
+Color.Delay = 0
 Delay = 530769
 Delay.Interval = 653846
 Media.Size = 5
-Palette = 5
 Position.Mode = 0
-Position.X = 338
+Position.X = 115094
+Position.Y = 128302
 Rotate.Delay = 0
 Rotate.Mode = 0
 Socrates.Count = 342
@@ -854,12 +903,11 @@ Speed = 4678
 Delay = 135683
 Delay.Interval = 5442
 Fit.Landscape = 81995
-Fit.Mode = 0
 Media.Size = 12
 Palette = 3
-Position.X = 255
-Position.Y = 117
-Speed = 81761
+Position.X = 124528
+Position.Y = 167924
+Speed = 30372
 
 [SEAJFTY]
 Delay = 37604
@@ -868,8 +916,9 @@ Fit.Landscape = 50488
 Media.Size = 1
 Media.Total = 6
 Palette = 1
-Position.X = 236
-Position.Y = 347
+Position.Mode = 2
+Position.X = 10653
+Position.Y = 10763
 Rotate.Delay = 161538
 Rotate.Mode = 1
 Shadow.Offset = 21
@@ -882,9 +931,11 @@ Speed = 29227
 Delay = 34454
 Fill.Alpha = 100
 Fit.Landscape = 109120
+Fit.Mode = 0
 Fit.Portrait = 151465
 Palette = 6
-Position.Mode = 2
+Position.X = 236
+Position.Y = 347
 Rotate.Delay = 192307
 Shadow.Color = White
 Speed = 18861

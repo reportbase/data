@@ -1,47 +1,51 @@
-﻿[MNGNOCD]
-Alpha.Delay = 719230
-Alpha.Mode = 3
+﻿[FSTPMRZ]
+Alpha.Delay = 100
+Alpha.Mode = 0
 Back.Alpha = 0
 Back.Color = Beige
 Clear = 0
-Color.Delay = 244657
+Color.Delay = 18750
 Color.Hue = 0
-Color.Saturation = 89
-Color.Value = 78
+Color.Saturation = 66
+Color.Value = 40
 Context = 1
-Delay = 150000
-Delay.Interval = 2878
-Fill.Alpha = 56
+Delay = 1495
+Delay.Interval = 4862
+Fill.Alpha = 11
 Fill.Color = Black
 Fit.Delay = 100000
-Fit.Landscape = 142362
+Fit.Landscape = 365384
 Fit.Mode = 1
-Fit.Portrait = 142362
-Kuiper.Count = 12
-Kuiper.Effect = 100
-Kuiper.Effect2 = 407
-Kuiper.Effect3 = 88
-Kuiper.Radius = 11
+Fit.Portrait = 365384
+Kuiper.Count = 1
+Kuiper.Effect = 81
+Kuiper.Effect2 = 223
+Kuiper.Effect2.Delay = 100000
+Kuiper.Effect3 = 178
+Kuiper.Effect3.Delay = 100000
+Kuiper.Effect.Delay = 100000
+Kuiper.Radius = 457
 Layout = 1x1
 Media = 54000.svg
 Media.Delay = 100
-Media.Mode = 0
-Media.Size = 12
-Media.Total = 2
+Media.Mode = 1
+Media.Size = 4
+Media.Total = 5
 Palette = 1
 Pan = 100000
+Pan.Mode = 0
 Position.Mode = 2
-Position.X = 242000
-Position.Y = 286000
+Position.X = 39000
+Position.Y = 67000
 Rotate = 0
-Rotate.Delay = 100
-Rotate.Mode = 0
-Shadow.Alpha = 73
+Rotate.Delay = 12600
+Rotate.Mode = 1
+Shadow.Alpha = 77
 Shadow.Color = White
 Shadow.Mode = 1
 Shadow.Offset = 3
-Speed = 8334
-Stroke.Alpha = 57
+Speed = 280769
+Stroke.Alpha = 100
 Stroke.Color = Black
 Stroke.Width = 3
 Tap = Toggle
@@ -72,6 +76,7 @@ Media.Size_2 = 0
 Media.Total_2 = 1
 Palette_2 = 0
 Pan_2 = 100000
+Pan.Mode_2 = 0
 Position.Mode_2 = 0
 Position.X_2 = 50000
 Position.Y_2 = 100000
@@ -114,6 +119,7 @@ Media.Size_3 = 0
 Media.Total_3 = 1
 Palette_3 = 0
 Pan_3 = 100000
+Pan.Mode_3 = 0
 Position.Mode_3 = 0
 Position.X_3 = 41000
 Position.Y_3 = 199000
@@ -146,7 +152,7 @@ Fill.Alpha_4 = 100
 Fill.Color_4 = Black
 Fit.Delay_4 = 100000
 Fit.Landscape_4 = 0
-Fit.Mode_4 = 0
+Fit.Mode_4 = 1
 Fit.Portrait_4 = 0
 Layout_4 = 1x1
 Media_4 = MUSICIAN00
@@ -156,6 +162,7 @@ Media.Size_4 = 0
 Media.Total_4 = 6
 Palette_4 = 0
 Pan_4 = 100000
+Pan.Mode_4 = 0
 Position.Mode_4 = 0
 Position.X_4 = 167000
 Position.Y_4 = 143000
@@ -188,7 +195,7 @@ Fill.Alpha_5 = 100
 Fill.Color_5 = Black
 Fit.Delay_5 = 100000
 Fit.Landscape_5 = 0
-Fit.Mode_5 = 0
+Fit.Mode_5 = 1
 Fit.Portrait_5 = 0
 Layout_5 = 1x1
 Media_5 = MUSICIAN00
@@ -198,6 +205,7 @@ Media.Size_5 = 0
 Media.Total_5 = 0
 Palette_5 = 0
 Pan_5 = 100000
+Pan.Mode_5 = 0
 Position.Mode_5 = 0
 Position.X_5 = 167000
 Position.Y_5 = 143000
@@ -230,7 +238,7 @@ Fill.Alpha_6 = 100
 Fill.Color_6 = Black
 Fit.Delay_6 = 100000
 Fit.Landscape_6 = 0
-Fit.Mode_6 = 0
+Fit.Mode_6 = 1
 Fit.Portrait_6 = 0
 Layout_6 = 1x1
 Media_6 = MUSICIAN00
@@ -240,6 +248,7 @@ Media.Size_6 = 0
 Media.Total_6 = 0
 Palette_6 = 0
 Pan_6 = 100000
+Pan.Mode_6 = 0
 Position.Mode_6 = 0
 Position.X_6 = 167000
 Position.Y_6 = 143000
@@ -272,7 +281,7 @@ Fill.Alpha_7 = 100
 Fill.Color_7 = Black
 Fit.Delay_7 = 100000
 Fit.Landscape_7 = 0
-Fit.Mode_7 = 0
+Fit.Mode_7 = 1
 Fit.Portrait_7 = 0
 Layout_7 = 1x1
 Media_7 = MUSICIAN00
@@ -282,6 +291,7 @@ Media.Size_7 = 0
 Media.Total_7 = 0
 Palette_7 = 0
 Pan_7 = 100000
+Pan.Mode_7 = 0
 Position.Mode_7 = 0
 Position.X_7 = 167000
 Position.Y_7 = 143000
@@ -314,7 +324,7 @@ Fill.Alpha_8 = 100
 Fill.Color_8 = Black
 Fit.Delay_8 = 100000
 Fit.Landscape_8 = 0
-Fit.Mode_8 = 0
+Fit.Mode_8 = 1
 Fit.Portrait_8 = 0
 Layout_8 = 1x1
 Media_8 = MUSICIAN00
@@ -324,6 +334,7 @@ Media.Size_8 = 0
 Media.Total_8 = 0
 Palette_8 = 0
 Pan_8 = 100000
+Pan.Mode_8 = 0
 Position.Mode_8 = 0
 Position.X_8 = 167000
 Position.Y_8 = 143000
@@ -356,7 +367,7 @@ Fill.Alpha_9 = 100
 Fill.Color_9 = Red
 Fit.Delay_9 = 100000
 Fit.Landscape_9 = 0
-Fit.Mode_9 = 0
+Fit.Mode_9 = 1
 Fit.Portrait_9 = 0
 Layout_9 = 1x1
 Media_9 = MUSICIAN00
@@ -366,6 +377,7 @@ Media.Size_9 = 0
 Media.Total_9 = 0
 Palette_9 = 0
 Pan_9 = 100000
+Pan.Mode_9 = 0
 Position.Mode_9 = 0
 Position.X_9 = 167000
 Position.Y_9 = 143000
@@ -382,130 +394,6 @@ Stroke.Color_9 = White
 Stroke.Width_9 = 0
 Tap_9 = Toggle
 Time.Start_9 = 0
-
-[SZFSOML]
-Alpha.Delay = 100
-Alpha.Mode = 0
-Color.Delay = 14532
-Delay = 12658
-Delay.Interval = 26489
-Fit.Landscape = 184722
-Fit.Portrait = 184722
-Media.Size = 6
-Position.X = 8000
-Position.Y = 30000
-Speed = 72795
-Fit.Mode_4 = 1
-Fit.Mode_5 = 1
-Fit.Mode_6 = 1
-Fit.Mode_7 = 1
-Fit.Mode_8 = 1
-Fit.Mode_9 = 1
-
-[HCZSOWC]
-Color.Delay = 29470
-Color.Saturation = 69
-Color.Value = 52
-Delay = 23553
-Fit.Landscape = 155557
-Fit.Portrait = 155557
-Kuiper.Effect = 81
-Kuiper.Effect2 = 697
-Stroke.Alpha = 100
-
-[CSBVJHI]
-Alpha.Delay = 169088
-Color.Delay = 148237
-Color.Saturation = 89
-Color.Value = 45
-Delay = 29862
-Delay.Interval = 834615
-Fit.Landscape = 100000
-Fit.Mode = 0
-Fit.Portrait = 100000
-Kuiper.Effect = 0
-Kuiper.Effect2 = 0
-Kuiper.Effect3 = 200
-Kuiper.Radius = 147
-Media.Size = 4
-Position.X = 291000
-Position.Y = 274000
-Rotate.Delay = 426923
-Rotate.Mode = 1
-Speed = 1266
-Stroke.Alpha = 19
-
-[ZESRNUR]
-Color.Saturation = 93
-Delay = 0
-Delay.Interval = 355350
-Kuiper.Count = 50
-Kuiper.Radius = 170
-Media.Size = 8
-Rotate.Delay = 134710
-Shadow.Color = Pink
-Stroke.Width = 1
-
-[UANELCU]
-Alpha.Delay = 100
-Color.Delay = 76492
-Color.Saturation = 89
-Color.Value = 78
-Delay = 27400
-Delay.Interval = 45896
-Fill.Alpha = 11
-Fit.Landscape = 461538
-Fit.Mode = 1
-Fit.Portrait = 461538
-Kuiper.Count = 1
-Kuiper.Effect = 100
-Kuiper.Effect2 = 823
-Kuiper.Effect3 = 37
-Kuiper.Radius = 122
-Media.Mode = 1
-Media.Size = 14
-Media.Total = 5
-Position.X = 39000
-Position.Y = 67000
-Rotate.Delay = 100
-Rotate.Mode = 0
-Shadow.Alpha = 77
-Shadow.Color = White
-Speed = 38460
-Stroke.Alpha = 100
-Stroke.Width = 2
-
-[EIGGODF]
-Color.Delay = 3472
-Delay = 1389
-Delay.Interval = 102842
-Fit.Landscape = 202779
-Fit.Portrait = 202779
-Kuiper.Count = 3
-Kuiper.Effect = 82
-Kuiper.Effect2 = 959
-Kuiper.Effect3 = 6
-Kuiper.Radius = 600
-Media.Size = 16
-Speed = 999999
-Stroke.Width = 3
-
-[FSTPMRZ]
-Color.Delay = 18750
-Color.Saturation = 66
-Color.Value = 40
-Delay = 1495
-Delay.Interval = 4862
-Fit.Landscape = 365384
-Fit.Portrait = 365384
-Kuiper.Effect = 81
-Kuiper.Effect2 = 223
-Kuiper.Effect3 = 178
-Kuiper.Radius = 457
-Media.Size = 4
-Rotate.Delay = 12600
-Rotate.Mode = 1
-Speed = 280769
 
 [FRLPAAV]
 Color.Delay = 49355
@@ -563,24 +451,21 @@ Position.Y = 320000
 Rotate.Delay = 500000
 Rotate.Mode = 1
 
-[XZCNRNG]
-Color.Delay = 353846
-
 [VLZTMYD]
+Color.Delay = 353846
+Fit.Delay = 205344
 Position.Mode = 3
 
-[ZGXWRDT]
+[QENMILX]
 Color.Delay = 99355
 Delay = 88461
 Delay.Interval = 702
+Fit.Delay = 596343
 Fit.Landscape = 310096
 Fit.Portrait = 310096
-Position.Mode = 1
 Position.X = 275000
 Position.Y = 258000
-
-[QENMILX]
-Position.Mode = 3
+Speed = 751
 
 [URBBPLH]
 Delay = 59616
@@ -596,6 +481,8 @@ Speed = 7904
 
 [DUIFPUI]
 Position.Mode = 3
+Position.Y = 396154
+Speed = 7639
 
 [MKAVWNQ]
 Delay = 117255
@@ -609,12 +496,14 @@ Position.Mode = 1
 Position.X = 283000
 Position.Y = 316000
 Rotate.Delay = 152083
+Speed = 7904
 
 [GKGMHJF]
 Position.Mode = 2
 
 [LYCTUWE]
 Position.Mode = 3
+Speed = 9222
 
 [AWDVFGJ]
 Color.Delay = 49355
@@ -624,7 +513,7 @@ Delay = 146153
 Delay.Interval = 4923
 Fit.Landscape = 190278
 Fit.Portrait = 190278
-Kuiper.Count = 3
+Kuiper.Count = 1
 Kuiper.Effect2 = 888
 Kuiper.Effect3 = 171
 Kuiper.Radius = 230
@@ -651,14 +540,15 @@ Delay.Interval = 5
 Fit.Landscape = 334615
 Fit.Mode = 0
 Fit.Portrait = 334615
-Kuiper.Count = 1
 Kuiper.Effect = 76
 Kuiper.Effect2 = 819
+Kuiper.Effect3 = 107
 Kuiper.Radius = 122
-Media.Size = 12
+Media.Size = 1
 Position.Mode = 1
-Position.Y = 354000
-Rotate.Delay = 965384
+Position.X = 838462
+Position.Y = 888462
+Rotate.Delay = 315384
 Rotate.Mode = 1
 Speed = 2642
 
@@ -667,64 +557,53 @@ Kuiper.Effect = 26
 Kuiper.Effect2 = 261
 Kuiper.Effect3 = 55
 Kuiper.Radius = 97
+Media.Size = 12
 Position.Mode = 2
+Position.X = 299000
+Position.Y = 354000
+Rotate.Delay = 965384
 
 [NBCLMVJ]
 Position.Mode = 3
-
-[PVRZDYS]
-Alpha.Delay = 100
-Color.Delay = 45883
-Color.Value = 87
-Delay = 75317
-Delay.Interval = 13951
-Fit.Landscape = 557692
-Fit.Mode = 1
-Fit.Portrait = 557692
-Kuiper.Count = 3
-Kuiper.Effect = 0
-Kuiper.Effect2 = 247
-Kuiper.Effect3 = 200
-Kuiper.Radius = 58
-Position.X = 39000
-Position.Y = 67000
-Rotate.Delay = 100
-Rotate.Mode = 0
-Speed = 22486
-Stroke.Width = 1
 
 [MIGIBQO]
 Alpha.Delay = 100081
 Color.Delay = 84615
 Color.Saturation = 59
 Color.Value = 68
-Delay = 155234
+Delay = 112873
 Delay.Interval = 6250
 Fill.Alpha = 56
 Fit.Landscape = 118961
+Fit.Mode = 1
 Fit.Portrait = 118961
+Kuiper.Count = 3
 Kuiper.Effect = 82
 Kuiper.Effect2 = 543
+Kuiper.Effect3 = 200
 Kuiper.Radius = 27
 Media.Mode = 0
 Media.Size = 16
 Media.Total = 16
 Position.Mode = 1
-Position.X = 55000.00000000001
+Position.X = 55000
 Position.Y = 105000
+Rotate.Delay = 100
+Rotate.Mode = 0
 Shadow.Alpha = 73
-Speed = 81078
-Stroke.Alpha = 17
-Stroke.Width = 2
+Speed = 111633
+Stroke.Alpha = 21
 
 [JLJGBPN]
 Alpha.Delay = 100
+Delay = 155234
 Fit.Landscape = 100000
 Fit.Portrait = 100000
 Kuiper.Effect2 = 840
-Position.X = 266000
-Position.Y = 223000
-Speed = 60244
+Position.X = 784616
+Position.Y = 765385
+Speed = 32465
+Stroke.Alpha = 17
 
 [OAWMTZB]
 Fit.Landscape = 226923
@@ -732,9 +611,11 @@ Fit.Portrait = 226923
 Kuiper.Effect = 1
 Kuiper.Effect2 = 137
 Kuiper.Radius = 65
+Position.X = 188888
+Position.Y = 142467
 Rotate.Delay = 5656
 Rotate.Mode = 1
-Speed = 33280
+Speed = 51335
 
 [UVOAIXY]
 Color.Delay = 31958
@@ -745,6 +626,7 @@ Delay.Interval = 3472
 Fit.Landscape = 100000
 Fit.Mode = 0
 Fit.Portrait = 100000
+Kuiper.Count = 1
 Kuiper.Effect = 0
 Kuiper.Effect2 = 759
 Kuiper.Effect3 = 45
@@ -782,41 +664,64 @@ Stroke.Alpha = 10
 [KOSYLJO]
 Delay = 64850
 Delay.Interval = 4474
+Fit.Delay = 212927
 Fit.Landscape = 415384
 Fit.Mode = 1
 Fit.Portrait = 415384
+Kuiper.Count = 3
+Kuiper.Effect2.Delay = 157794
 Kuiper.Effect3 = 200
+Kuiper.Effect3.Delay = 220532
+Kuiper.Effect.Delay = 266159
 Kuiper.Radius = 328
 Media.Size = 24
 Position.Mode = 3
 Shadow.Alpha = 73
 Shadow.Offset = 1
-Speed = 3523
+Speed = 2134
 Stroke.Alpha = 89
 
 [IIKRKPN]
-Delay = 77349
+Color.Delay = 104665
+Delay = 45165
+Delay.Interval = 2910
+Fit.Delay = 387137
 Fit.Landscape = 388461
 Fit.Portrait = 388461
 Kuiper.Count = 1
-Position.Mode = 1
+Kuiper.Effect2.Delay = 100498
+Kuiper.Effect3.Delay = 680609
+Kuiper.Effect.Delay = 296578
+Kuiper.Radius = 583
+Media.Size = 36
+Position.Mode = 0
 Position.X = 216000
 Position.Y = 188000
-Speed = 14316
+Rotate.Delay = 18999
+Rotate.Mode = 1
+Speed = 3837
 Stroke.Width = 2
 
 [NDKHAKL]
 Color.Delay = 144498
 Delay = 121100
+Delay.Interval = 4474
+Fit.Delay = 100000
 Fit.Landscape = 319230
 Fit.Portrait = 319230
-Kuiper.Count = 2
 Kuiper.Effect = 16
 Kuiper.Effect2 = 1000
+Kuiper.Effect2.Delay = 100000
 Kuiper.Effect3 = 3
+Kuiper.Effect3.Delay = 100000
+Kuiper.Effect.Delay = 100000
 Kuiper.Radius = 595
+Media.Size = 24
+Position.Mode = 1
 Position.X = 312000
 Position.Y = 176923
+Rotate.Delay = 265652
+Rotate.Mode = 0
 Shadow.Offset = 2
 Speed = 6996
 Stroke.Alpha = 49
@@ -829,7 +734,6 @@ Delay = 776923
 Delay.Interval = 2778
 Fit.Landscape = 304166
 Fit.Portrait = 304166
-Kuiper.Count = 1
 Kuiper.Effect2 = 115
 Kuiper.Effect3 = 177
 Kuiper.Radius = 136
@@ -849,10 +753,10 @@ Delay.Interval = 6944
 Fit.Delay = 95833
 Fit.Landscape = 269231
 Fit.Portrait = 269231
-Kuiper.Count = 3
 Kuiper.Effect = 100
 Kuiper.Effect2 = 150
 Kuiper.Effect3 = 200
+Kuiper.Effect.Delay = 150190
 Kuiper.Radius = 114
 Media.Size = 5
 Position.Mode = 2
@@ -866,9 +770,17 @@ Delay.Interval = 44496
 Fit.Delay = 29859
 Fit.Landscape = 113889
 Fit.Portrait = 113889
+Kuiper.Effect.Delay = 100000
 Kuiper.Radius = 54
 Media.Size = 8
 Speed = 6408
+
+[OIVTTZF]
+Fit.Delay = 111241
+Fit.Landscape = 174926
+Fit.Portrait = 165987
+Kuiper.Effect2 = 0
+Rotate.Delay = 61884
 
 [PPJBMNF]
 Delay = 20613
@@ -876,33 +788,28 @@ Delay.Interval = 721
 Fit.Delay = 100000
 Fit.Landscape = 208333
 Fit.Portrait = 208333
+Kuiper.Count = 3
 Kuiper.Effect = 0
 Kuiper.Effect2 = 759
 Kuiper.Effect3 = 45
 Kuiper.Radius = 27
 Media.Size = 16
 Position.Mode = 1
+Rotate.Delay = 265652
 Speed = 44977
 Stroke.Alpha = 68
-
-[CDUFRHX]
-Delay = 0
-Fit.Landscape = 100000
-Fit.Mode = 0
-Fit.Portrait = 100000
-Kuiper.Radius = 98
-Position.Mode = 2
-Speed = 12392
 
 [OEQJGRA]
 Delay = 8333
 Delay.Interval = 39
-Fit.Landscape = 261538
-Fit.Portrait = 261538
+Fit.Landscape = 488462
+Fit.Mode = 0
+Fit.Portrait = 396154
 Kuiper.Count = 1
 Kuiper.Radius = 236
 Media.Size = 10
-Position.Mode = 1
+Position.X = 746154
+Position.Y = 861539
 Rotate.Delay = 247027
 Speed = 8226
 
@@ -912,11 +819,13 @@ Delay.Interval = 29
 Fit.Landscape = 100000
 Fit.Mode = 1
 Fit.Portrait = 100000
-Kuiper.Count = 7
 Kuiper.Effect = 98
+Kuiper.Effect2.Delay = 387833
+Kuiper.Effect3.Delay = 387833
+Kuiper.Effect.Delay = 387833
 Kuiper.Radius = 98
 Media.Size = 16
-Position.X = 223000
-Position.Y = 240000
+Position.X = 842308
+Position.Y = 692308
 Rotate.Delay = 265652
 

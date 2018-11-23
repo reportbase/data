@@ -423,6 +423,7 @@ Fit.Mode_9 = 1
 
 [QRZYETE]
 Fit.Delay = 20832
+Oxygen.Effect3 = 0
 Oxygen.Func3 = sine
 Pan = 250000
 Position.Y = 267000
@@ -1781,7 +1782,7 @@ Color.Saturation = 70
 Color.Value = 70
 Delay = 2798
 Delay.Interval = 70484
-Fill.Alpha = 11
+Fill.Alpha = 83
 Fit.Delay = 29368
 Fit.Landscape = 100000
 Fit.Portrait = 100000
@@ -1789,7 +1790,7 @@ Media.Total = 2
 Oxygen.Count = 20
 Oxygen.Effect = 8
 Oxygen.Effect2 = 12
-Oxygen.Effect3 = 21
+Oxygen.Effect3 = 36
 Palette = 5
 Position.X = 59000
 Position.Y = 150000
