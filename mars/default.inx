@@ -804,73 +804,44 @@ Stroke.Alpha = 35
 Position.X_2 = 282000
 Position.Y_2 = 152000
 
-[XKGJTRV]
-Back.Alpha = 9506
-Delay = 125906
-Fit.Landscape = 136645
-Fit.Portrait = 144818
-Mars.Func1 = cosine
-Mars.Width = 19
-Speed = 27312
-Stroke.Alpha = 100
-Stroke.Width = 0
-
-[YXBOQQC]
-Delay = 646153
-Palette = 5
-
 [EKGJMJI]
 Back.Alpha = 35417
 Color.Delay = 7157
 Fit.Delay = 100000
-Fit.Landscape = 100000
-Fit.Portrait = 100000
 Mars.Count = 984
-Mars.Func1 = sine
 Mars.Rotation = 10
 Mars.Width = 15
 Palette = 6
 Position.Mode = 1
 Position.X = 190000
 Position.Y = 337000
-Speed = 10646
-Stroke.Alpha = 35
-Stroke.Width = 1
 
-[JMZOTWN]
-Back.Alpha = 13888
+[PTQCLBK]
+Back.Alpha = 41238
+Back.Color = Beige
 Color.Delay = 85575
 Delay = 560976
 Fill.Alpha = 100
 Fit.Delay = 42926
 Fit.Landscape = 157073
+Fit.Mode = 0
 Fit.Portrait = 157073
-Mars.Count = 880
+Mars.Count = 872
 Mars.Radius = 200
 Mars.Rotation = 862
-Mars.Width = 7
-Palette = 1
+Palette = 5
+Position.Mode = 2
 Position.X = 274000
 Position.Y = 191000
 Rotate.Delay = 65365
 Rotate.Mode = 1
 Shadow.Alpha = 13
 Shadow.Offset = 12
-Speed = 15609
+Speed = 18820
 Stroke.Alpha = 55
 Stroke.Color = Black
 Position.X_2 = 225999.99999999997
 Position.Y_2 = 122000
-
-[PTQCLBK]
-Back.Alpha = 41238
-Back.Color = Beige
-Fit.Mode = 0
-Mars.Count = 872
-Mars.Width = 15
-Palette = 5
-Position.Mode = 2
-Speed = 18820
 
 [GEZVVZK]
 Color.Value = 100
@@ -908,10 +879,10 @@ Stroke.Alpha = 100
 Position.X_2 = 252000
 Position.Y_2 = 250000
 
-[VZGPULA]
+[JCMVIPI]
 Back.Alpha = 15917
 Color.Delay = 5556
-Delay = 1000000
+Delay = 242307
 Fit.Mode = 0
 Mars.Count = 1046
 Mars.Func3 = tangent
@@ -922,18 +893,12 @@ Palette = 5
 Position.Mode = 8
 Speed = 3472
 
-[JCMVIPI]
-Delay = 242307
-
 [LUXTHWC]
 Delay = 469231
 Mars.Radius = 897
 
 [KXVNNZT]
 Mars.Rotation = 45142
-
-[HDQTMMH]
-Mars.Rotation = 911539
 
 [BKRNGWA]
 Back.Alpha = 7958
@@ -1011,7 +976,7 @@ Fill.Alpha = 100
 Fit.Delay = 15277
 Fit.Landscape = 100000
 Fit.Portrait = 100000
-Mars.Count = 1182
+Mars.Count = 1444
 Mars.Radius = 705
 Mars.Rotation = 12
 Mars.Width = 20
@@ -1030,7 +995,7 @@ Position.X_2 = 86000
 Position.Y_2 = 9000
 
 [JRMEHGY]
-Mars.Count = 1271
+Mars.Count = 1486
 Mars.Radius = 989
 Mars.Rotation = 14
 
@@ -1050,7 +1015,7 @@ Speed = 1718
 Back.Alpha = 81890
 Color.Delay = 3122
 Delay = 523077
-Mars.Count = 1182
+Mars.Count = 1413
 Mars.Radius = 705
 Mars.Rotation = 12
 Mars.Width = 20
@@ -1109,14 +1074,16 @@ Speed = 24472
 
 [SLKPABY]
 Mars.Radius = 542
-Mars.Rotation = 128
+Mars.Rotation = 131
+Mars.Width = 17
 
 [ZRBPJZL]
-Mars.Rotation = 131
+Mars.Width = 6
 
 [OOKTEJJ]
 Color.Delay = 15514
 Mars.Rotation = 136
+Mars.Width = 39
 
 [RZQHBTT]
 Color.Delay = 100
@@ -1198,11 +1165,6 @@ Stroke.Width = 1
 Position.X_2 = 316000
 Position.Y_2 = 195000
 
-[JJCRDLA]
-Back.Alpha = 38461
-Mars.Radius = 515
-Mars.Rotation = 146153
-
 [OQNMSTL]
 Back.Alpha = 32418
 Delay = 391209
@@ -1249,42 +1211,22 @@ Shadow.Offset = 0
 Speed = 4059
 Stroke.Color = Black
 
-[ASYYGYC]
-Alpha.Mode = 0
-Back.Alpha = 0
-Back.Color = Beige
-Color.Delay = 246610
-Delay = 1
-Delay.Interval = 100
-Fit.Delay = 24304
-Fit.Landscape = 100000
-Fit.Mode = 0
-Fit.Portrait = 100000
-Mars.Count = 1080
-Mars.Radius = 916
-Mars.Rotation = 270
-Mars.Width = 23
-Media.Size = 1
-Position.Mode = 2
-Position.X = 299000
-Position.Y = 311000
-Rotate.Delay = 26164
-Shadow.Offset = 1
-Speed = 176923
-Stroke.Color = White
-
 [VIEBVJC]
+Alpha.Mode = 0
 Back.Alpha = 63196
-Back.Color = Black
 Color.Delay = 3546
 Delay = 157692
+Delay.Interval = 100
 Fit.Delay = 3864
 Fit.Landscape = 143055
+Fit.Mode = 0
 Fit.Portrait = 143055
 Mars.Count = 960
 Mars.Radius = 411
 Mars.Rotation = 854
 Mars.Width = 11
+Media.Size = 1
+Position.Mode = 2
 Position.X = 87000
 Position.Y = 219000
 Rotate.Delay = 100
@@ -1293,7 +1235,6 @@ Shadow.Alpha = 77
 Shadow.Offset = 9
 Speed = 27198
 Stroke.Alpha = 45
-Stroke.Color = Black
 Stroke.Width = 0
 Position.X_2 = 271000
 Position.Y_2 = 68000
@@ -1986,7 +1927,7 @@ Color.Value = 81
 Delay = 188461
 Fill.Alpha = 100
 Fit.Mode = 0
-Mars.Count = 1262
+Mars.Count = 1330
 Mars.Radius = 282
 Mars.Rotation = 672
 Mars.Width = 14
@@ -2006,7 +1947,7 @@ Position.Y_2 = 254000
 Back.Alpha = 0
 Back.Color = Beige
 Delay = 322881
-Mars.Count = 1030
+Mars.Count = 1424
 Mars.Radius = 5
 Mars.Rotation = 303
 Mars.Width = 12
@@ -2035,7 +1976,7 @@ Delay = 95737
 Fit.Delay = 100000
 Fit.Landscape = 100000
 Fit.Portrait = 100000
-Mars.Count = 1258
+Mars.Count = 1457
 Mars.Radius = 120
 Mars.Rotation = 616
 Mars.Width = 16
@@ -2055,7 +1996,7 @@ Delay = 719231
 Fit.Delay = 37499
 Fit.Landscape = 154167
 Fit.Portrait = 154167
-Mars.Count = 1030
+Mars.Count = 1215
 Mars.Radius = 212
 Mars.Rotation = 534
 Mars.Width = 12
@@ -2071,6 +2012,7 @@ Position.X_2 = 339000
 Position.Y_2 = 206999.99999999997
 
 [TYUJFMR]
+Mars.Count = 1030
 Palette = 1
 
 [DXYVNXD]
@@ -2422,12 +2364,6 @@ Palette = 4
 [KFCKMLO]
 Palette = 5
 
-[KLMPJIR]
-
-[IAJHAYO]
-Color.Delay = 130769
-Palette = 6
-
 [ZUBRNMS]
 Back.Alpha = 0
 Back.Color = Beige
@@ -2437,7 +2373,6 @@ Fit.Mode = 0
 Mars.Count = 1182
 Mars.Func2 = tangent
 Mars.Rotation = 597
-Palette = 5
 Position.Mode = 2
 Position.Y = 288000
 Rotate.Delay = 100
@@ -2687,23 +2622,15 @@ Position.Y_2 = 46000
 [PCKYNOX]
 Palette = 5
 
-[CUGTNEM]
-Alpha.Mode = 0
-Delay.Interval = 4431
-Fill.Alpha = 100
-Palette = 2
-Position.Mode = 1
-
 [MTEDJOL]
 Alpha.Delay = 100
+Alpha.Mode = 0
 Delay = 125423
 Delay.Interval = 416
-Fill.Alpha = 27
 Mars.Count = 2400
 Mars.Rotation = 25
 Media.Size = 1
 Palette = 0
-Position.Mode = 0
 Shadow.Offset = 1
 Speed = 44973
 Position.X_2 = 132000
@@ -2754,19 +2681,21 @@ Stroke.Alpha = 52
 Position.X_2 = 217000
 Position.Y_2 = 136000
 
-[NGIBITX]
-Color.Delay = 557692
+[OGSYTOR]
+Color.Delay = 100
+Color.Hue = 249
 Color.Saturation = 84
 Delay = 207627
 Delay.Interval = 100
 Fill.Alpha = 100
-Mars.Count = 2062
+Mars.Count = 1167
 Mars.Radius = 1
-Mars.Rotation = 28
+Mars.Rotation = 908
 Mars.Width = 18
 Media.Size = 1
 Media.Total = 1
-Position.Mode = 1
+Palette = 3
+Position.Mode = 2
 Position.X = 305000
 Position.Y = 119000
 Shadow.Alpha = 54
@@ -2777,27 +2706,6 @@ Stroke.Alpha = 100
 Stroke.Color = Black
 Position.X_2 = 32000
 Position.Y_2 = 82000
-
-[LZSPVYI]
-Color.Delay = 23672
-Mars.Count = 1631
-Palette = 6
-Position.X = 188000
-Position.Y = 331000
-
-[ICSKHAM]
-Color.Delay = 100
-Mars.Count = 2200
-Palette = 2
-Position.X = 305000
-Position.Y = 119000
-
-[OGSYTOR]
-Color.Hue = 249
-Mars.Count = 1167
-Mars.Rotation = 908
-Palette = 3
-Position.Mode = 2
 
 [PGRPWSA]
 Color.Delay = 139500
@@ -3041,17 +2949,7 @@ Stroke.Width = 1
 Position.X_2 = 176000
 Position.Y_2 = 248000
 
-[YSGWFBP]
-Color.Delay = 44840
-Delay = 730769
-Media.Size = 3
-Palette = 6
-Position.X = 320000
-Shadow.Offset = 2
-Speed = 46941
-
 [AVSFHFE]
-Color.Delay = 100
 Color.Hue = 312
 Color.Value = 51
 Delay = 86637
@@ -3065,8 +2963,8 @@ Media.Size = 1
 Media.Total = 1
 Palette = 0
 Position.Mode = 1
-Position.X = 8000
 Shadow.Alpha = 100
+Shadow.Offset = 2
 Speed = 76917
 Stroke.Alpha = 100
 Stroke.Width = 0
@@ -3192,7 +3090,7 @@ Position.Y_2 = 313000
 Color.Delay = 100
 Delay = 501099
 Delay.Interval = 100
-Mars.Count = 990
+Mars.Count = 1200
 Mars.Radius = 746
 Mars.Rotation = 677
 Mars.Width = 18
@@ -3214,6 +3112,7 @@ Position.Y_2 = 246000
 [HTOIWVL]
 Back.Alpha = 41208
 Back.Color = Black
+Mars.Count = 990
 Mars.Func3 = sine
 Position.Mode = 6
 
@@ -3287,7 +3186,7 @@ Delay = 96916
 Mars.Count = 1970
 Mars.Radius = 115
 Mars.Rotation = 755
-Mars.Width = 44
+Mars.Width = 10
 Position.X = 102000
 Position.Y = 319000
 Shadow.Offset = 3
@@ -3301,7 +3200,7 @@ Color.Delay = 1
 Color.Hue = 308
 Delay = 312775
 Fill.Alpha = 85
-Mars.Count = 1290
+Mars.Count = 1628
 Mars.Rotation = 41
 Mars.Width = 11
 Position.Mode = 1
@@ -3342,58 +3241,33 @@ Position.Mode = 1
 Position.X = 297000
 Position.Y = 93000
 Shadow.Offset = 1
-Speed = 40112
+Speed = 5344
 Stroke.Alpha = 47
 Stroke.Width = 1
 Position.X_2 = 301000
 Position.Y_2 = 132000
 
-[PLCHMVO]
-Back.Alpha = 47222
-Color.Delay = 54272
-Palette = 6
-
-[XYPRAYJ]
-Back.Alpha = 0
-Color.Delay = 100
-Color.Saturation = 71
-Delay = 534615
-Delay.Interval = 717
-Mars.Count = 340
-Mars.Radius = 34
-Media.Size = 3
-Media.Total = 3
-Palette = 2
-Position.Mode = 0
-Position.X = 311000
-Position.Y = 194000
-Shadow.Offset = 2
-Speed = 30389
-Stroke.Alpha = 51
-Stroke.Width = 0
-Position.X_2 = 340000
-Position.Y_2 = 294000
+[SMSIIVQ]
+Position.Mode = 2
 
 [QGTZWUP]
 Color.Hue = 90
 Color.Saturation = 95
 Color.Value = 83
 Delay = 234615
-Delay.Interval = 100
 Fill.Alpha = 83
 Mars.Count = 1980
 Mars.Radius = 271
 Mars.Rotation = 94
 Mars.Width = 29
-Media.Size = 1
-Media.Total = 1
 Palette = 3
 Position.Mode = 1
 Position.X = 281000
 Position.Y = 118000
-Speed = 22751
+Shadow.Offset = 2
+Speed = 4911
+Stroke.Alpha = 51
 Stroke.Color = White
-Stroke.Width = 1
 Position.X_2 = 134000
 Position.Y_2 = 135000
 
@@ -3456,7 +3330,7 @@ Position.Mode = 1
 Position.X = 254000
 Position.Y = 195000
 Shadow.Offset = 2
-Speed = 26917
+Speed = 3088
 Stroke.Alpha = 51
 Position.X_2 = 349000
 Position.Y_2 = 174000
@@ -3466,14 +3340,15 @@ Color.Saturation = 70
 Color.Value = 30
 Delay = 350000
 Fill.Alpha = 100
-Mars.Count = 700
-Mars.Radius = 150
-Mars.Rotation = 5
-Mars.Width = 50
+Mars.Count = 1431
+Mars.Radius = 935
+Mars.Rotation = 34
+Mars.Width = 20
+Palette = 5
 Position.Mode = 2
 Position.X = 8000
 Position.Y = 30000
-Speed = 51223
+Speed = 5517
 Stroke.Alpha = 100
 Position.X_2 = 32000
 Position.Y_2 = 3000
@@ -3481,6 +3356,7 @@ Position.Y_2 = 3000
 [NONPRQO]
 Delay = 323076
 Fill.Alpha = 78
+Mars.Count = 1114
 Mars.Radius = 53
 Mars.Rotation = 4
 Mars.Width = 17
@@ -3492,25 +3368,11 @@ Stroke.Color = White
 Position.X_2 = 285000
 Position.Y_2 = 335000
 
-[OCMUTZT]
-Color.Delay = 70238
-Color.Value = 65
-Delay = 265115
-Fill.Alpha = 100
-Mars.Radius = 150
-Mars.Rotation = 5
-Mars.Width = 27
-Palette = 6
-Speed = 49140
-Stroke.Width = 1
-Position.X_2 = 268000
-Position.Y_2 = 349000
-
 [LBFXYHO]
-Color.Delay = 100
 Color.Value = 51
 Delay = 246153
 Delay.Interval = 600000
+Fill.Alpha = 100
 Mars.Count = 359
 Mars.Radius = 120
 Mars.Rotation = 3
@@ -3522,37 +3384,23 @@ Position.Mode = 0
 Shadow.Offset = 1
 Speed = 69973
 Stroke.Alpha = 100
+Stroke.Width = 1
 Position.X_2 = 189000
 Position.Y_2 = 347000
 
-[CPWMXKT]
-Color.Value = 65
-Delay = 426923
-Delay.Interval = 100
-Mars.Count = 400
-Mars.Radius = 38
-Mars.Rotation = 908
-Mars.Width = 100
-Media.Size = 1
-Media.Total = 1
-Position.Mode = 1
-Shadow.Offset = 2
-Stroke.Alpha = 50
-Position.X_2 = 171000
-Position.Y_2 = 218000.00000000003
-
 [CBBKRQC]
 Color.Value = 70
+Delay = 426923
+Delay.Interval = 100
 Fill.Alpha = 93
 Mars.Count = 1220
 Mars.Radius = 482
 Mars.Rotation = 11
-Mars.Width = 16
+Media.Size = 1
+Media.Total = 1
 Palette = 5
 Position.Mode = 2
-Shadow.Offset = 1
 Speed = 73445
-Stroke.Alpha = 100
 Position.X_2 = 358000
 Position.Y_2 = 302000
 
@@ -4022,7 +3870,7 @@ Position.Y_2 = 336000
 [MAMCIUW]
 Color.Value = 53
 Delay = 850000
-Mars.Count = 670
+Mars.Count = 1288
 Mars.Radius = 492
 Mars.Rotation = 266
 Mars.Width = 36
@@ -4298,21 +4146,7 @@ Stroke.Alpha = 52
 Position.X_2 = 340000
 Position.Y_2 = 311000
 
-[QNGQVQI]
-Color.Hue = 241
-Delay = 445901
-Mars.Radius = 234
-Mars.Rotation = 820
-Mars.Width = 47
-Position.X = 216000
-Position.Y = 173000
-Speed = 27475
-Stroke.Alpha = 25
-Position.X_2 = 163000
-Position.Y_2 = 254000
-
 [UQWUQWC]
-Color.Hue = 90
 Color.Saturation = 70
 Delay = 168852
 Fill.Alpha = 7
@@ -4333,7 +4167,7 @@ Position.Y_2 = 266000
 [ANQSKND]
 Color.Delay = 897
 Delay = 283606
-Mars.Count = 700
+Mars.Count = 1345
 Mars.Radius = 915
 Mars.Rotation = 546
 Mars.Width = 27
@@ -4349,6 +4183,7 @@ Position.Y_2 = 40000
 [BGEGVVB]
 Color.Delay = 100
 Delay = 159016
+Mars.Count = 1176
 Mars.Radius = 120
 Mars.Rotation = 3
 Mars.Width = 50
@@ -4364,6 +4199,7 @@ Position.Y_2 = 6000
 Delay = 785245
 Delay.Interval = 373770
 Fit.Mode = 1
+Mars.Count = 700
 Mars.Radius = 915
 Mars.Rotation = 546
 Mars.Width = 27
@@ -4383,6 +4219,7 @@ Color.Value = 73
 Delay = 117
 Delay.Interval = 100
 Fit.Mode = 0
+Mars.Count = 1334
 Mars.Radius = 120
 Mars.Rotation = 460
 Mars.Width = 50
@@ -4406,6 +4243,7 @@ Color.Delay = 467
 Color.Value = 30
 Delay = 445901
 Delay.Interval = 703278
+Mars.Count = 700
 Mars.Radius = 915
 Mars.Rotation = 546
 Mars.Width = 63
@@ -4523,7 +4361,7 @@ Delay.Interval = 285245
 Fill.Alpha = 76
 Fit.Delay = 100000
 Fit.Mode = 0
-Mars.Count = 623
+Mars.Count = 1096
 Mars.Radius = 493
 Mars.Rotation = 489
 Mars.Width = 12
@@ -4544,7 +4382,7 @@ Mars.Width = 6
 [JLKMTWT]
 Color.Delay = 202422
 Delay = 32180
-Mars.Count = 773
+Mars.Count = 2101
 Mars.Radius = 493
 Mars.Rotation = 991
 Mars.Width = 19
@@ -4553,6 +4391,7 @@ Speed = 12814
 
 [OHEKBWR]
 Color.Delay = 171280
+Mars.Count = 1092
 Mars.Radius = 910
 Mars.Rotation = 857
 Rotate.Delay = 43850
@@ -4677,6 +4516,7 @@ Position.Y = 257785
 [NVYJBTH]
 Color.Delay = 107105
 Delay.Interval = 28
+Mars.Count = 1266
 Mars.Func3 = cosine
 Palette = 6
 Position.X = 146000
@@ -4686,6 +4526,7 @@ Position.Y = 210000
 Color.Delay = 42
 Color.Value = 51
 Delay = 109836
+Delay.Interval = 259340
 Fill.Alpha = 98
 Mars.Count = 660
 Mars.Radius = 511
@@ -4713,7 +4554,7 @@ Speed = 1153
 [FGFVXLF]
 Color.Delay = 267213
 Delay = 724914
-Delay.Interval = 295081
+Delay.Interval = 295082
 Fit.Delay = 29411
 Fit.Mode = 1
 Mars.Count = 970
@@ -4730,32 +4571,11 @@ Speed = 9900
 Position.X_2 = 106000
 Position.Y_2 = 209000
 
-[SOTPQGB]
-Color.Delay = 137528
-Color.Value = 82
-Delay = 93442
-Delay.Interval = 515571
-Fill.Alpha = 89
-Fit.Delay = 100000
-Mars.Count = 920
-Mars.Rotation = 463
-Mars.Width = 10
-Media.Size = 3
-Palette = 6
-Rotate.Delay = 98616
-Shadow.Offset = 1
-Speed = 4000
-Stroke.Color = White
-Stroke.Width = 1
-Position.X_2 = 157000
-Position.Y_2 = 15000
-
 [VDHWZQA]
 Color.Delay = 42
-Color.Value = 51
 Delay = 218032
-Delay.Interval = 182
-Fill.Alpha = 98
+Delay.Interval = 328022
+Fit.Delay = 100000
 Mars.Count = 660
 Mars.Radius = 1
 Mars.Rotation = 73
@@ -4770,8 +4590,6 @@ Rotate.Delay = 185121
 Shadow.Offset = 2
 Speed = 10016
 Stroke.Alpha = 52
-Stroke.Color = Black
-Stroke.Width = 0
 Position.X_2 = 39000
 Position.Y_2 = 9000
 
@@ -4780,7 +4598,7 @@ Color.Delay = 100
 Delay = 334615
 Delay.Interval = 100
 Fit.Mode = 0
-Mars.Count = 930
+Mars.Count = 1450
 Mars.Radius = 301
 Mars.Rotation = 895
 Mars.Width = 12
@@ -4802,7 +4620,7 @@ Delay = 18378
 Delay.Interval = 484429
 Fit.Delay = 53633
 Fit.Mode = 1
-Mars.Count = 700
+Mars.Count = 1301
 Mars.Radius = 1000
 Mars.Rotation = 398
 Media.Size = 8
@@ -4881,38 +4699,23 @@ Speed = 10338
 Position.X_2 = 180000
 Position.Y_2 = 44000
 
-[PKBWXFP]
-Color.Delay = 100
-Color.Hue = 51
-Delay = 354
-Delay.Interval = 5281
-Fit.Mode = 1
-Mars.Count = 700
-Mars.Func3 = sine
-Mars.Rotation = 398
-Media.Size = 6
-Media.Total = 6
-Position.X = 334000
-Position.Y = 294000
-Rotate.Delay = 104
-Shadow.Color = Yellow
-Shadow.Offset = 0
-Speed = 22663
-Position.X_2 = 254999.99999999997
-Position.Y_2 = 192000
-
 [DRGOMEM]
 Alpha.Mode = 2
-Color.Hue = 90
+Color.Delay = 100
 Delay = 208216
-Fit.Mode = 0
-Mars.Func3 = cosine
+Delay.Interval = 5281
+Mars.Count = 700
 Mars.Rotation = 400
+Media.Size = 6
+Media.Total = 6
 Palette = 3
 Position.Mode = 3
-Rotate.Delay = 100
-Shadow.Color = Black
+Position.X = 334000
+Position.Y = 294000
+Shadow.Offset = 0
 Speed = 8226
+Position.X_2 = 254999.99999999997
+Position.Y_2 = 192000
 
 [PPIJWUQ]
 Alpha.Mode = 0
@@ -4937,63 +4740,6 @@ Position.Y_2 = 346000
 Color.Delay = 26744
 Palette = 6
 
-[YEHTOUU]
-Color.Delay = 119672
-Delay = 246
-Delay.Interval = 11268
-Fill.Alpha = 48
-Fit.Delay = 100000
-Fit.Mode = 0
-Mars.Count = 430
-Mars.Rotation = 398
-Mars.Width = 12
-Media.Size = 6
-Media.Total = 6
-Palette = 5
-Position.X = 247000.00000000003
-Position.Y = 180000
-Shadow.Offset = 0
-Speed = 16676
-Position.X_2 = 303000
-Position.Y_2 = 202000
-
-[WDUNWLO]
-Color.Delay = 100
-Delay = 959016
-Delay.Interval = 100
-Fill.Alpha = 98
-Mars.Count = 510
-Mars.Radius = 605
-Mars.Rotation = 1
-Media.Size = 1
-Media.Total = 3
-Palette = 3
-Position.Mode = 0
-Position.X = 254999.99999999997
-Position.Y = 297000
-Speed = 9634
-Position.X_2 = 302000
-Position.Y_2 = 23000
-
-[UJZNWJY]
-Delay = 849180
-Delay.Interval = 2566
-Fit.Delay = 22491
-Fit.Mode = 1
-Mars.Count = 387
-Mars.Radius = 1000
-Mars.Rotation = 468
-Media.Mode = 1
-Media.Size = 6
-Media.Total = 4
-Position.Mode = 3
-Position.X = 240000
-Position.Y = 334000
-Shadow.Offset = 1
-Speed = 8166
-Position.X_2 = 109000.00000000001
-Position.Y_2 = 100000
-
 [MHZTTTQ]
 Color.Delay = 11520
 Delay = 768852
@@ -5003,10 +4749,9 @@ Fit.Mode = 0
 Mars.Count = 120
 Mars.Radius = 865
 Mars.Rotation = 498
-Media.Mode = 0
+Mars.Width = 12
 Media.Size = 13
-Palette = 6
-Position.Mode = 1
+Media.Total = 4
 Position.X = 315000
 Position.Y = 234000
 Shadow.Offset = 0
@@ -5015,32 +4760,7 @@ Stroke.Width = 1
 Position.X_2 = 76000
 Position.Y_2 = 138000
 
-[VWWIOAU]
-Alpha.Delay = 190310
-Back.Alpha = 44
-Back.Color = Black
-Color.Delay = 320069
-Delay = 606557
-Delay.Interval = 8903
-Mars.Count = 609
-Mars.Radius = 504
-Mars.Rotation = 445
-Mars.Width = 13
-Media.Size = 1
-Position.Mode = 2
-Position.X = 234000
-Position.Y = 328000
-Rotate.Delay = 217993
-Rotate.Mode = 1
-Speed = 1658
-Stroke.Width = 0
-Position.X_2 = 101000
-Position.Y_2 = 100000
-
 [EOJGBHZ]
-Alpha.Delay = 100
-Back.Alpha = 0
-Back.Color = Beige
 Color.Delay = 100
 Delay = 719672
 Delay.Interval = 10312
@@ -5053,13 +4773,9 @@ Mars.Width = 30
 Media.Size = 14
 Media.Total = 14
 Palette = 3
-Position.Mode = 1
 Position.X = 221000
 Position.Y = 283000
-Rotate.Delay = 100
-Rotate.Mode = 0
 Speed = 22663
-Stroke.Width = 1
 Position.X_2 = 141000
 Position.Y_2 = 11000
 
@@ -5134,6 +4850,8 @@ Position.X_2 = 269000
 Position.Y_2 = 119000
 
 [ILDACGH]
+Fit.Mode = 0
+Mars.Count = 1268
 Position.Mode = 2
 
 [QVMMTJW]
@@ -5144,7 +4862,7 @@ Delay = 668852
 Delay.Interval = 96
 Fill.Alpha = 52
 Fit.Delay = 49860
-Mars.Count = 1340
+Mars.Count = 1497
 Mars.Radius = 188
 Mars.Rotation = 551
 Mars.Width = 17
@@ -5160,6 +4878,7 @@ Position.X_2 = 146000
 [NYUJWYK]
 Color.Delay = 7464
 Fit.Delay = 100000
+Mars.Count = 2015
 Palette = 6
 Position.Mode = 0
 
@@ -5170,6 +4889,7 @@ Color.Value = 72
 Delay = 611475
 Delay.Interval = 238754
 Fill.Alpha = 73
+Fit.Mode = 1
 Mars.Count = 250
 Mars.Radius = 3
 Mars.Rotation = 258
@@ -5270,13 +4990,14 @@ Color.Value = 71
 Delay = 256
 Delay.Interval = 36
 Fill.Alpha = 72
+Fit.Mode = 0
 Mars.Count = 1460
 Mars.Radius = 960
 Mars.Rotation = 54
 Mars.Width = 15
 Media.Size = 1
 Media.Total = 1
-Position.Mode = 1
+Position.Mode = 2
 Position.X = 284000
 Position.Y = 302000
 Shadow.Offset = -2
@@ -5287,18 +5008,17 @@ Position.X_2 = 60000
 Position.Y_2 = 104000
 
 [SYZGEOD]
-Color.Delay = 27389
+Color.Delay = 29670
 Color.Hue = 228
 Color.Value = 72
 Delay = 403846
-Delay.Interval = 100
+Delay.Interval = 143406
 Fill.Alpha = 99
 Fit.Delay = 24221
 Mars.Count = 1080
 Mars.Radius = 418
 Mars.Rotation = 933
 Mars.Width = 9
-Media.Size = 2
 Media.Total = 2
 Palette = 6
 Position.X = 186000
@@ -5314,18 +5034,19 @@ Position.X_2 = 95000
 Position.Y_2 = 344000
 
 [YUYKXRN]
+Back.Alpha = 30731
+Back.Color = Black
 Color.Delay = 27
 Delay = 173076
 Delay.Interval = 700000
 Fit.Delay = 22491
-Mars.Count = 573
+Fit.Mode = 1
+Mars.Count = 1393
 Mars.Radius = 161
 Mars.Rotation = 834
 Mars.Width = 17
-Media.Size = 1
 Media.Total = 1
-Palette = 2
-Position.Mode = 2
+Palette = 5
 Position.X = 115999.99999999999
 Position.Y = 187000
 Shadow.Offset = 2
@@ -5336,13 +5057,21 @@ Position.X_2 = 118000
 Position.Y_2 = 56999.99999999999
 
 [JBXLFJB]
+Back.Alpha = 27345
 Fit.Delay = 100000
 Fit.Mode = 0
-Media.Size = 2
-Palette = 5
-Speed = 100960
+Mars.Count = 1400
+Mars.Width = 6
+Speed = 26867
+Stroke.Width = 0
 
 [GCUGYVL]
+Back.Alpha = 0
+Back.Color = Beige
 Color.Delay = 2
+Mars.Count = 1017
+Mars.Width = 8
 Palette = 6
+Speed = 31318
+Stroke.Width = 1
 
