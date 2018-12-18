@@ -563,7 +563,7 @@ Pluto.Effect4 = 1
 Pluto.Effect5 = 1
 Pluto.Effect6 = 1
 Pluto.Radius = 1
-Position.Mode = 0
+Position.Mode = 16
 Position.X = 565385
 Position.Y = 480769
 Speed = 7804
@@ -576,11 +576,38 @@ Rotate.Delay = 96154
 Rotate.Mode = 1
 Speed = 4331
 
+[IZRUPDJ]
+
+[XSZQNKU]
+Back.Color = Black
+Color.Delay = 188287
+Delay = 20014
+Media.Size = 84
+Pluto.Count = 3
+Pluto.Effect1 = 2865
+Pluto.Effect3 = 1
+Pluto.Effect5 = 3
+Pluto.Radius = 2
+Position.X = 949593
+Position.Y = 944404
+Rotate.Delay = 24814
+Speed = 4319
+
 [CUYEWTZ]
+Back.Color = Beige
 Color.Delay = 62223
 Color.Value = 70
+Delay = 61384
+Media.Size = 50
+Pluto.Count = 4
+Pluto.Effect1 = 4772
+Pluto.Effect3 = 0
+Pluto.Effect5 = 1
+Pluto.Radius = 1
 Position.X = 850000
+Position.Y = 480769
 Rotate.Delay = 276923
+Speed = 4331
 Rotate.Delay_5 = 207692
 
 [WYPVJSY]
@@ -619,17 +646,20 @@ Position.Y = 411538
 
 [HINVHXH]
 Color.Delay = 119230
-Delay = 0
+Delay = 144551
 Fit = 276241
 Fit.Delay = 9029
-Media.Size = 16
+Media.Size = 169
 Pan.Speed = 187713
-Pluto.Effect1 = 4772
-Pluto.Effect6 = 1
-Position.X = 546154
-Position.Y = 480769
-Rotate.Delay = 157692
-Speed = 3638
+Pluto.Count = 3
+Pluto.Effect1 = 2580
+Pluto.Effect4 = 50
+Pluto.Effect6 = 10
+Pluto.Radius = 2
+Position.X = 120089
+Position.Y = 899926
+Rotate.Delay = 408451
+Speed = 1223
 
 [ZQQLORN]
 Color.Delay = 29324
@@ -649,6 +679,7 @@ Pluto.Effect3 = 50
 Pluto.Effect4 = 11
 Pluto.Effect5 = 8
 Pluto.Effect6 = 9
+Pluto.Radius = 1
 Position.Mode = 1
 Position.X = 307000
 Position.Y = 313000
@@ -694,21 +725,56 @@ Position.X_2 = 247000.00000000003
 Speed_2 = 10075
 Media.Mode_4 = 0
 
+[SFLSXWF]
+Color.Delay = 4051
+Delay = 0
+Delay.Interval = 622684
+Fit = 141586
+Fit.Delay = 36737
+Pluto.Count = 50
+Pluto.Effect5 = 30
+Position.Mode = 1
+Rotate.Delay = 102298
+
+[QGFSQYN]
+Back.Alpha = 17829
+Back.Color = Black
+Color.Delay = 1565
+Color.Saturation = 59
+Fit = 219422
+Fit.Delay = 17240
+Media.Size = 1
+Pluto.Count = 100
+Pluto.Effect1 = 944
+Pluto.Effect3 = 6
+Pluto.Effect4 = 11
+Pluto.Effect5 = 7
+Pluto.Effect6 = 3
+Rotate.Delay = 32616
+Rotate.Mode = 1
+Speed = 15567
+
 [ESKHIYT]
+Back.Alpha = 0
+Back.Color = Beige
 Color.Delay = 173372
+Color.Saturation = 80
 Color.Value = 93
 Delay = 17002
 Delay.Interval = 3477
 Fill.Color = Black
 Fit = 256714
+Fit.Delay = 100000
 Media.Size = 4
 Pluto.Count = 31
 Pluto.Effect1 = 414
-Position.Mode = 1
+Pluto.Effect3 = 38
+Pluto.Effect4 = 3
+Pluto.Effect5 = 12
+Pluto.Effect6 = 10
 Position.X = 322000
 Position.Y = 336000
 Rotate.Delay = 30991
-Rotate.Mode = 1
 Speed = 11192
 Alpha.Delay_2 = 345935
 Alpha.Mode_2 = 1
