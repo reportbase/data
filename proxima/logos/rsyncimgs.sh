@@ -1,0 +1,1 @@
+rsync -avz imgs/ scott@reportbase.com:/srv/http
