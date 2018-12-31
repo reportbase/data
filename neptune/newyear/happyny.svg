@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 500 300" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
+  <defs>
+    <pattern id="pattern-0" x="0" y="0" width="25" height="25" patternUnits="userSpaceOnUse" viewBox="0 0 100 100">
+      <rect x="0" y="0" width="50" height="100" style="fill: black;"/>
+    </pattern>
+    <radialGradient id="gradient-2" gradientUnits="userSpaceOnUse" cx="156.936" cy="139.886" r="87.59" gradientTransform="matrix(1.250372, 0, 0, 1.209882, -39.292346, -31.288198)">
+      <stop offset="0" style="stop-color: #bada55"/>
+      <stop offset="1" style="stop-color: #758d29"/>
+    </radialGradient>
+    <linearGradient id="gradient-6" gradientUnits="userSpaceOnUse" x1="239.039" y1="272.734" x2="239.039" y2="300" gradientTransform="matrix(1, 0, 0, 1, -2.543426, -20.139482)">
+      <stop offset="0" style="stop-color: #bada55"/>
+      <stop offset="1" style="stop-color: #758d29"/>
+    </linearGradient>
+  </defs>
+  <path d="M 156.936 32.642 L 184.011 111.396 L 266.457 113.095 L 200.744 163.467 L 224.624 243.271 L 156.936 195.648 L 89.248 243.271 L 113.128 163.467 L 47.415 113.095 L 129.861 111.396 Z" style="fill: url(#gradient-2);" transform="matrix(-0.478851, 0.877896, -0.877896, -0.478851, 444.615784, 61.08355)" bx:shape="star 156.936 149.075 115.157 116.433 0.4 5 1@d250d404"/>
+  <text transform="matrix(2.498946, 0, 0, 4.223159, -87.846992, -306.859955)" style="fill: rgb(175, 51, 51); font-size: 24px; white-space: pre;" x="42.714" y="102.791">Happy New Year</text>
+  <text x="391.27" y="194.52" style="white-space: pre; fill: rgb(51, 51, 51); font-size: 24px;" transform="matrix(2.1818, 0, 0, 1.861941, -508.820007, -166.088562)">2019</text>
+  <text x="581.515" y="115.948" style="white-space: pre; fill: rgb(51, 51, 51); font-size: 24px;"> </text>
+  <text x="245.788" y="-3.232" style="white-space: pre; fill: rgb(51, 51, 51); font-size: 24px;"> </text>
+  <text style="fill: url(#gradient-6); font-size: 24px; white-space: pre;" x="141.472" y="274.922">From Ted and Pat</text>
+  <text x="715.637" y="138.803" style="white-space: pre; fill: rgb(51, 51, 51); font-size: 24px;"> </text>
+  <text x="74.275" y="281.876" style="white-space: pre; fill: rgb(51, 51, 51); font-size: 24px;"> </text>
+</svg>

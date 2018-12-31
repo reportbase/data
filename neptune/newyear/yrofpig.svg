@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
+  <defs>
+    <bx:grid x="0" y="0" width="93.562" height="96.903"/>
+  </defs>
+  <ellipse style="fill: rgb(26, 211, 97);" cx="257.964" cy="259.235" rx="155.447" ry="240.765"/>
+  <ellipse style="fill: rgb(98, 219, 151);" cx="115.157" cy="192.026" rx="115.157" ry="77.124" transform="matrix(0.999887, 0.015007, 0.007678, 1.000228, 142.146835, -72.667709)"/>
+  <rect x="300" y="86.842" width="13.686" height="9.176" style="fill: rgb(215, 25, 25);"/>
+  <line style="stroke: rgb(0, 0, 0);" x1="299.99999999999994" y1="86.84200286865234" x2="299.99999999999994" y2="125.90643483049234"/>
+  <circle style="fill: rgb(241, 202, 143);" cx="46.864" cy="75.076" r="20.942" transform="matrix(3.048694, 0, 0, 1.851495, -63.690678, -80.873833)"/>
+  <polyline style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" points="435.162 181.517 436.447 182.802"/>
+  <ellipse style="fill: rgb(241, 202, 143);" cx="441.175" cy="85.357" rx="45.547" ry="66.002"/>
+  <text style="fill: rgb(51, 51, 51); font-size: 24px; white-space: pre;" transform="matrix(1.327646, 0, 0, 2.505167, -72.484138, -290.630676)"><tspan x="155.882" y="215.319">Happy New Year</tspan><tspan x="155.882" dy="1em">​</tspan></text>
+  <text transform="matrix(2.049378, 0, 0, 2.59499, -165.228012, -342.918091)" style="fill: rgb(196, 16, 16); font-size: 24px; white-space: pre;"><tspan x="180.155" y="256.987">2019</tspan><tspan x="180.155" dy="1em">​</tspan></text>
+  <text x="347.573" y="267.899" style="white-space: pre; fill: rgb(51, 51, 51); font-size: 24px;" transform="matrix(1.119083, 0, 0, 1.868327, -219.367874, -122.412094)">Year of the Pig<tspan x="347.572998046875" dy="1em">​</tspan></text>
+  <text transform="matrix(0.001301, -0.999999, 0.999999, 0.001301, -179.838776, 456.100952)" style="fill: rgb(196, 16, 16); font-size: 24px; white-space: pre;" x="33.829" y="267.902">You Have the Luck of the Pig</text>
+</svg>
