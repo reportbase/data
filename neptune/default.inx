@@ -1,4 +1,4 @@
-﻿[ADVERTISING]
+﻿[HEADER01]
 Alpha.Delay = 330769
 Alpha.Mode = 0
 Back.Alpha = 42615
@@ -470,7 +470,7 @@ Delay_8 = 3709
 Delay.Interval_8 = 10128
 Draw_8 = PATH2D
 Draw.Photo_8 = 99200.svg
-Draw.Vector_8 = ARROW1
+Draw.Vector_8 = ANIMAL00
 Fill.Alpha_8 = 100
 Fill.Color_8 = Black
 Fill.Style_8 = 0
@@ -534,7 +534,7 @@ Delay_9 = 3709
 Delay.Interval_9 = 8739
 Draw_9 = PATH2D
 Draw.Photo_9 = 99200.svg
-Draw.Vector_9 = ARROW1
+Draw.Vector_9 = ANIMAL00
 Fill.Alpha_9 = 100
 Fill.Color_9 = Black
 Fill.Style_9 = 0
@@ -584,7 +584,7 @@ Stroke.Color_9 = Beige
 Stroke.Width_9 = 0
 Time.Start_9 = 0
 
-[WEBSITE]
+[HEADER02]
 Draw = PHOTO
 Border_3 = 20
 Draw_3 = PHOTO
@@ -606,7 +606,7 @@ Select.Event_7 = DOWNLOAD
 Select.Frame.Alpha_7 = 1000000
 Select.Shadow.Alpha_7 = 1000000
 
-[BLOG]
+[HEADER03]
 Border_3 = 5
 Fill.Color_3 = White
 Fit.Mode_3 = 0
@@ -661,7 +661,7 @@ Shadow.Offset_7 = 2
 Speed_7 = 2882
 Stroke.Color_7 = Black
 
-[STRATEGY]
+[HEADER04]
 Color.Delay = 37860
 Draw = PATH2D
 Media.Mode = 2
@@ -672,26 +672,67 @@ Fit_3 = 98236
 Fit.Mode_3 = 1
 Rotate_3 = 41
 Rotate.Mode_3 = 2
-Media.Size_7 = 18
+Alpha.Delay_7 = 150375
+Back.Alpha_7 = 407757
+Border_7 = 0
+Color.Delay_7 = 21277
+Color.Hue_7 = 100
+Color.Saturation_7 = 69
+Color.Value_7 = 49
+Delay_7 = 3709
+Delay.Interval_7 = 108467
+Draw_7 = PATH2D
+Draw.Photo_7 = 99200.svg
+Draw.Vector_7 = HEADER00
+Fill.Color_7 = Black
+Fill.Style_7 = 0
+Fit_7 = 11434
+Fit.Delay_7 = 100000
+Fit.Mode_7 = 2
+Frame.Alpha_7 = 1000000
+Frame.Color_7 = Cyan
+Frame.Shadow.Alpha_7 = 100
+Frame.Shadow.Color_7 = Blue
+Media.Mode_7 = 3
+Media.Size_7 = 1
+Media.Total_7 = 25
+Nub_7 = 2
+Nub.Alpha_7 = 769231
+Nub.Color_7 = Black
+Nub.Extent_7 = 100
+Position.Mode_7 = 2
+Position.X_7 = 41000
+Position.Y_7 = 97000
+Rotate_7 = 270
+Rotate.Delay_7 = 12
+Select.Alpha_7 = 419231
+Select.Color_7 = White
+Select.Event_7 = HIDEGROUP1
+Select.Frame_7 = Black
+Select.Frame.Alpha_7 = 0
+Shadow.Color_7 = White
+Shadow.Offset_7 = 0
+Speed_7 = 17871
+Stroke.Color_7 = Beige
 Media.Size_8 = 1
 Media.Size_9 = 1
 
-[OPTIMIZE]
+[HEADER05]
 Color.Delay = 44746
 Fit_3 = 99017
 
-[NETWORK]
+[HEADER06]
 Delay.Interval_3 = 54910
 Fit_3 = 99799
 
-[INFORMATION]
+[HEADER07]
 Alpha.Mode_3 = 2
 Fit_3 = 99884
 Fit.Delay_3 = 28948
 Fit.Mode_3 = 0
 Media.Size_3 = 20
 
-[BUSINESS]
+[HEADER08]
 Back.Alpha = 42362
 Fit = 25577
 Speed = 6640
@@ -719,11 +760,11 @@ Rotate.Mode_3 = 0
 Speed_3 = 26810
 Stroke.Alpha_3 = 100
 
-[COMMUNITY]
+[HEADER09]
 Delay.Interval_3 = 31250
 Fit_3 = 99531
 
-[CONTENT]
+[HEADER10]
 Fit = 21554
 Color.Value_2 = 70
 Alpha.Delay_3 = 726923
@@ -749,13 +790,13 @@ Speed_3 = 63161
 Stroke.Alpha_3 = 99
 Time.Start_3 = 0
 
-[TECHNOLOGY]
+[HEADER11]
 Fit = 26439
 Border_3 = 40
 Color.Delay_3 = 4167
 Color.Value_3 = 79
 Delay_3 = 10419
-Delay.Interval_3 = 188038
+Delay.Interval_3 = 33053
 Fit_3 = 99700
 Fit.Delay_3 = 1940
 Fit.Mode_3 = 0
@@ -772,7 +813,7 @@ Shadow.Mode_3 = 1
 Shadow.Offset_3 = 3
 Speed_3 = 2936
 
-[MARKETING]
+[HEADER12]
 Fit = 27013
 Color.Value_3 = 50
 Delay_3 = 0
@@ -786,7 +827,7 @@ Shadow.Mode_3 = 0
 Shadow.Offset_3 = 1
 Speed_3 = 5198
 
-[OPTIMIZATION]
+[HEADER13]
 Fit = 22991
 Alpha.Mode_3 = 0
 Border_3 = 97
@@ -802,7 +843,7 @@ Rotate.Delay_3 = 79
 Rotate.Mode_3 = 2
 Speed_3 = 6984
 
-[TEMPLATE]
+[HEADER14]
 Fit = 25290
 Border_3 = 30
 Delay.Interval_3 = 324643
@@ -819,7 +860,7 @@ Position.X_3 = 139535
 Position.Y_3 = 208372
 Speed_3 = 13887
 
-[APPLICATION]
+[HEADER15]
 Fit = 22990
 Alpha.Delay_2 = 726923
 Back.Color_2 = Magenta
@@ -880,7 +921,7 @@ Rotate_3 = 33
 Rotate.Delay_3 = 38
 Speed_3 = 2742
 
-[SOLUTION]
+[HEADER16]
 Fit = 17818
 Rotate = 9
 Alpha.Delay_2 = 131
@@ -947,7 +988,7 @@ Speed_3 = 8316
 Rotate.Delay_5 = 0
 Rotate.Mode_5 = 1
 
-[SYSTEM]
+[HEADER17]
 Fit = 14082
 Rotate = 1
 Position.X_2 = 167000
@@ -978,7 +1019,7 @@ Speed_3 = 9465
 Rotate.Delay_5 = 12
 Rotate.Mode_5 = 2
 
-[PRINCIPLE]
+[HEADER18]
 Fit = 43968
 Alpha.Mode_3 = 2
 Border_3 = 40
@@ -998,7 +1039,7 @@ Position.Y_3 = 192361
 Rotate.Delay_3 = 79425
 Speed_3 = 15192
 
-[CONVERGE]
+[HEADER19]
 Alpha.Mode_3 = 0
 Delay.Interval_3 = 4913
 Fit_3 = 97364
@@ -1006,14 +1047,14 @@ Position.X_3 = 726923
 Position.Y_3 = 319231
 Speed_3 = 5470
 
-[CREATIVITY]
+[HEADER20]
 Delay.Interval_3 = 7690
 Fit_3 = 114725
 Media.Size_3 = 24
 Position.X_3 = 376923
 Position.Y_3 = 111538
 
-[PRODUCTIVE]
+[HEADER21]
 Color.Delay_3 = 4167
 Color.Saturation_3 = 50
 Color.Value_3 = 50
@@ -1030,7 +1071,7 @@ Rotate.Delay_3 = 126648
 Rotate.Mode_3 = 1
 Speed_3 = 2132
 
-[COMBINATION]
+[HEADER22]
 Back.Alpha_3 = 263895
 Back.Color_3 = Black
 Color.Delay_3 = 36112
@@ -1044,13 +1085,13 @@ Rotate.Delay_3 = 403846
 Shadow.Color_3 = Black
 Shadow.Offset_3 = 2
 
-[EFFICIENT]
+[HEADER23]
 Position.X_3 = 923077
 Position.Y_3 = 223077
 Rotate_3 = 37
 Rotate.Mode_3 = 2
 
-[SYNERGY]
+[HEADER24]
 Alpha.Delay = 131
 Back.Alpha = 4147
 Back.Color = Black
@@ -1135,31 +1176,6 @@ Speed_3 = 170641
 Stroke.Alpha_3 = 100
 Back.Alpha_5 = 76923
 Back.Color_5 = Grey
-Alpha.Delay_7 = 726923
-Alpha.Mode_7 = 2
-Back.Alpha_7 = 797414
-Border_7 = 80
-Color.Delay_7 = 3362
-Delay.Interval_7 = 88586
-Draw_7 = PATH2D
-Draw.Vector_7 = HEADER00
-Fill.Color_7 = Black
-Fill.Style_7 = 0
-Fit_7 = 99277
-Fit.Delay_7 = 2284
-Fit.Mode_7 = 1
-Frame.Alpha_7 = 1000000
-Frame.Color_7 = White
-Media.Size_7 = 36
-Media.Total_7 = 25
-Position.Mode_7 = 6
-Position.X_7 = 340000
-Position.Y_7 = 692872
-Select.Alpha_7 = 1000000
-Select.Color_7 = White
-Shadow.Color_7 = Magenta
-Shadow.Offset_7 = 0
-Speed_7 = 6783
 Alpha.Delay_8 = 407692
 Back.Alpha_8 = 20000
 Back.Color_8 = Black
@@ -1218,12 +1234,12 @@ Shadow.Offset_9 = 0
 Speed_9 = 1615
 Stroke.Color_9 = White
 
-[RELATIONSHIP]
+[HEADER25]
 Fit = 108758
 Media.Size = 1
 Position.Mode = 2
 
-[PARTNER]
+[HEADER26]
 Fill.Alpha = 24
 Fit = 33757
 Media.Mode = 2
@@ -1271,7 +1287,7 @@ Position.Y_3 = 12915
 Select.Event_3 = EMPTY
 Speed_3 = 171264
 
-[ALLIANCE]
+[HEADER27]
 Alpha.Delay = 330769
 Back.Alpha = 42362
 Clear = 0
@@ -1343,26 +1359,8 @@ Select.Frame_6 = Black
 Shadow.Color_6 = Black
 Shadow.Offset_6 = 2
 Speed_6 = 3571
-Back.Alpha_7 = 1000000
-Back.Color_7 = White
-Border_7 = 69
-Delay.Interval_7 = 530769
-Draw.Vector_7 = BUTTERFLY00
-Fill.Color_7 = White
-Fill.Style_7 = 1
-Fit_7 = 99247
-Frame.Color_7 = Black
-Frame.Reverse_7 = 1
-Media.Mode_7 = 1
-Media.Size_7 = 20
-Media.Total_7 = 80
-Position.Y_7 = 704686
-Select.Frame_7 = Black
-Shadow.Color_7 = White
-Shadow.Offset_7 = 2
-Speed_7 = 3152
 
-[PARTICIPATE]
+[HEADER28]
 Alpha.Delay = 234615
 Back.Alpha = 12712
 Back.Color = White
@@ -1461,7 +1459,7 @@ Time.Start_3 = 0
 Delay.Interval_6 = 606161
 Pan.Speed_6 = 5
 
-[CONCURRANCE]
+[HEADER29]
 Alpha.Delay = 131
 Back.Alpha = 109029
 Border = 0
@@ -1596,26 +1594,8 @@ Select.Frame_6 = Red
 Shadow.Color_6 = Magenta
 Shadow.Offset_6 = 0
 Speed_6 = 2633
-Back.Alpha_7 = 773276
-Back.Color_7 = Black
-Border_7 = 80
-Delay.Interval_7 = 35930
-Draw.Vector_7 = HEADER00
-Fill.Style_7 = 0
-Fit_7 = 99989
-Fit.Delay_7 = 2009
-Frame.Alpha_7 = 0
-Frame.Color_7 = Beige
-Frame.Reverse_7 = 0
-Media.Mode_7 = 2
-Media.Size_7 = 48
-Media.Total_7 = 25
-Position.Y_7 = 15490
-Select.Color_7 = Red
-Shadow.Color_7 = Black
-Speed_7 = 93753
 
-[COLLECTIVE]
+[HEADER30]
 Back.Alpha = 126975
 Back.Color = Black
 Draw.Vector = HORSERIDER00
@@ -1687,7 +1667,7 @@ Select.Frame_5 = Beige
 Shadow.Offset_5 = -2
 Speed_5 = 8093
 
-[COLLABORATE]
+[HEADER31]
 Draw.Vector = SPEEDSKATER00
 Media.Delay = 23350
 Media.Total = 16
@@ -1695,8 +1675,46 @@ Delay.Interval_3 = 234228
 Media.Size_3 = 40
 Position.Y_3 = 12018
 Speed_3 = 312021
+Alpha.Delay_7 = 726923
+Alpha.Mode_7 = 2
+Back.Alpha_7 = 773276
+Border_7 = 80
+Color.Delay_7 = 3362
+Color.Hue_7 = 50
+Color.Saturation_7 = 50
+Color.Value_7 = 50
+Delay_7 = 0
+Delay.Interval_7 = 35930
+Draw.Photo_7 = 54000.svg
+Fill.Color_7 = White
+Fit_7 = 99989
+Fit.Delay_7 = 2009
+Fit.Mode_7 = 1
+Frame.Alpha_7 = 0
+Frame.Color_7 = Beige
+Frame.Shadow.Alpha_7 = 0
+Frame.Shadow.Color_7 = Beige
+Media.Mode_7 = 2
+Media.Size_7 = 48
+Nub_7 = 0
+Nub.Alpha_7 = 0
+Nub.Color_7 = Beige
+Nub.Extent_7 = 0
+Position.Mode_7 = 6
+Position.X_7 = 340000
+Position.Y_7 = 15490
+Rotate_7 = 0
+Rotate.Delay_7 = 100
+Select.Alpha_7 = 1000000
+Select.Color_7 = Red
+Select.Event_7 = EMPTY
+Select.Frame.Alpha_7 = 1000000
+Shadow.Color_7 = Black
+Shadow.Offset_7 = 2
+Speed_7 = 93753
+Stroke.Color_7 = Black
 
-[COMMITMENT]
+[HEADER32]
 Back.Alpha = 202086
 Back.Color = Beige
 Draw.Vector = HORSERIDER00
@@ -1709,7 +1727,7 @@ Media.Size_3 = 24
 Position.Y_3 = 15490
 Speed_3 = 117648
 
-[SUCCESSFUL]
+[HEADER33]
 Back.Alpha = 105558
 Back.Color = Black
 Fill.Color = White
@@ -1748,7 +1766,7 @@ Shadow.Offset_2 = 1
 Speed_2 = 28521
 Stroke.Color_2 = White
 
-[CREATIVITY]
+[HEADER34]
 Back.Alpha = 0
 Clear = 1
 Draw.Vector = RUNNER00
@@ -1796,7 +1814,7 @@ Media.Size_3 = 28
 Speed_3 = 157406
 Speed_6 = 7494
 
-[GROWTH]
+[HEADER35]
 Media.Delay = 71814
 Delay.Interval_2 = 970437
 Draw.Vector_2 = HEADER00
@@ -1808,7 +1826,7 @@ Select.Event_2 = SELECTPAGEDBLCLICK
 Media.Mode_3 = 2
 Media.Size_3 = 0
 
-[SUPPORT]
+[HEADER36]
 Alpha.Delay = 330769
 Back.Alpha = 42362
 Back.Color = White
@@ -1911,7 +1929,7 @@ Select.Frame_7 = Pink
 Shadow.Alpha_7 = 0
 Speed_7 = 41172
 
-[VISION]
+[HEADER37]
 Alpha.Delay = 234615
 Back.Alpha = 12712
 Border = 30
@@ -2005,7 +2023,7 @@ Shadow.Color_7 = Teal
 Shadow.Offset_7 = 0
 Speed_7 = 64149
 
-[MOTIVATION]
+[HEADER38]
 Border_3 = 53
 Delay.Interval_3 = 138029
 Fit_3 = 95643
@@ -2019,7 +2037,7 @@ Position.Y_3 = 54153
 Speed_3 = 13069
 Delay.Interval_6 = 49930
 
-[COHESION]
+[HEADER39]
 Back.Color = Black
 Delay = 695
 Delay.Interval = 1066
@@ -2107,7 +2125,7 @@ Speed_7 = 85296
 Back.Alpha_8 = 0
 Back.Alpha_9 = 0
 
-[ORGANIZATION]
+[ERGRXOP]
 Alpha.Delay = 726923
 Alpha.Mode = 2
 Back.Alpha = 0
@@ -2189,11 +2207,10 @@ Stroke.Color = White
 Back.Alpha_3 = 0
 Border_3 = 51
 Delay_3 = 0
-Delay.Interval_3 = 44922
+Delay.Interval_3 = 39295
 Fill.Color_3 = White
 Fit_3 = 94336
 Fit.Delay_3 = 15972
-Fit.Mode_3 = 0
 Media.Size_3 = 12
 Position.Y_3 = 46951
 Rotate_3 = 17
@@ -2218,7 +2235,6 @@ Delay.Interval_3 = 3253
 Fill.Color_3 = Black
 Fit_3 = 87537
 Fit.Delay_3 = 48612
-Fit.Mode_3 = 1
 Frame.Alpha_3 = 999253
 Frame.Color_3 = White
 Media.Size_3 = 24
@@ -2319,8 +2335,13 @@ Select.Color_3 = Lavender
 Select.Frame_3 = Black
 Speed_3 = 4391
 
+[RBQUYGA]
+Back.Alpha_3 = 25695
+Context_3 = 1
+
 [IMSTLKA]
-Back.Alpha_3 = 211593
+Back.Alpha_3 = 25906
+Back.Color_3 = White
 Delay_3 = 22223
 Delay.Interval_3 = 76692
 Fit_3 = 64476
@@ -2331,9 +2352,12 @@ Position.Y_3 = 100640
 Select.Color_3 = Black
 Select.Frame_3 = White
 Speed_3 = 10641
+Position.X_7 = 388461
 
 [RBLIDWY]
 Back.Alpha_3 = 1000000
+Back.Color_3 = Black
+Context_3 = 3
 Delay_3 = 5555
 Delay.Interval_3 = 3082
 Fit_3 = 54058
@@ -2341,6 +2365,7 @@ Position.Mode_3 = 6
 Position.X_3 = 340000
 Position.Y_3 = 464637
 Speed_3 = 5780
+Position.X_7 = 340000
 
 [YUJNLBQ]
 Alpha.Delay = 131
@@ -2491,7 +2516,7 @@ Color.Value_8 = 49
 Delay_8 = 3709
 Delay.Interval_8 = 10128
 Draw.Photo_8 = 99200.svg
-Draw.Vector_8 = ARROW1
+Draw.Vector_8 = ANIMAL00
 Fill.Style_8 = 0
 Fit_8 = 100000
 Fit.Delay_8 = 100000
@@ -2520,7 +2545,7 @@ Delay_9 = 3709
 Delay.Interval_9 = 10128
 Draw_9 = PATH2D
 Draw.Photo_9 = 99200.svg
-Draw.Vector_9 = ARROW1
+Draw.Vector_9 = ANIMAL00
 Fill.Alpha_9 = 100
 Fill.Color_9 = White
 Fit_9 = 100000
@@ -2784,7 +2809,7 @@ Stroke.Color_2 = Black
 Alpha.Delay_3 = 726923
 Back.Color_3 = Magenta
 Border_3 = 31
-Color.Delay_3 = 338461
+Color.Delay_3 = 74570
 Color.Saturation_3 = 50
 Color.Value_3 = 50
 Delay_3 = 0
@@ -2855,6 +2880,8 @@ Media.Size_9 = 1
 [VLSZOBO]
 Media.Delay = 0
 Media.Mode_2 = 1
+Color.Delay_3 = 338461
+Delay.Interval_3 = 3592
 Media.Size_3 = 40
 Position.X_3 = 773077
 Position.Y_3 = 146153
@@ -2875,7 +2902,7 @@ Fit = 108333
 Fit.Mode = 0
 Media.Mode = 2
 Media.Total = 30
-Position.Mode = 2
+Position.Mode = 4
 Position.X = 167000
 Position.Y = 143000
 Rotate.Delay = 1213
@@ -2890,22 +2917,22 @@ Stroke.Color = White
 Stroke.Width = 0
 Back.Alpha_2 = 22496
 Clear_2 = 0
+Delay.Interval_2 = 43643
 Fill.Color_2 = Blue
 Fit_2 = 76755
 Fit.Delay_2 = 14287
 Fit.Mode_2 = 1
 Media.Mode_2 = 4
 Media.Size_2 = 10
-Position.Mode_2 = 5
+Position.Mode_2 = 1
 Position.X_2 = 94339
 Rotate.Delay_2 = 2130
 Shadow.Color_2 = Black
 Shadow.Offset_2 = 4
 Speed_2 = 28548
-Alpha.Mode_3 = 2
 Border_3 = 40
 Color.Delay_3 = 4167
-Delay.Interval_3 = 25199
+Delay.Interval_3 = 16232
 Fit_3 = 72183
 Fit.Delay_3 = 2271
 Fit.Mode_3 = 0
@@ -2951,49 +2978,110 @@ Stroke.Alpha_7 = 100
 Stroke.Color_7 = White
 Stroke.Width_7 = 0
 
+[BPFXJPB]
+Alpha.Delay = 726923
+Back.Alpha = 192307
+Border = 40
+Clear = 0
+Color.Delay = 4167
+Color.Hue = 50
+Color.Saturation = 50
+Color.Value = 50
+Delay = 0
+Delay.Interval = 25199
+Draw.Vector = HEADER00
+Fill.Color = White
+Fit = 72183
+Fit.Delay = 2271
+Frame.Alpha = 954649
+Frame.Color = Black
+Frame.Reverse = 1
+Frame.Shadow.Alpha = 100
+Frame.Shadow.Color = Black
+Frame.Shadow.Offset = 2
+Media.Mode = 4
+Media.Size = 30
+Media.Total = 40
+Nub.Color = Blue
+Position.Mode = 7
+Position.X = 340000
+Position.Y = 545455
+Rotate = 23
+Rotate.Delay = 79
+Rotate.Mode = 2
+Select.Alpha = 1000000
+Select.Event = SELECTPAGEDBLCLICK
+Select.Frame = White
+Select.Frame.Alpha = 1000000
+Shadow.Color = White
+Shadow.Offset = 1
+Speed = 2192
+Stroke.Alpha = 99
+Stroke.Color = Black
+Alpha.Mode_2 = 2
+Context_2 = 1
+Delay.Interval_2 = 82034
+Fit.Delay_2 = 5953
+Media.Size_2 = 16
+Position.Mode_2 = 5
+Alpha.Mode_3 = 2
+Delay.Interval_3 = 25199
+Media.Size_3 = 0
+
 [XYNFNZU]
 Alpha.Delay = 234615
 Back.Alpha = 12712
 Border = 30
-Clear = 0
 Color.Delay = 177652
-Color.Hue = 50
-Color.Saturation = 50
 Color.Value = 81
 Delay = 695
 Delay.Interval = 1066
 Draw.Vector = GEARS11
-Fill.Color = White
 Fit = 31034
 Fit.Delay = 35522
 Fit.Mode = 1
+Frame.Alpha = 0
+Frame.Color = Beige
+Frame.Reverse = 0
+Frame.Shadow.Alpha = 0
+Frame.Shadow.Color = Beige
+Frame.Shadow.Offset = 0
 Media.Mode = 0
 Media.Size = 16
 Media.Total = 62
+Nub.Color = Beige
 Position.Mode = 0
 Position.X = 626923
 Position.Y = 434615
+Rotate = 0
 Rotate.Delay = 353846
 Rotate.Mode = 1
+Select.Alpha = 500000
+Select.Event = EMPTY
+Select.Frame = Beige
+Select.Frame.Alpha = 0
+Shadow.Color = Black
 Shadow.Offset = 2
 Speed = 4700
-Stroke.Color = Black
+Stroke.Alpha = 100
+Alpha.Mode_2 = 0
 Back.Alpha_2 = 42619
 Back.Color_2 = White
-Clear_2 = 1
 Color.Delay_2 = 6259
 Delay_2 = 7511
+Delay.Interval_2 = 34811
 Draw_2 = PHOTO
 Draw.Photo_2 = 86200.png
 Draw.Vector_2 = HEADER03
-Fit_2 = 71001
+Fit_2 = 173780
+Fit.Delay_2 = 14287
 Fit.Mode_2 = 0
 Frame.Shadow.Alpha_2 = 100
 Frame.Shadow.Color_2 = Black
 Frame.Shadow.Offset_2 = 2
 Media.Mode_2 = 2
 Media.Size_2 = 1
-Position.Mode_2 = 3
+Position.Mode_2 = 1
 Position.X_2 = 137110
 Shadow.Offset_2 = 2
 Speed_2 = 25199
@@ -3018,7 +3106,6 @@ Frame.Reverse_3 = 0
 Frame.Shadow.Color_3 = Cyan
 Frame.Shadow.Offset_3 = 19
 Media.Mode_3 = 1
-Media.Size_3 = 0
 Media.Total_3 = 24
 Nub.Color_3 = Beige
 Position.Mode_3 = 6
@@ -3079,7 +3166,6 @@ Alpha.Mode = 2
 Back.Alpha = 0
 Back.Color = White
 Border = 0
-Clear = 1
 Color.Delay = 21277
 Color.Hue = 100
 Color.Saturation = 69
@@ -3101,7 +3187,7 @@ Shadow.Offset = -2
 Speed = 8372
 Stroke.Width = 14
 Alpha.Delay_2 = 726923
-Back.Alpha_2 = 273809
+Back.Alpha_2 = 117558
 Back.Color_2 = Black
 Color.Delay_2 = 11108
 Color.Value_2 = 49
@@ -3135,7 +3221,6 @@ Alpha.Delay = 330769
 Alpha.Mode = 0
 Back.Alpha = 115946
 Back.Color = Black
-Clear = 0
 Color.Delay = 44746
 Delay = 0
 Delay.Interval = 95572
@@ -3159,8 +3244,10 @@ Stroke.Width = 0
 Back.Alpha_2 = 0
 Back.Color_2 = Magenta
 Border_2 = 60
+Clear_2 = 1
 Color.Delay_2 = 50102
 Color.Value_2 = 58
+Context_2 = 2
 Delay_2 = 33593
 Delay.Interval_2 = 357692
 Draw_2 = PATH2D
@@ -4269,7 +4356,7 @@ Speed = 8129
 Stroke.Alpha = 100
 Draw.Photo_2 = 96108.jpg
 Delay_9 = 86
-Delay.Interval_9 = 18067
+Delay.Interval_9 = 783464
 Draw.Photo_9 = 99200.svg
 Fill.Style_9 = 2
 Fit_9 = 98969
@@ -6609,7 +6696,7 @@ Color.Value_8 = 49
 Delay_8 = 3709
 Delay.Interval_8 = 10128
 Draw.Photo_8 = 99200.svg
-Draw.Vector_8 = ARROW1
+Draw.Vector_8 = ANIMAL00
 Fill.Color_8 = Black
 Fill.Style_8 = 0
 Fit_8 = 100000
@@ -6634,7 +6721,7 @@ Color.Value_9 = 49
 Delay_9 = 3709
 Delay.Interval_9 = 10128
 Draw.Photo_9 = 99200.svg
-Draw.Vector_9 = ARROW1
+Draw.Vector_9 = ANIMAL00
 Fill.Color_9 = Black
 Fill.Style_9 = 0
 Fit_9 = 100000
@@ -6671,6 +6758,8 @@ Fit.Delay_3 = 97862
 Media.Delay_3 = 0
 Media.Size_3 = 40
 Position.Mode_3 = 0
+Rotate.Delay_3 = 146153
+Rotate.Mode_3 = 1
 Select.Frame.Alpha_3 = 853847
 Shadow.Alpha_3 = 0
 Shadow.Color_3 = Blue
@@ -6737,6 +6826,10 @@ Shadow.Offset_8 = -3
 Speed_8 = 40504
 Stroke.Color_8 = White
 Media.Size_9 = 0
+
+[AHQXUCZ]
+Rotate.Delay_3 = 12
+Rotate.Mode_3 = 0
 
 [QETZJKD]
 Color.Delay = 54432
@@ -7197,6 +7290,7 @@ Fit.Delay_2 = 40000
 Media.Delay_2 = 0
 Media.Mode_2 = 2
 Media.Total_2 = 15
+Pan.UpDown_2 = 0
 Position.Mode_2 = 0
 Position.Y_2 = 360000
 Rotate.Delay_2 = 0
@@ -7225,6 +7319,7 @@ Media.Delay_3 = 30434
 Media.Mode_3 = 1
 Media.Size_3 = 26
 Media.Total_3 = 9
+Pan.UpDown_3 = 0
 Position.Mode_3 = 0
 Position.X_3 = 41000
 Position.Y_3 = 97000
@@ -7349,6 +7444,7 @@ Fit.Mode_3 = 0
 Media.Delay_3 = 30434
 Media.Mode_3 = 2
 Media.Size_3 = 0
+Pan.UpDown_3 = 1
 Position.Mode_3 = 3
 Rotate.Delay_3 = 492308
 Speed_3 = 163994
@@ -7381,7 +7477,8 @@ Fit_7 = 36590
 Fit_8 = 36590
 
 [GPINRZN]
-Alpha.Mode_2 = 2
+Alpha.Delay_2 = 742308
+Alpha.Mode_2 = 3
 Back.Alpha_2 = 107026
 Draw.Photo_2 = 86200.png
 Fit_2 = 115758
@@ -7389,9 +7486,13 @@ Fit.Delay_2 = 24892
 Media.Delay_2 = 11026
 Media.Size_2 = 36
 Media.Total_2 = 18
-Speed_2 = 4700
+Pan.UpDown_2 = 1
+Position.Mode_2 = 2
+Rotate_2 = 1
+Speed_2 = 27617
 
 [MAPIKLV]
+Alpha.Delay_2 = 234615
 Alpha.Mode_2 = 0
 Clear_2 = 1
 Draw.Photo_2 = 99000.jpg
@@ -7399,6 +7500,8 @@ Media.Size_2 = 26
 Position.Mode_2 = 7
 Position.X_2 = 930770
 Position.Y_2 = 415385
+Rotate_2 = 0
+Speed_2 = 4700
 
 [ATPEDJN]
 Speed = 24306
@@ -7416,14 +7519,17 @@ Media.Delay_2 = 32173
 Media.Mode_2 = 5
 Media.Size_2 = 16
 Media.Total_2 = 50
+Pan.UpDown_2 = 0
 Position.Mode_2 = 0
 Position.X_2 = 789144
 Position.Y_2 = 914405
-Speed_2 = 235212
+Speed_2 = 346154
 Media.Delay_3 = 0
 Media.Mode_3 = 0
 
 [ZEPNEWI]
+Pan.UpDown_2 = 1
+Speed_2 = 334615
 Alpha.Delay_3 = 726923
 Alpha.Mode_3 = 2
 Back.Color_3 = Magenta
@@ -7462,6 +7568,8 @@ Stroke.Color_3 = Black
 Back.Alpha_2 = 13261
 Color.Saturation_2 = 93
 Draw.Vector_2 = LEAF00
+Pan.UpDown_2 = 0
+Speed_2 = 235212
 Alpha.Delay_3 = 150375
 Alpha.Mode_3 = 0
 Back.Color_3 = White
@@ -7496,39 +7604,13 @@ Shadow.Offset_3 = -2
 Speed_3 = 163994
 Stroke.Color_3 = Beige
 
-[ZGCVRGH]
-Alpha.Mode_2 = 0
-Back.Alpha_2 = 56317
-Draw.Vector_2 = MUSIC00
-Fit_2 = 52297
-Speed_2 = 773077
-
-[YEYCSGG]
-Back.Alpha_2 = 77151
-Color.Delay_2 = 1260
-Color.Hue_2 = 84
-Delay_2 = 1
-Draw.Vector_2 = SPEEDSKATER00
-Fit.Delay_2 = 5926
-Media.Delay_2 = 0
-Media.Size_2 = 25
-Media.Total_2 = 25
-Speed_2 = 21530
-
 [QLQSHHU]
-Alpha.Mode_2 = 2
 Back.Alpha_2 = 48016
-Color.Delay_2 = 11677
-Color.Hue_2 = 50
 Color.Saturation_2 = 50
 Color.Value_2 = 77
-Delay_2 = 376923
 Draw.Vector_2 = BUTTERFLY00
-Fit_2 = 36590
 Fit.Delay_2 = 34794
 Media.Delay_2 = 56087
-Media.Size_2 = 16
-Media.Total_2 = 50
 Position.X_2 = 234000
 Position.Y_2 = 194000
 Speed_2 = 496173
@@ -7606,6 +7688,7 @@ Media.Delay_2 = 31739
 Media.Mode_2 = 2
 Media.Size_2 = 1
 Media.Total_2 = 14
+Pan.UpDown_2 = 1
 Position.Mode_2 = 2
 Position.X_2 = 296154
 Position.Y_2 = 207692
