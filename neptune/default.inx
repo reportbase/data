@@ -1,9 +1,13 @@
-﻿[HEADER01]
+﻿[UJIQNBT]
 Alpha.Delay = 330769
 Alpha.Mode = 0
 Back.Alpha = 42615
 Back.Color = White
 Border = 0
+Cassini.Inner = 0
+Cassini.Outer = 0
+Cassini.Size = 0
+Cassini.Wrap = 0
 Clear = 0
 Color.Delay = 44746
 Color.Hue = 100
@@ -28,14 +32,6 @@ Frame.Reverse = 0
 Frame.Shadow.Alpha = 0
 Frame.Shadow.Color = Beige
 Frame.Shadow.Offset = 0
-Kuiper.Count = 0
-Kuiper.Effect = 0
-Kuiper.Effect2 = 0
-Kuiper.Effect2.Delay = 0
-Kuiper.Effect3 = 0
-Kuiper.Effect3.Delay = 0
-Kuiper.Effect.Delay = 0
-Kuiper.Radius = 0
 Layout = ALPHA
 Media.Delay = 0
 Media.Mode = 4
@@ -56,7 +52,7 @@ Rotate.Delay = 310077
 Rotate.Mode = 1
 Select.Alpha = 500000
 Select.Color = Black
-Select.Event = EMPTY
+Select.Event = ALGORITHM
 Select.Frame = Beige
 Select.Frame.Alpha = 0
 Select.Shadow = Beige
@@ -120,7 +116,7 @@ Rotate.Delay_2 = 1213
 Rotate.Mode_2 = 0
 Select.Alpha_2 = 500000
 Select.Color_2 = Black
-Select.Event_2 = EMPTY
+Select.Event_2 = ALGORITHM
 Select.Frame_2 = Beige
 Select.Frame.Alpha_2 = 0
 Select.Shadow_2 = Beige
@@ -312,7 +308,7 @@ Rotate.Delay_5 = 12
 Rotate.Mode_5 = 2
 Select.Alpha_5 = 0
 Select.Color_5 = Black
-Select.Event_5 = EMPTY
+Select.Event_5 = ALGORITHM
 Select.Frame_5 = Beige
 Select.Frame.Alpha_5 = 0
 Select.Shadow_5 = Beige
@@ -504,7 +500,7 @@ Rotate.Delay_8 = 12
 Rotate.Mode_8 = 2
 Select.Alpha_8 = 500000
 Select.Color_8 = Black
-Select.Event_8 = EMPTY
+Select.Event_8 = ALGORITHM
 Select.Frame_8 = Beige
 Select.Frame.Alpha_8 = 0
 Select.Shadow_8 = Beige
@@ -568,7 +564,7 @@ Rotate.Delay_9 = 12
 Rotate.Mode_9 = 2
 Select.Alpha_9 = 500000
 Select.Color_9 = Black
-Select.Event_9 = EMPTY
+Select.Event_9 = ALGORITHM
 Select.Frame_9 = Beige
 Select.Frame.Alpha_9 = 0
 Select.Shadow_9 = Beige
@@ -584,7 +580,7 @@ Stroke.Color_9 = Beige
 Stroke.Width_9 = 0
 Time.Start_9 = 0
 
-[HEADER02]
+[NYUONVS]
 Draw = PHOTO
 Border_3 = 20
 Draw_3 = PHOTO
@@ -606,7 +602,7 @@ Select.Event_7 = DOWNLOAD
 Select.Frame.Alpha_7 = 1000000
 Select.Shadow.Alpha_7 = 1000000
 
-[HEADER03]
+[TDXGYNA]
 Border_3 = 5
 Fill.Color_3 = White
 Fit.Mode_3 = 0
@@ -653,7 +649,7 @@ Rotate_7 = 0
 Rotate.Delay_7 = 100
 Select.Alpha_7 = 776923
 Select.Color_7 = Black
-Select.Event_7 = EMPTY
+Select.Event_7 = ALGORITHM
 Select.Frame_7 = Red
 Select.Shadow.Alpha_7 = 0
 Shadow.Color_7 = Black
@@ -661,7 +657,7 @@ Shadow.Offset_7 = 2
 Speed_7 = 2882
 Stroke.Color_7 = Black
 
-[HEADER04]
+[KELFWOP]
 Color.Delay = 37860
 Draw = PATH2D
 Media.Mode = 2
@@ -717,22 +713,22 @@ Stroke.Color_7 = Beige
 Media.Size_8 = 1
 Media.Size_9 = 1
 
-[HEADER05]
+[YWTMORY]
 Color.Delay = 44746
 Fit_3 = 99017
 
-[HEADER06]
+[ADEDDFN]
 Delay.Interval_3 = 54910
 Fit_3 = 99799
 
-[HEADER07]
+[SWLQSKS]
 Alpha.Mode_3 = 2
 Fit_3 = 99884
 Fit.Delay_3 = 28948
 Fit.Mode_3 = 0
 Media.Size_3 = 20
 
-[HEADER08]
+[HTGEEVV]
 Back.Alpha = 42362
 Fit = 25577
 Speed = 6640
@@ -760,11 +756,11 @@ Rotate.Mode_3 = 0
 Speed_3 = 26810
 Stroke.Alpha_3 = 100
 
-[HEADER09]
+[ACELXHR]
 Delay.Interval_3 = 31250
 Fit_3 = 99531
 
-[HEADER10]
+[PHMCIZX]
 Fit = 21554
 Color.Value_2 = 70
 Alpha.Delay_3 = 726923
@@ -790,7 +786,7 @@ Speed_3 = 63161
 Stroke.Alpha_3 = 99
 Time.Start_3 = 0
 
-[HEADER11]
+[BMXWKXO]
 Fit = 26439
 Border_3 = 40
 Color.Delay_3 = 4167
@@ -813,7 +809,7 @@ Shadow.Mode_3 = 1
 Shadow.Offset_3 = 3
 Speed_3 = 2936
 
-[HEADER12]
+[DKQGDDV]
 Fit = 27013
 Color.Value_3 = 50
 Delay_3 = 0
@@ -827,7 +823,7 @@ Shadow.Mode_3 = 0
 Shadow.Offset_3 = 1
 Speed_3 = 5198
 
-[HEADER13]
+[JPJDCWJ]
 Fit = 22991
 Alpha.Mode_3 = 0
 Border_3 = 97
@@ -843,7 +839,7 @@ Rotate.Delay_3 = 79
 Rotate.Mode_3 = 2
 Speed_3 = 6984
 
-[HEADER14]
+[XHIHHEV]
 Fit = 25290
 Border_3 = 30
 Delay.Interval_3 = 324643
@@ -860,7 +856,7 @@ Position.X_3 = 139535
 Position.Y_3 = 208372
 Speed_3 = 13887
 
-[HEADER15]
+[WVQJXXY]
 Fit = 22990
 Alpha.Delay_2 = 726923
 Back.Color_2 = Magenta
@@ -921,7 +917,7 @@ Rotate_3 = 33
 Rotate.Delay_3 = 38
 Speed_3 = 2742
 
-[HEADER16]
+[MGOJKTQ]
 Fit = 17818
 Rotate = 9
 Alpha.Delay_2 = 131
@@ -954,7 +950,7 @@ Rotate_2 = 0
 Rotate.Delay_2 = 1213
 Rotate.Mode_2 = 0
 Select.Alpha_2 = 500000
-Select.Event_2 = EMPTY
+Select.Event_2 = ALGORITHM
 Select.Frame_2 = Beige
 Select.Frame.Alpha_2 = 0
 Shadow.Color_2 = Black
@@ -988,7 +984,7 @@ Speed_3 = 8316
 Rotate.Delay_5 = 0
 Rotate.Mode_5 = 1
 
-[HEADER17]
+[FAUNTHX]
 Fit = 14082
 Rotate = 1
 Position.X_2 = 167000
@@ -1019,7 +1015,7 @@ Speed_3 = 9465
 Rotate.Delay_5 = 12
 Rotate.Mode_5 = 2
 
-[HEADER18]
+[VUJRJJG]
 Fit = 43968
 Alpha.Mode_3 = 2
 Border_3 = 40
@@ -1039,7 +1035,7 @@ Position.Y_3 = 192361
 Rotate.Delay_3 = 79425
 Speed_3 = 15192
 
-[HEADER19]
+[WPFBJDJ]
 Alpha.Mode_3 = 0
 Delay.Interval_3 = 4913
 Fit_3 = 97364
@@ -1047,14 +1043,14 @@ Position.X_3 = 726923
 Position.Y_3 = 319231
 Speed_3 = 5470
 
-[HEADER20]
+[XUDXBNL]
 Delay.Interval_3 = 7690
 Fit_3 = 114725
 Media.Size_3 = 24
 Position.X_3 = 376923
 Position.Y_3 = 111538
 
-[HEADER21]
+[PYLWEXI]
 Color.Delay_3 = 4167
 Color.Saturation_3 = 50
 Color.Value_3 = 50
@@ -1071,7 +1067,7 @@ Rotate.Delay_3 = 126648
 Rotate.Mode_3 = 1
 Speed_3 = 2132
 
-[HEADER22]
+[DTYDULI]
 Back.Alpha_3 = 263895
 Back.Color_3 = Black
 Color.Delay_3 = 36112
@@ -1085,13 +1081,13 @@ Rotate.Delay_3 = 403846
 Shadow.Color_3 = Black
 Shadow.Offset_3 = 2
 
-[HEADER23]
+[FULRAWJ]
 Position.X_3 = 923077
 Position.Y_3 = 223077
 Rotate_3 = 37
 Rotate.Mode_3 = 2
 
-[HEADER24]
+[LCHYFNT]
 Alpha.Delay = 131
 Back.Alpha = 4147
 Back.Color = Black
@@ -1234,12 +1230,12 @@ Shadow.Offset_9 = 0
 Speed_9 = 1615
 Stroke.Color_9 = White
 
-[HEADER25]
+[BIELDLF]
 Fit = 108758
 Media.Size = 1
 Position.Mode = 2
 
-[HEADER26]
+[SQKTJRU]
 Fill.Alpha = 24
 Fit = 33757
 Media.Mode = 2
@@ -1284,10 +1280,10 @@ Frame.Shadow.Alpha_3 = 100
 Frame.Shadow.Color_3 = Black
 Frame.Shadow.Offset_3 = 2
 Position.Y_3 = 12915
-Select.Event_3 = EMPTY
+Select.Event_3 = ALGORITHM
 Speed_3 = 171264
 
-[HEADER27]
+[KRGVQRB]
 Alpha.Delay = 330769
 Back.Alpha = 42362
 Clear = 0
@@ -1354,13 +1350,13 @@ Media.Total_6 = 30
 Pan.Speed_6 = 9
 Position.Y_6 = 308176
 Select.Color_6 = White
-Select.Event_6 = EMPTY
+Select.Event_6 = ALGORITHM
 Select.Frame_6 = Black
 Shadow.Color_6 = Black
 Shadow.Offset_6 = 2
 Speed_6 = 3571
 
-[HEADER28]
+[RWVVGXC]
 Alpha.Delay = 234615
 Back.Alpha = 12712
 Back.Color = White
@@ -1459,7 +1455,7 @@ Time.Start_3 = 0
 Delay.Interval_6 = 606161
 Pan.Speed_6 = 5
 
-[HEADER29]
+[QLQXKKM]
 Alpha.Delay = 131
 Back.Alpha = 109029
 Border = 0
@@ -1595,7 +1591,7 @@ Shadow.Color_6 = Magenta
 Shadow.Offset_6 = 0
 Speed_6 = 2633
 
-[HEADER30]
+[TBRJEQQ]
 Back.Alpha = 126975
 Back.Color = Black
 Draw.Vector = HORSERIDER00
@@ -1637,7 +1633,7 @@ Rotate_2 = 0
 Rotate.Delay_2 = 100
 Rotate.Mode_2 = 0
 Select.Alpha_2 = 1000000
-Select.Event_2 = EMPTY
+Select.Event_2 = ALGORITHM
 Select.Frame_2 = Red
 Select.Frame.Alpha_2 = 1000000
 Shadow.Offset_2 = 2
@@ -1662,12 +1658,12 @@ Media.Total_5 = 1
 Nub.Alpha_5 = 514815
 Select.Alpha_5 = 0
 Select.Color_5 = Black
-Select.Event_5 = EMPTY
+Select.Event_5 = ALGORITHM
 Select.Frame_5 = Beige
 Shadow.Offset_5 = -2
 Speed_5 = 8093
 
-[HEADER31]
+[KWEGNMO]
 Draw.Vector = SPEEDSKATER00
 Media.Delay = 23350
 Media.Total = 16
@@ -1707,14 +1703,14 @@ Rotate_7 = 0
 Rotate.Delay_7 = 100
 Select.Alpha_7 = 1000000
 Select.Color_7 = Red
-Select.Event_7 = EMPTY
+Select.Event_7 = ALGORITHM
 Select.Frame.Alpha_7 = 1000000
 Shadow.Color_7 = Black
 Shadow.Offset_7 = 2
 Speed_7 = 93753
 Stroke.Color_7 = Black
 
-[HEADER32]
+[PGJJMPJ]
 Back.Alpha = 202086
 Back.Color = Beige
 Draw.Vector = HORSERIDER00
@@ -1727,7 +1723,7 @@ Media.Size_3 = 24
 Position.Y_3 = 15490
 Speed_3 = 117648
 
-[HEADER33]
+[ETVKTBV]
 Back.Alpha = 105558
 Back.Color = Black
 Fill.Color = White
@@ -1766,7 +1762,7 @@ Shadow.Offset_2 = 1
 Speed_2 = 28521
 Stroke.Color_2 = White
 
-[HEADER34]
+[AISABNX]
 Back.Alpha = 0
 Clear = 1
 Draw.Vector = RUNNER00
@@ -1814,7 +1810,7 @@ Media.Size_3 = 28
 Speed_3 = 157406
 Speed_6 = 7494
 
-[HEADER35]
+[ILQOOLT]
 Media.Delay = 71814
 Delay.Interval_2 = 970437
 Draw.Vector_2 = HEADER00
@@ -1826,7 +1822,7 @@ Select.Event_2 = SELECTPAGEDBLCLICK
 Media.Mode_3 = 2
 Media.Size_3 = 0
 
-[HEADER36]
+[LUKEQVS]
 Alpha.Delay = 330769
 Back.Alpha = 42362
 Back.Color = White
@@ -1871,7 +1867,7 @@ Media.Total_2 = 6
 Position.Mode_2 = 6
 Position.X_2 = 340000
 Position.Y_2 = 15490
-Select.Event_2 = EMPTY
+Select.Event_2 = ALGORITHM
 Speed_2 = 117936
 Border_3 = 40
 Color.Delay_3 = 1278
@@ -1929,7 +1925,7 @@ Select.Frame_7 = Pink
 Shadow.Alpha_7 = 0
 Speed_7 = 41172
 
-[HEADER37]
+[CYVVLPH]
 Alpha.Delay = 234615
 Back.Alpha = 12712
 Border = 30
@@ -2023,7 +2019,7 @@ Shadow.Color_7 = Teal
 Shadow.Offset_7 = 0
 Speed_7 = 64149
 
-[HEADER38]
+[IPDELIZ]
 Border_3 = 53
 Delay.Interval_3 = 138029
 Fit_3 = 95643
@@ -2037,8 +2033,10 @@ Position.Y_3 = 54153
 Speed_3 = 13069
 Delay.Interval_6 = 49930
 
-[HEADER39]
+[QVOIEKN]
+Back.Alpha = 0
 Back.Color = Black
+Context = 3
 Delay = 695
 Delay.Interval = 1066
 Draw.Photo = 54000.svg
@@ -2067,13 +2065,13 @@ Shadow.Color_2 = Black
 Shadow.Offset_2 = 2
 Speed_2 = 24506
 Alpha.Delay_3 = 726923
-Back.Alpha_3 = 500000
+Back.Alpha_3 = 63138
 Back.Color_3 = Black
 Border_3 = 52
+Clear_3 = 0
 Color.Delay_3 = 4751
 Color.Value_3 = 50
 Delay.Interval_3 = 19042
-Fill.Color_3 = Beige
 Fit_3 = 95726
 Fit.Delay_3 = 14287
 Frame.Alpha_3 = 0
@@ -2126,40 +2124,18 @@ Back.Alpha_8 = 0
 Back.Alpha_9 = 0
 
 [ERGRXOP]
-Alpha.Delay = 726923
-Alpha.Mode = 2
-Back.Alpha = 0
-Back.Color = Magenta
-Border = 51
-Clear = 1
-Color.Delay = 3362
-Color.Value = 100
-Delay = 0
-Delay.Interval = 76375
-Draw.Vector = HEADER00
-Fit = 99126
-Fit.Delay = 2284
-Media.Mode = 2
-Media.Size = 24
-Media.Total = 40
-Position.Mode = 6
-Position.X = 340000
-Position.Y = 35629
-Rotate.Delay = 100
-Rotate.Mode = 0
-Select.Alpha = 1000000
-Select.Color = White
-Select.Event = SELECTPAGEDBLCLICK
-Select.Frame = Red
-Select.Frame.Alpha = 1000000
-Speed = 117648
+Delay.Interval = 4539
+Fit = 28256
+Media.Size = 30
+Position.Mode = 1
+Position.X = 638462
 Alpha.Delay_3 = 41719
 Alpha.Mode_3 = 0
 Back.Alpha_3 = 105076
 Border_3 = 50
-Clear_3 = 0
 Delay_3 = 22223
 Delay.Interval_3 = 8116
+Fill.Color_3 = Beige
 Fit_3 = 55447
 Fit.Delay_3 = 9722
 Media.Size_3 = 24
@@ -2172,16 +2148,12 @@ Fit_6 = 214472
 
 [VWTZCVD]
 Alpha.Delay = 131
-Alpha.Mode = 0
 Back.Alpha = 1000000
-Back.Color = Black
 Border = 0
-Clear = 0
 Color.Delay = 28750
 Color.Hue = 100
 Color.Saturation = 70
 Color.Value = 70
-Context = 3
 Delay = 165384
 Delay.Interval = 311109
 Draw.Vector = SPEEDSKATER00
@@ -2190,17 +2162,14 @@ Fit = 81944
 Fit.Delay = 87501
 Fit.Mode = 0
 Media.Delay = 18219
+Media.Mode = 2
 Media.Size = 1
 Media.Total = 16
 Position.Mode = 2
 Position.X = 167000
 Position.Y = 143000
 Rotate.Delay = 1213
-Select.Alpha = 500000
-Select.Color = Black
-Select.Event = EMPTY
-Select.Frame = Beige
-Select.Frame.Alpha = 0
+Rotate.Mode = 0
 Shadow.Offset = 1
 Speed = 38243
 Stroke.Color = White
@@ -2218,42 +2187,179 @@ Rotate.Mode_3 = 2
 Select.Color_3 = Teal
 Speed_3 = 68282
 
+[MZSVCEK]
+Draw.Vector_3 = HOMEHEAD01
+Media.Total_3 = 16
+
 [FRSYKLJ]
-Back.Alpha = 40168
+Alpha.Delay = 234615
+Back.Alpha = 0
 Back.Color = Beige
-Context = 1
-Draw.Vector = STAR00
-Fit = 81945
-Media.Delay = 0
-Rotate.Delay = 10329
-Rotate.Mode = 1
-Select.Event = SELECTPAGEDBLCLICK
+Color.Delay = 43054
+Color.Hue = 50
+Color.Saturation = 50
+Color.Value = 50
+Delay = 0
+Delay.Interval = 391720
+Draw = PHOTO
+Draw.Photo = 99200.svg
+Draw.Vector = GIRLJILL00
+Fill.Alpha = 0
+Fill.Style = 1
+Fit = 84333
+Fit.Delay = 207692
+Media.Delay = 29565
+Media.Total = 26
+Position.X = 360000
+Position.Y = 609936
+Rotate.Delay = 100
+Shadow.Offset = 2
+Speed = 8650
+Stroke.Color = Black
+Alpha.Delay_2 = 131
+Alpha.Mode_2 = 0
+Back.Alpha_2 = 40168
+Back.Color_2 = Beige
+Border_2 = 0
+Clear_2 = 0
+Color.Delay_2 = 28151
+Color.Hue_2 = 213
+Color.Saturation_2 = 70
+Color.Value_2 = 70
+Context_2 = 3
+Delay_2 = 0
+Delay.Interval_2 = 750000
+Draw.Vector_2 = STAR00
+Fill.Color_2 = White
+Fit_2 = 26390
+Fit.Delay_2 = 31250
+Media.Mode_2 = 2
+Media.Size_2 = 16
+Media.Total_2 = 16
+Position.Mode_2 = 0
+Position.X_2 = 167000
+Position.Y_2 = 143000
+Rotate.Delay_2 = 92307
+Rotate.Mode_2 = 1
+Select.Alpha_2 = 500000
+Select.Color_2 = Black
+Select.Frame.Alpha_2 = 0
+Shadow.Offset_2 = 1
+Speed_2 = 5603
+Stroke.Color_2 = White
+Back.Alpha_3 = 179865
 Border_3 = 50
-Clear_3 = 1
 Color.Delay_3 = 49196
-Delay.Interval_3 = 3253
+Delay.Interval_3 = 3947
+Draw.Vector_3 = HEADER00
 Fill.Color_3 = Black
 Fit_3 = 87537
 Fit.Delay_3 = 48612
 Frame.Alpha_3 = 999253
 Frame.Color_3 = White
 Media.Size_3 = 24
+Media.Total_3 = 40
 Position.Mode_3 = 1
 Position.Y_3 = 484998
 Select.Color_3 = Pink
 Select.Frame_3 = Black
 Shadow.Color_3 = White
 Speed_3 = 3006
+Alpha.Delay_5 = 234615
+Back.Alpha_5 = 0
+Back.Color_5 = Beige
+Color.Delay_5 = 43054
+Color.Hue_5 = 50
+Color.Saturation_5 = 50
+Color.Value_5 = 50
+Delay_5 = 23221
+Delay.Interval_5 = 391720
+Draw_5 = PHOTO
+Draw.Vector_5 = GIRLJILL00
+Fill.Color_5 = White
+Fill.Style_5 = 1
+Fit_5 = 84333
+Fit.Delay_5 = 207692
+Media.Delay_5 = 29565
+Media.Mode_5 = 2
+Media.Size_5 = 1
+Media.Total_5 = 26
+Nub_5 = 0
+Nub.Alpha_5 = 0
+Nub.Color_5 = Beige
+Nub.Extent_5 = 0
+Position.X_5 = 360000
+Position.Y_5 = 609936
+Rotate_5 = 0
+Rotate.Delay_5 = 100
+Rotate.Mode_5 = 0
+Select.Alpha_5 = 500000
+Shadow.Color_5 = Black
+Shadow.Offset_5 = 2
+Speed_5 = 8650
+Stroke.Color_5 = Black
 
 [JLATFYX]
+Alpha.Delay = 131
+Back.Alpha = 40168
 Back.Color = Black
 Clear = 1
+Color.Delay = 28750
+Color.Hue = 100
+Color.Saturation = 70
+Color.Value = 70
+Context = 1
+Delay = 165384
+Delay.Interval = 311109
+Draw = PATH2D
+Draw.Photo = 54000.svg
 Draw.Vector = SPEEDSKATER00
+Fill.Alpha = 100
+Fill.Style = 0
 Fit = 94101
+Fit.Delay = 87501
 Media.Delay = 15635
+Media.Total = 16
+Position.X = 167000
+Position.Y = 143000
 Rotate.Delay = 1213
-Rotate.Mode = 0
+Select.Event = SELECTPAGEDBLCLICK
+Shadow.Offset = 1
+Speed = 38243
+Stroke.Color = White
+Alpha.Delay_2 = 726923
+Alpha.Mode_2 = 2
+Back.Alpha_2 = 500000
+Back.Color_2 = Black
+Border_2 = 80
+Clear_2 = 1
+Color.Delay_2 = 4751
+Color.Hue_2 = 50
+Color.Saturation_2 = 50
+Color.Value_2 = 50
+Context_2 = 2
+Delay_2 = 1
+Delay.Interval_2 = 16327
+Draw.Vector_2 = HEADER00
+Fill.Color_2 = Beige
+Fit_2 = 74474
+Fit.Delay_2 = 14287
+Media.Mode_2 = 0
+Media.Size_2 = 0
+Media.Total_2 = 7
+Position.Mode_2 = 6
+Position.X_2 = 340000
+Position.Y_2 = 228511
+Rotate.Delay_2 = 100
+Rotate.Mode_2 = 0
+Select.Alpha_2 = 1000000
+Select.Color_2 = White
+Select.Frame.Alpha_2 = 1000000
+Shadow.Offset_2 = 2
+Speed_2 = 24506
+Stroke.Color_2 = Black
 Back.Alpha_3 = 62714
+Clear_3 = 1
 Delay.Interval_3 = 10198
 Fill.Color_3 = White
 Fill.Style_3 = 1
@@ -2262,6 +2368,39 @@ Frame.Color_3 = Beige
 Media.Size_3 = 25
 Position.Y_3 = 230769
 Shadow.Color_3 = Purple
+Alpha.Delay_5 = 150375
+Back.Alpha_5 = 76923
+Back.Color_5 = Grey
+Color.Delay_5 = 21277
+Color.Hue_5 = 100
+Color.Saturation_5 = 69
+Color.Value_5 = 49
+Delay_5 = 3709
+Delay.Interval_5 = 84161
+Draw_5 = PATH2D
+Draw.Vector_5 = HEADER06
+Fill.Color_5 = Black
+Fill.Style_5 = 0
+Fit_5 = 300509
+Fit.Delay_5 = 100000
+Media.Delay_5 = 0
+Media.Mode_5 = 3
+Media.Size_5 = 0
+Media.Total_5 = 1
+Nub_5 = 1
+Nub.Alpha_5 = 514815
+Nub.Color_5 = Black
+Nub.Extent_5 = 100
+Position.X_5 = 41000
+Position.Y_5 = 97000
+Rotate_5 = 270
+Rotate.Delay_5 = 12
+Rotate.Mode_5 = 2
+Select.Alpha_5 = 0
+Shadow.Color_5 = White
+Shadow.Offset_5 = -2
+Speed_5 = 8093
+Stroke.Color_5 = Beige
 
 [KNASMJH]
 Fit = 81944
@@ -2308,7 +2447,7 @@ Position.X = 234000
 Position.Y = 534615
 Rotate.Delay = 353846
 Rotate.Mode = 1
-Select.Event = EMPTY
+Select.Event = ALGORITHM
 Shadow.Offset = 2
 Speed = 4700
 Stroke.Color = Black
@@ -2645,7 +2784,7 @@ Rotate.Delay_2 = 310077
 Rotate.Mode_2 = 1
 Select.Alpha_2 = 500000
 Select.Color_2 = Black
-Select.Event_2 = EMPTY
+Select.Event_2 = ALGORITHM
 Select.Frame_2 = Beige
 Select.Frame.Alpha_2 = 0
 Shadow.Alpha_2 = 100
@@ -2719,7 +2858,7 @@ Delay.Interval_3 = 2300
 Position.Mode_3 = 2
 Rotate.Delay_3 = 102549
 Select.Alpha_3 = 0
-Select.Event_3 = EMPTY
+Select.Event_3 = ALGORITHM
 Select.Frame.Alpha_3 = 0
 
 [HAHCEUJ]
@@ -3057,7 +3196,7 @@ Rotate = 0
 Rotate.Delay = 353846
 Rotate.Mode = 1
 Select.Alpha = 500000
-Select.Event = EMPTY
+Select.Event = ALGORITHM
 Select.Frame = Beige
 Select.Frame.Alpha = 0
 Shadow.Color = Black
@@ -3545,7 +3684,7 @@ Rotate.Delay_3 = 100
 Rotate.Mode_3 = 0
 Select.Alpha_3 = 1000000
 Select.Color_3 = White
-Select.Event_3 = EMPTY
+Select.Event_3 = ALGORITHM
 Select.Frame_3 = White
 Select.Frame.Alpha_3 = 1000000
 Shadow.Alpha_3 = 0
@@ -3586,7 +3725,7 @@ Rotate_4 = 0
 Rotate.Delay_4 = 100
 Rotate.Mode_4 = 0
 Select.Alpha_4 = 1000000
-Select.Event_4 = EMPTY
+Select.Event_4 = ALGORITHM
 Select.Frame.Alpha_4 = 1000000
 Shadow.Alpha_4 = 0
 Shadow.Color_4 = Black
@@ -3978,7 +4117,7 @@ Position.Mode_2 = 2
 Position.X_2 = 340000
 Select.Alpha_2 = 0
 Select.Color_2 = White
-Select.Event_2 = EMPTY
+Select.Event_2 = ALGORITHM
 Select.Frame_2 = Black
 Select.Frame.Alpha_2 = 0
 Shadow.Alpha_2 = 0
@@ -3999,7 +4138,7 @@ Pan.UpDown_3 = 1
 Position.Mode_3 = 6
 Position.X_3 = 340000
 Select.Color_3 = White
-Select.Event_3 = EMPTY
+Select.Event_3 = ALGORITHM
 Shadow.Mode_3 = 0
 Speed_3 = 51589
 Border_4 = 40
@@ -4022,7 +4161,7 @@ Pan.UpDown_4 = 1
 Position.Mode_4 = 6
 Position.X_4 = 340000
 Select.Color_4 = White
-Select.Event_4 = EMPTY
+Select.Event_4 = ALGORITHM
 Select.Frame_4 = Black
 Select.Frame.Alpha_4 = 0
 Shadow.Alpha_4 = 0
@@ -4041,7 +4180,7 @@ Pan.UpDown_5 = 1
 Position.Mode_5 = 6
 Position.X_5 = 340000
 Select.Color_5 = White
-Select.Event_5 = EMPTY
+Select.Event_5 = ALGORITHM
 Shadow.Alpha_5 = 0
 Shadow.Mode_5 = 0
 Speed_5 = 51589
@@ -4057,7 +4196,7 @@ Pan.UpDown_6 = 1
 Position.Mode_6 = 6
 Position.X_6 = 340000
 Select.Color_6 = White
-Select.Event_6 = EMPTY
+Select.Event_6 = ALGORITHM
 Shadow.Alpha_6 = 0
 Shadow.Mode_6 = 0
 Speed_6 = 51589
@@ -4074,7 +4213,7 @@ Pan.UpDown_7 = 1
 Position.Mode_7 = 6
 Position.X_7 = 340000
 Select.Color_7 = White
-Select.Event_7 = EMPTY
+Select.Event_7 = ALGORITHM
 Shadow.Alpha_7 = 0
 Shadow.Mode_7 = 0
 Speed_7 = 51589
@@ -4091,7 +4230,7 @@ Pan.UpDown_8 = 1
 Position.Mode_8 = 6
 Position.X_8 = 340000
 Select.Color_8 = White
-Select.Event_8 = EMPTY
+Select.Event_8 = ALGORITHM
 Shadow.Alpha_8 = 0
 Shadow.Mode_8 = 0
 Speed_8 = 51589
@@ -4108,7 +4247,7 @@ Pan.UpDown_9 = 1
 Position.Mode_9 = 6
 Position.X_9 = 340000
 Select.Color_9 = White
-Select.Event_9 = EMPTY
+Select.Event_9 = ALGORITHM
 Shadow.Alpha_9 = 0
 Shadow.Mode_9 = 0
 Speed_9 = 51589
@@ -4136,7 +4275,7 @@ Position.Mode = 2
 Position.X = 340000
 Position.Y = 68854
 Select.Alpha = 0
-Select.Event = EMPTY
+Select.Event = ALGORITHM
 Select.Frame.Alpha = 0
 Speed = 51589
 Stroke.Alpha = 0
@@ -4245,7 +4384,7 @@ Media.Total_9 = 7
 Position.Mode_9 = 6
 Position.X_9 = 340000
 Position.Y_9 = 68854
-Select.Event_9 = EMPTY
+Select.Event_9 = ALGORITHM
 Select.Frame_9 = White
 Select.Frame.Alpha_9 = 1000000
 Shadow.Offset_9 = 2
@@ -4273,7 +4412,7 @@ Position.X = 149130
 Position.Y = 49565
 Select.Alpha = 0
 Select.Color = White
-Select.Event = EMPTY
+Select.Event = ALGORITHM
 Select.Frame = Black
 Select.Frame.Alpha = 0
 Speed = 18149
@@ -4300,7 +4439,7 @@ Pan.LeftRight_2 = 0
 Pan.Speed_2 = 5
 Position.Mode_2 = 2
 Position.X_2 = 340000
-Select.Event_2 = EMPTY
+Select.Event_2 = ALGORITHM
 Select.Frame_2 = Black
 Select.Frame.Alpha_2 = 0
 Shadow.Alpha_2 = 0
@@ -4883,7 +5022,7 @@ Shadow.Offset_8 = 2
 Speed_8 = 11154
 Stroke.Color_8 = Black
 Fit_9 = 97133
-Select.Event_9 = EMPTY
+Select.Event_9 = ALGORITHM
 
 [OYGVBKL]
 Alpha.Delay = 131
@@ -5319,7 +5458,7 @@ Position.Mode_3 = 2
 Position.X_3 = 167000
 Position.Y_3 = 143000
 Rotate.Delay_3 = 1212
-Select.Event_3 = EMPTY
+Select.Event_3 = ALGORITHM
 Select.Frame_3 = Black
 Shadow.Alpha_3 = 93
 Shadow.Color_3 = White
@@ -5926,7 +6065,7 @@ Position.Y_6 = 143000
 Rotate.Delay_6 = 1212
 Select.Alpha_6 = 500000
 Select.Color_6 = Black
-Select.Event_6 = EMPTY
+Select.Event_6 = ALGORITHM
 Select.Frame_6 = Beige
 Select.Frame.Alpha_6 = 0
 Shadow.Alpha_6 = 93
@@ -6008,7 +6147,7 @@ Position.X_9 = 167000
 Position.Y_9 = 143000
 Rotate.Delay_9 = 1212
 Select.Alpha_9 = 626610
-Select.Event_9 = EMPTY
+Select.Event_9 = ALGORITHM
 Select.Frame_9 = Beige
 Select.Frame.Alpha_9 = 0
 Shadow.Alpha_9 = 93
@@ -6899,7 +7038,7 @@ Rotate_3 = 270
 Rotate.Mode_3 = 2
 Select.Alpha_3 = 500000
 Select.Color_3 = Black
-Select.Event_3 = EMPTY
+Select.Event_3 = ALGORITHM
 Select.Frame_3 = Beige
 Select.Frame.Alpha_3 = 0
 Shadow.Alpha_3 = 100
@@ -7596,7 +7735,7 @@ Rotate.Delay_3 = 492308
 Rotate.Mode_3 = 1
 Select.Alpha_3 = 500000
 Select.Color_3 = Black
-Select.Event_3 = EMPTY
+Select.Event_3 = ALGORITHM
 Select.Frame_3 = Beige
 Select.Frame.Alpha_3 = 0
 Shadow.Color_3 = White
