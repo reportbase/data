@@ -1,0 +1,142 @@
+.:
+total 3452
+-rw-r--r-- 1 greg greg 3517417 Jan 24 13:20 andre-benz-625327-unsplashLabel.jpg
+drwxr-xr-x 3 greg greg    4096 Jan 27 20:16 LasVegas
+drwxr-xr-x 3 greg greg    4096 Jan 27 20:11 Miami
+drwxr-xr-x 7 greg greg    4096 Jan 24 13:22 NewYork
+drwxr-xr-x 3 greg greg    4096 Jan 27 20:08 SanFrancisco
+-rw-r--r-- 1 greg greg       0 Jan 27 20:19 tmp.txt
+
+./LasVegas:
+total 288
+-rw-r--r-- 1 greg greg 176171 Jan 27 20:16 02409675-1b95-42bb-b337-e7be501e974c.hw1.jpg
+-rw-r--r-- 1 greg greg  15846 Jan 27 20:16 Bellagio.jpg
+drwxr-xr-x 2 greg greg   4096 Jan 27 20:15 big
+-rw-r--r-- 1 greg greg  26991 Jan 27 20:16 http___cdn.cnn.com_cnnnext_dam_assets_180313182911-01-las-vegas-travel-strip.jpg
+-rw-r--r-- 1 greg greg  16156 Jan 27 20:16 LVStrip2.jpg
+-rw-r--r-- 1 greg greg  14036 Jan 27 20:16 LVStrip3.jpg
+-rw-r--r-- 1 greg greg  17621 Jan 27 20:16 LVStrip.jpg
+-rw-r--r-- 1 greg greg  10326 Jan 27 20:16 Venitian.jpg
+
+./LasVegas/big:
+total 27484
+-rw-r--r-- 1 greg greg 3699296 Jan 24 13:20 aldric-rivat-327189-unsplash.jpg
+-rw-r--r-- 1 greg greg 2415532 Jan 24 13:20 alicia-bell-1279626-unsplash.jpg
+-rw-r--r-- 1 greg greg 3854723 Jan 24 13:20 alicia-bell-1279627-unsplash.jpg
+-rw-r--r-- 1 greg greg 5026533 Jan 24 13:20 christopher-alvarenga-778453-unsplash.jpg
+-rw-r--r-- 1 greg greg  891461 Jan 24 13:20 john-such-492228-unsplashLabel.jpg
+-rw-r--r-- 1 greg greg 3473463 Jan 24 13:20 marcos-nieto-619789-unsplash.jpg
+-rw-r--r-- 1 greg greg 2688003 Jan 24 13:20 matty-adame-326235-unsplash.jpg
+-rw-r--r-- 1 greg greg 1001383 Jan 24 13:20 mike-boening-116749-unsplash.jpg
+-rw-r--r-- 1 greg greg 2879982 Jan 24 13:20 nicola-tolin-422800-unsplash.jpg
+-rw-r--r-- 1 greg greg 2187010 Jan 24 13:20 vincent-camacho-621993-unsplash.jpg
+
+./Miami:
+total 2624
+-rw-r--r-- 1 greg greg  325102 Jan 24 13:20 2991e577-a336-4dc5-92dd-57371acb3a0b.jpg
+drwxr-xr-x 2 greg greg    4096 Jan 27 20:11 big
+-rw-r--r-- 1 greg greg  477600 Jan 24 13:20 Downtown2011_08.jpg
+-rw-r--r-- 1 greg greg  149564 Jan 24 13:20 MiamiBeach.jpg
+-rw-r--r-- 1 greg greg  155337 Jan 24 13:20 miamiiii-1.jpg
+-rw-r--r-- 1 greg greg   23734 Jan 24 13:20 miami-realestate.jpg
+-rw-r--r-- 1 greg greg 1327793 Jan 24 13:20 ryan-spencer-761617-unsplashLabel.jpg
+-rw-r--r-- 1 greg greg  209037 Jan 24 13:20 t-miami-beach-waterworld-david-kamp.jpg
+
+./Miami/big:
+total 35964
+-rw-r--r-- 1 greg greg 4096648 Jan 24 13:20 ashley-satanosky-325852-unsplash.jpg
+-rw-r--r-- 1 greg greg 3199631 Jan 24 13:20 aurora-kreativ-490438-unsplash.jpg
+-rw-r--r-- 1 greg greg 6270179 Jan 24 13:20 charl-van-rooy-1201762-unsplash.jpg
+-rw-r--r-- 1 greg greg 6236955 Jan 24 13:20 jason-briscoe-397410-unsplash.jpg
+-rw-r--r-- 1 greg greg 3685864 Jan 24 13:20 josh-g-351193-unsplash.jpg
+-rw-r--r-- 1 greg greg 2306978 Jan 24 13:20 lance-asper-153777-unsplash.jpg
+-rw-r--r-- 1 greg greg 3041362 Jan 24 13:20 muzammil-soorma-797975-unsplash.jpg
+-rw-r--r-- 1 greg greg 3323128 Jan 24 13:20 raphael-nogueira-777808-unsplash.jpg
+-rw-r--r-- 1 greg greg 1496787 Jan 24 13:20 ryan-parker-399446-unsplash.jpg
+-rw-r--r-- 1 greg greg 3149558 Jan 24 13:20 steele-rutherford-725182-unsplash.jpg
+
+./NewYork:
+total 20
+drwxr-xr-x 2 greg greg 4096 Jan 24 13:21 Bronx
+drwxr-xr-x 2 greg greg 4096 Jan 24 13:21 Brooklyn
+drwxr-xr-x 2 greg greg 4096 Jan 24 13:21 Manhattan
+drwxr-xr-x 2 greg greg 4096 Jan 24 13:22 Queens
+drwxr-xr-x 2 greg greg 4096 Jan 24 13:22 StatenIsland
+
+./NewYork/Bronx:
+total 19772
+-rw-r--r-- 1 greg greg 2726501 Jan 24 13:20 austin-valleskey-1190073-unsplash.jpg
+-rw-r--r-- 1 greg greg 3335822 Jan 24 13:20 dan-gold-722910-unsplashLabel.jpg
+-rw-r--r-- 1 greg greg 1539341 Jan 24 13:21 heather-shevlin-549176-unsplash.jpg
+-rw-r--r-- 1 greg greg 1911491 Jan 24 13:21 moses-vega-693948-unsplash.jpg
+-rw-r--r-- 1 greg greg 5279213 Jan 24 13:21 renan-kamikoga-710836-unsplash.jpg
+-rw-r--r-- 1 greg greg 5447063 Jan 24 13:21 ryan-loughlin-370232-unsplash.jpg
+
+./NewYork/Brooklyn:
+total 22936
+-rw-r--r-- 1 greg greg 4039689 Jan 24 13:21 anh-le-368706-unsplash.jpg
+-rw-r--r-- 1 greg greg 4886402 Jan 24 13:21 banter-snaps-243137-unsplash.jpg
+-rw-r--r-- 1 greg greg 1251091 Jan 24 13:21 clay-banks-679636-unsplash.jpg
+-rw-r--r-- 1 greg greg 3395953 Jan 24 13:21 dean-rose-602663-unsplash.jpg
+-rw-r--r-- 1 greg greg 1798585 Jan 24 13:21 josh-wilburne-501938-unsplash.jpg
+-rw-r--r-- 1 greg greg 2710224 Jan 24 13:21 kyler-trautner-686944-unsplashLabel.jpg
+-rw-r--r-- 1 greg greg 3095048 Jan 24 13:21 paulo-silva-558147-unsplash.jpg
+-rw-r--r-- 1 greg greg 2290366 Jan 24 13:21 yonghyun-lee-414618-unsplash.jpg
+
+./NewYork/Manhattan:
+total 39580
+-rw-r--r-- 1 greg greg 2298518 Jan 24 13:21 aaron-burson-242126-unsplash.jpg
+-rw-r--r-- 1 greg greg 9860354 Jan 24 13:21 andre-benz-625327-unsplash.jpg
+-rw-r--r-- 1 greg greg 2856414 Jan 24 13:21 ben-dumond-13830-unsplash.jpg
+-rw-r--r-- 1 greg greg 1539341 Jan 24 13:21 heather-shevlin-549176-unsplash.jpg
+-rw-r--r-- 1 greg greg 1146128 Jan 24 13:21 jesse-echevarria-538921-unsplash.jpg
+-rw-r--r-- 1 greg greg 2077186 Jan 24 13:21 jonathan-pease-83071-unsplash.jpg
+-rw-r--r-- 1 greg greg 4389789 Jan 24 13:21 lerone-pieters-747616-unsplash.jpg
+-rw-r--r-- 1 greg greg 2408016 Jan 24 13:21 oliver-niblett-782400-unsplash.jpg
+-rw-r--r-- 1 greg greg 1471717 Jan 24 13:21 pedro-lastra-165789-unsplash.jpg
+-rw-r--r-- 1 greg greg 3804684 Jan 24 13:21 sam-trotman-758969-unsplashLabel.jpg
+-rw-r--r-- 1 greg greg 8656843 Jan 24 13:21 sandy-ching-673260-unsplash.jpg
+
+./NewYork/Queens:
+total 11048
+-rw-r--r-- 1 greg greg 1604857 Jan 24 13:21 diana-lopez-700823-unsplash.jpg
+-rw-r--r-- 1 greg greg 1959807 Jan 24 13:21 joe-lewandowski-786761-unsplash.jpg
+-rw-r--r-- 1 greg greg 2916002 Jan 24 13:22 kevin-bluer-365202-unsplash.jpg
+-rw-r--r-- 1 greg greg 2785307 Jan 24 13:22 linedphoto-541758-unsplash.jpg
+-rw-r--r-- 1 greg greg 1286462 Jan 24 13:22 luca-bravo-613000-unsplashLabel.jpg
+-rw-r--r-- 1 greg greg  746392 Jan 24 13:22 nicholas-bui-593851-unsplash.jpg
+
+./NewYork/StatenIsland:
+total 14160
+-rw-r--r-- 1 greg greg 2740267 Jan 24 13:22 fre-sonneveld-454959-unsplash.jpg
+-rw-r--r-- 1 greg greg 2572041 Jan 24 13:22 johnny-lorenzo-765060-unsplash.jpg
+-rw-r--r-- 1 greg greg 3433855 Jan 24 13:22 joseph-pearson-491495-unsplash.jpg
+-rw-r--r-- 1 greg greg  925711 Jan 24 13:22 justin-leibow-615-unsplash.jpg
+-rw-r--r-- 1 greg greg 2670619 Jan 24 13:22 katarzyna-ostrowska-436219-unsplash.jpg
+-rw-r--r-- 1 greg greg 1086756 Jan 24 13:22 niklas-herrmann-1212520-unsplash.jpg
+-rw-r--r-- 1 greg greg 1051639 Jan 24 13:22 simon-fairhurst-743372-unsplashLabel.jpg
+
+./SanFrancisco:
+total 672
+-rw-r--r-- 1 greg greg 129828 Jan 27 20:08 141016_city_views_94_0.jpg
+-rw-r--r-- 1 greg greg 135218 Jan 27 20:08 9cf024dfd5c0bcb2b17f4785340145ea-san-francisco.jpg
+drwxr-xr-x 2 greg greg   4096 Jan 27 20:04 big
+-rw-r--r-- 1 greg greg  10624 Jan 27 20:08 images.jpg
+-rw-r--r-- 1 greg greg  44979 Jan 27 20:08 open-uri20170929-28026-1dnilhy.jpg
+-rw-r--r-- 1 greg greg  14111 Jan 27 20:08 SFCable.jpg
+-rw-r--r-- 1 greg greg 218147 Jan 27 20:08 Skyline-Downtown-Close-up-1500.jpg
+-rw-r--r-- 1 greg greg 118533 Jan 27 20:08 spotifylocation465x465_sanfrancisco-1.jpg
+
+./SanFrancisco/big:
+total 36208
+-rw-r--r-- 1 greg greg 1428033 Jan 24 13:22 alex-sorto-412310-unsplash.jpg
+-rw-r--r-- 1 greg greg 3162137 Jan 24 13:22 amogh-manjunath-775985-unsplash.jpg
+-rw-r--r-- 1 greg greg 4255998 Jan 24 13:22 brandon-nelson-667507-unsplash.jpg
+-rw-r--r-- 1 greg greg 2892841 Jan 24 13:22 caleb-george-574729-unsplash.jpg
+-rw-r--r-- 1 greg greg 2433207 Jan 24 13:22 casey-horner-607368-unsplash.jpg
+-rw-r--r-- 1 greg greg 1664316 Jan 24 13:22 davide-ragusa-6784-unsplash.jpg
+-rw-r--r-- 1 greg greg 7910531 Jan 24 13:22 hubert-mousseigne-661359-unsplash.jpg
+-rw-r--r-- 1 greg greg 4987909 Jan 24 13:22 jared-erondu-8130-unsplash.jpg
+-rw-r--r-- 1 greg greg 2894972 Jan 24 13:22 joseph-barrientos-49318-unsplashLabel.jpg
+-rw-r--r-- 1 greg greg 1741754 Jan 24 13:22 oliver-plattner-527165-unsplash.jpg
+-rw-r--r-- 1 greg greg 3674117 Jan 24 13:22 tim-foster-601009-unsplash.jpg
