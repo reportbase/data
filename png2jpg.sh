@@ -1,1 +1,0 @@
-ls -1 *.png | xargs -n 1 bash -c 'convert "$0" "${0%.png}.jpg"'
