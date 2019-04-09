@@ -12,4 +12,4 @@ done
 
 for image in *.jpg ; do convert $image -resize 40% -quality 70 small/$image; done
 node photos.js *.jpg > photos.ini
-gzip -f photos.ini 2> tmp/out
+#gzip -f photos.ini 2> tmp/out
