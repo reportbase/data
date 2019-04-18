@@ -10,7 +10,7 @@ for i in *.svg ; do
   let a=a+1
 done
 
-mogrify -size 640 -channel rgba -background "rgba(0,0,0,0)" -format png *.svg
+mogrify -size 320 -channel rgba -background "rgba(0,0,0,0)" -format png *.svg
 mv *.png small
 node photos.js small/*.png > photos.ini
 gzip -f photos.ini 2> tmp/out
