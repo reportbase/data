@@ -121,121 +121,116 @@ link = CHILDJUMP00
 path = data/imgs/TATA/small/0075.png
 link = ADULTSTAND00
 
-[SPADES00]
+[SPADES.KING]
 path = data/imgs/CARD/small/1000.png
-parent = SPADES00
-[SPADES01]
+[SPADES.QUEEN]
 path = data/imgs/CARD/small/1001.png
-[SPADES02]
+[SPADES.JACK]
 path = data/imgs/CARD/small/1002.png
-[SPADES03]
+[SPADES.10]
 path = data/imgs/CARD/small/1003.png
-[SPADES04]
+[SPADES.09]
 path = data/imgs/CARD/small/1004.png
-[SPADES05]
+[SPADES.08]
 path = data/imgs/CARD/small/1005.png
-[SPADES06]
+[SPADES.07]
 path = data/imgs/CARD/small/1006.png
-[SPADES07]
+[SPADES.06]
 path = data/imgs/CARD/small/1007.png
-[SPADES08]
+[SPADES.05]
 path = data/imgs/CARD/small/1008.png
-[SPADES09]
+[SPADES.04]
 path = data/imgs/CARD/small/1009.png
-[SPADES10]
+[SPADES.03]
 path = data/imgs/CARD/small/1010.png
-[SPADES11]
+[SPADES.02]
 path = data/imgs/CARD/small/1011.png
-[SPADES12]
+[SPADES.ACE]
 path = data/imgs/CARD/small/1012.png
 
-[CLUBS00]
+[CLUBS.KING]
 path = data/imgs/CARD/small/2000.png
-parent = CLUBS
-[CLUBS01]
+[CLUBS.QUEEN]
 path = data/imgs/CARD/small/2001.png
-[CLUBS02]
+[CLUBS.JACK]
 path = data/imgs/CARD/small/2002.png
-[CLUBS03]
+[CLUBS.10]
 path = data/imgs/CARD/small/2003.png
-[CLUBS04]
+[CLUBS.09]
 path = data/imgs/CARD/small/2004.png
-[CLUBS05]
+[CLUBS.08]
 path = data/imgs/CARD/small/2005.png
-[CLUBS06]
+[CLUBS.07]
 path = data/imgs/CARD/small/2006.png
-[CLUBS07]
+[CLUBS.06]
 path = data/imgs/CARD/small/2007.png
-[CLUBS08]
+[CLUBS.05]
 path = data/imgs/CARD/small/2008.png
-[CLUBS09]
+[CLUBS.04]
 path = data/imgs/CARD/small/2009.png
-[CLUBS10]
+[CLUBS.03]
 path = data/imgs/CARD/small/2010.png
-[CLUBS11]
+[CLUBS.02]
 path = data/imgs/CARD/small/2011.png
-[CLUBS12]
+[CLUBS.ACE]
 path = data/imgs/CARD/small/2012.png
 
-[DIAMONDS00]
+[DIAMONDS.KING]
 path = data/imgs/CARD/small/3000.png
-parent = DIAMONDS
-[DIAMONDS01]
+[DIAMONDS.QUEEN]
 path = data/imgs/CARD/small/3001.png
-[DIAMONDS02]
+[DIAMONDS.JACK]
 path = data/imgs/CARD/small/3002.png
-[DIAMONDS03]
+[DIAMONDS.10]
 path = data/imgs/CARD/small/3003.png
-[DIAMONDS04]
+[DIAMONDS.09]
 path = data/imgs/CARD/small/3004.png
-[DIAMONDS05]
+[DIAMONDS.08]
 path = data/imgs/CARD/small/3005.png
-[DIAMONDS06]
+[DIAMONDS.07]
 path = data/imgs/CARD/small/3006.png
-[DIAMONDS07]
+[DIAMONDS.06]
 path = data/imgs/CARD/small/3007.png
-[DIAMONDS08]
+[DIAMONDS.05]
 path = data/imgs/CARD/small/3008.png
-[DIAMONDS09]
+[DIAMONDS.04]
 path = data/imgs/CARD/small/3009.png
-[DIAMONDS10]
+[DIAMONDS.03]
 path = data/imgs/CARD/small/3010.png
-[DIAMONDS11]
+[DIAMONDS.02]
 path = data/imgs/CARD/small/3011.png
-[DIAMONDS12]
+[DIAMONDS.ACE]
 path = data/imgs/CARD/small/3012.png
 
-[HEARTS00]
+[HEARTS.KING]
 path = data/imgs/CARD/small/4000.png
-parent = HEARTS
-[HEARTS01]
+[HEARTS.QUEEN]
 path = data/imgs/CARD/small/4001.png
-[HEARTS02]
+[HEARTS.JACK]
 path = data/imgs/CARD/small/4002.png
-[HEARTS03]
+[HEARTS.10]
 path = data/imgs/CARD/small/4003.png
-[HEARTS04]
+[HEARTS.09]
 path = data/imgs/CARD/small/4004.png
-[HEARTS05]
+[HEARTS.08]
 path = data/imgs/CARD/small/4005.png
-[HEARTS06]
+[HEARTS.07]
 path = data/imgs/CARD/small/4006.png
-[HEARTS07]
+[HEARTS.06]
 path = data/imgs/CARD/small/4007.png
-[HEARTS08]
+[HEARTS.05]
 path = data/imgs/CARD/small/4008.png
-[HEARTS09]
+[HEARTS.04]
 path = data/imgs/CARD/small/4009.png
-[HEARTS10]
+[HEARTS.03]
 path = data/imgs/CARD/small/4010.png
-[HEARTS11]
+[HEARTS.02]
 path = data/imgs/CARD/small/4011.png
-[HEARTS12]
+[HEARTS.ACE]
 path = data/imgs/CARD/small/4012.png
 
 [CREDIT00]
 path = data/imgs/WABE/small/7000.png
-parent = CREDIT
 [CREDIT01]
 path = data/imgs/WABE/small/7001.png
 [CREDIT02]
@@ -3367,3 +3362,209 @@ path = data/imgs/KLOR/small/0116.png
 path = data/imgs/KLOR/small/0117.png
 [KLOR0118.png]
 path = data/imgs/KLOR/small/0118.png
+
+[LETTER.A]
+path = data/imgs/RETR/small/a.png
+link = 1000
+[LETTER.B]
+path = data/imgs/RETR/small/b.png
+link = 1001
+[LETTER.C]
+path = data/imgs/RETR/small/c.png
+link = 1002
+[LETTER.D]
+path = data/imgs/RETR/small/d.png
+link = 1003
+[LETTER.E]
+path = data/imgs/RETR/small/e.png
+link = 1004
+[LETTER.F]
+path = data/imgs/RETR/small/f.png
+link = 1005
+[LETTER.G]
+path = data/imgs/RETR/small/g.png
+link = 1006
+[LETTER.H]
+path = data/imgs/RETR/small/h.png
+link = 1007
+[LETTER.I]
+path = data/imgs/RETR/small/i.png
+link = 1008
+[LETTER.J]
+path = data/imgs/RETR/small/j.png
+link = 1009
+[LETTER.K]
+path = data/imgs/RETR/small/k.png
+link = 1010
+[LETTER.L]
+path = data/imgs/RETR/small/l.png
+link = 1011
+[LETTER.M]
+path = data/imgs/RETR/small/m.png
+link = 1012
+[LETTER.N]
+path = data/imgs/RETR/small/n.png
+link = 1013
+[LETTER.O]
+path = data/imgs/RETR/small/o.png
+link = 1014
+[LETTER.P]
+path = data/imgs/RETR/small/p.png
+link = 1015
+[LETTER.Q]
+path = data/imgs/RETR/small/q.png
+link = 1016
+[LETTER.R]
+path = data/imgs/RETR/small/r.png
+link = 1017
+[LETTER.S]
+path = data/imgs/RETR/small/s.png
+link = 1018
+[LETTER.T]
+path = data/imgs/RETR/small/t.png
+link = 1019
+[LETTER.U]
+path = data/imgs/RETR/small/u.png
+link = 1020
+[LETTER.V]
+path = data/imgs/RETR/small/v.png
+link = 1021
+[LETTER.W]
+path = data/imgs/RETR/small/w.png
+link = 1022
+[LETTER.X]
+path = data/imgs/RETR/small/x.png
+link = 2004
+[LETTER.Y]
+path = data/imgs/RETR/small/y.png
+link = 2005
+[LETTER.Z]
+path = data/imgs/RETR/small/z.png
+link = 2006
+
+[LETTER.A2]
+path = data/imgs/LETT/0013.png
+link = 2007
+[LETTER.B2]
+path = data/imgs/LETT/0014.png
+link = 2008
+[LETTER.C2]
+path = data/imgs/LETT/0015.png
+link = 2009
+[LETTER.D2]
+path = data/imgs/LETT/0016.png
+link = 2010
+[LETTER.E2]
+path = data/imgs/LETT/0017.png
+link = 2011
+[LETTER.F2]
+path = data/imgs/LETT/0018.png
+link = 2012
+[LETTER.G2]
+path = data/imgs/LETT/0019.png
+link = 2013
+[LETTER.H2]
+path = data/imgs/LETT/0020.png
+link = TODO 2014
+[LETTER.I2]
+path = data/imgs/LETT/0021.png
+link = 2015
+[LETTER.J2]
+path = data/imgs/LETT/0022.png
+link = 2016
+[LETTER.K2]
+path = data/imgs/LETT/0023.png
+link = 2017
+[LETTER.L2]
+path = data/imgs/LETT/0024.png
+link = 2018
+[LETTER.M2]
+path = data/imgs/LETT/0025.png
+link = 2019
+[LETTER.N2]
+path = data/imgs/LETT/0026.png
+link = 2500
+[LETTER.O2]
+path = data/imgs/LETT/0027.png
+link = 2501
+[LETTER.P2]
+path = data/imgs/LETT/0028.png
+link = 2502
+[LETTER.Q2]
+path = data/imgs/LETT/0029.png
+link = 2503
+[LETTER.R2]
+path = data/imgs/LETT/0030.png
+link = 2504
+[LETTER.S2]
+path = data/imgs/LETT/0031.png
+link = 2505
+[LETTER.T2]
+path = data/imgs/LETT/0032.png
+link = 2506
+[LETTER.U2]
+path = data/imgs/LETT/0033.png
+link = 2507
+[LETTER.V2]
+path = data/imgs/LETT/0034.png
+link = 2508
+[LETTER.W2]
+path = data/imgs/LETT/0035.png
+link = 2509
+[LETTER.X2]
+path = data/imgs/LETT/0036.png
+link = 2510
+[LETTER.Y2]
+path = data/imgs/LETT/0037.png
+link = 2511
+[LETTER.Z2]
+path = data/imgs/LETT/0038.png
+link = 2512
+
+[AIRTRAVEL]
+path = data/imgs/RETR/small/airtravel.png
+link = 2513
+[ATHENS]
+path = data/imgs/RETR/small/athens.png
+link = 2514
+[BRAZIL]
+path = data/imgs/RETR/small/brazil.png
+link = 2515
+[EASTER]
+path = data/imgs/RETR/small/easter.png
+link = 2516
+[HAWAII]
+path = data/imgs/RETR/small/hawaii.png
+link = 2517
+[INDIA]
+path = data/imgs/RETR/small/india.png
+link = 2518
+[JAPAN]
+path = data/imgs/RETR/small/japan.png
+link = 2600
+[LONDON]
+path = data/imgs/RETR/small/london.png
+link = 2601
+[MEXICO]
+path = data/imgs/RETR/small/mexico.png
+link = 2602
+[NEWYORK]
+path = data/imgs/RETR/small/newyork.png
+link = 2603
+[PARIS]
+path = data/imgs/RETR/small/paris.png
+link = 2604
+[ROME]
+path = data/imgs/RETR/small/rome.png
+link = 2605
+[SANFRANCISCO]
+path = data/imgs/RETR/small/sanfranciso.png
+link = 2606
+[SWISS]
+path = data/imgs/RETR/small/swiss.png
+link = 2607
+[TURKEY]
+path = data/imgs/RETR/small/turkey.png
+link = 2608
+
+

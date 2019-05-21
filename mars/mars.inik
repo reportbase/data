@@ -1,0 +1,330 @@
+#GOOGLE 14
+
+[MAIL]
+link = https://mail.google.com
+title = Mail
+
+[BOOKS]
+link = https://play.google.com/books
+title = Books
+
+[VIDEO]
+link = https://youtube.com
+title = Video
+
+[DRIVE]
+link = https://drive.google.com/drive/u/0/my-drive
+title = Drive
+
+[VOICE]
+link = https://voice.google.com
+title = Voice
+
+[CALENDAR]
+title = Calendar
+link = https://calendar.google.com/calendar/render?pli=1#main_7
+
+[MUSIC]
+title = Music
+link = https://play.google.com/music/listen?u=0#/home
+
+[NEWS]
+link = https://news.google.com/news/?ned=us&gl=US&hl=en
+title = News
+
+[CONTACTS]
+link = https://contacts.google.com
+title = Contacts
+
+[PHOTOS]
+link = https://photos.google.com/
+title = Photos
+
+[MAP]
+link = https://www.google.com/maps
+title = Map
+
+[APPS]
+link = https://reportbase.com/?p=data/mars/mars.ini&k=apps&y=271
+title = Apps
+
+[LINKS]
+link = https://reportbase.com/?p=data/mars/mars.ini&k=links&y=271
+title = Links
+
+[PODCASTS]
+link = https://reportbase.com/?p=data/mars/mars.ini&k=podcasts&y=271
+title = Podcasts
+
+#APPS 13
+
+[DESMOS]
+link = https://www.desmos.com/
+describe = Equaition Visualizer.  Math
+title = Desmos
+
+[JsTorrent]
+link = https://chrome.google.com/webstore/detail/jstorrent/anhdpjpojoipgpmfanmedjghaligalgb
+title = JS Torrent
+
+[PNGTOOLS]
+link = https://onlinepngtools.com
+base64 = convert-png-to-base64
+title = PNG Tools
+
+[NUMBERTOOLS]
+link = https://onlinenumbertools.com/
+title = Number Tools
+
+[PAGETEST]
+link = http://www.webpagetest.org
+title = Webpagetest
+
+[WEBASSEMBLYSTUDIO]
+link = https://webassembly.studio/
+title = Web Assembly Studio
+
+[OBFUSCATOR]
+title = Obfuscator
+link = https://obfuscator.io/
+
+[SVGEditor]
+link = http://editor.method.ac/
+title = SVG Vector Editor
+
+[WEBHINT]
+title = Webhint
+link = https://webhint.io
+describe = test website
+
+[WEBDEV]
+title = Webdev
+link = https://web.dev/
+describe = test website
+
+[VARVY]
+title = Varvy
+link = https://varvy.com/
+describe = test website
+
+[SKYPE]
+link = https://www.skype.com/en/
+title = Skype
+
+[SOFTMURMUR]
+link = https://asoftmurmur.com/
+title = Soft Murmur
+
+#PODCASTS 16
+
+[Joe.Rogan]
+title = Joe Rogan
+link = http://podcasts.joerogan.net/podcasts
+
+[50Things]
+title = 50 Things
+link = https://www.bbc.co.uk/programmes/p04b1g3c
+
+[NPR]
+title = NPR Podcast Directory
+link = https://www.npr.org/podcasts/
+
+[Big.Think]
+link = https://bigthink.com/
+title = Big Think
+
+[Serial]
+title = Serial
+link = https://serialpodcast.org/
+
+[Pop.Culture]
+title = Pop.Culture
+link = https://www.npr.org/podcasts/510282/pop-culture-happy-hour
+
+[Sam.Harris]
+title = Sam Harris
+link = https://samharris.org/
+
+[Radio.Lab]
+title = Radio Lab
+link = https://www.wnycstudios.org/shows/radiolab
+
+[Dan.Carlin]
+title = Dan Carlin
+link = https://www.dancarlin.com/
+
+[NBCNews]
+link = https://art19.com/shows/nbc-nightly-news
+title = NBC Nightly News
+
+[Ted.Radio]
+link = https://www.npr.org/programs/ted-radio-hour/
+title = Ted Talk
+
+[PBS.News]
+link = https://www.pbs.org/show/newshour/
+title = PBS News Hour
+
+[60Minutes]
+link = http://podbay.fm/show/81210923
+title = 60 Minutes
+
+[StateOfTrance]
+link = https://www.youtube.com/channel/UCu5jfQcpRLm9xhmlSd5S8xw
+title = State of Trance
+
+[MineField]
+link = https://www.youtube.com/watch?v=1sl5KJ69qiA 
+title = Mine Field
+
+[CoccolinoDeep]
+link = https://www.youtube.com/channel/UCdJa8L2rQJ6vPzgSDc_xQqA
+title = Coccolino Deep
+
+#LINKS 32
+
+[DEPOSIT]
+link = https://depositphotos.com
+title = Deposit Photos
+bookmarked = 1
+
+[HACKER]
+link = https://news.ycombinator.com/
+title = Hacker News
+
+[DWITTER]
+link = https://www.dwitter.net
+title = Dwitter
+
+[AFFINITY]
+link = https://affinity.serif.com/en-us/
+help = https://affinity.help
+forum = https://forum.affinity.serif.com/
+title = Affinity 
+color = #31819d
+describe = svg editor
+
+[BBCEarth]
+link = https://www.bbcearth.com
+title = BBCEarth
+
+[ADOBE]
+link = https://contributor.stock.adobe.com/en/uploads
+link2 = https://stock.adobe.com/
+title = Adobe
+
+[AXIOS]
+link = http://www.axios.com
+title = Axios
+
+[CLOUDFLARE]
+link = https://dash.cloudflare.com/722a1d3674ae54abfcfd3dd81456bbcc
+title = Cloudflare
+
+[COMICS]
+link = https://digital.darkhorse.com/bookshelf
+title = Comics
+
+[GITHUB]
+link = https://github.com
+title = Github
+
+[GODADDY]
+link = https://dcc.godaddy.com/domains/?ci=
+title = Godaddy
+
+[LINUXCLOUD]
+link = https://www.linuxcloudvps.com
+title = Linux Cloud
+
+[NAUTILUS]
+link = http://m.nautil.us
+title = Nautilus
+
+[NEWYORKER]
+link = http://www.newyorker.com/
+title = New Yorker
+
+[CRITERION]
+link = https://www.newcriterion.com/
+title = Criterion
+
+[QUANTA]
+link = https://www.quantamagazine.org
+title = Quanta
+
+[QUARTZ]
+link = https://qz.com/
+title = Quartz
+
+[SLASHDOT]
+link = http://www.slashdot.org
+title = Slashdot
+
+[TECHNOLOGY]
+link = https://www.technologyreview.com
+title = Technology Review
+
+[UDACITY]
+link = https://www.udacity.com
+title = Udacity
+
+
+[ARTNOME]
+link = https://www.artnome.com/
+title = Artnome
+color = #318afa
+
+[APARTMENT]
+link = https://belleviewstation.activebuilding.com/portal/profile/view/id/1058243
+title = Apartment
+color = #314abb
+
+[CHESS]
+link = https://lichess.org/
+title = Chess
+color = #abcdaa
+
+[Twitter]
+link = https://twitter.com/
+title = Twitter
+user = reportbase@gmail.com
+
+[Tumbler]
+link = https://www.tumblr.com/dashboard
+link2 = https://repba.tumblr.com
+link3 = https://repba.tumblr.com/archive
+title = Tumbler
+user = tom@repba.com
+
+[NATIONALGEO]
+title = National Geographic
+link = https://www.nationalgeographic.com/
+
+[DISCOVERIES]
+title = The Daily Discovery
+link = https://dailygalaxy.com/
+
+[PERFORMANCE]
+link = https://3perf.com/talks/web-perf-101/
+title = Web Performance
+
+[HTMLSPEC]
+link = https://html.spec.whatwg.org/
+title = Web Specification
+
+[CFORJAVASCRIPT]
+link = https://itnext.io/c-for-javascript-developers-memory-allocation-pointers-arrays-and-strings-bcf387ad7f44
+title = C for Javascript
+[PERFORMANCE]
+link = https://3perf.com/talks/web-perf-101/
+title = Web Performance
+
+[HTMLSPEC]
+link = https://html.spec.whatwg.org/
+title = Web Specification
+
+[CFORJAVASCRIPT]
+link = https://itnext.io/c-for-javascript-developers-memory-allocation-pointers-arrays-and-strings-bcf387ad7f44
+title = C for Javascript
+

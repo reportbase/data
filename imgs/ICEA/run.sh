@@ -10,6 +10,6 @@ rm small/*.png 2> tmp/out
 #  let a=a+1
 #done
 
-for image in *.png; do convert $image -resize 50% -quality 70 small/$image; done
+for image in *.png; do convert $image -resize 80% -quality 80 small/$image; done
 node photos.js *.png > photos.ini
 gzip -f photos.ini 2> tmp/out

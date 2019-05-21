@@ -864,6 +864,7 @@ path = data/imgs/LOGO/small/0151.png
 
 [CAR00]
 path = data/imgs/ICEA/0040.png
+parent = CAR
 [CAR01]
 path = data/imgs/ICEA/0041.png
 [CAR02]
@@ -907,6 +908,7 @@ path = data/imgs/ICEA/0060.png
 
 [ICE01]
 path = data/imgs/ICEA/0129.png
+parent = ICE
 [ICE02]
 path = data/imgs/ICEA/0130.png
 [ICE03]
@@ -1070,6 +1072,25 @@ path = data/imgs/ICEA/0360.png
 path = data/imgs/ICEA/0361.png
 [SPIDER21]
 path = data/imgs/ICEA/0362.png
+
+[TCAR]
+path = data/imgs/ICEA/0400.png
+[TFAIRIES]
+path = data/imgs/ICEA/0401.png
+[TCOMCAST]
+path = data/imgs/ICEA/0402.png
+[TPRINCESS]
+path = data/imgs/ICEA/0403.png
+[TSMURF]
+path = data/imgs/ICEA/0404.png
+[TTINKER]
+path = data/imgs/ICEA/0405.png
+[TICEAGE]
+path = data/imgs/ICEA/0406.png
+[TSPIDERMAN]
+path = data/imgs/ICEA/0407.png
+[TSTRAWBERRY]
+path = data/imgs/ICEA/0408.png
 
 [FAIRY00]
 path = data/imgs/BLOS/small/0001.png
@@ -1300,6 +1321,7 @@ path = data/imgs/BLOS/small/0116.png
 
 [WINX00]
 path = data/imgs/BLOS/small/0117.png
+parent = WINX
 [WINX01]
 path = data/imgs/BLOS/small/0118.png
 [WINX02]
@@ -1362,6 +1384,50 @@ path = data/imgs/BLOS/small/0146.png
 path = data/imgs/BLOS/small/0147.png
 [WINX31]
 path = data/imgs/BLOS/small/0148.png
+[WINX32]
+path = data/imgs/BLOS/small/0149.png
+[WINX33]
+path = data/imgs/BLOS/small/0150.png
+[WINX34]
+path = data/imgs/BLOS/small/0151.png
+[WINX35]
+path = data/imgs/BLOS/small/0152.png
+[WINX36]
+path = data/imgs/BLOS/small/0153.png
+[WINX37]
+path = data/imgs/BLOS/small/0154.png
+[WINX38]
+path = data/imgs/BLOS/small/0155.png
+[WINX39]
+path = data/imgs/BLOS/small/0156.png
+[WINX40]
+path = data/imgs/BLOS/small/0157.png
+[WINX41]
+path = data/imgs/BLOS/small/0158.png
+[WINX42]
+path = data/imgs/BLOS/small/0159.png
+[WINX43]
+path = data/imgs/BLOS/small/0160.png
+[WINX44]
+path = data/imgs/BLOS/small/0161.png
+[WINX45]
+path = data/imgs/BLOS/small/0162.png
+[WINX46]
+path = data/imgs/BLOS/small/0163.png
+[WINX47]
+path = data/imgs/BLOS/small/0164.png
+[WINX48]
+path = data/imgs/BLOS/small/0165.png
+[WINX49]
+path = data/imgs/BLOS/small/0166.png
+[WINX50]
+path = data/imgs/BLOS/small/0167.png
+[WINX51]
+path = data/imgs/BLOS/small/0168.png
+[WINX52]
+path = data/imgs/BLOS/small/0169.png
+[WINX53]
+path = data/imgs/BLOS/small/0170.png
 
 [WELL00]
 path = data/imgs/UTKL/small/0001.png
