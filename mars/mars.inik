@@ -26,7 +26,9 @@ link = https://calendar.google.com/calendar/render?pli=1#main_7
 
 [MUSIC]
 title = Music
-link = https://play.google.com/music/listen?u=0#/home
+link = https://play.google.com/music/listen?u=0#/wmp
+albums = https://play.google.com/music/listen?u=0#/albums
+artists = https://play.google.com/music/listen?u=0#/artists
 
 [NEWS]
 link = https://news.google.com/news/?ned=us&gl=US&hl=en
@@ -44,17 +46,13 @@ title = Photos
 link = https://www.google.com/maps
 title = Map
 
-[APPS]
-link = https://reportbase.com/?p=data/mars/mars.ini&k=apps&y=271
-title = Apps
+[PLAY]
+link = https://play.google.com
+title = Play
 
-[LINKS]
-link = https://reportbase.com/?p=data/mars/mars.ini&k=links&y=271
-title = Links
-
-[PODCASTS]
-link = https://reportbase.com/?p=data/mars/mars.ini&k=podcasts&y=271
-title = Podcasts
+[MOVIES]
+link = https://play.google.com/movies?hl=en_US
+title = Movies
 
 #APPS 13
 
@@ -72,15 +70,11 @@ link = https://onlinepngtools.com
 base64 = convert-png-to-base64
 title = PNG Tools
 
-[NUMBERTOOLS]
-link = https://onlinenumbertools.com/
-title = Number Tools
-
 [PAGETEST]
-link = http://www.webpagetest.org
+link = https://www.webpagetest.org
 title = Webpagetest
 
-[WEBASSEMBLYSTUDIO]
+[WASMSTUDIO]
 link = https://webassembly.studio/
 title = Web Assembly Studio
 
@@ -89,7 +83,7 @@ title = Obfuscator
 link = https://obfuscator.io/
 
 [SVGEditor]
-link = http://editor.method.ac/
+link = https://editor.method.ac/
 title = SVG Vector Editor
 
 [WEBHINT]
@@ -119,7 +113,7 @@ title = Soft Murmur
 
 [Joe.Rogan]
 title = Joe Rogan
-link = http://podcasts.joerogan.net/podcasts
+link = https://podcasts.joerogan.net/podcasts
 
 [50Things]
 title = 50 Things
@@ -166,10 +160,10 @@ link = https://www.pbs.org/show/newshour/
 title = PBS News Hour
 
 [60Minutes]
-link = http://podbay.fm/show/81210923
+link = https://podbay.fm/show/81210923
 title = 60 Minutes
 
-[StateOfTrance]
+[Trance]
 link = https://www.youtube.com/channel/UCu5jfQcpRLm9xhmlSd5S8xw
 title = State of Trance
 
@@ -177,7 +171,7 @@ title = State of Trance
 link = https://www.youtube.com/watch?v=1sl5KJ69qiA 
 title = Mine Field
 
-[CoccolinoDeep]
+[Coccolino]
 link = https://www.youtube.com/channel/UCdJa8L2rQJ6vPzgSDc_xQqA
 title = Coccolino Deep
 
@@ -214,7 +208,7 @@ link2 = https://stock.adobe.com/
 title = Adobe
 
 [AXIOS]
-link = http://www.axios.com
+link = https://www.axios.com
 title = Axios
 
 [CLOUDFLARE]
@@ -238,11 +232,11 @@ link = https://www.linuxcloudvps.com
 title = Linux Cloud
 
 [NAUTILUS]
-link = http://m.nautil.us
+link = https://m.nautil.us
 title = Nautilus
 
 [NEWYORKER]
-link = http://www.newyorker.com/
+link = https://www.newyorker.com/
 title = New Yorker
 
 [CRITERION]
@@ -258,7 +252,7 @@ link = https://qz.com/
 title = Quartz
 
 [SLASHDOT]
-link = http://www.slashdot.org
+link = https://www.slashdot.org
 title = Slashdot
 
 [TECHNOLOGY]
@@ -297,7 +291,7 @@ link3 = https://repba.tumblr.com/archive
 title = Tumbler
 user = tom@repba.com
 
-[NATIONALGEO]
+[NATGEO]
 title = National Geographic
 link = https://www.nationalgeographic.com/
 
@@ -316,6 +310,7 @@ title = Web Specification
 [CFORJAVASCRIPT]
 link = https://itnext.io/c-for-javascript-developers-memory-allocation-pointers-arrays-and-strings-bcf387ad7f44
 title = C for Javascript
+
 [PERFORMANCE]
 link = https://3perf.com/talks/web-perf-101/
 title = Web Performance
@@ -327,4 +322,97 @@ title = Web Specification
 [CFORJAVASCRIPT]
 link = https://itnext.io/c-for-javascript-developers-memory-allocation-pointers-arrays-and-strings-bcf387ad7f44
 title = C for Javascript
+
+#Examples 9
+
+[HEARTS]
+title = Hearts 
+link = https://repba.com/?p=data/mars/mars.ini&k=hearts
+
+[GOOGLE]
+title = Google
+link = https://repba.com/?p=data/mars/mars.ini&k=google
+
+[SPORTSLOGOS]
+title = Logos
+link = https://repba.com/?p=data/mars/mars.ini&k=sports%20logos
+
+[SHUFFLE]
+title = Shuffle
+link = https://repba.com/?p=data/mars/mars.ini&k=shuffle.01
+
+[LETTERS]
+title = Letters
+link = https://repba.com/?p=data/mars/mars.ini&k=letters.01
+
+[SMURFS]
+title = Smurfs
+link = https://repba.com/?p=data/mars/mars.ini&k=smurfs
+
+[SCIFI]
+title = SciFi
+link = https://repba.com/?p=data/mars/mars.ini&k=scifi
+
+[Animations]
+title = Animations
+link = https://repba.com/?p=data/mars/mars.ini&k=1000
+
+[SHUFFLE]
+title = Shuffle
+link = https::b2//repba.com/?p=data/mars/mars.ini&m=1&a=1&s=3000&g=1*
+
+#dads links
+
+[DAD01]
+title = Fox News
+link = https://www.foxnews.com
+
+[DAD02]
+title = AZ Golf
+link = https://www.cbsnews.com
+
+[DAD03]
+title = Google
+link = https://www.google.com
+
+[DAD04]
+title = CBS News
+link = https://www.cbsnews.com
+
+[DAD05]
+title = Coyote Club
+link = https://reportbase.com/coy
+
+[DAD06]
+title = Tech Crunch
+link = https://techcrunch.com/
+
+[DAD07]
+title = Century Link
+link = https://www.centurylink.com
+
+[DAD08]
+title = Tech Wired
+link = https://www.wired.com/
+
+[DAD09]
+title = The Verge
+link = https://www.theverge.com/
+
+[DAD10]
+title = Tech Gizmos
+link = https://www.ubergizmo.com/
+
+[DAD11]
+title = Fox News
+link = https://www.foxnews.com
+
+[DAD12]
+title = WEBMD
+link = https://www.webmd.com/men/default.htm
+
+[DAD13]
+title = Doctors
+link = https://healthwebnav.org/website_category/doctors-hospitals/
+
 

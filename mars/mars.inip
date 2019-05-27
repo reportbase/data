@@ -1,126 +1,3 @@
-[CREDIT]
-path = data/imgs/WABE/small/7000.png
-link = CREDIT00
-stick = 1
-[SIGN]
-path = data/imgs/WABE/small/4000.png
-link = SIGN00
-stick = 1
-[SHOE]
-path = data/imgs/WABE/small/3000.png
-link = SHOE00
-stick = 1
-[COFFEE]
-path = data/imgs/WABE/small/2011.png
-link = COFFEE00
-[TROPICAL]
-path = data/imgs/WABE/small/2017.png
-link = TROPICAL00
-[BEER]
-path = data/imgs/WABE/small/2005.png
-link = BEER00
-[BOAT]
-path = data/imgs/WABE/small/2000.png
-link = BOAT00
-[PIZZA]
-path = data/imgs/WABE/small/2011.png
-link = PIZZA00
-[SODA]
-path = data/imgs/WABE/small/1000.png
-link = SODA00
-[KNIGHT]
-path = data/imgs/LOGO/small/0010.png
-link = KNIGHT00
-[CAMP]
-path = data/imgs/LOGO/small/0020.png
-link = CAMP00
-[MEAT]
-path = data/imgs/LOGO/small/0041.png
-link = MEAT00
-[GAS]
-path = data/imgs/LOGO/small/0045.png
-link = GAS00
-[BEST]
-path = data/imgs/LOGO/small/0054.png
-link = BEST00
-[BEAR]
-path = data/imgs/LOGO/small/0063.png
-link = BEAR00
-[PLAY]
-path = data/imgs/LOGO/small/0072.png
-link = PLAY00
-[GOLF]
-path = data/imgs/LOGO/small/0081.png
-link = GOLF00
-[CHESS]
-path = data/imgs/LOGO/small/0090.png
-link = CHESS00
-[DEAL]
-path = data/imgs/LOGO/small/0100.png
-link = DEAL00
-[LEAG]
-path = data/imgs/LOGO/small/0121.png
-link = LEAG00
-[SOCC]
-path = data/imgs/LOGO/small/0129.png
-link = SOCC00
-[MONEY]
-path = data/imgs/LOGO/small/0135.png
-link = MONEY00
-[DISC]
-path = data/imgs/LOGO/small/0143.png
-link = DISC00
-
-[PRINCESS]
-path = data/imgs/BLOS/small/0013.png
-link = PRINCESS
-stick = 1
-[SPIDER]
-path = data/imgs/ICEA/0341.png
-link = SPIDER
-stick = 1
-[FAIRIES]
-path = data/imgs/BLOS/small/0001.png
-link = FAIRIES
-stick = 1
-[TINKER]
-path = data/imgs/BLOS/small/0038.png
-link = TINKER
-stick = 1
-
-[ICE]
-path = data/imgs/ICEA/0129.png
-link = ICE
-stick = 1
-[NEMO]
-path = data/imgs/ICEA/0247.png
-link = NEMO
-stick = 1
-[SMURF]
-path = data/imgs/ICEA/0284.png
-link = SMURF
-stick = 1
-[STRAW]
-path = data/imgs/BLOS/small/0086.png
-link = STRAW
-stick = 1
-
-[WELL]
-path = data/imgs/UTKL/small/0001.png
-link = WELL000
-[FACE]
-path = data/imgs/TATA/small/0001.png
-link = FACE00
-[YOUNGADULT]
-path = data/imgs/TATA/small/0027.png
-link = YOUNGADULT00
-[CHILDJUMP]
-path = data/imgs/TATA/small/0055.png
-link = CHILDJUMP00
-[ADULTSTAND]
-path = data/imgs/TATA/small/0075.png
-link = ADULTSTAND00
-
 [SPADES.KING]
 path = data/imgs/CARD/small/1000.png
 [SPADES.QUEEN]
@@ -278,30 +155,8 @@ path = data/imgs/WABE/small/7022.png
 [CREDIT23]
 path = data/imgs/WABE/small/7023.png
 
-[SLIDE100H]
-path = data/imgs/WABE/small/8000.png
-link = SLIDE100
-stick = 1
-[SLIDE200H]
-path = data/imgs/WABE/small/8014.png
-link = SLIDE200
-stick = 1
-[SLIDE300H]
-path = data/imgs/WABE/small/9000.png
-link = SLIDE300
-stick = 1
-[SLIDE305H]
-path = data/imgs/WABE/small/9005.png
-link = SLIDE305
-stick = 1
-[SLIDE302H]
-path = data/imgs/WABE/small/9002.png
-link = SLIDE302
-stick = 1
-
 [SLIDE100]
 path = data/imgs/WABE/small/8000.png
-parent = SLIDE100H
 [SLIDE101]
 path = data/imgs/WABE/small/8001.png
 [SLIDE102]
@@ -331,7 +186,6 @@ path = data/imgs/WABE/small/8013.png
 
 [SLIDE200]
 path = data/imgs/WABE/small/8014.png
-parent = SLIDE2000H
 [SLIDE201]
 path = data/imgs/WABE/small/8015.png
 [SLIDE202]
@@ -363,7 +217,6 @@ path = data/imgs/WABE/small/8028.png
 
 [SLIDE300]
 path = data/imgs/WABE/small/9000.png
-parent = SLIDE300H
 [SLIDE301]
 path = data/imgs/WABE/small/9018.png
 [SLIDE302]
@@ -401,7 +254,6 @@ path = data/imgs/WABE/small/9017.png
 
 [SIGN00]
 path = data/imgs/WABE/small/4000.png
-parent = SIGN
 [SIGN01]
 path = data/imgs/WABE/small/4001.png
 [SIGN02]
@@ -421,7 +273,6 @@ path = data/imgs/WABE/small/4008.png
 
 [SHOE00]
 path = data/imgs/WABE/small/3000.png
-parent = SHOE
 [SHOE01]
 path = data/imgs/WABE/small/3001.png
 [SHOE02]
@@ -439,7 +290,6 @@ path = data/imgs/WABE/small/3007.png
 
 [COFFEE00]
 path = data/imgs/WABE/small/2011.png
-parent = COFFEE
 [COFFEE01]
 path = data/imgs/WABE/small/2012.png
 [COFFEE02]
@@ -453,7 +303,6 @@ path = data/imgs/WABE/small/2016.png
 
 [TROPICAL00]
 path = data/imgs/WABE/small/2017.png
-parent = TROPICAL
 [TROPICAL01]
 path = data/imgs/WABE/small/2018.png
 [TROPICAL02]
@@ -465,7 +314,6 @@ path = data/imgs/WABE/small/2021.png
 
 [BEER00]
 path = data/imgs/WABE/small/2005.png
-parent = BEER
 [BEER01]
 path = data/imgs/WABE/small/2006.png
 [BEER02]
@@ -479,7 +327,6 @@ path = data/imgs/WABE/small/2010.png
 
 [BOAT00]
 path = data/imgs/WABE/small/2000.png
-parent = BOAT
 [BOAT01]
 path = data/imgs/WABE/small/2001.png
 [BOAT02]
@@ -489,7 +336,6 @@ path = data/imgs/WABE/small/2003.png
 
 [PIZZA00]
 path = data/imgs/WABE/small/1011.png
-parent = PIZZA
 [PIZZA01]
 path = data/imgs/WABE/small/1012.png
 [PIZZA02]
@@ -503,7 +349,6 @@ path = data/imgs/WABE/small/1016.png
 
 [SODA00]
 path = data/imgs/WABE/small/1000.png
-parent = SODA
 [SODA01]
 path = data/imgs/WABE/small/1001.png
 [SODA02]
@@ -517,7 +362,6 @@ path = data/imgs/WABE/small/1005.png
 
 [FARMER00]
 path = data/imgs/WABE/small/5000.png
-parent = FARMER
 [FARMER01]
 path = data/imgs/WABE/small/5001.png
 [FARMER02]
@@ -551,7 +395,6 @@ path = data/imgs/WABE/small/5015.png
 
 [KNIGHT00]
 path = data/imgs/LOGO/small/0010.png
-parent = KNIGHT
 [KNIGHT01]
 path = data/imgs/LOGO/small/0011.png
 [KNIGHT02]
@@ -573,7 +416,6 @@ path = data/imgs/LOGO/small/0019.png
 
 [CAMP00]
 path = data/imgs/LOGO/small/0020.png
-parent = CAMP
 [CAMP01]
 path = data/imgs/LOGO/small/0021.png
 [CAMP02]
@@ -617,7 +459,6 @@ path = data/imgs/LOGO/small/0040.png
 
 [MEAT00]
 path = data/imgs/LOGO/small/0041.png
-parent = MEAT
 [MEAT01]
 path = data/imgs/LOGO/small/0042.png
 [MEAT02]
@@ -627,7 +468,6 @@ path = data/imgs/LOGO/small/0044.png
 
 [GAS00]
 path = data/imgs/LOGO/small/0045.png
-parent = GAS
 [GAS01]
 path = data/imgs/LOGO/small/0046.png
 [GAS02]
@@ -647,7 +487,6 @@ path = data/imgs/LOGO/small/0053.png
 
 [BEST00]
 path = data/imgs/LOGO/small/0054.png
-parent = BEST
 [BEST01]
 path = data/imgs/LOGO/small/0055.png
 [BEST02]
@@ -667,7 +506,6 @@ path = data/imgs/LOGO/small/0062.png
 
 [BEAR00]
 path = data/imgs/LOGO/small/0063.png
-parent = BEAR
 [BEAR01]
 path = data/imgs/LOGO/small/0064.png
 [BEAR02]
@@ -687,7 +525,6 @@ path = data/imgs/LOGO/small/0071.png
 
 [PLAY00]
 path = data/imgs/LOGO/small/0072.png
-parent = PLAY
 [PLAY01]
 path = data/imgs/LOGO/small/0073.png
 [PLAY02]
@@ -707,7 +544,6 @@ path = data/imgs/LOGO/small/0080.png
 
 [GOLF00]
 path = data/imgs/LOGO/small/0081.png
-parent = GOLF
 [GOLF01]
 path = data/imgs/LOGO/small/0082.png
 [GOLF02]
@@ -725,31 +561,6 @@ path = data/imgs/LOGO/small/0088.png
 [GOLF08]
 path = data/imgs/LOGO/small/0089.png
 
-[CHESS00]
-path = data/imgs/LOGO/small/0090.png
-parent = CHESS 
-[CHESS01]
-path = data/imgs/LOGO/small/0091.png
-[CHESS02]
-path = data/imgs/LOGO/small/0092.png
-[CHESS03]
-path = data/imgs/LOGO/small/0093.png
-[CHESS04]
-path = data/imgs/LOGO/small/0094.png
-[CHESS05]
-path = data/imgs/LOGO/small/0095.png
-[CHESS06]
-path = data/imgs/LOGO/small/0096.png
-[CHESS07]
-path = data/imgs/LOGO/small/0097.png
-[CHESS08]
-path = data/imgs/LOGO/small/0098.png
-[CHESS09]
-path = data/imgs/LOGO/small/0099.png
-
-[DEAL00]
-path = data/imgs/LOGO/small/0100.png
-parent = DEAL
 [DEAL01]
 path = data/imgs/LOGO/small/0101.png
 [DEAL02]
@@ -793,7 +604,6 @@ path = data/imgs/LOGO/small/0120.png
 
 [LEAG00]
 path = data/imgs/LOGO/small/0121.png
-parent = LEAG
 [LEAG01]
 path = data/imgs/LOGO/small/0122.png
 [LEAG02]
@@ -811,7 +621,6 @@ path = data/imgs/LOGO/small/0128.png
 
 [SOCC00]
 path = data/imgs/LOGO/small/0129.png
-parent = SOCC
 [SOCC01]
 path = data/imgs/LOGO/small/0130.png
 [SOCC02]
@@ -825,7 +634,6 @@ path = data/imgs/LOGO/small/0134.png
 
 [MONEY00]
 path = data/imgs/LOGO/small/0135.png
-parent = MONEY
 [MONEY01]
 path = data/imgs/LOGO/small/0136.png
 [MONEY02]
@@ -843,7 +651,6 @@ path = data/imgs/LOGO/small/0142.png
 
 [DISC00]
 path = data/imgs/LOGO/small/0143.png
-parent = DISC
 [DISCO1]
 path = data/imgs/LOGO/small/0144.png
 [DISC02]
@@ -948,7 +755,6 @@ path = data/imgs/ICEA/0148.png
 
 [NEMO01]
 path = data/imgs/ICEA/0247.png
-parent = NEMO
 [NEMO02]
 path = data/imgs/ICEA/0248.png
 [NEMO03]
@@ -1027,7 +833,6 @@ path = data/imgs/ICEA/0301.png
 
 [SPIDER00]
 path = data/imgs/ICEA/0341.png
-parent = SPIDER
 [SPIDER01]
 path = data/imgs/ICEA/0342.png
 [SPIDER02]
@@ -1073,7 +878,6 @@ path = data/imgs/ICEA/0362.png
 
 [FAIRY00]
 path = data/imgs/BLOS/small/0001.png
-parent = FAIRY
 [FAIRY01]
 path = data/imgs/BLOS/small/0002.png
 [FAIRY02]
@@ -1100,7 +904,6 @@ path = data/imgs/BLOS/small/0012.png
 
 [PRINCESS00]
 path = data/imgs/BLOS/small/0013.png
-parent = PRINCESS
 [PRINCESS01]
 path = data/imgs/BLOS/small/0014.png
 [PRINCESS02]
@@ -1148,7 +951,6 @@ path = data/imgs/BLOS/small/0035.png
 
 [TINKER01]
 path = data/imgs/BLOS/small/0038.png
-parent = TINKER
 [TINKER02]
 path = data/imgs/BLOS/small/0039.png
 [TINKER03]
@@ -1236,7 +1038,6 @@ path = data/imgs/BLOS/small/0080.png
 
 [STRAW00]
 path = data/imgs/BLOS/small/0086.png
-parent = STRAW
 [STRAW01]
 path = data/imgs/BLOS/small/0087.png
 [STRAW02]
@@ -1365,7 +1166,6 @@ path = data/imgs/BLOS/small/0148.png
 
 [WELL00]
 path = data/imgs/UTKL/small/0001.png
-parent = WELL
 [WELL01]
 path = data/imgs/UTKL/small/0002.png
 [WELL02]
@@ -1470,16 +1270,8 @@ path = data/imgs/UTKL/small/0081.png
 [SUMMER15]
 path = data/imgs/UTKL/small/0082.png
 
-[FACE00H]
-link = FACE00
-[FACE08H]
-link = FACE08
-[FACE016H]
-link = FACE16
-
 [FACE00]
 path = data/imgs/TATA/small/0001.png
-parent = FACE00H
 [FACE01]
 path = data/imgs/TATA/small/0002.png
 [FACE02]
@@ -1529,16 +1321,8 @@ path = data/imgs/TATA/small/0024.png
 [FACE24]
 path = data/imgs/TATA/small/0025.png
 
-[YOUNGADULT00H]
-link = YOUNGADULT00
-[YOUNGADULT10H]
-link = YOUNGADULT10
-[YOUNGADULT20H]
-link = YOUNGADULT20
-
 [YOUNGADULT00]
 path = data/imgs/TATA/small/0027.png
-parent = YOUNGADULT
 [YOUNGADULT01]
 path = data/imgs/TATA/small/0028.png
 [YOUNGADULT02]
@@ -1596,7 +1380,6 @@ path = data/imgs/TATA/small/0054.png
 
 [CHILDJUMP00]
 path = data/imgs/TATA/small/0055.png
-parent = CHILDJUMP
 [CHILDJUMP01]
 path = data/imgs/TATA/small/0056.png
 [CHILDJUMP02]
@@ -1624,22 +1407,8 @@ path = data/imgs/TATA/small/0067.png
 [CHILDJUMP13]
 path = data/imgs/TATA/small/0068.pnga
 
-[FASHION00H]
-link = FASHION00
-[FASHION01H]
-link = FASHION01
-[FASHION02H]
-link = FASHION02
-[FASHION03H]
-link = FASHION03
-[FASHION04H]
-link = FASHION04
-[FASHION05H]
-link = FASHION05
-
 [FASHION00]
 path = data/imgs/TATA/small/0069.png
-parent = FASHION00H
 [FASHION01]
 path = data/imgs/TATA/small/0070.png
 [FASHION02]
@@ -1653,7 +1422,6 @@ path = data/imgs/TATA/small/0074.png
 
 [ADULTSTAND00]
 path = data/imgs/TATA/small/0075.png
-parent = ADULTSTAND
 [ADULTSTAND01]
 path = data/imgs/TATA/small/0076.png
 [ADULTSTAND02]
@@ -1747,26 +1515,8 @@ path = data/imgs/TATA/small/0120.png
 [ADULTSTAND46]
 path = data/imgs/TATA/small/0121.png
 
-[POST00H]
-link = POST00
-[POST12H]
-link = POST12
-[POST24H]
-link = POST24
-[POST36H]
-link = POST36
-[POST48H]
-link = POST48
-[POST60H]
-link = POST60
-[POST72H]
-link = POST72
-[POST84H]
-link = POST84
-
 [POST00]
 path = data/imgs/POST/small/0001.jpg
-parent = POST00H
 [POST01]
 path = data/imgs/POST/small/0002.jpg
 [POST02]
@@ -1984,28 +1734,8 @@ path = data/imgs/POST/small/0108.jpg
 [POST108]
 path = data/imgs/POST/small/0109.jpg
 
-[MOVI00H]
-link = MOVI00
-[MOVI12H]
-link = MOVI12
-[MOVI24H]
-link = MOVI24
-[MOVI36H]
-link = MOVI36
-[MOVI48H]
-link = MOVI48
-[MOVI60H]
-link = MOVI60
-[MOVI72H]
-link = MOVI72
-[MOVI84H]
-link = MOVI84
-[MOVI96H]
-link = MOVI96
-
 [MOVI00]
 path = data/imgs/MOVI/small/0001.jpg
-parent = MOVI00H
 [MOVI01]
 path = data/imgs/MOVI/small/0002.jpg
 [MOVI02]
@@ -2248,7 +1978,6 @@ path = data/imgs/LOND/small/0001.jpg
 link = LOND00
 [LOND00]
 path = data/imgs/LOND/small/0001.jpg
-parent = LOND
 [LOND01]
 path = data/imgs/LOND/small/0002.jpg
 [LOND02]
@@ -2478,7 +2207,6 @@ path = data/imgs/LETT/small/0013.png
 link = LETTERS01
 [LETT14]
 path = data/imgs/LETT/small/0014.png
-parent = LETT
 [LETT15]
 path = data/imgs/LETT/small/0015.png
 [LETT16]
@@ -2650,19 +2378,8 @@ path = data/imgs/LETT/small/0098.png
 [LETT99]
 path = data/imgs/LETT/small/0099.png
 
-[FSAA00H]
-path = data/imgs/LETT/small/0013.png
-link = FSAA00
-[FSAA40H]
-path = data/imgs/LETT/small/0014.png
-link = FSAA40
-[FSAA80H]
-path = data/imgs/LETT/small/0015.png
-link = FSAA80
-
 [FSAA00]
 path = data/imgs/FSAA/small/0001.png
-parent = FSAA00H
 [FSAA01]
 path = data/imgs/FSAA/small/0002.png
 [FSAA02]
@@ -3041,464 +2758,460 @@ path = data/imgs/DICE/0015.png
 [DICE0016]
 path = data/imgs/DICE/0016.png
 
-[ONAMO01]
-path = data/demos/onamo/FL/0001.jpg.JPG
-[ONAMO02]
-path = data/demos/onamo/FL/0002.jpg.JPG
-[ONAMO03]
-path = data/demos/onamo/FL/0003.jpg.JPG
-[ONAMO04]
-path = data/demos/onamo/FL/0004.jpg.JPG
-[ONAMO05]
-path = data/demos/onamo/FL/0005.jpg.JPG
-[ONAMO06]
-path = data/demos/onamo/FL/0006.jpg.JPG
-[ONAMO07]
-path = data/demos/onamo/FL/0007.jpg.JPG
-[ONAMO08]
-path = data/demos/onamo/FL/0008.jpg.JPG
-[ONAMO09]
-path = data/demos/onamo/FL/0009.jpg.JPG
-
-[KLOR0001.png]
+[KLOR0001]
 path = data/imgs/KLOR/small/0001.png
-[KLOR0002.png]
+[KLOR0002]
 path = data/imgs/KLOR/small/0002.png
-[KLOR0003.png]
+[KLOR0003]
 path = data/imgs/KLOR/small/0003.png
-[KLOR0004.png]
+[KLOR0004]
 path = data/imgs/KLOR/small/0004.png
-[KLOR0005.png]
+[KLOR0005]
 path = data/imgs/KLOR/small/0005.png
-[KLOR0006.png]
+[KLOR0006]
 path = data/imgs/KLOR/small/0006.png
-[KLOR0007.png]
+[KLOR0007]
 path = data/imgs/KLOR/small/0007.png
-[KLOR0008.png]
+[KLOR0008]
 path = data/imgs/KLOR/small/0008.png
-[KLOR0009.png]
+[KLOR0009]
 path = data/imgs/KLOR/small/0009.png
-[KLOR0010.png]
+[KLOR0010]
 path = data/imgs/KLOR/small/0010.png
-[KLOR0011.png]
+[KLOR0011]
 path = data/imgs/KLOR/small/0011.png
-[KLOR0012.png]
+[KLOR0012]
 path = data/imgs/KLOR/small/0012.png
-[KLOR0013.png]
+[KLOR0013]
 path = data/imgs/KLOR/small/0013.png
-[KLOR0014.png]
+[KLOR0014]
 path = data/imgs/KLOR/small/0014.png
-[KLOR0015.png]
+[KLOR0015]
 path = data/imgs/KLOR/small/0015.png
-[KLOR0016.png]
+[KLOR0016]
 path = data/imgs/KLOR/small/0016.png
-[KLOR0017.png]
+[KLOR0017]
 path = data/imgs/KLOR/small/0017.png
-[KLOR0018.png]
+[KLOR0018]
 path = data/imgs/KLOR/small/0018.png
-[KLOR0019.png]
+[KLOR0019]
 path = data/imgs/KLOR/small/0019.png
-[KLOR0020.png]
+[KLOR0020]
 path = data/imgs/KLOR/small/0020.png
-[KLOR0021.png]
+[KLOR0021]
 path = data/imgs/KLOR/small/0021.png
-[KLOR0022.png]
+[KLOR0022]
 path = data/imgs/KLOR/small/0022.png
-[KLOR0023.png]
+[KLOR0023]
 path = data/imgs/KLOR/small/0023.png
-[KLOR0024.png]
+[KLOR0024]
 path = data/imgs/KLOR/small/0024.png
-[KLOR0025.png]
+[KLOR0025]
 path = data/imgs/KLOR/small/0025.png
-[KLOR0026.png]
+[KLOR0026]
 path = data/imgs/KLOR/small/0026.png
-[KLOR0027.png]
+[KLOR0027]
 path = data/imgs/KLOR/small/0027.png
-[KLOR0028.png]
+[KLOR0028]
 path = data/imgs/KLOR/small/0028.png
-[KLOR0029.png]
+[KLOR0029]
 path = data/imgs/KLOR/small/0029.png
-[KLOR0030.png]
+[KLOR0030]
 path = data/imgs/KLOR/small/0030.png
-[KLOR0031.png]
+[KLOR0031]
 path = data/imgs/KLOR/small/0031.png
-[KLOR0032.png]
+[KLOR0032]
 path = data/imgs/KLOR/small/0032.png
-[KLOR0033.png]
+[KLOR0033]
 path = data/imgs/KLOR/small/0033.png
-[KLOR0034.png]
+[KLOR0034]
 path = data/imgs/KLOR/small/0034.png
-[KLOR0035.png]
+[KLOR0035]
 path = data/imgs/KLOR/small/0035.png
-[KLOR0036.png]
+[KLOR0036]
 path = data/imgs/KLOR/small/0036.png
-[KLOR0037.png]
+[KLOR0037]
 path = data/imgs/KLOR/small/0037.png
-[KLOR0038.png]
+[KLOR0038]
 path = data/imgs/KLOR/small/0038.png
-[KLOR0039.png]
+[KLOR0039]
 path = data/imgs/KLOR/small/0039.png
-[KLOR0040.png]
+[KLOR0040]
 path = data/imgs/KLOR/small/0040.png
-[KLOR0041.png]
+[KLOR0041]
 path = data/imgs/KLOR/small/0041.png
-[KLOR0042.png]
+[KLOR0042]
 path = data/imgs/KLOR/small/0042.png
-[KLOR0043.png]
+[KLOR0043]
 path = data/imgs/KLOR/small/0043.png
-[KLOR0044.png]
+[KLOR0044]
 path = data/imgs/KLOR/small/0044.png
-[KLOR0045.png]
+[KLOR0045]
 path = data/imgs/KLOR/small/0045.png
-[KLOR0046.png]
+[KLOR0046]
 path = data/imgs/KLOR/small/0046.png
-[KLOR0047.png]
+[KLOR0047]
 path = data/imgs/KLOR/small/0047.png
-[KLOR0048.png]
+[KLOR0048]
 path = data/imgs/KLOR/small/0048.png
-[KLOR0049.png]
+[KLOR0049]
 path = data/imgs/KLOR/small/0049.png
-[KLOR0050.png]
+[KLOR0050]
 path = data/imgs/KLOR/small/0050.png
-[KLOR0051.png]
+[KLOR0051]
 path = data/imgs/KLOR/small/0051.png
-[KLOR0052.png]
+[KLOR0052]
 path = data/imgs/KLOR/small/0052.png
-[KLOR0053.png]
+[KLOR0053]
 path = data/imgs/KLOR/small/0053.png
-[KLOR0054.png]
+[KLOR0054]
 path = data/imgs/KLOR/small/0054.png
-[KLOR0055.png]
+[KLOR0055]
 path = data/imgs/KLOR/small/0055.png
-[KLOR0056.png]
+[KLOR0056]
 path = data/imgs/KLOR/small/0056.png
-[KLOR0057.png]
+[KLOR0057]
 path = data/imgs/KLOR/small/0057.png
-[KLOR0058.png]
+[KLOR0058]
 path = data/imgs/KLOR/small/0058.png
-[KLOR0059.png]
+[KLOR0059]
 path = data/imgs/KLOR/small/0059.png
-[KLOR0060.png]
+[KLOR0060]
 path = data/imgs/KLOR/small/0060.png
-[KLOR0061.png]
+[KLOR0061]
 path = data/imgs/KLOR/small/0061.png
-[KLOR0062.png]
+[KLOR0062]
 path = data/imgs/KLOR/small/0062.png
-[KLOR0063.png]
+[KLOR0063]
 path = data/imgs/KLOR/small/0063.png
-[KLOR0064.png]
+[KLOR0064]
 path = data/imgs/KLOR/small/0064.png
-[KLOR0065.png]
+[KLOR0065]
 path = data/imgs/KLOR/small/0065.png
-[KLOR0066.png]
+[KLOR0066]
 path = data/imgs/KLOR/small/0066.png
-[KLOR0067.png]
+[KLOR0067]
 path = data/imgs/KLOR/small/0067.png
-[KLOR0068.png]
+[KLOR0068]
 path = data/imgs/KLOR/small/0068.png
-[KLOR0069.png]
+[KLOR0069]
 path = data/imgs/KLOR/small/0069.png
-[KLOR0070.png]
+[KLOR0070]
 path = data/imgs/KLOR/small/0070.png
-[KLOR0071.png]
+[KLOR0071]
 path = data/imgs/KLOR/small/0071.png
-[KLOR0072.png]
+[KLOR0072]
 path = data/imgs/KLOR/small/0072.png
-[KLOR0073.png]
+[KLOR0073]
 path = data/imgs/KLOR/small/0073.png
-[KLOR0074.png]
+[KLOR0074]
 path = data/imgs/KLOR/small/0074.png
-[KLOR0075.png]
+[KLOR0075]
 path = data/imgs/KLOR/small/0075.png
-[KLOR0076.png]
+[KLOR0076]
 path = data/imgs/KLOR/small/0076.png
-[KLOR0077.png]
+[KLOR0077]
 path = data/imgs/KLOR/small/0077.png
-[KLOR0078.png]
+[KLOR0078]
 path = data/imgs/KLOR/small/0078.png
-[KLOR0079.png]
+[KLOR0079]
 path = data/imgs/KLOR/small/0079.png
-[KLOR0080.png]
+[KLOR0080]
 path = data/imgs/KLOR/small/0080.png
-[KLOR0081.png]
+[KLOR0081]
 path = data/imgs/KLOR/small/0081.png
-[KLOR0082.png]
+[KLOR0082]
 path = data/imgs/KLOR/small/0082.png
-[KLOR0083.png]
+[KLOR0083]
 path = data/imgs/KLOR/small/0083.png
-[KLOR0084.png]
+[KLOR0084]
 path = data/imgs/KLOR/small/0084.png
-[KLOR0085.png]
+[KLOR0085]
 path = data/imgs/KLOR/small/0085.png
-[KLOR0086.png]
+[KLOR0086]
 path = data/imgs/KLOR/small/0086.png
-[KLOR0087.png]
+[KLOR0087]
 path = data/imgs/KLOR/small/0087.png
-[KLOR0088.png]
+[KLOR0088]
 path = data/imgs/KLOR/small/0088.png
-[KLOR0089.png]
+[KLOR0089]
 path = data/imgs/KLOR/small/0089.png
-[KLOR0090.png]
+[KLOR0090]
 path = data/imgs/KLOR/small/0090.png
-[KLOR0091.png]
+[KLOR0091]
 path = data/imgs/KLOR/small/0091.png
-[KLOR0092.png]
+[KLOR0092]
 path = data/imgs/KLOR/small/0092.png
-[KLOR0093.png]
+[KLOR0093]
 path = data/imgs/KLOR/small/0093.png
-[KLOR0094.png]
+[KLOR0094]
 path = data/imgs/KLOR/small/0094.png
-[KLOR0095.png]
+[KLOR0095]
 path = data/imgs/KLOR/small/0095.png
-[KLOR0096.png]
+[KLOR0096]
 path = data/imgs/KLOR/small/0096.png
-[KLOR0097.png]
+[KLOR0097]
 path = data/imgs/KLOR/small/0097.png
-[KLOR0098.png]
+[KLOR0098]
 path = data/imgs/KLOR/small/0098.png
-[KLOR0099.png]
+[KLOR0099]
 path = data/imgs/KLOR/small/0099.png
-[KLOR0100.png]
+[KLOR0100]
 path = data/imgs/KLOR/small/0100.png
-[KLOR0101.png]
+[KLOR0101]
 path = data/imgs/KLOR/small/0101.png
-[KLOR0102.png]
+[KLOR0102]
 path = data/imgs/KLOR/small/0102.png
-[KLOR0103.png]
+[KLOR0103]
 path = data/imgs/KLOR/small/0103.png
-[KLOR0104.png]
+[KLOR0104]
 path = data/imgs/KLOR/small/0104.png
-[KLOR0105.png]
+[KLOR0105]
 path = data/imgs/KLOR/small/0105.png
-[KLOR0106.png]
+[KLOR0106]
 path = data/imgs/KLOR/small/0106.png
-[KLOR0107.png]
+[KLOR0107]
 path = data/imgs/KLOR/small/0107.png
-[KLOR0108.png]
+[KLOR0108]
 path = data/imgs/KLOR/small/0108.png
-[KLOR0109.png]
+[KLOR0109]
 path = data/imgs/KLOR/small/0109.png
-[KLOR0110.png]
+[KLOR0110]
 path = data/imgs/KLOR/small/0110.png
-[KLOR0111.png]
+[KLOR0111]
 path = data/imgs/KLOR/small/0111.png
-[KLOR0112.png]
+[KLOR0112]
 path = data/imgs/KLOR/small/0112.png
-[KLOR0113.png]
+[KLOR0113]
 path = data/imgs/KLOR/small/0113.png
-[KLOR0114.png]
+[KLOR0114]
 path = data/imgs/KLOR/small/0114.png
-[KLOR0115.png]
+[KLOR0115]
 path = data/imgs/KLOR/small/0115.png
-[KLOR0116.png]
+[KLOR0116]
 path = data/imgs/KLOR/small/0116.png
-[KLOR0117.png]
+[KLOR0117]
 path = data/imgs/KLOR/small/0117.png
-[KLOR0118.png]
+[KLOR0118]
 path = data/imgs/KLOR/small/0118.png
+[KLOR0119]
+path = data/imgs/KLOR/0119.svg
+[KLOR0120]
+path = data/imgs/KLOR/0120.svg
+[KLOR0121]
+path = data/imgs/KLOR/0121.svg
+[KLOR0122]
+path = data/imgs/KLOR/0122.svg
+[KLOR0123]
+path = data/imgs/KLOR/0123.svg
+[KLOR0124]
+path = data/imgs/KLOR/0124.svg
+[KLOR0125]
+path = data/imgs/KLOR/0125.svg
+[KLOR0126]
+path = data/imgs/KLOR/0126.svg
+[KLOR0127]
+path = data/imgs/KLOR/0127.svg
+[KLOR0128]
+path = data/imgs/KLOR/0128.svg
+[KLOR0129]
+path = data/imgs/KLOR/0129.svg
+[KLOR0130]
+path = data/imgs/KLOR/0130.svg
+[KLOR0131]
+path = data/imgs/KLOR/0131.svg
+[KLOR0132]
+path = data/imgs/KLOR/0132.svg
+[KLOR0133]
+path = data/imgs/KLOR/0133.svg
+[KLOR0134]
+path = data/imgs/KLOR/0134.svg
+[KLOR0135]
+path = data/imgs/KLOR/0135.svg
+[KLOR0136]
+path = data/imgs/KLOR/0136.svg
+[KLOR0137]
+path = data/imgs/KLOR/0137.svg
+[KLOR0138]
+path = data/imgs/KLOR/0138.svg
+[KLOR0139]
+path = data/imgs/KLOR/0139.svg
+[KLOR0140]
+path = data/imgs/KLOR/0140.svg
+[KLOR0141]
+path = data/imgs/KLOR/0141.svg
+[KLOR0142]
+path = data/imgs/KLOR/0142.svg
+[KLOR0143]
+path = data/imgs/KLOR/0143.svg
+[KLOR0144]
+path = data/imgs/KLOR/0144.svg
+[KLOR0145]
+path = data/imgs/KLOR/0145.svg
+[KLOR0146]
+path = data/imgs/KLOR/0146.svg
+[KLOR0147]
+path = data/imgs/KLOR/0147.svg
+[KLOR0148]
+path = data/imgs/KLOR/0148.svg
+[KLOR0149]
+path = data/imgs/KLOR/0149.svg
 
 [LETTER.A]
 path = data/imgs/RETR/small/a.png
-link = 1000
 [LETTER.B]
 path = data/imgs/RETR/small/b.png
-link = 1001
 [LETTER.C]
 path = data/imgs/RETR/small/c.png
-link = 1002
 [LETTER.D]
 path = data/imgs/RETR/small/d.png
-link = 1003
 [LETTER.E]
 path = data/imgs/RETR/small/e.png
-link = 1004
 [LETTER.F]
 path = data/imgs/RETR/small/f.png
-link = 1005
 [LETTER.G]
 path = data/imgs/RETR/small/g.png
-link = 1006
 [LETTER.H]
 path = data/imgs/RETR/small/h.png
-link = 1007
 [LETTER.I]
 path = data/imgs/RETR/small/i.png
-link = 1008
 [LETTER.J]
 path = data/imgs/RETR/small/j.png
-link = 1009
 [LETTER.K]
 path = data/imgs/RETR/small/k.png
-link = 1010
 [LETTER.L]
 path = data/imgs/RETR/small/l.png
-link = 1011
 [LETTER.M]
 path = data/imgs/RETR/small/m.png
-link = 1012
 [LETTER.N]
 path = data/imgs/RETR/small/n.png
-link = 1013
 [LETTER.O]
 path = data/imgs/RETR/small/o.png
-link = 1014
 [LETTER.P]
 path = data/imgs/RETR/small/p.png
-link = 1015
 [LETTER.Q]
 path = data/imgs/RETR/small/q.png
-link = 1016
 [LETTER.R]
 path = data/imgs/RETR/small/r.png
-link = 1017
 [LETTER.S]
 path = data/imgs/RETR/small/s.png
-link = 1018
 [LETTER.T]
 path = data/imgs/RETR/small/t.png
-link = 1019
 [LETTER.U]
 path = data/imgs/RETR/small/u.png
-link = 1020
 [LETTER.V]
 path = data/imgs/RETR/small/v.png
-link = 1021
 [LETTER.W]
 path = data/imgs/RETR/small/w.png
-link = 1022
 [LETTER.X]
 path = data/imgs/RETR/small/x.png
-link = 2004
 [LETTER.Y]
 path = data/imgs/RETR/small/y.png
-link = 2005
 [LETTER.Z]
 path = data/imgs/RETR/small/z.png
 link = 2006
 
 [LETTER.A2]
 path = data/imgs/LETT/0013.png
-link = 2007
 [LETTER.B2]
 path = data/imgs/LETT/0014.png
-link = 2008
 [LETTER.C2]
 path = data/imgs/LETT/0015.png
-link = 2009
 [LETTER.D2]
 path = data/imgs/LETT/0016.png
-link = 2010
 [LETTER.E2]
 path = data/imgs/LETT/0017.png
-link = 2011
 [LETTER.F2]
 path = data/imgs/LETT/0018.png
-link = 2012
 [LETTER.G2]
 path = data/imgs/LETT/0019.png
 link = 2013
 [LETTER.H2]
 path = data/imgs/LETT/0020.png
-link = TODO 2014
 [LETTER.I2]
 path = data/imgs/LETT/0021.png
-link = 2015
 [LETTER.J2]
 path = data/imgs/LETT/0022.png
-link = 2016
 [LETTER.K2]
 path = data/imgs/LETT/0023.png
-link = 2017
 [LETTER.L2]
 path = data/imgs/LETT/0024.png
-link = 2018
 [LETTER.M2]
 path = data/imgs/LETT/0025.png
-link = 2019
 [LETTER.N2]
 path = data/imgs/LETT/0026.png
-link = 2500
 [LETTER.O2]
 path = data/imgs/LETT/0027.png
-link = 2501
 [LETTER.P2]
 path = data/imgs/LETT/0028.png
-link = 2502
 [LETTER.Q2]
 path = data/imgs/LETT/0029.png
-link = 2503
 [LETTER.R2]
 path = data/imgs/LETT/0030.png
-link = 2504
 [LETTER.S2]
 path = data/imgs/LETT/0031.png
-link = 2505
 [LETTER.T2]
 path = data/imgs/LETT/0032.png
-link = 2506
 [LETTER.U2]
 path = data/imgs/LETT/0033.png
-link = 2507
 [LETTER.V2]
 path = data/imgs/LETT/0034.png
-link = 2508
 [LETTER.W2]
 path = data/imgs/LETT/0035.png
-link = 2509
 [LETTER.X2]
 path = data/imgs/LETT/0036.png
-link = 2510
 [LETTER.Y2]
 path = data/imgs/LETT/0037.png
-link = 2511
 [LETTER.Z2]
 path = data/imgs/LETT/0038.png
-link = 2512
 
-[AIRTRAVEL]
+[TRAV01]
 path = data/imgs/RETR/small/airtravel.png
-link = 2513
-[ATHENS]
+[TRAV02]
 path = data/imgs/RETR/small/athens.png
-link = 2514
-[BRAZIL]
+[TRAV03]
 path = data/imgs/RETR/small/brazil.png
-link = 2515
-[EASTER]
+[TRAV04]
 path = data/imgs/RETR/small/easter.png
-link = 2516
-[HAWAII]
+[TRAV05]
 path = data/imgs/RETR/small/hawaii.png
-link = 2517
-[INDIA]
+[TRAV06]
 path = data/imgs/RETR/small/india.png
-link = 2518
-[JAPAN]
+[TRAV07]
 path = data/imgs/RETR/small/japan.png
-link = 2600
-[LONDON]
+[TRAV08]
 path = data/imgs/RETR/small/london.png
-link = 2601
-[MEXICO]
+[TRAV09]
 path = data/imgs/RETR/small/mexico.png
-link = 2602
-[NEWYORK]
+[TRAV10]
 path = data/imgs/RETR/small/newyork.png
-link = 2603
-[PARIS]
+[TRAV11]
 path = data/imgs/RETR/small/paris.png
-link = 2604
-[ROME]
+[TRAV12]
 path = data/imgs/RETR/small/rome.png
-link = 2605
-[SANFRANCISCO]
+[TRAV13]
 path = data/imgs/RETR/small/sanfranciso.png
-link = 2606
-[SWISS]
+[TRAV14]
 path = data/imgs/RETR/small/swiss.png
-link = 2607
-[TURKEY]
+[TRAV15]
 path = data/imgs/RETR/small/turkey.png
-link = 2608
 
+[BOOKMARKS01]
+path = data/imgs/DICE/bookmarks.svg
+[BOOKMARKS02]
+path = data/imgs/DICE/google.svg
+[BOOKMARKS03]
+path = data/imgs/DICE/apps.svg
+[BOOKMARKS04]
+path = data/imgs/DICE/examples.svg
+[BOOKMARKS05]
+path = data/imgs/DICE/podcasts.svg
+[BOOKMARKS06]
+path = data/imgs/DICE/links.svg
 
+[LEISURE01]
+path = data/imgs/DICE/leisure.svg
+[LEISURE02]
+path = data/imgs/DICE/mesa.svg
+[LEISURE03]
+path = data/imgs/DICE/coyote.svg
