@@ -106,152 +106,6 @@ path = data/imgs/CARD/small/4011.png
 [HEARTS.ACE]
 path = data/imgs/CARD/small/4012.png
 
-[CREDIT00]
-path = data/imgs/WABE/small/7000.png
-[CREDIT01]
-path = data/imgs/WABE/small/7001.png
-[CREDIT02]
-path = data/imgs/WABE/small/7002.png
-[CREDIT03]
-path = data/imgs/WABE/small/7003.png
-[CREDIT04]
-path = data/imgs/WABE/small/7004.png
-[CREDIT05]
-path = data/imgs/WABE/small/7005.png
-[CREDIT06]
-path = data/imgs/WABE/small/7006.png
-[CREDIT07]
-path = data/imgs/WABE/small/7007.png
-[CREDIT08]
-path = data/imgs/WABE/small/7008.png
-[CREDIT09]
-path = data/imgs/WABE/small/7009.png
-[CREDIT10]
-path = data/imgs/WABE/small/7010.png
-[CREDIT11]
-path = data/imgs/WABE/small/7011.png
-[CREDIT12]
-path = data/imgs/WABE/small/7012.png
-[CREDIT13]
-path = data/imgs/WABE/small/7013.png
-[CREDIT14]
-path = data/imgs/WABE/small/7014.png
-[CREDIT15]
-path = data/imgs/WABE/small/7015.png
-[CREDIT16]
-path = data/imgs/WABE/small/7016.png
-[CREDIT17]
-path = data/imgs/WABE/small/7017.png
-[CREDIT18]
-path = data/imgs/WABE/small/7018.png
-[CREDIT19]
-path = data/imgs/WABE/small/7019.png
-[CREDIT20]
-path = data/imgs/WABE/small/7020.png
-[CREDIT21]
-path = data/imgs/WABE/small/7021.png
-[CREDIT22]
-path = data/imgs/WABE/small/7022.png
-[CREDIT23]
-path = data/imgs/WABE/small/7023.png
-
-[SLIDE100]
-path = data/imgs/WABE/small/8000.png
-[SLIDE101]
-path = data/imgs/WABE/small/8001.png
-[SLIDE102]
-path = data/imgs/WABE/small/8002.png
-[SLIDE103]
-path = data/imgs/WABE/small/8003.png
-[SLIDE104]
-path = data/imgs/WABE/small/8004.png
-[SLIDE105]
-path = data/imgs/WABE/small/8005.png
-[SLIDE106]
-path = data/imgs/WABE/small/8006.png
-[SLIDE107]
-path = data/imgs/WABE/small/8007.png
-[SLIDE108]
-path = data/imgs/WABE/small/8008.png
-[SLIDE109]
-path = data/imgs/WABE/small/8009.png
-[SLIDE110]
-path = data/imgs/WABE/small/8010.png
-[SLIDE111]
-path = data/imgs/WABE/small/8011.png
-[SLIDE112]
-path = data/imgs/WABE/small/8012.png
-[SLIDE113]
-path = data/imgs/WABE/small/8013.png
-
-[SLIDE200]
-path = data/imgs/WABE/small/8014.png
-[SLIDE201]
-path = data/imgs/WABE/small/8015.png
-[SLIDE202]
-path = data/imgs/WABE/small/8016.png
-[SLIDE203]
-path = data/imgs/WABE/small/8017.png
-[SLIDE204]
-path = data/imgs/WABE/small/8018.png
-[SLIDE205]
-path = data/imgs/WABE/small/8019.png
-[SLIDE206]
-path = data/imgs/WABE/small/8020.png
-[SLIDE207]
-path = data/imgs/WABE/small/8021.png
-[SLIDE208]
-path = data/imgs/WABE/small/8022.png
-[SLIDE209]
-path = data/imgs/WABE/small/8023.png
-[SLIDE210]
-path = data/imgs/WABE/small/8024.png
-[SLIDE211]
-path = data/imgs/WABE/small/8025.png
-[SLIDE212]
-path = data/imgs/WABE/small/8026.png
-[SLIDE213]
-path = data/imgs/WABE/small/8027.png
-[SLIDE214]
-path = data/imgs/WABE/small/8028.png
-
-[SLIDE300]
-path = data/imgs/WABE/small/9000.png
-[SLIDE301]
-path = data/imgs/WABE/small/9018.png
-[SLIDE302]
-path = data/imgs/WABE/small/9002.png
-[SLIDE303]
-path = data/imgs/WABE/small/9003.png
-[SLIDE304]
-path = data/imgs/WABE/small/9004.png
-[SLIDE305]
-path = data/imgs/WABE/small/9005.png
-[SLIDE306]
-path = data/imgs/WABE/small/9006.png
-[SLIDE307]
-path = data/imgs/WABE/small/9007.png
-[SLIDE308]
-path = data/imgs/WABE/small/9008.png
-[SLIDE309]
-path = data/imgs/WABE/small/9009.png
-[SLIDE310]
-path = data/imgs/WABE/small/9010.png
-[SLIDE311]
-path = data/imgs/WABE/small/9011.png
-[SLIDE312]
-path = data/imgs/WABE/small/9012.png
-[SLIDE313]
-path = data/imgs/WABE/small/9013.png
-[SLIDE314]
-path = data/imgs/WABE/small/9014.png
-[SLIDE315]
-path = data/imgs/WABE/small/9015.png
-[SLIDE316]
-path = data/imgs/WABE/small/9016.png
-[SLIDE317]
-path = data/imgs/WABE/small/9017.png
-
 [SIGN00]
 path = data/imgs/WABE/small/4000.png
 [SIGN01]
@@ -668,213 +522,205 @@ path = data/imgs/LOGO/small/0150.png
 [DISC09]
 path = data/imgs/LOGO/small/0151.png
 
-
-[CAR00]
-path = data/imgs/ICEA/0040.png
-[CAR01]
-path = data/imgs/ICEA/0041.png
-[CAR02]
-path = data/imgs/ICEA/0042.png
-[CAR03]
-path = data/imgs/ICEA/0043.png
-[CAR04]
-path = data/imgs/ICEA/0044.png
-[CAR05]
-path = data/imgs/ICEA/0045.png
-[CAR06]
-path = data/imgs/ICEA/0046.png
-[CAR07]
-path = data/imgs/ICEA/0047.png
-[CAR08]
-path = data/imgs/ICEA/0048.png
-[CAR09]
-path = data/imgs/ICEA/0049.png
-[CAR10]
-path = data/imgs/ICEA/0050.png
-[CAR11]
-path = data/imgs/ICEA/0051.png
-[CAR12]
-path = data/imgs/ICEA/0052.png
-[CAR13]
-path = data/imgs/ICEA/0053.png
-[CAR14]
-path = data/imgs/ICEA/0054.png
-[CAR15]
-path = data/imgs/ICEA/0055.png
-[CAR16]
-path = data/imgs/ICEA/0056.png
-[CAR17]
-path = data/imgs/ICEA/0057.png
-[CAR18]
-path = data/imgs/ICEA/0058.png
-[CAR19]
-path = data/imgs/ICEA/0059.png
-[CAR20]
-path = data/imgs/ICEA/0060.png
-
-[ICE01]
-path = data/imgs/ICEA/0129.png
-[ICE02]
-path = data/imgs/ICEA/0130.png
-[ICE03]
-path = data/imgs/ICEA/0131.png
-[ICE04]
-path = data/imgs/ICEA/0132.png
-[ICE05]
-path = data/imgs/ICEA/0133.png
-[ICE06]
-path = data/imgs/ICEA/0134.png
-[ICE07]
-path = data/imgs/ICEA/0135.png
-[ICE08]
-path = data/imgs/ICEA/0136.png
-[ICE09]
-path = data/imgs/ICEA/0137.png
-[ICE10]
-path = data/imgs/ICEA/0138.png
-[ICE11]
-path = data/imgs/ICEA/0139.png
-[ICE12]
-path = data/imgs/ICEA/0140.png
-[ICE13]
-path = data/imgs/ICEA/0141.png
-[ICE14]
-path = data/imgs/ICEA/0142.png
-[ICE15]
-path = data/imgs/ICEA/0143.png
-[ICE16]
-path = data/imgs/ICEA/0144.png
-[ICE17]
-path = data/imgs/ICEA/0145.png
-[ICE18]
-path = data/imgs/ICEA/0146.png
-[ICE19]
-path = data/imgs/ICEA/0147.png
-[ICE20]
-path = data/imgs/ICEA/0148.png
-
 [NEMO01]
-path = data/imgs/ICEA/0247.png
+path = data/imgs/NEMO/small/0001.png
 [NEMO02]
-path = data/imgs/ICEA/0248.png
+path = data/imgs/NEMO/small/0002.png
 [NEMO03]
-path = data/imgs/ICEA/0249.png
+path = data/imgs/NEMO/small/0003.png
 [NEMO04]
-path = data/imgs/ICEA/0250.png
+path = data/imgs/NEMO/small/0004.png
 [NEMO05]
-path = data/imgs/ICEA/0251.png
+path = data/imgs/NEMO/small/0005.png
 [NEMO06]
-path = data/imgs/ICEA/0252.png
+path = data/imgs/NEMO/small/0006.png
 [NEMO07]
-path = data/imgs/ICEA/0253.png
+path = data/imgs/NEMO/small/0007.png
 [NEMO08]
-path = data/imgs/ICEA/0254.png
-[NEMO09]
-path = data/imgs/ICEA/0255.png
+path = data/imgs/NEMO/small/0008.png
+[NEMO9]
+path = data/imgs/NEMO/small/0009.png
 [NEMO10]
-path = data/imgs/ICEA/0257.png
+path = data/imgs/NEMO/small/0010.png
 [NEMO11]
-path = data/imgs/ICEA/0258.png
+path = data/imgs/NEMO/small/0011.png
 [NEMO12]
-path = data/imgs/ICEA/0259.png
+path = data/imgs/NEMO/small/0012.png
 [NEMO13]
-path = data/imgs/ICEA/0260.png
+path = data/imgs/NEMO/small/0013.png
 [NEMO14]
-path = data/imgs/ICEA/0261.png
+path = data/imgs/NEMO/small/0014.png
 [NEMO15]
-path = data/imgs/ICEA/0262.png
+path = data/imgs/NEMO/small/0015.png
 [NEMO16]
-path = data/imgs/ICEA/0263.png
+path = data/imgs/NEMO/small/0016.png
 [NEMO17]
-path = data/imgs/ICEA/0264.png
+path = data/imgs/NEMO/small/0017.png
 [NEMO18]
-path = data/imgs/ICEA/0265.png
+path = data/imgs/NEMO/small/0018.png
 [NEMO19]
-path = data/imgs/ICEA/0266.png
+path = data/imgs/NEMO/small/0019.png
+[NEMO20]
+path = data/imgs/NEMO/small/0020.png
+[NEMO21]
+path = data/imgs/NEMO/small/0021.png
+[NEMO22]
+path = data/imgs/NEMO/small/0022.png
+[NEMO23]
+path = data/imgs/NEMO/small/0023.png
 
-[SMURF01]
-path = data/imgs/ICEA/0283.png
-[SMURF02]
-path = data/imgs/ICEA/0284.png
-[SMURF03]
-path = data/imgs/ICEA/0285.png
-[SMURF04]
-path = data/imgs/ICEA/0286.png
-[SMURF05]
-path = data/imgs/ICEA/0287.png
-[SMURF06]
-path = data/imgs/ICEA/0288.png
-[SMURF07]
-path = data/imgs/ICEA/0289.png
-[SMURF08]
-path = data/imgs/ICEA/0290.png
-[SMURF09]
-path = data/imgs/ICEA/0291.png
-[SMURF10]
-path = data/imgs/ICEA/0292.png
-[SMURF11]
-path = data/imgs/ICEA/0293.png
-[SMURF12]
-path = data/imgs/ICEA/0294.png
-[SMURF13]
-path = data/imgs/ICEA/0295.png
-[SMURF14]
-path = data/imgs/ICEA/0296.png
-[SMURF15]
-path = data/imgs/ICEA/0297.png
-[SMURF16]
-path = data/imgs/ICEA/0298.png
-[SMURF17]
-path = data/imgs/ICEA/0299.png
-[SMURF18]
-path = data/imgs/ICEA/0300.png
-[SMURF19]
-path = data/imgs/ICEA/0301.png
-
-[SPIDER00]
-path = data/imgs/ICEA/0341.png
-[SPIDER01]
-path = data/imgs/ICEA/0342.png
-[SPIDER02]
-path = data/imgs/ICEA/0343.png
-[SPIDER03]
-path = data/imgs/ICEA/0344.png
-[SPIDER04]
-path = data/imgs/ICEA/0345.png
-[SPIDER05]
-path = data/imgs/ICEA/0346.png
-[SPIDER06]
-path = data/imgs/ICEA/0347.png
-[SPIDER07]
-path = data/imgs/ICEA/0348.png
-[SPIDER08]
-path = data/imgs/ICEA/0349.png
-[SPIDER09]
-path = data/imgs/ICEA/0350.png
-[SPIDER10]
-path = data/imgs/ICEA/0351.png
-[SPIDER11]
-path = data/imgs/ICEA/0352.png
-[SPIDER12]
-path = data/imgs/ICEA/0353.png
-[SPIDER13]
-path = data/imgs/ICEA/0354.png
-[SPIDER14]
-path = data/imgs/ICEA/0355.png
-[SPIDER15]
-path = data/imgs/ICEA/0356.png
-[SPIDER16]
-path = data/imgs/ICEA/0357.png
-[SPIDER17]
-path = data/imgs/ICEA/0358.png
-[SPIDER18]
-path = data/imgs/ICEA/0359.png
-[SPIDER19]
-path = data/imgs/ICEA/0360.png
-[SPIDER20]
-path = data/imgs/ICEA/0361.png
-[SPIDER21]
-path = data/imgs/ICEA/0362.png
+[SMUR01]
+path = data/imgs/SMUR/small/0001.png
+[SMUR02]
+path = data/imgs/SMUR/small/0002.png
+[SMUR03]
+path = data/imgs/SMUR/small/0003.png
+[SMUR04]
+path = data/imgs/SMUR/small/0004.png
+[SMUR05]
+path = data/imgs/SMUR/small/0005.png
+[SMUR06]
+path = data/imgs/SMUR/small/0006.png
+[SMUR07]
+path = data/imgs/SMUR/small/0007.png
+[SMUR08]
+path = data/imgs/SMUR/small/0008.png
+[SMUR09]
+path = data/imgs/SMUR/small/0009.png
+[SMUR10]
+path = data/imgs/SMUR/small/0010.png
+[SMUR11]
+path = data/imgs/SMUR/small/0011.png
+[SMUR12]
+path = data/imgs/SMUR/small/0012.png
+[SMUR13]
+path = data/imgs/SMUR/small/0013.png
+[SMUR14]
+path = data/imgs/SMUR/small/0014.png
+[SMUR15]
+path = data/imgs/SMUR/small/0015.png
+[SMUR16]
+path = data/imgs/SMUR/small/0016.png
+[SMUR17]
+path = data/imgs/SMUR/small/0017.png
+[SMUR18]
+path = data/imgs/SMUR/small/0018.png
+[SMUR19]
+path = data/imgs/SMUR/small/0019.png
+[SMUR20]
+path = data/imgs/SMUR/small/0020.png
+[SMUR21]
+path = data/imgs/SMUR/small/0021.png
+[SMUR22]
+path = data/imgs/SMUR/small/0022.png
+[SMUR23]
+path = data/imgs/SMUR/small/0023.png
+[SMUR24]
+path = data/imgs/SMUR/small/0024.png
+[SMUR25]
+path = data/imgs/SMUR/small/0025.png
+[SMUR26]
+path = data/imgs/SMUR/small/0026.png
+[SMUR27]
+path = data/imgs/SMUR/small/0027.png
+[SMUR28]
+path = data/imgs/SMUR/small/0028.png
+[SMUR29]
+path = data/imgs/SMUR/small/0029.png
+[SMUR30]
+path = data/imgs/SMUR/small/0030.png
+[SMUR31]
+path = data/imgs/SMUR/small/0031.png
+[SMUR32]
+path = data/imgs/SMUR/small/0032.png
+[SMUR33]
+path = data/imgs/SMUR/small/0033.png
+[SMUR34]
+path = data/imgs/SMUR/small/0034.png
+[SMUR35]
+path = data/imgs/SMUR/small/0035.png
+[SMUR36]
+path = data/imgs/SMUR/small/0036.png
+[SMUR37]
+path = data/imgs/SMUR/small/0037.png
+[SMUR38]
+path = data/imgs/SMUR/small/0038.png
+[SMUR39]
+path = data/imgs/SMUR/small/0039.png
+[SMUR40]
+path = data/imgs/SMUR/small/0040.png
+[SMUR41]
+path = data/imgs/SMUR/small/0041.png
+[SMUR42]
+path = data/imgs/SMUR/small/0042.png
+[SMUR43]
+path = data/imgs/SMUR/small/0043.png
+[SMUR44]
+path = data/imgs/SMUR/small/0044.png
+[SMUR45]
+path = data/imgs/SMUR/small/0045.png
+[SMUR46]
+path = data/imgs/SMUR/small/0046.png
+[SMUR47]
+path = data/imgs/SMUR/small/0047.png
+[SMUR48]
+path = data/imgs/SMUR/small/0048.png
+[SPID1]
+path = data/imgs/SPID/small/0001.png
+[SPID2]
+path = data/imgs/SPID/small/0002.png
+[SPID3]
+path = data/imgs/SPID/small/0003.png
+[SPID4]
+path = data/imgs/SPID/small/0004.png
+[SPID5]
+path = data/imgs/SPID/small/0005.png
+[SPID6]
+path = data/imgs/SPID/small/0006.png
+[SPID7]
+path = data/imgs/SPID/small/0007.png
+[SPID8]
+path = data/imgs/SPID/small/0008.png
+[SPID9]
+path = data/imgs/SPID/small/0009.png
+[SPID10]
+path = data/imgs/SPID/small/0010.png
+[SPID11]
+path = data/imgs/SPID/small/0011.png
+[SPID12]
+path = data/imgs/SPID/small/0012.png
+[SPID13]
+path = data/imgs/SPID/small/0013.png
+[SPID14]
+path = data/imgs/SPID/small/0014.png
+[SPID15]
+path = data/imgs/SPID/small/0015.png
+[SPID16]
+path = data/imgs/SPID/small/0016.png
+[SPID17]
+path = data/imgs/SPID/small/0017.png
+[SPID18]
+path = data/imgs/SPID/small/0018.png
+[SPID19]
+path = data/imgs/SPID/small/0019.png
+[SPID20]
+path = data/imgs/SPID/small/0020.png
+[SPID21]
+path = data/imgs/SPID/small/0021.png
+[SPID22]
+path = data/imgs/SPID/small/0022.png
+[SPID23]
+path = data/imgs/SPID/small/0023.png
+[SPID24]
+path = data/imgs/SPID/small/0024.png
+[SPID25]
+path = data/imgs/SPID/small/0025.png
+[SPID26]
+path = data/imgs/SPID/small/0026.png
+[SPID27]
+path = data/imgs/SPID/small/0027.png
+[SPID28]
+path = data/imgs/SPID/small/0028.png
 
 [FAIRY00]
 path = data/imgs/BLOS/small/0001.png
@@ -900,7 +746,6 @@ path = data/imgs/BLOS/small/0010.png
 path = data/imgs/BLOS/small/0011.png
 [FAIRY11]
 path = data/imgs/BLOS/small/0012.png
-
 
 [PRINCESS00]
 path = data/imgs/BLOS/small/0013.png
@@ -1975,7 +1820,6 @@ path = data/imgs/MOVI/small/0119.jpg
 
 [LOND]
 path = data/imgs/LOND/small/0001.jpg
-link = LOND00
 [LOND00]
 path = data/imgs/LOND/small/0001.jpg
 [LOND01]
@@ -2179,32 +2023,19 @@ path = data/imgs/LOND/small/0100.jpg
 
 [LETTERS01]
 path = data/imgs/LETT/small/0013.png
-link = LETTERS01
-stick = 1
 [LETTERS02]
 path = data/imgs/LETT/small/0014.png
-link = LETTERS02
-stick = 1
 [LETTERS03]
 path = data/imgs/LETT/small/0015.png
-link = LETTERS03
-stick = 1
 [LETTERS04]
 path = data/imgs/LETT/small/0016.png
-link = LETTERS04
-stick = 1
 [LETTERS05]
 path = data/imgs/LETT/small/0017.png
-link = LETTERS05
-stick = 1
 [LETTERS06]
 path = data/imgs/LETT/small/0018.png
-link = LETTERS06
-stick = 1
 
 [LETT13]
 path = data/imgs/LETT/small/0013.png
-link = LETTERS01
 [LETT14]
 path = data/imgs/LETT/small/0014.png
 [LETT15]
@@ -2378,224 +2209,132 @@ path = data/imgs/LETT/small/0098.png
 [LETT99]
 path = data/imgs/LETT/small/0099.png
 
-[FSAA00]
-path = data/imgs/FSAA/small/0001.png
-[FSAA01]
-path = data/imgs/FSAA/small/0002.png
-[FSAA02]
-path = data/imgs/FSAA/small/0003.png
-[FSAA03]
-path = data/imgs/FSAA/small/0004.png
-[FSAA04]
-path = data/imgs/FSAA/small/0005.png
-[FSAA05]
-path = data/imgs/FSAA/small/0006.png
-[FSAA06]
-path = data/imgs/FSAA/small/0007.png
-[FSAA07]
-path = data/imgs/FSAA/small/0008.png
-[FSAA08]
-path = data/imgs/FSAA/small/0009.png
-[FSAA09]
-path = data/imgs/FSAA/small/0010.png
-[FSAA10]
-path = data/imgs/FSAA/small/0011.png
-[FSAA11]
-path = data/imgs/FSAA/small/0012.png
-[FSAA12]
-path = data/imgs/FSAA/small/0013.png
-[FSAA13]
-path = data/imgs/FSAA/small/0014.png
-[FSAA14]
-path = data/imgs/FSAA/small/0015.png
-[FSAA15]
-path = data/imgs/FSAA/small/0016.png
-[FSAA16]
-path = data/imgs/FSAA/small/0017.png
-[FSAA17]
-path = data/imgs/FSAA/small/0018.png
-[FSAA18]
-path = data/imgs/FSAA/small/0019.png
-[FSAA19]
-path = data/imgs/FSAA/small/0020.png
-[FSAA20]
-path = data/imgs/FSAA/small/0021.png
-[FSAA21]
-path = data/imgs/FSAA/small/0022.png
-[FSAA22]
-path = data/imgs/FSAA/small/0023.png
-[FSAA23]
-path = data/imgs/FSAA/small/0024.png
-[FSAA24]
-path = data/imgs/FSAA/small/0025.png
-[FSAA25]
-path = data/imgs/FSAA/small/0026.png
-[FSAA26]
-path = data/imgs/FSAA/small/0027.png
-[FSAA27]
-path = data/imgs/FSAA/small/0028.png
-[FSAA28]
-path = data/imgs/FSAA/small/0029.png
-[FSAA29]
-path = data/imgs/FSAA/small/0030.png
-[FSAA30]
-path = data/imgs/FSAA/small/0031.png
-[FSAA31]
-path = data/imgs/FSAA/small/0032.png
-[FSAA32]
-path = data/imgs/FSAA/small/0033.png
-[FSAA33]
-path = data/imgs/FSAA/small/0034.png
-[FSAA34]
-path = data/imgs/FSAA/small/0035.png
-[FSAA35]
-path = data/imgs/FSAA/small/0036.png
-[FSAA36]
-path = data/imgs/FSAA/small/0037.png
-[FSAA37]
-path = data/imgs/FSAA/small/0038.png
-[FSAA38]
-path = data/imgs/FSAA/small/0039.png
-[FSAA39]
-path = data/imgs/FSAA/small/0040.png
-[FSAA40]
-path = data/imgs/FSAA/small/0041.png
-[FSAA41]
-path = data/imgs/FSAA/small/0042.png
-[FSAA42]
-path = data/imgs/FSAA/small/0043.png
-[FSAA43]
-path = data/imgs/FSAA/small/0044.png
-[FSAA44]
-path = data/imgs/FSAA/small/0045.png
-[FSAA45]
-path = data/imgs/FSAA/small/0046.png
-[FSAA46]
-path = data/imgs/FSAA/small/0047.png
-[FSAA47]
-path = data/imgs/FSAA/small/0048.png
-[FSAA48]
-path = data/imgs/FSAA/small/0049.png
-[FSAA49]
-path = data/imgs/FSAA/small/0050.png
-[FSAA50]
-path = data/imgs/FSAA/small/0051.png
-[FSAA51]
-path = data/imgs/FSAA/small/0052.png
-[FSAA52]
-path = data/imgs/FSAA/small/0053.png
-[FSAA53]
-path = data/imgs/FSAA/small/0054.png
-[FSAA54]
-path = data/imgs/FSAA/small/0055.png
-[FSAA55]
-path = data/imgs/FSAA/small/0056.png
-[FSAA56]
-path = data/imgs/FSAA/small/0057.png
-[FSAA57]
-path = data/imgs/FSAA/small/0058.png
-[FSAA58]
-path = data/imgs/FSAA/small/0059.png
-[FSAA59]
-path = data/imgs/FSAA/small/0060.png
-[FSAA60]
-path = data/imgs/FSAA/small/0061.png
-[FSAA61]
-path = data/imgs/FSAA/small/0062.png
-[FSAA62]
-path = data/imgs/FSAA/small/0063.png
-[FSAA63]
-path = data/imgs/FSAA/small/0064.png
-[FSAA64]
-path = data/imgs/FSAA/small/0065.png
-[FSAA65]
-path = data/imgs/FSAA/small/0066.png
-[FSAA66]
-path = data/imgs/FSAA/small/0067.png
-[FSAA67]
-path = data/imgs/FSAA/small/0068.png
-[FSAA68]
-path = data/imgs/FSAA/small/0069.png
-[FSAA69]
-path = data/imgs/FSAA/small/0070.png
-[FSAA70]
-path = data/imgs/FSAA/small/0071.png
-[FSAA71]
-path = data/imgs/FSAA/small/0072.png
-[FSAA72]
-path = data/imgs/FSAA/small/0073.png
-[FSAA73]
-path = data/imgs/FSAA/small/0074.png
-[FSAA74]
-path = data/imgs/FSAA/small/0075.png
-[FSAA75]
-path = data/imgs/FSAA/small/0076.png
-[FSAA76]
-path = data/imgs/FSAA/small/0077.png
-[FSAA77]
-path = data/imgs/FSAA/small/0078.png
-[FSAA78]
-path = data/imgs/FSAA/small/0079.png
-[FSAA79]
-path = data/imgs/FSAA/small/0080.png
-[FSAA80]
-path = data/imgs/FSAA/small/0081.png
-[FSAA81]
-path = data/imgs/FSAA/small/0082.png
-[FSAA82]
-path = data/imgs/FSAA/small/0083.png
-[FSAA83]
-path = data/imgs/FSAA/small/0084.png
-[FSAA84]
-path = data/imgs/FSAA/small/0085.png
-[FSAA85]
-path = data/imgs/FSAA/small/0086.png
-[FSAA86]
-path = data/imgs/FSAA/small/0087.png
-[FSAA87]
-path = data/imgs/FSAA/small/0088.png
-[FSAA89]
-path = data/imgs/FSAA/small/0090.png
-[FSAA90]
-path = data/imgs/FSAA/small/0091.png
-[FSAA91]
-path = data/imgs/FSAA/small/0092.png
-[FSAA93]
-path = data/imgs/FSAA/small/0094.png
-[FSAA94]
-path = data/imgs/FSAA/small/0095.png
-[FSAA95]
-path = data/imgs/FSAA/small/0096.png
-[FSAA96]
-path = data/imgs/FSAA/small/0097.png
-[FSAA97]
-path = data/imgs/FSAA/small/0098.png
-[FSAA98]
-path = data/imgs/FSAA/small/0099.png
-[FSAA99]
-path = data/imgs/FSAA/small/0100.png
-[FSAA100]
-path = data/imgs/FSAA/small/0101.png
-[FSAA101]
-path = data/imgs/FSAA/small/0102.png
-[FSAA102]
-path = data/imgs/FSAA/small/0103.png
-[FSAA103]
-path = data/imgs/FSAA/small/0104.png
-[FSAA104]
-path = data/imgs/FSAA/small/0105.png
-[FSAA105]
-path = data/imgs/FSAA/small/0106.png
-[FSAA106]
-path = data/imgs/FSAA/small/0107.png
-[FSAA107]
-path = data/imgs/FSAA/small/0108.png
-[FSAA108]
-path = data/imgs/FSAA/small/0109.png
-[FSAA109]
-path = data/imgs/FSAA/small/0110.png
-[FSAA110]
-path = data/imgs/FSAA/small/0111.png
+[LOGA0]
+path = data/imgs/LOGA/0001.svg
+[LOGA1]
+path = data/imgs/LOGA/0002.svg
+[LOGA2]
+path = data/imgs/LOGA/0003.svg
+[LOGA3]
+path = data/imgs/LOGA/0004.svg
+[LOGA4]
+path = data/imgs/LOGA/0005.svg
+[LOGA5]
+path = data/imgs/LOGA/0006.svg
+[LOGA6]
+path = data/imgs/LOGA/0007.svg
+[LOGA7]
+path = data/imgs/LOGA/0008.svg
+[LOGA8]
+path = data/imgs/LOGA/0009.svg
+[LOGA9]
+path = data/imgs/LOGA/0010.svg
+[LOGA10]
+path = data/imgs/LOGA/0011.svg
+[LOGA11]
+path = data/imgs/LOGA/0012.svg
+[LOGA12]
+path = data/imgs/LOGA/0013.svg
+[LOGA13]
+path = data/imgs/LOGA/0014.svg
+[LOGA14]
+path = data/imgs/LOGA/0015.svg
+[LOGA15]
+path = data/imgs/LOGA/0016.svg
+[LOGA16]
+path = data/imgs/LOGA/0017.svg
+[LOGA17]
+path = data/imgs/LOGA/0018.svg
+[LOGA18]
+path = data/imgs/LOGA/0019.svg
+[LOGA19]
+path = data/imgs/LOGA/0020.svg
+[LOGA20]
+path = data/imgs/LOGA/0021.svg
+[LOGA21]
+path = data/imgs/LOGA/0022.svg
+[LOGA22]
+path = data/imgs/LOGA/0023.svg
+[LOGA23]
+path = data/imgs/LOGA/0024.svg
+[LOGA24]
+path = data/imgs/LOGA/0025.svg
+[LOGA25]
+path = data/imgs/LOGA/0026.svg
+[LOGA26]
+path = data/imgs/LOGA/0027.svg
+[LOGA27]
+path = data/imgs/LOGA/0028.svg
+[LOGA28]
+path = data/imgs/LOGA/0029.svg
+[LOGA29]
+path = data/imgs/LOGA/0030.svg
+[LOGA30]
+path = data/imgs/LOGA/0031.svg
+[LOGA31]
+path = data/imgs/LOGA/0032.svg
+[LOGA32]
+path = data/imgs/LOGA/0033.svg
+[LOGA33]
+path = data/imgs/LOGA/0034.svg
+[LOGA34]
+path = data/imgs/LOGA/0035.svg
+[LOGA35]
+path = data/imgs/LOGA/0036.svg
+[LOGA36]
+path = data/imgs/LOGA/0037.svg
+[LOGA37]
+path = data/imgs/LOGA/0038.svg
+[LOGA38]
+path = data/imgs/LOGA/0039.svg
+[LOGA39]
+path = data/imgs/LOGA/0040.svg
+[LOGA40]
+path = data/imgs/LOGA/0041.svg
+[LOGA41]
+path = data/imgs/LOGA/0042.svg
+[LOGA42]
+path = data/imgs/LOGA/0043.svg
+[LOGA43]
+path = data/imgs/LOGA/0044.svg
+[LOGA44]
+path = data/imgs/LOGA/0045.svg
+[LOGA45]
+path = data/imgs/LOGA/0046.svg
+[LOGA46]
+path = data/imgs/LOGA/0047.svg
+[LOGA47]
+path = data/imgs/LOGA/0048.svg
+[LOGA48]
+path = data/imgs/LOGA/0049.svg
+[LOGA49]
+path = data/imgs/LOGA/0050.svg
+[LOGA50]
+path = data/imgs/LOGA/0051.svg
+[LOGA51]
+path = data/imgs/LOGA/0052.svg
+[LOGA52]
+path = data/imgs/LOGA/0053.svg
+[LOGA53]
+path = data/imgs/LOGA/0054.svg
+[LOGA54]
+path = data/imgs/LOGA/0055.svg
+[LOGA55]
+path = data/imgs/LOGA/0056.svg
+[LOGA56]
+path = data/imgs/LOGA/0057.svg
+[LOGA57]
+path = data/imgs/LOGA/0058.svg
+[LOGA58]
+path = data/imgs/LOGA/0059.svg
+[LOGA59]
+path = data/imgs/LOGA/0060.svg
+[LOGA60]
+path = data/imgs/LOGA/0061.svg
+[LOGA61]
+path = data/imgs/LOGA/0062.svg
+[LOGA62]
+path = data/imgs/LOGA/0063.svg
 
 [9101.png]
 path = data/imgs/WABE/small/9101.png
@@ -2725,337 +2464,460 @@ path = data/imgs/WABE/small/9501.png
 [9503.png]
 path = data/imgs/WABE/small/9503.png
 
-[DICE0001]
-path = data/imgs/DICE/0001.png
-[DICE0002]
-path = data/imgs/DICE/0002.png
-[DICE0003]
-path = data/imgs/DICE/0003.png
-[DICE0004]
-path = data/imgs/DICE/0004.png
-[DICE0005]
-path = data/imgs/DICE/0005.png
-[DICE0006]
-path = data/imgs/DICE/0006.png
-[DICE0007]
-path = data/imgs/DICE/0007.png
-[DICE0008]
-path = data/imgs/DICE/0008.png
-[DICE0009]
-path = data/imgs/DICE/0009.png
-[DICE0010]
-path = data/imgs/DICE/0010.png
-[DICE0011]
-path = data/imgs/DICE/0011.png
-[DICE0012]
-path = data/imgs/DICE/0012.png
-[DICE0013]
-path = data/imgs/DICE/0013.png
-[DICE0014]
-path = data/imgs/DICE/0014.png
-[DICE0015]
-path = data/imgs/DICE/0015.png
-[DICE0016]
-path = data/imgs/DICE/0016.png
+[ICEA01]
+path = data/imgs/ICEA/small/0001.png
+[ICEA02]
+path = data/imgs/ICEA/small/0002.png
+[ICEA03]
+path = data/imgs/ICEA/small/0003.png
+[ICEA04]
+path = data/imgs/ICEA/small/0004.png
+[ICEA05]
+path = data/imgs/ICEA/small/0005.png
+[ICEA06]
+path = data/imgs/ICEA/small/0006.png
+[ICEA07]
+path = data/imgs/ICEA/small/0007.png
+[ICEA08]
+path = data/imgs/ICEA/small/0008.png
+[ICEA09]
+path = data/imgs/ICEA/small/0009.png
+[ICEA10]
+path = data/imgs/ICEA/small/0010.png
+[ICEA11]
+path = data/imgs/ICEA/small/0011.png
+[ICEA12]
+path = data/imgs/ICEA/small/0012.png
+[ICEA13]
+path = data/imgs/ICEA/small/0013.png
+[ICEA14]
+path = data/imgs/ICEA/small/0014.png
+[ICEA15]
+path = data/imgs/ICEA/small/0015.png
+[ICEA16]
+path = data/imgs/ICEA/small/0016.png
+[ICEA17]
+path = data/imgs/ICEA/small/0017.png
+[ICEA18]
+path = data/imgs/ICEA/small/0018.png
+[ICEA19]
+path = data/imgs/ICEA/small/0019.png
+[ICEA20]
+path = data/imgs/ICEA/small/0020.png
+[ICEA21]
+path = data/imgs/ICEA/small/0021.png
+[ICEA22]
+path = data/imgs/ICEA/small/0022.png
+[ICEA23]
+path = data/imgs/ICEA/small/0023.png
+[ICEA24]
+path = data/imgs/ICEA/small/0024.png
+[ICEA25]
+path = data/imgs/ICEA/small/0025.png
+[ICEA26]
+path = data/imgs/ICEA/small/0026.png
+[ICEA27]
+path = data/imgs/ICEA/small/0027.png
+[ICEA28]
+path = data/imgs/ICEA/small/0028.png
+[ICEA29]
+path = data/imgs/ICEA/small/0029.png
+[ICEA30]
+path = data/imgs/ICEA/small/0030.png
+[ICEA31]
+path = data/imgs/ICEA/small/0031.png
+[ICEA32]
+path = data/imgs/ICEA/small/0032.png
+[ICEA33]
+path = data/imgs/ICEA/small/0033.png
+[ICEA34]
+path = data/imgs/ICEA/small/0034.png
+[ICEA35]
+path = data/imgs/ICEA/small/0035.png
+[ICEA36]
+path = data/imgs/ICEA/small/0036.png
+[ICEA37]
+path = data/imgs/ICEA/small/0037.png
+[ICEA38]
+path = data/imgs/ICEA/small/0038.png
+[ICEA39]
+path = data/imgs/ICEA/small/0039.png
+[ICEA40]
+path = data/imgs/ICEA/small/0040.png
+[ICEA41]
+path = data/imgs/ICEA/small/0041.png
+[ICEA42]
+path = data/imgs/ICEA/small/0042.png
+[ICEA43]
+path = data/imgs/ICEA/small/0043.png
+[ICEA44]
+path = data/imgs/ICEA/small/0044.png
+[ICEA45]
+path = data/imgs/ICEA/small/0045.png
+[ICEA46]
+path = data/imgs/ICEA/small/0046.png
+[ICEA47]
+path = data/imgs/ICEA/small/0047.png
+[ICEA48]
+path = data/imgs/ICEA/small/0048.png
+[ICEA49]
+path = data/imgs/ICEA/small/0049.png
+[ICEA50]
+path = data/imgs/ICEA/small/0050.png
+[ICEA51]
+path = data/imgs/ICEA/small/0051.png
+[ICEA52]
+path = data/imgs/ICEA/small/0052.png
+[ICEA53]
+path = data/imgs/ICEA/small/0053.png
+[ICEA54]
+path = data/imgs/ICEA/small/0054.png
+[ICEA55]
+path = data/imgs/ICEA/small/0055.png
+[ICEA56]
+path = data/imgs/ICEA/small/0056.png
+[ICEA57]
+path = data/imgs/ICEA/small/0057.png
+[ICEA58]
+path = data/imgs/ICEA/small/0058.png
+[ICEA59]
+path = data/imgs/ICEA/small/0059.png
+[ICEA60]
+path = data/imgs/ICEA/small/0060.png
+[ICEA61]
+path = data/imgs/ICEA/small/0061.png
+[ICEA62]
+path = data/imgs/ICEA/small/0062.png
+[ICEA63]
+path = data/imgs/ICEA/small/0063.png
+[ICEA64]
+path = data/imgs/ICEA/small/0064.png
+[ICEA65]
+path = data/imgs/ICEA/small/0065.png
+[ICEA66]
+path = data/imgs/ICEA/small/0066.png
+[ICEA67]
+path = data/imgs/ICEA/small/0067.png
+[ICEA68]
+path = data/imgs/ICEA/small/0068.png
+[ICEA69]
+path = data/imgs/ICEA/small/0069.png
+[ICEA70]
+path = data/imgs/ICEA/small/0070.png
+[ICEA71]
+path = data/imgs/ICEA/small/0071.png
+[ICEA72]
+path = data/imgs/ICEA/small/0072.png
+[ICEA73]
+path = data/imgs/ICEA/small/0073.png
+[ICEA74]
+path = data/imgs/ICEA/small/0074.png
+[ICEA75]
+path = data/imgs/ICEA/small/0075.png
+[ICEA76]
+path = data/imgs/ICEA/small/0076.png
+[ICEA77]
+path = data/imgs/ICEA/small/0077.png
+[ICEA78]
+path = data/imgs/ICEA/small/0078.png
+[ICEA79]
+path = data/imgs/ICEA/small/0079.png
+[ICEA80]
+path = data/imgs/ICEA/small/0080.png
+[ICEA81]
+path = data/imgs/ICEA/small/0081.png
+[ICEA82]
+path = data/imgs/ICEA/small/0082.png
+[ICEA83]
+path = data/imgs/ICEA/small/0083.png
+[ICEA84]
+path = data/imgs/ICEA/small/0084.png
+[ICEA85]
+path = data/imgs/ICEA/small/0085.png
+[ICEA86]
+path = data/imgs/ICEA/small/0086.png
+[ICEA87]
+path = data/imgs/ICEA/small/0087.png
+[ICEA88]
+path = data/imgs/ICEA/small/0088.png
+[ICEA89]
+path = data/imgs/ICEA/small/0089.png
+[ICEA90]
+path = data/imgs/ICEA/small/0090.png
+[ICEA91]
+path = data/imgs/ICEA/small/0091.png
+[ICEA92]
+path = data/imgs/ICEA/small/0092.png
+[ICEA93]
+path = data/imgs/ICEA/small/0093.png
+[ICEA94]
+path = data/imgs/ICEA/small/0094.png
+[ICEA95]
+path = data/imgs/ICEA/small/0095.png
+[ICEA96]
+path = data/imgs/ICEA/small/0096.png
+[ICEA97]
+path = data/imgs/ICEA/small/0097.png
+[ICEA98]
+path = data/imgs/ICEA/small/0098.png
+[ICEA99]
+path = data/imgs/ICEA/small/0099.png
+[ICEA100]
+path = data/imgs/ICEA/small/0100.png
+[ICEA101]
+path = data/imgs/ICEA/small/0101.png
+[ICEA102]
+path = data/imgs/ICEA/small/0102.png
+[ICEA103]
+path = data/imgs/ICEA/small/0103.png
+[ICEA104]
+path = data/imgs/ICEA/small/0104.png
+[ICEA105]
+path = data/imgs/ICEA/small/0105.png
+[ICEA106]
+path = data/imgs/ICEA/small/0106.png
+[ICEA107]
+path = data/imgs/ICEA/small/0107.png
+[ICEA108]
+path = data/imgs/ICEA/small/0108.png
+[ICEA109]
+path = data/imgs/ICEA/small/0109.png
+[ICEA110]
+path = data/imgs/ICEA/small/0110.png
+[ICEA111]
+path = data/imgs/ICEA/small/0111.png
+[ICEA112]
+path = data/imgs/ICEA/small/0112.png
 
-[KLOR0001]
+[ashers.png]
+path = data/imgs/DICE/ashers.png
+[callaway.png]
+path = data/imgs/DICE/callaway.png
+[cars.png]
+path = data/imgs/DICE/cars.png
+[dice01.png]
+path = data/imgs/DICE/dice01.png
+[dice02.png]
+path = data/imgs/DICE/dice02.png
+[dice03.png]
+path = data/imgs/DICE/dice03.png
+[fairies.png]
+path = data/imgs/DICE/fairies.png
+[france.png]
+path = data/imgs/DICE/france.png
+[iceage.png]
+path = data/imgs/DICE/iceage.png
+[movies.png]
+path = data/imgs/DICE/movies.png
+[nbc.png]
+path = data/imgs/DICE/nbc.png
+[nemo.png]
+path = data/imgs/DICE/nemo.png
+[princess.png]
+path = data/imgs/DICE/princess.png
+[smurfs.png]
+path = data/imgs/DICE/smurfs.png
+[spiderman.png]
+path = data/imgs/DICE/spiderman.png
+[strawberry.png]
+path = data/imgs/DICE/strawberry.png
+[tinkerbell.png]
+path = data/imgs/DICE/tinkerbell.png
+[titleist.png]
+path = data/imgs/DICE/titleist.png
+[wilson.png]
+path = data/imgs/DICE/wilson.png
+[winx.png]
+path = data/imgs/DICE/winx.png
+
+[KLOR1]
 path = data/imgs/KLOR/small/0001.png
-[KLOR0002]
+[KLOR2]
 path = data/imgs/KLOR/small/0002.png
-[KLOR0003]
+[KLOR3]
 path = data/imgs/KLOR/small/0003.png
-[KLOR0004]
+[KLOR4]
 path = data/imgs/KLOR/small/0004.png
-[KLOR0005]
+[KLOR5]
 path = data/imgs/KLOR/small/0005.png
-[KLOR0006]
+[KLOR6]
 path = data/imgs/KLOR/small/0006.png
-[KLOR0007]
+[KLOR7]
 path = data/imgs/KLOR/small/0007.png
-[KLOR0008]
+[KLOR8]
 path = data/imgs/KLOR/small/0008.png
-[KLOR0009]
+[KLOR9]
 path = data/imgs/KLOR/small/0009.png
-[KLOR0010]
+[KLOR10]
 path = data/imgs/KLOR/small/0010.png
-[KLOR0011]
+[KLOR11]
 path = data/imgs/KLOR/small/0011.png
-[KLOR0012]
+[KLOR12]
 path = data/imgs/KLOR/small/0012.png
-[KLOR0013]
+[KLOR13]
 path = data/imgs/KLOR/small/0013.png
-[KLOR0014]
+[KLOR14]
 path = data/imgs/KLOR/small/0014.png
-[KLOR0015]
+[KLOR15]
 path = data/imgs/KLOR/small/0015.png
-[KLOR0016]
+[KLOR16]
 path = data/imgs/KLOR/small/0016.png
-[KLOR0017]
+[KLOR17]
 path = data/imgs/KLOR/small/0017.png
-[KLOR0018]
+[KLOR18]
 path = data/imgs/KLOR/small/0018.png
-[KLOR0019]
+[KLOR19]
 path = data/imgs/KLOR/small/0019.png
-[KLOR0020]
+[KLOR20]
 path = data/imgs/KLOR/small/0020.png
-[KLOR0021]
+[KLOR21]
 path = data/imgs/KLOR/small/0021.png
-[KLOR0022]
+[KLOR22]
 path = data/imgs/KLOR/small/0022.png
-[KLOR0023]
+[KLOR23]
 path = data/imgs/KLOR/small/0023.png
-[KLOR0024]
+[KLOR24]
 path = data/imgs/KLOR/small/0024.png
-[KLOR0025]
+[KLOR25]
 path = data/imgs/KLOR/small/0025.png
-[KLOR0026]
+[KLOR26]
 path = data/imgs/KLOR/small/0026.png
-[KLOR0027]
+[KLOR27]
 path = data/imgs/KLOR/small/0027.png
-[KLOR0028]
+[KLOR28]
 path = data/imgs/KLOR/small/0028.png
-[KLOR0029]
+[KLOR29]
 path = data/imgs/KLOR/small/0029.png
-[KLOR0030]
+[KLOR30]
 path = data/imgs/KLOR/small/0030.png
-[KLOR0031]
+[KLOR31]
 path = data/imgs/KLOR/small/0031.png
-[KLOR0032]
+[KLOR32]
 path = data/imgs/KLOR/small/0032.png
-[KLOR0033]
+[KLOR33]
 path = data/imgs/KLOR/small/0033.png
-[KLOR0034]
+[KLOR34]
 path = data/imgs/KLOR/small/0034.png
-[KLOR0035]
+[KLOR35]
 path = data/imgs/KLOR/small/0035.png
-[KLOR0036]
+[KLOR36]
 path = data/imgs/KLOR/small/0036.png
-[KLOR0037]
+[KLOR37]
 path = data/imgs/KLOR/small/0037.png
-[KLOR0038]
+[KLOR38]
 path = data/imgs/KLOR/small/0038.png
-[KLOR0039]
+[KLOR39]
 path = data/imgs/KLOR/small/0039.png
-[KLOR0040]
+[KLOR40]
 path = data/imgs/KLOR/small/0040.png
-[KLOR0041]
+[KLOR41]
 path = data/imgs/KLOR/small/0041.png
-[KLOR0042]
+[KLOR42]
 path = data/imgs/KLOR/small/0042.png
-[KLOR0043]
+[KLOR43]
 path = data/imgs/KLOR/small/0043.png
-[KLOR0044]
+[KLOR44]
 path = data/imgs/KLOR/small/0044.png
-[KLOR0045]
+[KLOR45]
 path = data/imgs/KLOR/small/0045.png
-[KLOR0046]
+[KLOR46]
 path = data/imgs/KLOR/small/0046.png
-[KLOR0047]
+[KLOR47]
 path = data/imgs/KLOR/small/0047.png
-[KLOR0048]
+[KLOR48]
 path = data/imgs/KLOR/small/0048.png
-[KLOR0049]
+[KLOR49]
 path = data/imgs/KLOR/small/0049.png
-[KLOR0050]
+[KLOR50]
 path = data/imgs/KLOR/small/0050.png
-[KLOR0051]
+[KLOR51]
 path = data/imgs/KLOR/small/0051.png
-[KLOR0052]
+[KLOR52]
 path = data/imgs/KLOR/small/0052.png
-[KLOR0053]
+[KLOR53]
 path = data/imgs/KLOR/small/0053.png
-[KLOR0054]
+[KLOR54]
 path = data/imgs/KLOR/small/0054.png
-[KLOR0055]
+[KLOR55]
 path = data/imgs/KLOR/small/0055.png
-[KLOR0056]
+[KLOR56]
 path = data/imgs/KLOR/small/0056.png
-[KLOR0057]
+[KLOR57]
 path = data/imgs/KLOR/small/0057.png
-[KLOR0058]
+[KLOR58]
 path = data/imgs/KLOR/small/0058.png
-[KLOR0059]
+[KLOR59]
 path = data/imgs/KLOR/small/0059.png
-[KLOR0060]
+[KLOR60]
 path = data/imgs/KLOR/small/0060.png
-[KLOR0061]
+[KLOR61]
 path = data/imgs/KLOR/small/0061.png
-[KLOR0062]
+[KLOR62]
 path = data/imgs/KLOR/small/0062.png
-[KLOR0063]
+[KLOR63]
 path = data/imgs/KLOR/small/0063.png
-[KLOR0064]
+[KLOR64]
 path = data/imgs/KLOR/small/0064.png
-[KLOR0065]
+[KLOR65]
 path = data/imgs/KLOR/small/0065.png
-[KLOR0066]
+[KLOR66]
 path = data/imgs/KLOR/small/0066.png
-[KLOR0067]
+[KLOR67]
 path = data/imgs/KLOR/small/0067.png
-[KLOR0068]
+[KLOR68]
 path = data/imgs/KLOR/small/0068.png
-[KLOR0069]
+[KLOR69]
 path = data/imgs/KLOR/small/0069.png
-[KLOR0070]
+[KLOR70]
 path = data/imgs/KLOR/small/0070.png
-[KLOR0071]
+[KLOR71]
 path = data/imgs/KLOR/small/0071.png
-[KLOR0072]
+[KLOR72]
 path = data/imgs/KLOR/small/0072.png
-[KLOR0073]
+[KLOR73]
 path = data/imgs/KLOR/small/0073.png
-[KLOR0074]
+[KLOR74]
 path = data/imgs/KLOR/small/0074.png
-[KLOR0075]
+[KLOR75]
 path = data/imgs/KLOR/small/0075.png
-[KLOR0076]
+[KLOR76]
 path = data/imgs/KLOR/small/0076.png
-[KLOR0077]
+[KLOR77]
 path = data/imgs/KLOR/small/0077.png
-[KLOR0078]
+[KLOR78]
 path = data/imgs/KLOR/small/0078.png
-[KLOR0079]
+[KLOR79]
 path = data/imgs/KLOR/small/0079.png
-[KLOR0080]
+[KLOR80]
 path = data/imgs/KLOR/small/0080.png
-[KLOR0081]
+[KLOR81]
 path = data/imgs/KLOR/small/0081.png
-[KLOR0082]
+[KLOR82]
 path = data/imgs/KLOR/small/0082.png
-[KLOR0083]
+[KLOR83]
 path = data/imgs/KLOR/small/0083.png
-[KLOR0084]
+[KLOR84]
 path = data/imgs/KLOR/small/0084.png
-[KLOR0085]
+[KLOR85]
 path = data/imgs/KLOR/small/0085.png
-[KLOR0086]
+[KLOR86]
 path = data/imgs/KLOR/small/0086.png
-[KLOR0087]
+[KLOR87]
 path = data/imgs/KLOR/small/0087.png
-[KLOR0088]
+[KLOR88]
 path = data/imgs/KLOR/small/0088.png
-[KLOR0089]
+[KLOR89]
 path = data/imgs/KLOR/small/0089.png
-[KLOR0090]
+[KLOR90]
 path = data/imgs/KLOR/small/0090.png
-[KLOR0091]
+[KLOR91]
 path = data/imgs/KLOR/small/0091.png
-[KLOR0092]
+[KLOR92]
 path = data/imgs/KLOR/small/0092.png
-[KLOR0093]
+[KLOR93]
 path = data/imgs/KLOR/small/0093.png
-[KLOR0094]
+[KLOR94]
 path = data/imgs/KLOR/small/0094.png
-[KLOR0095]
-path = data/imgs/KLOR/small/0095.png
-[KLOR0096]
-path = data/imgs/KLOR/small/0096.png
-[KLOR0097]
-path = data/imgs/KLOR/small/0097.png
-[KLOR0098]
-path = data/imgs/KLOR/small/0098.png
-[KLOR0099]
-path = data/imgs/KLOR/small/0099.png
-[KLOR0100]
-path = data/imgs/KLOR/small/0100.png
-[KLOR0101]
-path = data/imgs/KLOR/small/0101.png
-[KLOR0102]
-path = data/imgs/KLOR/small/0102.png
-[KLOR0103]
-path = data/imgs/KLOR/small/0103.png
-[KLOR0104]
-path = data/imgs/KLOR/small/0104.png
-[KLOR0105]
-path = data/imgs/KLOR/small/0105.png
-[KLOR0106]
-path = data/imgs/KLOR/small/0106.png
-[KLOR0107]
-path = data/imgs/KLOR/small/0107.png
-[KLOR0108]
-path = data/imgs/KLOR/small/0108.png
-[KLOR0109]
-path = data/imgs/KLOR/small/0109.png
-[KLOR0110]
-path = data/imgs/KLOR/small/0110.png
-[KLOR0111]
-path = data/imgs/KLOR/small/0111.png
-[KLOR0112]
-path = data/imgs/KLOR/small/0112.png
-[KLOR0113]
-path = data/imgs/KLOR/small/0113.png
-[KLOR0114]
-path = data/imgs/KLOR/small/0114.png
-[KLOR0115]
-path = data/imgs/KLOR/small/0115.png
-[KLOR0116]
-path = data/imgs/KLOR/small/0116.png
-[KLOR0117]
-path = data/imgs/KLOR/small/0117.png
-[KLOR0118]
-path = data/imgs/KLOR/small/0118.png
-[KLOR0119]
-path = data/imgs/KLOR/0119.svg
-[KLOR0120]
-path = data/imgs/KLOR/0120.svg
-[KLOR0121]
-path = data/imgs/KLOR/0121.svg
-[KLOR0122]
-path = data/imgs/KLOR/0122.svg
-[KLOR0123]
-path = data/imgs/KLOR/0123.svg
-[KLOR0124]
-path = data/imgs/KLOR/0124.svg
-[KLOR0125]
-path = data/imgs/KLOR/0125.svg
-[KLOR0126]
-path = data/imgs/KLOR/0126.svg
-[KLOR0127]
-path = data/imgs/KLOR/0127.svg
-[KLOR0128]
-path = data/imgs/KLOR/0128.svg
-[KLOR0129]
-path = data/imgs/KLOR/0129.svg
-[KLOR0130]
-path = data/imgs/KLOR/0130.svg
-[KLOR0131]
-path = data/imgs/KLOR/0131.svg
-[KLOR0132]
-path = data/imgs/KLOR/0132.svg
-[KLOR0133]
-path = data/imgs/KLOR/0133.svg
-[KLOR0134]
-path = data/imgs/KLOR/0134.svg
-[KLOR0135]
-path = data/imgs/KLOR/0135.svg
-[KLOR0136]
-path = data/imgs/KLOR/0136.svg
-[KLOR0137]
-path = data/imgs/KLOR/0137.svg
-[KLOR0138]
-path = data/imgs/KLOR/0138.svg
-[KLOR0139]
-path = data/imgs/KLOR/0139.svg
-[KLOR0140]
-path = data/imgs/KLOR/0140.svg
-[KLOR0141]
-path = data/imgs/KLOR/0141.svg
-[KLOR0142]
-path = data/imgs/KLOR/0142.svg
-[KLOR0143]
-path = data/imgs/KLOR/0143.svg
-[KLOR0144]
-path = data/imgs/KLOR/0144.svg
-[KLOR0145]
-path = data/imgs/KLOR/0145.svg
-[KLOR0146]
-path = data/imgs/KLOR/0146.svg
-[KLOR0147]
-path = data/imgs/KLOR/0147.svg
-[KLOR0148]
-path = data/imgs/KLOR/0148.svg
-[KLOR0149]
-path = data/imgs/KLOR/0149.svg
 
 [LETTER.A]
 path = data/imgs/RETR/small/a.png
@@ -3109,61 +2971,6 @@ path = data/imgs/RETR/small/x.png
 path = data/imgs/RETR/small/y.png
 [LETTER.Z]
 path = data/imgs/RETR/small/z.png
-link = 2006
-
-[LETTER.A2]
-path = data/imgs/LETT/0013.png
-[LETTER.B2]
-path = data/imgs/LETT/0014.png
-[LETTER.C2]
-path = data/imgs/LETT/0015.png
-[LETTER.D2]
-path = data/imgs/LETT/0016.png
-[LETTER.E2]
-path = data/imgs/LETT/0017.png
-[LETTER.F2]
-path = data/imgs/LETT/0018.png
-[LETTER.G2]
-path = data/imgs/LETT/0019.png
-link = 2013
-[LETTER.H2]
-path = data/imgs/LETT/0020.png
-[LETTER.I2]
-path = data/imgs/LETT/0021.png
-[LETTER.J2]
-path = data/imgs/LETT/0022.png
-[LETTER.K2]
-path = data/imgs/LETT/0023.png
-[LETTER.L2]
-path = data/imgs/LETT/0024.png
-[LETTER.M2]
-path = data/imgs/LETT/0025.png
-[LETTER.N2]
-path = data/imgs/LETT/0026.png
-[LETTER.O2]
-path = data/imgs/LETT/0027.png
-[LETTER.P2]
-path = data/imgs/LETT/0028.png
-[LETTER.Q2]
-path = data/imgs/LETT/0029.png
-[LETTER.R2]
-path = data/imgs/LETT/0030.png
-[LETTER.S2]
-path = data/imgs/LETT/0031.png
-[LETTER.T2]
-path = data/imgs/LETT/0032.png
-[LETTER.U2]
-path = data/imgs/LETT/0033.png
-[LETTER.V2]
-path = data/imgs/LETT/0034.png
-[LETTER.W2]
-path = data/imgs/LETT/0035.png
-[LETTER.X2]
-path = data/imgs/LETT/0036.png
-[LETTER.Y2]
-path = data/imgs/LETT/0037.png
-[LETTER.Z2]
-path = data/imgs/LETT/0038.png
 
 [TRAV01]
 path = data/imgs/RETR/small/airtravel.png
@@ -3198,16 +3005,22 @@ path = data/imgs/RETR/small/turkey.png
 
 [BOOKMARKS01]
 path = data/imgs/DICE/bookmarks.svg
+link = bookmarks
 [BOOKMARKS02]
 path = data/imgs/DICE/google.svg
+link = google
 [BOOKMARKS03]
 path = data/imgs/DICE/apps.svg
+link = apps
 [BOOKMARKS04]
 path = data/imgs/DICE/examples.svg
+link = examples
 [BOOKMARKS05]
 path = data/imgs/DICE/podcasts.svg
+link = podcasts
 [BOOKMARKS06]
 path = data/imgs/DICE/links.svg
+link = links
 
 [LEISURE01]
 path = data/imgs/DICE/leisure.svg
@@ -3215,3 +3028,729 @@ path = data/imgs/DICE/leisure.svg
 path = data/imgs/DICE/mesa.svg
 [LEISURE03]
 path = data/imgs/DICE/coyote.svg
+
+[CARS1]
+path = data/imgs/CARS/small/0001.png
+[CARS2]
+path = data/imgs/CARS/small/0002.png
+[CARS3]
+path = data/imgs/CARS/small/0003.png
+[CARS4]
+path = data/imgs/CARS/small/0004.png
+[CARS5]
+path = data/imgs/CARS/small/0005.png
+[CARS6]
+path = data/imgs/CARS/small/0006.png
+[CARS7]
+path = data/imgs/CARS/small/0007.png
+[CARS8]
+path = data/imgs/CARS/small/0008.png
+[CARS9]
+path = data/imgs/CARS/small/0009.png
+[CARS10]
+path = data/imgs/CARS/small/0010.png
+[CARS11]
+path = data/imgs/CARS/small/0011.png
+[CARS12]
+path = data/imgs/CARS/small/0012.png
+[CARS13]
+path = data/imgs/CARS/small/0013.png
+[CARS14]
+path = data/imgs/CARS/small/0014.png
+[CARS15]
+path = data/imgs/CARS/small/0015.png
+[CARS16]
+path = data/imgs/CARS/small/0016.png
+[CARS17]
+path = data/imgs/CARS/small/0017.png
+[CARS18]
+path = data/imgs/CARS/small/0018.png
+[CARS19]
+path = data/imgs/CARS/small/0019.png
+[CARS20]
+path = data/imgs/CARS/small/0020.png
+[CARS21]
+path = data/imgs/CARS/small/0021.png
+[CARS22]
+path = data/imgs/CARS/small/0022.png
+[CARS23]
+path = data/imgs/CARS/small/0023.png
+[CARS24]
+path = data/imgs/CARS/small/0024.png
+[CARS25]
+path = data/imgs/CARS/small/0025.png
+[CARS26]
+path = data/imgs/CARS/small/0026.png
+[CARS27]
+path = data/imgs/CARS/small/0027.png
+[CARS28]
+path = data/imgs/CARS/small/0028.png
+[CARS29]
+path = data/imgs/CARS/small/0029.png
+[CARS30]
+path = data/imgs/CARS/small/0030.png
+[CARS31]
+path = data/imgs/CARS/small/0031.png
+[CARS32]
+path = data/imgs/CARS/small/0032.png
+[CARS33]
+path = data/imgs/CARS/small/0033.png
+[CARS34]
+path = data/imgs/CARS/small/0034.png
+[CARS35]
+path = data/imgs/CARS/small/0035.png
+[CARS36]
+path = data/imgs/CARS/small/0036.png
+[CARS37]
+path = data/imgs/CARS/small/0037.png
+[CARS38]
+path = data/imgs/CARS/small/0038.png
+[CARS39]
+path = data/imgs/CARS/small/0039.png
+[CARS40]
+path = data/imgs/CARS/small/0040.png
+[CARS41]
+path = data/imgs/CARS/small/0041.png
+[CARS42]
+path = data/imgs/CARS/small/0042.png
+[CARS43]
+path = data/imgs/CARS/small/0043.png
+[CARS44]
+path = data/imgs/CARS/small/0044.png
+[CARS45]
+path = data/imgs/CARS/small/0045.png
+[CARS46]
+path = data/imgs/CARS/small/0046.png
+[CARS47]
+path = data/imgs/CARS/small/0047.png
+[CARS48]
+path = data/imgs/CARS/small/0048.png
+[CARS49]
+path = data/imgs/CARS/small/0049.png
+[CARS50]
+path = data/imgs/CARS/small/0050.png
+[CARS51]
+path = data/imgs/CARS/small/0051.png
+[CARS52]
+path = data/imgs/CARS/small/0052.png
+[CARS53]
+path = data/imgs/CARS/small/0053.png
+[CARS54]
+path = data/imgs/CARS/small/0054.png
+[CARS55]
+path = data/imgs/CARS/small/0055.png
+[CARS56]
+path = data/imgs/CARS/small/0056.png
+[CARS57]
+path = data/imgs/CARS/small/0057.png
+[CARS58]
+path = data/imgs/CARS/small/0058.png
+[CARS59]
+path = data/imgs/CARS/small/0059.png
+[CARS60]
+path = data/imgs/CARS/small/0060.png
+[CARS61]
+path = data/imgs/CARS/small/0061.png
+[CARS62]
+path = data/imgs/CARS/small/0062.png
+[CARS63]
+path = data/imgs/CARS/small/0063.png
+[CARS64]
+path = data/imgs/CARS/small/0064.png
+[CARS65]
+path = data/imgs/CARS/small/0065.png
+[CARS66]
+path = data/imgs/CARS/small/0066.png
+[CARS67]
+path = data/imgs/CARS/small/0067.png
+[CARS68]
+path = data/imgs/CARS/small/0068.png
+[CARS69]
+path = data/imgs/CARS/small/0069.png
+[CARS70]
+path = data/imgs/CARS/small/0070.png
+[CARS71]
+path = data/imgs/CARS/small/0071.png
+[CARS72]
+path = data/imgs/CARS/small/0072.png
+
+[CABU1]
+path = data/imgs/CABU/small/0001.png
+[CABU2]
+path = data/imgs/CABU/small/0002.png
+[CABU3]
+path = data/imgs/CABU/small/0003.png
+[CABU4]
+path = data/imgs/CABU/small/0004.png
+[CABU5]
+path = data/imgs/CABU/small/0005.png
+[CABU6]
+path = data/imgs/CABU/small/0006.png
+[CABU7]
+path = data/imgs/CABU/small/0007.png
+[CABU8]
+path = data/imgs/CABU/small/0008.png
+[CABU9]
+path = data/imgs/CABU/small/0009.png
+[CABU10]
+path = data/imgs/CABU/small/0010.png
+[CABU11]
+path = data/imgs/CABU/small/0011.png
+[CABU12]
+path = data/imgs/CABU/small/0012.png
+[CABU13]
+path = data/imgs/CABU/small/0013.png
+[CABU14]
+path = data/imgs/CABU/small/0014.png
+[CABU15]
+path = data/imgs/CABU/small/0015.png
+[CABU16]
+path = data/imgs/CABU/small/0016.png
+[CABU17]
+path = data/imgs/CABU/small/0017.png
+[CABU18]
+path = data/imgs/CABU/small/0018.png
+[CABU19]
+path = data/imgs/CABU/small/0019.png
+[CABU20]
+path = data/imgs/CABU/small/0020.png
+[CABU21]
+path = data/imgs/CABU/small/0021.png
+[CABU22]
+path = data/imgs/CABU/small/0022.png
+[CABU23]
+path = data/imgs/CABU/small/0023.png
+[CABU24]
+path = data/imgs/CABU/small/0024.png
+[CABU25]
+path = data/imgs/CABU/small/0025.png
+[CABU26]
+path = data/imgs/CABU/small/0026.png
+[CABU27]
+path = data/imgs/CABU/small/0027.png
+[CABU28]
+path = data/imgs/CABU/small/0028.png
+[CABU29]
+path = data/imgs/CABU/small/0029.png
+[CABU30]
+path = data/imgs/CABU/small/0030.png
+[CABU31]
+path = data/imgs/CABU/small/0031.png
+[CABU32]
+path = data/imgs/CABU/small/0032.png
+[CABU33]
+path = data/imgs/CABU/small/0033.png
+[CABU34]
+path = data/imgs/CABU/small/0034.png
+[CABU35]
+path = data/imgs/CABU/small/0035.png
+[CABU36]
+path = data/imgs/CABU/small/0036.png
+[CABU37]
+path = data/imgs/CABU/small/0037.png
+[CABU38]
+path = data/imgs/CABU/small/0038.png
+[CABU39]
+path = data/imgs/CABU/small/0039.png
+[CABU40]
+path = data/imgs/CABU/small/0040.png
+[CABU41]
+path = data/imgs/CABU/small/0041.png
+[CABU42]
+path = data/imgs/CABU/small/0042.png
+[CABU43]
+path = data/imgs/CABU/small/0043.png
+[CABU44]
+path = data/imgs/CABU/small/0044.png
+[CABU45]
+path = data/imgs/CABU/small/0045.png
+[CABU46]
+path = data/imgs/CABU/small/0046.png
+[CABU47]
+path = data/imgs/CABU/small/0047.png
+[CABU48]
+path = data/imgs/CABU/small/0048.png
+[CABU49]
+path = data/imgs/CABU/small/0049.png
+[CABU50]
+path = data/imgs/CABU/small/0050.png
+[CABU51]
+path = data/imgs/CABU/small/0051.png
+[CABU52]
+path = data/imgs/CABU/small/0052.png
+[CABU53]
+path = data/imgs/CABU/small/0053.png
+[CABU54]
+path = data/imgs/CABU/small/0054.png
+[CABU55]
+path = data/imgs/CABU/small/0055.png
+[CABU56]
+path = data/imgs/CABU/small/0056.png
+[CABU57]
+path = data/imgs/CABU/small/0057.png
+[CABU58]
+path = data/imgs/CABU/small/0058.png
+[CABU59]
+path = data/imgs/CABU/small/0059.png
+[CABU60]
+path = data/imgs/CABU/small/0060.png
+[CABU61]
+path = data/imgs/CABU/small/0061.png
+[CABU62]
+path = data/imgs/CABU/small/0062.png
+[CABU63]
+path = data/imgs/CABU/small/0063.png
+[CABU64]
+path = data/imgs/CABU/small/0064.png
+[CABU65]
+path = data/imgs/CABU/small/0065.png
+[CABU66]
+path = data/imgs/CABU/small/0066.png
+[CABU67]
+path = data/imgs/CABU/small/0067.png
+[CABU68]
+path = data/imgs/CABU/small/0068.png
+[CABU69]
+path = data/imgs/CABU/small/0069.png
+[CABU70]
+path = data/imgs/CABU/small/0070.png
+[CABU71]
+path = data/imgs/CABU/small/0071.png
+[CABU72]
+path = data/imgs/CABU/small/0072.png
+[CABU73]
+path = data/imgs/CABU/small/0073.png
+[CABU74]
+path = data/imgs/CABU/small/0074.png
+[CABU75]
+path = data/imgs/CABU/small/0075.png
+[CABU76]
+path = data/imgs/CABU/small/0076.png
+[CABU77]
+path = data/imgs/CABU/small/0077.png
+[CABU78]
+path = data/imgs/CABU/small/0078.png
+[CABU79]
+path = data/imgs/CABU/small/0079.png
+[CABU80]
+path = data/imgs/CABU/small/0080.png
+[CABU81]
+path = data/imgs/CABU/small/0081.png
+[CABU82]
+path = data/imgs/CABU/small/0082.png
+[CABU83]
+path = data/imgs/CABU/small/0083.png
+[CABU84]
+path = data/imgs/CABU/small/0084.png
+[CABU85]
+path = data/imgs/CABU/small/0085.png
+[CABU86]
+path = data/imgs/CABU/small/0086.png
+[CABU87]
+path = data/imgs/CABU/small/0087.png
+[CABU88]
+path = data/imgs/CABU/small/0088.png
+[CABU89]
+path = data/imgs/CABU/small/0089.png
+[CABU90]
+path = data/imgs/CABU/small/0090.png
+[CABU91]
+path = data/imgs/CABU/small/0091.png
+[CABU92]
+path = data/imgs/CABU/small/0092.png
+[CABU93]
+path = data/imgs/CABU/small/0093.png
+[CABU94]
+path = data/imgs/CABU/small/0094.png
+[CABU95]
+path = data/imgs/CABU/small/0095.png
+[CABU96]
+path = data/imgs/CABU/small/0096.png
+[CABU97]
+path = data/imgs/CABU/small/0097.png
+[CABU98]
+path = data/imgs/CABU/small/0098.png
+[CABU99]
+path = data/imgs/CABU/small/0099.png
+[CABU100]
+path = data/imgs/CABU/small/0100.png
+[CABU101]
+path = data/imgs/CABU/small/0101.png
+[CABU102]
+path = data/imgs/CABU/small/0102.png
+[CABU103]
+path = data/imgs/CABU/small/0103.png
+[CABU104]
+path = data/imgs/CABU/small/0104.png
+[CABU105]
+path = data/imgs/CABU/small/0105.png
+[CABU106]
+path = data/imgs/CABU/small/0106.png
+[CABU107]
+path = data/imgs/CABU/small/0107.png
+[CABU108]
+path = data/imgs/CABU/small/0108.png
+[CABU109]
+path = data/imgs/CABU/small/0109.png
+[CABU110]
+path = data/imgs/CABU/small/0110.png
+[CABU111]
+path = data/imgs/CABU/small/0111.png
+[CABU112]
+path = data/imgs/CABU/small/0112.png
+[CABU113]
+path = data/imgs/CABU/small/0113.png
+[CABU114]
+path = data/imgs/CABU/small/0114.png
+[CABU115]
+path = data/imgs/CABU/small/0115.png
+[CABU116]
+path = data/imgs/CABU/small/0116.png
+[CABU117]
+path = data/imgs/CABU/small/0117.png
+[CABU118]
+path = data/imgs/CABU/small/0118.png
+[CABU119]
+path = data/imgs/CABU/small/0119.png
+[CABU120]
+path = data/imgs/CABU/small/0120.png
+[CABU121]
+path = data/imgs/CABU/small/0121.png
+[CABU122]
+path = data/imgs/CABU/small/0122.png
+[CABU123]
+path = data/imgs/CABU/small/0123.png
+[CABU124]
+path = data/imgs/CABU/small/0124.png
+[CABU125]
+path = data/imgs/CABU/small/0125.png
+[CABU126]
+path = data/imgs/CABU/small/0126.png
+[CABU127]
+path = data/imgs/CABU/small/0127.png
+[CABU128]
+path = data/imgs/CABU/small/0128.png
+[CABU129]
+path = data/imgs/CABU/small/0129.png
+[CABU130]
+path = data/imgs/CABU/small/0130.png
+[CABU131]
+path = data/imgs/CABU/small/0131.png
+[CABU132]
+path = data/imgs/CABU/small/0132.png
+[CABU133]
+path = data/imgs/CABU/small/0133.png
+[CABU134]
+path = data/imgs/CABU/small/0134.png
+[CABU135]
+path = data/imgs/CABU/small/0135.png
+[CABU136]
+path = data/imgs/CABU/small/0136.png
+[CABU137]
+path = data/imgs/CABU/small/0137.png
+[CABU138]
+path = data/imgs/CABU/small/0138.png
+[CABU139]
+path = data/imgs/CABU/small/0139.png
+[CABU140]
+path = data/imgs/CABU/small/0140.png
+[CABU141]
+path = data/imgs/CABU/small/0141.png
+[CABU142]
+path = data/imgs/CABU/small/0142.png
+[CABU143]
+path = data/imgs/CABU/small/0143.png
+[CABU144]
+path = data/imgs/CABU/small/0144.png
+[CABU145]
+path = data/imgs/CABU/small/0145.png
+[CABU146]
+path = data/imgs/CABU/small/0146.png
+[CABU147]
+path = data/imgs/CABU/small/0147.png
+[CABU148]
+path = data/imgs/CABU/small/0148.png
+[CABU149]
+path = data/imgs/CABU/small/0149.png
+[CABU150]
+path = data/imgs/CABU/small/0150.png
+[CABU151]
+path = data/imgs/CABU/small/0151.png
+[CABU152]
+path = data/imgs/CABU/small/0152.png
+[CABU153]
+path = data/imgs/CABU/small/0153.png
+[CABU154]
+path = data/imgs/CABU/small/0154.png
+[CABU155]
+path = data/imgs/CABU/small/0155.png
+[CABU156]
+path = data/imgs/CABU/small/0156.png
+[CABU157]
+path = data/imgs/CABU/small/0157.png
+[CABU158]
+path = data/imgs/CABU/small/0158.png
+[CABU159]
+path = data/imgs/CABU/small/0159.png
+[CABU160]
+path = data/imgs/CABU/small/0160.png
+[CABU161]
+path = data/imgs/CABU/small/0161.png
+[CABU162]
+path = data/imgs/CABU/small/0162.png
+[CABU163]
+path = data/imgs/CABU/small/0163.png
+[CABU164]
+path = data/imgs/CABU/small/0164.png
+[CABU165]
+path = data/imgs/CABU/small/0165.png
+[CABU166]
+path = data/imgs/CABU/small/0166.png
+[CABU167]
+path = data/imgs/CABU/small/0167.png
+[CABU168]
+path = data/imgs/CABU/small/0168.png
+[CABU169]
+path = data/imgs/CABU/small/0169.png
+[CABU170]
+path = data/imgs/CABU/small/0170.png
+[CABU171]
+path = data/imgs/CABU/small/0171.png
+[CABU172]
+path = data/imgs/CABU/small/0172.png
+[CABU173]
+path = data/imgs/CABU/small/0173.png
+[CABU174]
+path = data/imgs/CABU/small/0174.png
+[CABU175]
+path = data/imgs/CABU/small/0175.png
+[CABU176]
+path = data/imgs/CABU/small/0176.png
+[CABU177]
+path = data/imgs/CABU/small/0177.png
+[CABU178]
+path = data/imgs/CABU/small/0178.png
+[CABU179]
+path = data/imgs/CABU/small/0179.png
+[CABU180]
+path = data/imgs/CABU/small/0180.png
+[CABU181]
+path = data/imgs/CABU/small/0181.png
+[CABU182]
+path = data/imgs/CABU/small/0182.png
+[CABU183]
+path = data/imgs/CABU/small/0183.png
+[CABU184]
+path = data/imgs/CABU/small/0184.png
+[CABU185]
+path = data/imgs/CABU/small/0185.png
+[CABU186]
+path = data/imgs/CABU/small/0186.png
+[CABU187]
+path = data/imgs/CABU/small/0187.png
+[CABU188]
+path = data/imgs/CABU/small/0188.png
+[CABU189]
+path = data/imgs/CABU/small/0189.png
+[CABU190]
+path = data/imgs/CABU/small/0190.png
+[CABU191]
+path = data/imgs/CABU/small/0191.png
+[CABU192]
+path = data/imgs/CABU/small/0192.png
+[CABU193]
+path = data/imgs/CABU/small/0193.png
+[CABU194]
+path = data/imgs/CABU/small/0194.png
+[CABU195]
+path = data/imgs/CABU/small/0195.png
+[CABU196]
+path = data/imgs/CABU/small/0196.png
+[CABU197]
+path = data/imgs/CABU/small/0197.png
+[CABU198]
+path = data/imgs/CABU/small/0198.png
+[CABU199]
+path = data/imgs/CABU/small/0199.png
+[CABU200]
+path = data/imgs/CABU/small/0200.png
+[CABU201]
+path = data/imgs/CABU/small/0201.png
+[CABU202]
+path = data/imgs/CABU/small/0202.png
+[CABU203]
+path = data/imgs/CABU/small/0203.png
+[CABU204]
+path = data/imgs/CABU/small/0204.png
+[CABU205]
+path = data/imgs/CABU/small/0205.png
+[CABU206]
+path = data/imgs/CABU/small/0206.png
+[CABU207]
+path = data/imgs/CABU/small/0207.png
+[CABU208]
+path = data/imgs/CABU/small/0208.png
+[CABU209]
+path = data/imgs/CABU/small/0209.png
+[CABU210]
+path = data/imgs/CABU/small/0210.png
+[CABU211]
+path = data/imgs/CABU/small/0211.png
+[CABU212]
+path = data/imgs/CABU/small/0212.png
+[CABU213]
+path = data/imgs/CABU/small/0213.png
+[CABU214]
+path = data/imgs/CABU/small/0214.png
+[CABU215]
+path = data/imgs/CABU/small/0215.png
+[CABU216]
+path = data/imgs/CABU/small/0216.png
+[CABU217]
+path = data/imgs/CABU/small/0217.png
+[CABU218]
+path = data/imgs/CABU/small/0218.png
+[CABU219]
+path = data/imgs/CABU/small/0219.png
+[CABU220]
+path = data/imgs/CABU/small/0220.png
+[CABU221]
+path = data/imgs/CABU/small/0221.png
+[CABU222]
+path = data/imgs/CABU/small/0222.png
+[CABU223]
+path = data/imgs/CABU/small/0223.png
+[CABU224]
+path = data/imgs/CABU/small/0224.png
+[CABU225]
+path = data/imgs/CABU/small/0225.png
+[CABU226]
+path = data/imgs/CABU/small/0226.png
+[CABU227]
+path = data/imgs/CABU/small/0227.png
+[CABU228]
+path = data/imgs/CABU/small/0228.png
+[CABU229]
+path = data/imgs/CABU/small/0229.png
+[CABU230]
+path = data/imgs/CABU/small/0230.png
+[CABU231]
+path = data/imgs/CABU/small/0231.png
+[CABU232]
+path = data/imgs/CABU/small/0232.png
+[CABU233]
+path = data/imgs/CABU/small/0233.png
+
+[TICK1]
+path = data/imgs/TICK/small/0001.png
+[TICK2]
+path = data/imgs/TICK/small/0002.png
+[TICK3]
+path = data/imgs/TICK/small/0003.png
+[TICK4]
+path = data/imgs/TICK/small/0004.png
+[TICK5]
+path = data/imgs/TICK/small/0005.png
+[TICK6]
+path = data/imgs/TICK/small/0006.png
+[TICK7]
+path = data/imgs/TICK/small/0007.png
+[TICK8]
+path = data/imgs/TICK/small/0008.png
+[TICK9]
+path = data/imgs/TICK/small/0009.png
+[TICK10]
+path = data/imgs/TICK/small/0010.png
+[TICK11]
+path = data/imgs/TICK/small/0011.png
+[TICK12]
+path = data/imgs/TICK/small/0012.png
+[TICK13]
+path = data/imgs/TICK/small/0013.png
+[TICK14]
+path = data/imgs/TICK/small/0014.png
+[TICK15]
+path = data/imgs/TICK/small/0015.png
+[TICK16]
+path = data/imgs/TICK/small/0016.png
+[TICK17]
+path = data/imgs/TICK/small/0017.png
+[TICK18]
+path = data/imgs/TICK/small/0018.png
+[TICK19]
+path = data/imgs/TICK/small/0019.png
+[TICK20]
+path = data/imgs/TICK/small/0020.png
+[TICK21]
+path = data/imgs/TICK/small/0021.png
+[TICK22]
+path = data/imgs/TICK/small/0022.png
+[TICK23]
+path = data/imgs/TICK/small/0023.png
+[TICK24]
+path = data/imgs/TICK/small/0024.png
+
+[LICS1]
+path = data/imgs/LICS/small/0001.png
+[LICS2]
+path = data/imgs/LICS/small/0002.png
+[LICS3]
+path = data/imgs/LICS/small/0003.png
+[LICS4]
+path = data/imgs/LICS/small/0004.png
+[LICS5]
+path = data/imgs/LICS/small/0005.png
+[LICS6]
+path = data/imgs/LICS/small/0006.png
+[LICS7]
+path = data/imgs/LICS/small/0007.png
+[LICS8]
+path = data/imgs/LICS/small/0008.png
+[LICS9]
+path = data/imgs/LICS/small/0009.png
+[LICS10]
+path = data/imgs/LICS/small/0010.png
+[LICS11]
+path = data/imgs/LICS/small/0011.png
+[LICS12]
+path = data/imgs/LICS/small/0012.png
+[LICS13]
+path = data/imgs/LICS/small/0013.png
+[LICS14]
+path = data/imgs/LICS/small/0014.png
+[LICS15]
+path = data/imgs/LICS/small/0015.png
+[LICS16]
+path = data/imgs/LICS/small/0016.png
+[LICS17]
+path = data/imgs/LICS/small/0017.png
+[LICS18]
+path = data/imgs/LICS/small/0018.png
+[LICS19]
+path = data/imgs/LICS/small/0019.png
+[LICS20]
+path = data/imgs/LICS/small/0020.png
+[LICS21]
+path = data/imgs/LICS/small/0021.png
+[LICS22]
+path = data/imgs/LICS/small/0022.png
+[LICS23]
+path = data/imgs/LICS/small/0023.png
+[LICS24]
+path = data/imgs/LICS/small/0024.png
+[LICS25]
+path = data/imgs/LICS/small/0025.png
+[LICS26]
+path = data/imgs/LICS/small/0026.png
+[LICS27]
+path = data/imgs/LICS/small/0027.png
+[LICS28]
+path = data/imgs/LICS/small/0028.png
+[LICS29]
+path = data/imgs/LICS/small/0029.png
+[LICS30]
+path = data/imgs/LICS/small/0030.png
+[LICS31]
+path = data/imgs/LICS/small/0031.png
+[LICS32]
+path = data/imgs/LICS/small/0032.png

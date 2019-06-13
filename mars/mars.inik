@@ -415,4 +415,54 @@ link = https://www.webmd.com/men/default.htm
 title = Doctors
 link = https://healthwebnav.org/website_category/doctors-hospitals/
 
+#games
+[RIME]
+link = https://guides.gamepressure.com/rime/guide.asp?ID=40224
 
+#adobe
+[VECTOR STOCK]
+link = https://stock.adobe.com/contributor/201100175/vector-tradition?load_type=author&prev_url=detail&asset_id=200047242
+
+#cpp
+[AWESOME]
+title = A collection of resources on modern C++.
+link = https://github.com/rigtorp/awesome-modern-cpp/blob/master/README.md
+
+#jobs
+[REMOTE]
+link = https://remotedevjobs.co/blog/remote-job-hunting
+
+#epic
+[EPIC]
+link = https://www.epicgames.com/store/en-US/
+
+[FORUSAJOBS]
+link = http://www.forusajobs.com/?mrecruitment
+
+#canvas
+[RIP]
+title = word wrap
+link = https://riptutorial.com/Download/html5-canvas.pdf
+
+#playlists
+[MORTIFER]
+title =  Mortifer V
+link = https://www.youtube.com/user/GmRebelliousV/playlists?view=1&sort=dd&shelf_id=0
+
+[PLAYLISTS]
+cosmos.volume1 = https://www.youtube.com/watch?v=41Y6xov0ppw
+terrible = https://play.google.com/music/listen?u=0#/wst/st/c51b8fa4-4f9f-3f9c-abfb-bdf18588410c
+
+#audiobookbay
+[BVLarson]
+title = Galactic Liberation 04: Hive War
+link = http://audiobookbay.nl/audio-books/galactic-liberation-04-hive-war-bv-larsondavid-vandyke/
+
+title = Strakers Breakers (Galactic Liberation #5) 
+link = http://abbaudiobooks.com/audio-books/strakers-breakers-galactic-liberation-5-b-v-larson-david-vandyke/
+
+title = War of the Spheres
+link = http://audiobookbay.nl/audio-books/war-of-the-spheres-bv-larson-james-millington/
+
+title = Storm World #10
+link = http://audiobookbay.nl/audio-books/storm-world-undying-mercenaries-10-bv-larson/
