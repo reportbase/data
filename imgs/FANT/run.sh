@@ -1,17 +1,11 @@
-shopt -s nocaseglob
-mkdir tmp
-mkdir small 2> tmp/out
-rm small/*.jpg
+mkdir 320 2> tmp
+for image in *.jpg ; do convert $image -resize 320 -quality 80 320/$image; done
 
-a=0001
-for i in *.jpg ; do
-  new=$(printf "%04d.jpg" "$a") #04 pad to length of 4
-  mv -- "$i" "$new" 2> tmp/out 
-  let a=a+1
-done
+mkdir 640 2> tmp
+for image in *.jpg ; do convert $image -resize 640 -quality 80 640/$image; done
 
-for image in *.jpg ; do convert $image -resize 40% -quality 70 small/$image; done
-node photos.js *.jpg > photos.ini
-gzip -f photos.ini 2> tmp/out
-gzip -f default.ini 2> tmp/out
-gzip -f vectors.ini 2> tmp/out
+mkdir 960 2> tmp
+for image in *.jpg ; do convert $image -resize 960 -quality 80 960/$image; done
+
+mkdir 1280 2> tmp
+for image in *.jpg ; do convert $image -resize 1280 -quality 80 1280/$image; done
