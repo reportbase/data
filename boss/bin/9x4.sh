@@ -1,9 +1,24 @@
-mkdir 9x4 2> tmp
-for image in *.jpg ; do convert $image -resize x256 -quality 75 9x4/$image; done
+mkdir -p 9x4 
+for image in 4*.jpg; do convert $image -resize x512 -quality 75 9x4/$image; done
 
 cd 9x4
-montage *.jpg -tile 9x4 -mode Concatenate 0.jpg
-rm 4*.jpg
+for image in 4*.jpg; do convert $image -gravity center -crop 768x512+0+0 $image; done
 
+montage {4000..4035}.jpg -tile 9x4 -mode Concatenate 0000.jpg 2> error
+montage {4036..4071}.jpg -tile 9x4 -mode Concatenate 0001.jpg 2> error
+montage {4072..4107}.jpg -tile 9x4 -mode Concatenate 0002.jpg 2> error
+montage {4108..4143}.jpg -tile 9x4 -mode Concatenate 0003.jpg 2> error
+montage {4144..4179}.jpg -tile 9x4 -mode Concatenate 0004.jpg 2> error
+montage {4180..4215}.jpg -tile 9x4 -mode Concatenate 0005.jpg 2> error
+montage {4216..4251}.jpg -tile 9x4 -mode Concatenate 0006.jpg 2> error
+montage {4252..4287}.jpg -tile 9x4 -mode Concatenate 0007.jpg 2> error
+montage {4288..4323}.jpg -tile 9x4 -mode Concatenate 0008.jpg 2> error
+montage {4324..4359}.jpg -tile 9x4 -mode Concatenate 0009.jpg 2> error
+montage {4360..4395}.jpg -tile 9x4 -mode Concatenate 0010.jpg 2> error
+montage {4396..4431}.jpg -tile 9x4 -mode Concatenate 0011.jpg 2> error
+montage {4432..4467}.jpg -tile 9x4 -mode Concatenate 0012.jpg 2> error
+
+for image in {0000..0012}.jpg; do convert $image -resize x1080 -quality 75 $image 2> error; done
+rm 4*
 
 
