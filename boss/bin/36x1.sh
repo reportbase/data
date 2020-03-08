@@ -19,6 +19,6 @@ montage {4396..4431}.jpg -tile 36x1 -mode Concatenate 0011.jpg 2> error
 montage {4432..4467}.jpg -tile 36x1 -mode Concatenate 0012.jpg 2> error
 
 rm 4*.jpg
-
+rename.sh 0000
 
 

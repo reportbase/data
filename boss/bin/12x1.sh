@@ -1,5 +1,5 @@
 mkdir -p 12x1 
-for image in 4*.jpg ; do convert $image -resize x768 -quality 75 12x1/$image; done
+for image in 4*.jpg ; do convert $image -resize x1080 -quality 75 12x1/$image; done
 
 cd 12x1
 montage {4000..4059}.jpg -tile 12x1 -mode Concatenate '51%04d.jpg' 2> error
