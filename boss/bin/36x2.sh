@@ -2,7 +2,7 @@ mkdir -p 36x2
 for image in 4*.jpg; do convert $image -resize x512 -quality 75 36x2/$image; done
 
 cd 36x2
-for image in 4*.jpg; do convert $image -gravity center -crop 384x512+0+0 $image; done
+for image in 4*.jpg; do convert $image -gravity center -crop 320x512+0+0 $image; done
 
 montage {4000..4071}.jpg -tile 36x2 -mode Concatenate 0000.jpg 2> error
 montage {4072..4143}.jpg -tile 36x2 -mode Concatenate 0001.jpg 2> error
