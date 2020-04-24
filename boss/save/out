@@ -1,0 +1,322 @@
+    1  ./6x1.sh 
+    2  cd ../versions/0001/
+    3  vim pages.ini 
+    4  vim common.ini 
+    5  cd ..
+    6  sudo chown coy imgs
+    7  cd 6x1
+    8  cd imgs
+    9  ls -la
+   10  sudo rm -r 6x1
+   11  vim 6x1.sh
+   12  sudo chown scott 6x1.sh
+   13  vim 6x1.sh 
+   14  sudo chown coy 6x1.sh
+   15  ls -la
+   16  sudo chown coy *.jpg
+   17  ls -la
+   18  vim 6x1.sh
+   19  sudo adduser scott coy
+   20  sudo addusr scott coy
+   21  sudo adusr scott coy
+   22  sudo useradd scott coy
+   23  vim index.html 
+   24  clear
+   25  sudo usermod -a -G coy scott
+   26  cd ..
+   27  cd imgs
+   28  cp 4035.jpg 999
+   29  ls -la
+   30  cp 4034.jpg 999
+   31  cd ..
+   32  ls -la
+   33  sudo chgrp coy imgs
+   34  ls -la
+   35  cd coy
+   36  cd imgs
+   37  cp 4035.jpg a
+   38  ls -la
+   39  cd ..
+   40  ls -la
+   41  cd coy
+   42  cd imgs
+   43  cd readme/
+   44  git status
+   45  cd ..
+   46  git add readme
+   47  cd readme
+   48  git add *
+   49  git commit -am na
+   50  git push origin master
+   51  cd ..
+   52  cd boss/0007
+   53  vim global.ini 
+   54  s
+   55  s
+   56  cd boss/0033
+   57  cd imgs
+   58  cd 32x3
+   59  cd ..
+   60  vim 32x3.sh 
+   61  cd ../versions/
+   62  cd 0001/
+   63  vim 32x3.ini 
+   64  s
+   65  ./start.sh 
+   66  df
+   67  cd boss/0033
+   68  cd imgs
+   69  ls *.sh
+   70  cd 16x1
+   71  rm -r imgs
+   72  cd ..
+   73  ls *.sh
+   74  cd 32x3
+   75  rm -r imgs
+   76  cd ..
+   77  ls *.sh
+   78  cd 48x6
+   79  rm -r imgs/
+   80  cd ..
+   81  ls *.sh
+   82  cd 80x9
+   83  rm -r imgs/
+   84  cd ..
+   85  rm -r orig
+   86  df
+   87  cd ..
+   88  s
+   89  cp -r 0001 0053
+   90  cd 0053
+   91  cd ../../
+   92  cd boss/versions/0001/
+   93  cd ../../0053
+   94  cd versions/
+   95  cd 0001/
+   96  vim links.ini 
+   97  s
+   98  cd boss/0006
+   99  mv pages.ini ../../yoll/0006/versions/0001/
+  100  s
+  101  cd boss/0009
+  102  cd versions/
+  103  l
+  104  cd 0001/
+  105  cp 12x1.ini 18x1.ini
+  106  vim 18x1.ini 
+  107  cd ../../imgs/
+  108  file 4000.jpg 
+  109  vim 18x1.sh 
+  110  chmod +x 18x1.sh 
+  111  ./18x1.sh 
+  112  cd ../versions/0001/
+  113  cp 18x1.ini 36x1.ini
+  114  vim 36x1.ini 
+  115  vim photos.ini 
+  116  vim links.ini 
+  117  cd ../../imgs/
+  118  cp 18x1.sh 36x1.sh
+  119  vim 36x1.sh 
+  120  ./36x1.sh 
+  121  s
+  122  cd boss/0003
+  123  cd imgs
+  124  s
+  125  cd boss/0001
+  126  cd imgs/
+  127  cd 6x1
+  128  cd ..
+  129  cd ../versions/0001/
+  130  vim photos.ini 
+  131  s
+  132  s
+  133  ./start.sh 
+  134  cd reportbase.com/
+  135  git commit -am na
+  136  git push origin master
+  137  cd data
+  138  git status
+  139  git commit -am na
+  140  git status
+  141  cd ..
+  142  s
+  143  cd reportbase.com/
+  144  git commit -am na
+  145  git push origin master
+  146  cp repba.js ../repba.com/032.repba.js
+  147  cd ../repba.com/
+  148  vim index.html 
+  149  s
+  150  s
+  151  cd boss/0051
+  152  clear
+  153  cd versions/
+  154  l
+  155  cd 0001/
+  156  vim pages.ini
+  157  cd ..
+  158  mkdir tmp
+  159  mv 0051 tmp
+  160  mv 0053 tmp
+  161  cd 0052
+  162  s
+  163  cd 0052
+  164  cd versions/
+  165  cd boss/0005
+  166  vim links.ini 
+  167  ls -la
+  168  vim links.ini 
+  169  s
+  170  cd boss\0008
+  171  cd 0008
+  172  cd imgs/
+  173  cd ..
+  174  vim links.ini 
+  175  cd ../../imgs/
+  176  cd 6x1
+  177  s
+  178  ls -l
+  179  cd boss/0008
+  180  ls -l
+  181  vim global.ini 
+  182  ls -la
+  183  vim photos.ini 
+  184  cd ../../imgs/
+  185  cd ../../0009
+  186  cd imgs/
+  187  cd ..
+  188  vim common.ini 
+  189  s
+  190  cd boss\0008
+  191  cd 0008
+  192  cd ../0009
+  193  cd ../../0009
+  194  cd ..
+  195  cd 0009/versions/0001/
+  196  ls -la
+  197  vim global.ini 
+  198  cd ../../..
+  199  cd 0010
+  200  s
+  201  cd boss\0004
+  202  cd 0004
+  203  cd versions/
+  204  cd 0001/
+  205  vim common.ini 
+  206  s
+  207  cd ../../../0012
+  208  ls -la
+  209  vim links.ini 
+  210  s
+  211  cd boss\0044
+  212  cd 0044
+  213  cd versions/
+  214  cd 0001
+  215  ls -la
+  216  vim global.ini 
+  217  vim global.ini 
+  218  s
+  219  cd reportbase.com/
+  220  cd ..
+  221  cd reportbase.com/
+  222  git commit -am na
+  223  git push origin master
+  224  cp repba.js ../repba.com/033.repba.js
+  225  cd ../repba.com/
+  226  vim index.html 
+  227  cd ../boss
+  228  cp -r 0035 0051
+  229  cd 0051
+  230  cd imgs
+  231  file 4000.jpg 
+  232  cd ..
+  233  rm -r 0051/
+  234  cd 0052
+  235  cd ..
+  236  mv 0052/ tmp
+  237  cp -r 0050 0051
+  238  exit
+  239  cd boss\0051
+  240  cd 0051
+  241  cd 0051
+  242  mkdir orig
+  243  cp * orig
+  244  resize.sh
+  245  rename.sh 4000
+  246  resize.sh
+  247  cd ..
+  248  cd imgs
+  249  rm *.jpg
+  250  mv ../0051/*.jpg .
+  251  aspect.sh > out
+  252  cd boss\0051
+  253  cd boss/0051
+  254  cd imgs
+  255  rm 4037.jpg 
+  256  rm 4030.jpg 4016.jpg 4032.jpg 4029.jpg 4052.jpg 4013.jpg rm 4000.jpg 
+  257  rename.sh 4000
+  258  aspect.sh > out
+  259  rm 4034.jpg 4022.jpg 4026.jpg 4032.jpg 4020.jpg 
+  260  rename.sh 4000
+  261  aspect.sh > out
+  262  cp ../../../bin/clip.sh .
+  263  vim clip.sh 
+  264  ./clip.sh 
+  265  aspect.sh > out
+  266  ./12x1.sh 
+  267  ./18x2.sh 
+  268  vim out
+  269  cd ..
+  270  ls -la
+  271  vim pages.ini 
+  272  ls -la
+  273  cd ../../imgs/
+  274  mkdir orig
+  275  cp *.jpg orig
+  276  exit
+  277  cd ..
+  278  rm *.jpg
+  279  cd ..
+  280  rm -r 0051/
+  281  cd imgs/
+  282  cp ../orig/*.jpg .
+  283  rename.sh 4000
+  284  ./12x1.sh 
+  285  ./18x2.sh 
+  286  cd ..
+  287  cd ../versions/0001/
+  288  cd ../../
+  289  cd 0051/versions/0001/
+  290  vim links.ini 
+  291  :e links.ini 
+  292  vim links.ini 
+  293  vim global.ini 
+  294  s
+  295  cp -r 0051/ 0052
+  296  cd ../../..
+  297  cd boss/0052
+  298  cd 0052
+  299  mkdir orig
+  300  cp *.jpg orig
+  301  rename.sh 4000
+  302  resize.sh 
+  303  aspect.sh > out
+  304  vim out
+  305  mv *.jpg ../imgs/
+  306  cd ../imgs/
+  307  vim clip.sh 
+  308  ./clip.sh 
+  309  ./12x1.sh 
+  310  ./18x2.sh 
+  311  ls -la
+  312  file 4000.jpg 
+  313  cd ..
+  314  cd imgs/
+  315  rm -r orig
+  316  cd -
+  317  cd boss
+  318  cd versions/0001/
+  319  vim config.ini 
+  320  cd ../..
+  321  ls
+  322  history  > out
