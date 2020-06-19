@@ -1,3 +1,26 @@
 secure folders with new owner
-obscure repba.js
-folder color greeen
+
+folder color green
+
+manifest
+
+commit bin folder
+
+safar has vertical lines
+
+service workers
+https://developers.google.com/web/fundamentals/instant-and-offline/offline-cookbook/
+https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API/Using_Service_Workers
+https://blog.angular-university.io/service-workers/
+https://css-tricks.com/serviceworker-for-offline/
+https://medium.com/james-johnson/a-simple-progressive-web-app-tutorial-f9708e5f2605
+https://github.com/jamesjohnson280/hello-pwa
+https://codelabs.developers.google.com/codelabs/debugging-service-workers/index.html?index=..%2F..index#1
+TODO: not working in safari
+TODO: how to clear old service worker
+
+web assembly
+https://developer.mozilla.org/en-US/docs/WebAssembly
+
+cloudflare
+web worker
