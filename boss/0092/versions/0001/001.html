@@ -1,205 +1,86 @@
-<style>
-body
-{
-	margin: 0;
-	overflow: hidden;
-}
-
-iframe 
-{
-	margin: 0;
-	border: 0;
-	display: block;
-	position: absolute;
-}
-
-/*
-iframe 
-{
-	margin: 0;
-	border: 0;
-	display: block;
-	position: absolute;
-	top:    0;
-	bottom: 0;
-	left:   0;
-	right:  0;
-	width:  100px;
-	min-width:  100%;
-	height: 100px;
-	min-height: 100%;
-}
-*/
-
-.container:before, .container:after {
-display:table;
-content:"";
-}
-
-.container:after {
-clear:both;
-}
-
-.container {
-height:90%;
-width:90%;
-margin:0 auto;
-border:1px solid #fff;
-box-shadow:0px 2px 7px #292929;
--moz-box-shadow: 0px 2px 7px #292929;
--webkit-box-shadow: 0px 2px 7px #292929;
-border-radius:10px;
--moz-border-radius:10px;
--webkit-border-radius:10px;
-background-color:#ffffff;
-}
-
-.mainbody {
-border: solid #eee;
-border-width:1px 0;
-}
-
-
-.header, .footer {
-padding: 5px;
-}
-
-
-.footer {
-background-color: whiteSmoke;
--webkit-border-bottom-right-radius:5px;
--webkit-border-bottom-left-radius:5px;
--moz-border-radius-bottomright:5px;
--moz-border-radius-bottomleft:5px;
-border-bottom-right-radius:5px;
-border-bottom-left-radius:5px;
-}
-
-</style>
-<script type="text/javascript">
-var url = new URL(window.location.href);
-
-function setIframeSrc(id, url) { document.getElementById(id).src = url; }
-function setIframeLoc(nm, url) { window.frames[nm].location = url; }
-function replaceIframeURL(nm, url) { window.frames[nm].location.replace(url); }
-var time_resize;
-function resize()
-{
-	clearTimeout(time_resize);
-	time_resize = setTimeout(function() 
-	{
-		for (var n = 0; n < 20; n++)
-		{
-			var iframe = document.getElementById("ifrm");
-			var header = document.getElementById("BBB");
-			var footer = document.getElementById("CCC");
-			var height = window.innerHeight*0.90-header.offsetHeight-footer.offsetHeight-20;
-			var width = window.innerWidth*0.90;
-			iframe.style.width = width+"px";
-			iframe.style.height = height+"px";
-			footer.style.top = height+iframe.style.top;
-			footer.style.height = 30;
-		}
-	}, 100); 
-}
-
-window.addEventListener("resize", function (evt)
-{
-	resize();
-});
-
-window.addEventListener("load", function (evt)
-{
-	var lasturl = localStorage.getItem("lasturl");
-	lasturl = lasturl ? "https://"+url.host + lasturl : "https://" + url.host + "/?p=0008"; 
-	setIframeLoc('ifrm', lasturl)
-	resize();
-});
-
-window.addEventListener('message', function(e)
-{
-	if (e.data.key == "url")
-	{
-		localStorage.setItem("lasturl", e.data.value);
-		var a = document.getElementById("CCC");
-		a.innerHTML = e.data.value;
-	}
-});
-
-function postmessg(e)
-{
-	var k = document.getElementById('ifrm').contentWindow;
-	k.postMessage('Hello from iframe', "https://" + url.host);
-}
-
+<link rel="stylesheet" type="text/css" href="../../../versions/0001/style.css">
+<meta name='viewport' content='width=device-width, initial-scale=1.0, user-scalable=no'>
+<script>
+var projectname = "boss-0092"
+var defaultpath = "/?p=0092";
 </script>
-&nbsp;<br>
-<div class="container">
-<div id="BBB" class="header">
-	<a href="https://reportbase.com/?p=0001" target="ifrm">0001</a> 
-	<a href="https://reportbase.com/?p=0002" target="ifrm">0002</a> 
-	<a href="https://reportbase.com/?p=0003" target="ifrm">0003</a> 
-	<a href="https://reportbase.com/?p=0004" target="ifrm">0004</a> 
-	<a href="https://reportbase.com/?p=0005" target="ifrm">0005</a> 
-	<a href="https://reportbase.com/?p=0006" target="ifrm">0006</a> 
-	<a href="https://reportbase.com/?p=0007" target="ifrm">0007</a> 
-	<a href="https://reportbase.com/?p=0008" target="ifrm">0008</a> 
-	<a href="https://reportbase.com/?p=0009" target="ifrm">0009</a> 
-	<a href="https://reportbase.com/?p=0010" target="ifrm">0010</a> 
-	<a href="https://reportbase.com/?p=0011" target="ifrm">0011</a> 
-	<a href="https://reportbase.com/?p=0012" target="ifrm">0012</a> 
-	<a href="https://reportbase.com/?p=0013" target="ifrm">0013</a> 
-	<a href="https://reportbase.com/?p=0014" target="ifrm">0014</a> 
-	<a href="https://reportbase.com/?p=0015" target="ifrm">0015</a> 
-	<a href="https://reportbase.com/?p=0016" target="ifrm">0016</a> 
-	<a href="https://reportbase.com/?p=0017" target="ifrm">0017</a> 
-	<a href="https://reportbase.com/?p=0018" target="ifrm">0018</a> 
-	<a href="https://reportbase.com/?p=0019" target="ifrm">0019</a> 
-	<a href="https://reportbase.com/?p=0020" target="ifrm">0020</a> 
-	<a href="https://reportbase.com/?p=0021" target="ifrm">0021</a> 
-	<a href="https://reportbase.com/?p=0022" target="ifrm">0022</a> 
-	<a href="https://reportbase.com/?p=0023" target="ifrm">0023</a> 
-	<a href="https://reportbase.com/?p=0024" target="ifrm">0024</a> 
-	<a href="https://reportbase.com/?p=0025" target="ifrm">0025</a> 
-	<a href="https://reportbase.com/?p=0026" target="ifrm">0026</a> 
-	<a href="https://reportbase.com/?p=0027" target="ifrm">0027</a> 
-	<a href="https://reportbase.com/?p=0028" target="ifrm">0028</a> 
-	<a href="https://reportbase.com/?p=0029" target="ifrm">0029</a> 
-	<a href="https://reportbase.com/?p=0030" target="ifrm">0030</a> 
-	<a href="https://reportbase.com/?p=0031" target="ifrm">0031</a> 
-	<a href="https://reportbase.com/?p=0032" target="ifrm">0032</a> 
-	<a href="https://reportbase.com/?p=0033" target="ifrm">0033</a> 
-	<a href="https://reportbase.com/?p=0034" target="ifrm">0034</a> 
-	<a href="https://reportbase.com/?p=0035" target="ifrm">0035</a> 
-	<a href="https://reportbase.com/?p=0036" target="ifrm">0036</a> 
-	<a href="https://reportbase.com/?p=0037" target="ifrm">0037</a> 
-	<a href="https://reportbase.com/?p=0038" target="ifrm">0038</a> 
-	<a href="https://reportbase.com/?p=0039" target="ifrm">0039</a> 
-	<a href="https://reportbase.com/?p=0040" target="ifrm">0040</a> 
-	<a href="https://reportbase.com/?p=0041" target="ifrm">0041</a> 
-	<a href="https://reportbase.com/?p=0042" target="ifrm">0042</a> 
-	<a href="https://reportbase.com/?p=0043" target="ifrm">0043</a> 
-	<a href="https://reportbase.com/?p=0044" target="ifrm">0044</a> 
-	<a href="https://reportbase.com/?p=0045" target="ifrm">0045</a> 
-	<a href="https://reportbase.com/?p=0046" target="ifrm">0046</a> 
-	<a href="https://reportbase.com/?p=0047" target="ifrm">0047</a> 
-	<a href="https://reportbase.com/?p=0048" target="ifrm">0048</a> 
-	<a href="https://reportbase.com/?p=0049" target="ifrm">0049</a> 
-	<a href="https://reportbase.com/?p=0050" target="ifrm">0050</a> 
-	<a href="https://reportbase.com/?p=0092" target="ifrm">0092</a> 
-	<a href="https://reportbase.com/?p=0093" target="ifrm">0093</a> 
-	<a href="https://reportbase.com/?p=0094" target="ifrm">0094</a> 
-	<a href="https://reportbase.com/?p=0095" target="ifrm">0095</a> 
-	<a href="https://reportbase.com/?p=0098" target="ifrm">0098</a> 
-	<a href="https://reportbase.com/?p=0077" target="ifrm">0077</a> 
-	<a href="https://reportbase.com/?p=0051" target="ifrm">0051</a> 
-	<a href="https://reportbase.com/?p=0076" target="ifrm">0076</a> 
-	<a href="https://reportbase.com/?p=0086" target="ifrm">0086</a> 
+<script src='../../../versions/0001/script.js'></script>
+
+<div class="FFF">
+<div id="BBB" class="BBB">
+<b>
+	<a href="/?p=0001" target="EEE">0001</a> 
+	<a href="/?p=0002" target="EEE">0002</a> 
+	<a href="/?p=0003" target="EEE">0003</a> 
+	<a href="/?p=0004" target="EEE">0004</a> 
+	<a href="/?p=0005" target="EEE">0005</a> 
+	<a href="/?p=0006" target="EEE">0006</a> 
+	<a href="/?p=0007" target="EEE">0007</a> 
+	<a href="/?p=0008" target="EEE">0008</a> 
+	<a href="/?p=0009" target="EEE">0009</a> 
+	<a href="/?p=0010" target="EEE">0010</a> 
+	<a href="/?p=0011" target="EEE">0011</a> 
+	<a href="/?p=0012" target="EEE">0012</a> 
+	<a href="/?p=0013" target="EEE">0013</a> 
+	<a href="/?p=0014" target="EEE">0014</a> 
+	<a href="/?p=0015" target="EEE">0015</a> 
+	<a href="/?p=0016" target="EEE">0016</a> 
+	<a href="/?p=0017" target="EEE">0017</a> 
+	<a href="/?p=0018" target="EEE">0018</a> 
+	<a href="/?p=0019" target="EEE">0019</a> 
+	<a href="/?p=0020" target="EEE">0020</a> 
+	<a href="/?p=0021" target="EEE">0021</a> 
+	<a href="/?p=0022" target="EEE">0022</a> 
+	<a href="/?p=0023" target="EEE">0023</a> 
+	<a href="/?p=0024" target="EEE">0024</a> 
+	<a href="/?p=0025" target="EEE">0025</a> 
+	<a href="/?p=0026" target="EEE">0026</a> 
+	<a href="/?p=0027" target="EEE">0027</a> 
+	<a href="/?p=0028" target="EEE">0028</a> 
+	<a href="/?p=0029" target="EEE">0029</a> 
+	<a href="/?p=0030" target="EEE">0030</a> 
+	<a href="/?p=0031" target="EEE">0031</a> 
+	<a href="/?p=0032" target="EEE">0032</a> 
+	<a href="/?p=0033" target="EEE">0033</a> 
+	<a href="/?p=0034" target="EEE">0034</a> 
+	<a href="/?p=0035" target="EEE">0035</a> 
+	<a href="/?p=0036" target="EEE">0036</a> 
+	<a href="/?p=0037" target="EEE">0037</a> 
+	<a href="/?p=0038" target="EEE">0038</a> 
+	<a href="/?p=0039" target="EEE">0039</a> 
+	<a href="/?p=0040" target="EEE">0040</a> 
+	<a href="/?p=0041" target="EEE">0041</a> 
+	<a href="/?p=0042" target="EEE">0042</a> 
+	<a href="/?p=0043" target="EEE">0043</a> 
+	<a href="/?p=0044" target="EEE">0044</a> 
+	<a href="/?p=0045" target="EEE">0045</a> 
+	<a href="/?p=0046" target="EEE">0046</a> 
+	<a href="/?p=0047" target="EEE">0047</a> 
+	<a href="/?p=0048" target="EEE">0048</a> 
+	<a href="/?p=0049" target="EEE">0049</a> 
+	<a href="/?p=0050" target="EEE">0050</a> 
+	<a href="/?p=0092" target="EEE">0092</a> 
+	<a href="/?p=0093" target="EEE">0093</a> 
+	<a href="/?p=0094" target="EEE">0094</a> 
+	<a href="/?p=0095" target="EEE">0095</a> 
+	<a href="/?p=0098" target="EEE">0098</a> 
+	<a href="/?p=0077" target="EEE">0077</a> 
+	<a href="/?p=0051" target="EEE">0051</a> 
+	<a href="/?p=0076" target="EEE">0076</a> 
+	<a href="/?p=0086" target="EEE">0086</a> 
+	<a onclick="fullscreen()" href="#">FULL</a> 
+	<a onclick="auto()" href="#">AUTO</a> 
+	<a onclick="pageup()" href="#">PAGEUP</a> 
+	<a onclick="pagedown()" href="#">PAGEDOWN</a> 
+	<a onclick="next()" href="#">NEXT</a> 
+	<a onclick="previous()" href="#">PREVIOUS</a> 
+	<a onclick="hide()" href="#">HIDE</a> 
 </div>
-<div id="CCC" class="footer">
+<div id="AAA" class="AAA">
+	<iframe title="" scrolling="no" name="EEE" id="EEE" src="/?p=0092" allowfullscreen> </iframe>
 </div>
-<div id=AAA class="mainbody">
-		<iframe scrolling="no" name="ifrm" id="ifrm" src="https://reportbase.com/?p=0092" allowfullscreen> </iframe>
+<div id="DDD" class="DDD">
+	Host: Tom Brinkman   <br>Email: tom@repba.com
 </div>
 </div> 
 
