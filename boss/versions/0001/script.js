@@ -10,8 +10,8 @@ function postmessage(key, value)
 }
 
 function hide() {postmessage("hide") }
-function previous() {postmessage("previous") }
-function next() {postmessage("next") }
+function backspace() {postmessage("backspace") }
+function enter() {postmessage("enter") }
 function pagedown() {postmessage("pagedown") }
 function pageup() {postmessage("pageup") }
 function auto() {postmessage("auto") }
