@@ -1,1 +1,1 @@
- find $directory -type f -name "*.sh"
+ find $directory -type f -name "*resize*.sh"
