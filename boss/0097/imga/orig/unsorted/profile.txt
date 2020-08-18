@@ -1,3 +1,0 @@
-#key = value
-option1 = 100
-option2 = 200
