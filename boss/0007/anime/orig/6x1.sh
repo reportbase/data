@@ -29,6 +29,5 @@ montage {0414..0431}.jpg -tile 6x1 -mode Concatenate '../74%03d.jpg' 2> error
 
 cd ..
 rename4.sh 4000
-webp.sh
 resize.sh
 

@@ -1,19 +1,21 @@
+montage: unable to open image '0400.jpg': No such file or directory @ error/blob.c/OpenBlob/3489.
+montage: unable to open image '0401.jpg': No such file or directory @ error/blob.c/OpenBlob/3489.
+montage: unable to open image '0402.jpg': No such file or directory @ error/blob.c/OpenBlob/3489.
+montage: unable to open image '0403.jpg': No such file or directory @ error/blob.c/OpenBlob/3489.
+montage: unable to open image '0404.jpg': No such file or directory @ error/blob.c/OpenBlob/3489.
+montage: unable to open image '0405.jpg': No such file or directory @ error/blob.c/OpenBlob/3489.
+montage: unable to open image '0406.jpg': No such file or directory @ error/blob.c/OpenBlob/3489.
+montage: unable to open image '0407.jpg': No such file or directory @ error/blob.c/OpenBlob/3489.
+montage: unable to open image '0408.jpg': No such file or directory @ error/blob.c/OpenBlob/3489.
+montage: unable to open image '0409.jpg': No such file or directory @ error/blob.c/OpenBlob/3489.
+montage: unable to open image '0410.jpg': No such file or directory @ error/blob.c/OpenBlob/3489.
+montage: unable to open image '0411.jpg': No such file or directory @ error/blob.c/OpenBlob/3489.
+montage: unable to open image '0412.jpg': No such file or directory @ error/blob.c/OpenBlob/3489.
+montage: unable to open image '0413.jpg': No such file or directory @ error/blob.c/OpenBlob/3489.
 montage: unable to open image '0414.jpg': No such file or directory @ error/blob.c/OpenBlob/3489.
 montage: unable to open image '0415.jpg': No such file or directory @ error/blob.c/OpenBlob/3489.
 montage: unable to open image '0416.jpg': No such file or directory @ error/blob.c/OpenBlob/3489.
 montage: unable to open image '0417.jpg': No such file or directory @ error/blob.c/OpenBlob/3489.
 montage: unable to open image '0418.jpg': No such file or directory @ error/blob.c/OpenBlob/3489.
 montage: unable to open image '0419.jpg': No such file or directory @ error/blob.c/OpenBlob/3489.
-montage: unable to open image '0420.jpg': No such file or directory @ error/blob.c/OpenBlob/3489.
-montage: unable to open image '0421.jpg': No such file or directory @ error/blob.c/OpenBlob/3489.
-montage: unable to open image '0422.jpg': No such file or directory @ error/blob.c/OpenBlob/3489.
-montage: unable to open image '0423.jpg': No such file or directory @ error/blob.c/OpenBlob/3489.
-montage: unable to open image '0424.jpg': No such file or directory @ error/blob.c/OpenBlob/3489.
-montage: unable to open image '0425.jpg': No such file or directory @ error/blob.c/OpenBlob/3489.
-montage: unable to open image '0426.jpg': No such file or directory @ error/blob.c/OpenBlob/3489.
-montage: unable to open image '0427.jpg': No such file or directory @ error/blob.c/OpenBlob/3489.
-montage: unable to open image '0428.jpg': No such file or directory @ error/blob.c/OpenBlob/3489.
-montage: unable to open image '0429.jpg': No such file or directory @ error/blob.c/OpenBlob/3489.
-montage: unable to open image '0430.jpg': No such file or directory @ error/blob.c/OpenBlob/3489.
-montage: unable to open image '0431.jpg': No such file or directory @ error/blob.c/OpenBlob/3489.
-montage:  `../74%03d.jpg' @ error/montage.c/MontageImageCommand/1777.
+montage:  `../71%03d.jpg' @ error/montage.c/MontageImageCommand/1777.

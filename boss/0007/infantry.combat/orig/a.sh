@@ -1,0 +1,12 @@
+ln -s ../../combat/orig/0019.jpg
+ln -s ../../combat/orig/0073.jpg
+ln -s ../../combat/orig/0074.jpg
+ln -s ../../combat/orig/0075.jpg
+ln -s ../../combat/orig/0077.jpg
+ln -s ../../combat/orig/0078.jpg
+ln -s ../../combat/orig/0172.jpg
+ln -s ../../combat/orig/0177.jpg
+ln -s ../../combat/orig/0178.jpg
+ln -s ../../combat/orig/0179.jpg
+ln -s ../../combat/orig/0180.jpg
+ln -s ../../combat/orig/0181.jpg

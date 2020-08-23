@@ -1,0 +1,1 @@
+../../anime/orig/6x1.sh
