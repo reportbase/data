@@ -1,0 +1,5 @@
+montage: unable to open image '0002.jpg': No such file or directory @ error/blob.c/OpenBlob/3489.
+montage: unable to open image '0016.jpg': No such file or directory @ error/blob.c/OpenBlob/3489.
+montage: unable to open image '0029.jpg': No such file or directory @ error/blob.c/OpenBlob/3489.
+montage: unable to open image '0008.jpg': No such file or directory @ error/blob.c/OpenBlob/3489.
+montage:  `0001.jpg' @ error/montage.c/MontageImageCommand/1777.
