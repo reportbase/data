@@ -1,4 +1,2 @@
 secure folders with new owner
 folder color green
-obfiscate repba.js
-cloudflare web worker
