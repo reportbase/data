@@ -1,1 +1,0 @@
-../../air.combat/orig/6x1.sh

@@ -1,1 +1,0 @@
-../../imgs/orig/4x1.sh
