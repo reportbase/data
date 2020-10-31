@@ -1,25 +1,4 @@
-./run.sh 0000
-./run.sh 0001
-./run.sh 0002
-./run.sh 0003
-./run.sh 0004
-./run.sh 0005
-./run.sh 0006
-./run.sh 0007
-./run.sh 0008
-./run.sh 0009
-./run.sh 0010
-./run.sh 0011
-./run.sh 0012
-./run.sh 0013
-./run.sh 0014
-./run.sh 0015
-./run.sh 0016
-./run.sh 0017
-./run.sh 0018
-./run.sh 0019
-./run.sh 0020
-./run.sh 0021
-./run.sh 0022
-./run.sh 0023
-./run.sh 0024
+for ((i=0;i<=23;i++)); do
+    new=$(printf "%04d" "$i")
+    ./run.sh $new
+done

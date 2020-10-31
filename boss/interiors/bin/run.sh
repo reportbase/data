@@ -1,4 +1,3 @@
-cd /srv/http/data/boss/interiors/$1/orig
-../../bin/./4x1.sh
-cd thumb
-../../../bin/./72x1.sh
+cd ../$1/orig
+../../bin/./full.sh
+../../bin/./thumb.sh
