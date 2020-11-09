@@ -1,5 +1,14 @@
 cd thumb
 cp ../*.jpg .
+convert -resize x260 -delay 100 -loop 0 {0000..0011}.jpg ../../0260.000.gif
+convert -resize x260 -delay 100 -loop 0 {0012..0023}.jpg ../../0260.001.gif
+convert -resize x260 -delay 100 -loop 0 {0024..0035}.jpg ../../0260.002.gif
+convert -resize x260 -delay 100 -loop 0 {0036..0047}.jpg ../../0260.003.gif
+convert -resize x260 -delay 100 -loop 0 {0048..0059}.jpg ../../0260.004.gif
+convert -resize x260 -delay 100 -loop 0 {0060..0071}.jpg ../../0260.005.gif
+convert -resize x360 -delay 100 -loop 0 {0000..0019}.jpg ../../0360.gif
+convert -resize x480 -delay 100 -loop 0 {0000..0019}.jpg ../../0480.gif
+
 for image in *.jpg; do convert $image -sampling-factor 4:2:0 -strip -quality 80 -interlace JPEG -resize x240 -colorspace RGB $image ; done
 ./run.sh
 

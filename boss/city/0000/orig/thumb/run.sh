@@ -6,7 +6,7 @@ echo -n "Do Not Decrease the Goal, Increase the Effort" | ./caption.sh 0004 Amer
 echo -n "We Didn't Lose the Game, We Just Ran Out of Time" | ./caption.sh 0005 Americorps-Condensed
 echo -n "The Seeds of Doubt Grow Bitter Fruit" | ./caption.sh 0006 Americorps-Condensed 
 echo -n "Success Consists of Getting Up Just One More Time Than You Fail" | ./caption.sh 0007 Mukta-Mahee-ExtraBold
-echo -n "Enjoy Life Today, Yesterday Is Gone Tomorrow" | ./caption.sh 0008 Aquawax-Black 
+echo -n "Enjoy Life Today, Yesterday Is Gone Tomorrow" | ./caption.sh 0008 Mukta-Mahee-ExtraBold 
 echo -n "If Not Us Who? If Not Now When?" | ./caption.sh 0009 Vollkorn-SC-Black
 echo -n "If Opportunity Does Not Knock, Build a Door" | ./caption.sh 0010 Nevis-Bold
 echo -n "It Was Not Raining When Noah Built the Ark" | ./caption.sh 0011 Nevis-Bold

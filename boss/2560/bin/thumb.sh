@@ -3,6 +3,10 @@ cd thumb
 
 #10240x240
 cp ../*.jpg .
+convert -resize x240 -delay 100 -loop 0 {0000..0019}.jpg ../../0240.gif
+convert -resize x360 -delay 100 -loop 0 {0000..0019}.jpg ../../0360.gif
+convert -resize x480 -delay 100 -loop 0 {0000..0019}.jpg ../../0480.gif
+
 for image in *.jpg; do convert $image -sampling-factor 4:2:0 -strip -quality 80 -interlace JPEG -resize x240 -colorspace RGB $image ; done
 for image in *.jpg; do convert $image -gravity center -crop 480x240+0+0 $image; done
 montage {0000..0023}.jpg -tile 24x1 -mode Concatenate ../../024.000.jpg 2> error
