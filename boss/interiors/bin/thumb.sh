@@ -1,1 +1,0 @@
-../../sports/bin/thumb.sh

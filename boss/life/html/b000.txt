@@ -83,4 +83,3 @@
   <a href=https://repba.com/?p=boss/$1&k=0005&a=1>
     <img src="https://repba.com/data/boss/$1/0005/$2.005.gif"></a>
 
-
