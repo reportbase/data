@@ -1,34 +1,85 @@
-<style type="text/css">
+<style type="text/css"/
     * {margin: 0; padding: 0}
     html, body {height: 100%; margin: 0; margin-top: 10px; background-color: #ffffff}
     canvas {outline: none; position: absolute
     </style>
 <center>
 
-  <a href=https://repba.com/?p=boss/$1&k=0000&a=1>
-    <img src="https://repba.com/data/boss/$1/0000/$2.gif"></a>
-  <a href=https://repba.com/?p=boss/$1&k=0001&a=1>
-    <img src="https://repba.com/data/boss/$1/0001/$2.gif"></a>
-  <a href=https://repba.com/?p=boss/$1&k=0002&a=1>
-    <img src="https://repba.com/data/boss/$1/0002/$2.gif"></a>
-  <a href=https://repba.com/?p=boss/$1&k=0003&a=1>
-    <img src="https://repba.com/data/boss/$1/0003/$2.gif"></a>
-  <a href=https://repba.com/?p=boss/$1&k=0004&a=1>
-    <img src="https://repba.com/data/boss/$1/0004/$2.gif"></a>
-  <a href=https://repba.com/?p=boss/$1&k=0005&a=1>
-    <img src="https://repba.com/data/boss/$1/0005/$2.gif"></a>
-  <a href=https://repba.com/?p=boss/$1&k=0006&a=1>
-    <img src="https://repba.com/data/boss/$1/0006/$2.gif"></a>
-  <a href=https://repba.com/?p=boss/$1&k=0007&a=1>
-    <img src="https://repba.com/data/boss/$1/0007/$2.gif"></a>
-  <a href=https://repba.com/?p=boss/$1&k=0008&a=1>
-    <img src="https://repba.com/data/boss/$1/0008/$2.gif"></a>
-  <a href=https://repba.com/?p=boss/$1&k=0009&a=1>
-    <img src="https://repba.com/data/boss/$1/0009/$2.gif"></a>
-  <a href=https://repba.com/?p=boss/$1&k=0010&a=1>
-    <img src="https://repba.com/data/boss/$1/0010/$2.gif"></a>
+  <a href=https://repba.com/?p=boss/{GALLERY}&k=0000&a=1>
+    <img src="https://repba.com/data/boss/{GALLERY}/0000/{NAME}.000.gif"></a>
+  <a href=https://repba.com/?p=boss/{GALLERY}&k=0000&a=1>
+    <img src="https://repba.com/data/boss/{GALLERY}/0000/{NAME}.001.gif"></a>
+  <a href=https://repba.com/?p=boss/{GALLERY}&k=0000&a=1>
+    <img src="https://repba.com/data/boss/{GALLERY}/0000/{NAME}.002.gif"></a>
+  <a href=https://repba.com/?p=boss/{GALLERY}&k=0000&a=1>
+    <img src="https://repba.com/data/boss/{GALLERY}/0000/{NAME}.003.gif"></a>
+  <a href=https://repba.com/?p=boss/{GALLERY}&k=0000&a=1>
+    <img src="https://repba.com/data/boss/{GALLERY}/0000/{NAME}.004.gif"></a>
+  <a href=https://repba.com/?p=boss/{GALLERY}&k=0000&a=1>
+    <img src="https://repba.com/data/boss/{GALLERY}/0000/{NAME}.005.gif"></a>
 
+  <a href=https://repba.com/?p=boss/{GALLERY}&k=0001&a=1>
+    <img src="https://repba.com/data/boss/{GALLERY}/0001/{NAME}.000.gif"></a>
+  <a href=https://repba.com/?p=boss/{GALLERY}&k=0001&a=1>
+    <img src="https://repba.com/data/boss/{GALLERY}/0001/{NAME}.001.gif"></a>
+  <a href=https://repba.com/?p=boss/{GALLERY}&k=0001&a=1>
+    <img src="https://repba.com/data/boss/{GALLERY}/0001/{NAME}.002.gif"></a>
+  <a href=https://repba.com/?p=boss/{GALLERY}&k=0001&a=1>
+    <img src="https://repba.com/data/boss/{GALLERY}/0001/{NAME}.003.gif"></a>
+  <a href=https://repba.com/?p=boss/{GALLERY}&k=0001&a=1>
+    <img src="https://repba.com/data/boss/{GALLERY}/0001/{NAME}.004.gif"></a>
+  <a href=https://repba.com/?p=boss/{GALLERY}&k=0001&a=1>
+    <img src="https://repba.com/data/boss/{GALLERY}/0001/{NAME}.005.gif"></a>
 
+  <a href=https://repba.com/?p=boss/{GALLERY}&k=0002&a=1>
+    <img src="https://repba.com/data/boss/{GALLERY}/0002/{NAME}.000.gif"></a>
+  <a href=https://repba.com/?p=boss/{GALLERY}&k=0002&a=1>
+    <img src="https://repba.com/data/boss/{GALLERY}/0002/{NAME}.001.gif"></a>
+  <a href=https://repba.com/?p=boss/{GALLERY}&k=0002&a=1>
+    <img src="https://repba.com/data/boss/{GALLERY}/0002/{NAME}.002.gif"></a>
+  <a href=https://repba.com/?p=boss/{GALLERY}&k=0002&a=1>
+    <img src="https://repba.com/data/boss/{GALLERY}/0002/{NAME}.003.gif"></a>
+  <a href=https://repba.com/?p=boss/{GALLERY}&k=0002&a=1>
+    <img src="https://repba.com/data/boss/{GALLERY}/0002/{NAME}.004.gif"></a>
+  <a href=https://repba.com/?p=boss/{GALLERY}&k=0002&a=1>
+    <img src="https://repba.com/data/boss/{GALLERY}/0002/{NAME}.005.gif"></a>
 
+  <a href=https://repba.com/?p=boss/{GALLERY}&k=0003&a=1>
+    <img src="https://repba.com/data/boss/{GALLERY}/0003/{NAME}.000.gif"></a>
+  <a href=https://repba.com/?p=boss/{GALLERY}&k=0003&a=1>
+    <img src="https://repba.com/data/boss/{GALLERY}/0003/{NAME}.001.gif"></a>
+  <a href=https://repba.com/?p=boss/{GALLERY}&k=0003&a=1>
+    <img src="https://repba.com/data/boss/{GALLERY}/0003/{NAME}.002.gif"></a>
+  <a href=https://repba.com/?p=boss/{GALLERY}&k=0003&a=1>
+    <img src="https://repba.com/data/boss/{GALLERY}/0003/{NAME}.003.gif"></a>
+  <a href=https://repba.com/?p=boss/{GALLERY}&k=0003&a=1>
+    <img src="https://repba.com/data/boss/{GALLERY}/0003/{NAME}.004.gif"></a>
+  <a href=https://repba.com/?p=boss/{GALLERY}&k=0003&a=1>
+    <img src="https://repba.com/data/boss/{GALLERY}/0003/{NAME}.005.gif"></a>
 
+  <a href=https://repba.com/?p=boss/{GALLERY}&k=0004&a=1>
+    <img src="https://repba.com/data/boss/{GALLERY}/0004/{NAME}.000.gif"></a>
+  <a href=https://repba.com/?p=boss/{GALLERY}&k=0004&a=1>
+    <img src="https://repba.com/data/boss/{GALLERY}/0004/{NAME}.001.gif"></a>
+  <a href=https://repba.com/?p=boss/{GALLERY}&k=0004&a=1>
+    <img src="https://repba.com/data/boss/{GALLERY}/0004/{NAME}.002.gif"></a>
+  <a href=https://repba.com/?p=boss/{GALLERY}&k=0004&a=1>
+    <img src="https://repba.com/data/boss/{GALLERY}/0004/{NAME}.003.gif"></a>
+  <a href=https://repba.com/?p=boss/{GALLERY}&k=0004&a=1>
+    <img src="https://repba.com/data/boss/{GALLERY}/0004/{NAME}.004.gif"></a>
+  <a href=https://repba.com/?p=boss/{GALLERY}&k=0004&a=1>
+    <img src="https://repba.com/data/boss/{GALLERY}/0004/{NAME}.005.gif"></a>
+
+  <a href=https://repba.com/?p=boss/{GALLERY}&k=0005&a=1>
+    <img src="https://repba.com/data/boss/{GALLERY}/0005/{NAME}.000.gif"></a>
+  <a href=https://repba.com/?p=boss/{GALLERY}&k=0005&a=1>
+    <img src="https://repba.com/data/boss/{GALLERY}/0005/{NAME}.001.gif"></a>
+  <a href=https://repba.com/?p=boss/{GALLERY}&k=0005&a=1>
+    <img src="https://repba.com/data/boss/{GALLERY}/0005/{NAME}.002.gif"></a>
+  <a href=https://repba.com/?p=boss/{GALLERY}&k=0005&a=1>
+    <img src="https://repba.com/data/boss/{GALLERY}/0005/{NAME}.003.gif"></a>
+  <a href=https://repba.com/?p=boss/{GALLERY}&k=0005&a=1>
+    <img src="https://repba.com/data/boss/{GALLERY}/0005/{NAME}.004.gif"></a>
+  <a href=https://repba.com/?p=boss/{GALLERY}&k=0005&a=1>
+    <img src="https://repba.com/data/boss/{GALLERY}/0005/{NAME}.005.gif"></a>
 
