@@ -1,33 +1,27 @@
-<font size=6>
+<ont size=6>
 <center>
 <iframe name=FSPIVFRAME src="https://reportbase.com?p=boss/sports&k=0000&a=1&speed=1.5" 
 width="90%" height="500" style="border:none;overflow:hidden;max-width:900;}
 scrolling="no" frameborder="0" allowfullscreen="true" 
 allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe><br>
-<a href="https://reportbase.com?p=boss/sports&k=0000&a=1&speed=1.5" target="FSPIVFRAME">0000</a>
-<a href="https://reportbase.com?p=boss/sports&k=0001&a=1&speed=1.5" target="FSPIVFRAME">0001</a>
-<a href="https://reportbase.com?p=boss/sports&k=0002&a=1&speed=1.5" target="FSPIVFRAME">0002</a>
-<a href="https://reportbase.com?p=boss/sports&k=0003&a=1&speed=1.5" target="FSPIVFRAME">0003</a>
-<a href="https://reportbase.com?p=boss/sports&k=0004&a=1&speed=1.5" target="FSPIVFRAME">0004</a>
-<a href="https://reportbase.com?p=boss/sports&k=0005&a=1&speed=1.5" target="FSPIVFRAME">0005</a>
-<a href="https://reportbase.com?p=boss/sports&k=0006&a=1&speed=1.5" target="FSPIVFRAME">0006</a>
-<a href="https://reportbase.com?p=boss/sports&k=0007&a=1&speed=1.5" target="FSPIVFRAME">0007</a>
-<a href="https://reportbase.com?p=boss/sports&k=0008&a=1&speed=1.5" target="FSPIVFRAME">0008</a>
-<a href="https://reportbase.com?p=boss/sports&k=0009&a=1&speed=1.5" target="FSPIVFRAME">0009</a>
-<a href="https://reportbase.com?p=boss/sports&k=0010&a=1&speed=1.5" target="FSPIVFRAME">0010</a>
-<a href="https://reportbase.com?p=boss/sports&k=0011&a=1&speed=1.5" target="FSPIVFRAME">0011</a>
-<a href="https://reportbase.com?p=boss/sports&k=0012&a=1&speed=1.5" target="FSPIVFRAME">0012</a>
-<a href="https://reportbase.com?p=boss/sports&k=0013&a=1&speed=1.5" target="FSPIVFRAME">0013</a>
-<a href="https://reportbase.com?p=boss/sports&k=0014&a=1&speed=1.5" target="FSPIVFRAME">0014</a>
-<a href="https://reportbase.com?p=boss/sports&k=0015&a=1&speed=1.5" target="FSPIVFRAME">0015</a>
-<a href="https://reportbase.com?p=boss/sports&k=0016&a=1&speed=1.5" target="FSPIVFRAME">0016</a>
-<a href="https://reportbase.com?p=boss/sports&k=0017&a=1&speed=1.5" target="FSPIVFRAME">0017</a>
-<a href="https://reportbase.com?p=boss/sports&k=0018&a=1&speed=1.5" target="FSPIVFRAME">0018</a>
-<a href="https://reportbase.com?p=boss/sports&k=0019&a=1&speed=1.5" target="FSPIVFRAME">0019</a>
-<a href="https://reportbase.com?p=boss/sports&k=0020&a=1&speed=1.5" target="FSPIVFRAME">0020</a>
-<a href="https://reportbase.com?p=boss/sports&k=0021&a=1&speed=1.5" target="FSPIVFRAME">0021</a>
-<a href="https://reportbase.com?p=boss/sports&k=0022&a=1&speed=1.5" target="FSPIVFRAME">0022</a>
-<a href="https://reportbase.com?p=boss/sports&k=0023&a=1&speed=1.5" target="FSPIVFRAME">0023</a>
-</font>
-</P>
-<
+
+<p id="demo"></p>
+
+<script>
+Number.prototype.pad = function(size)
+{
+    var s = String(this);
+    while (s.length < (size || 2)) {s = "0" + s;}
+	    return s;
+}
+
+var str = "";
+for (var n = 0; n < 6; ++n)
+{
+    var id = n.pad(4);
+    str += "<a href=https://repba.com?p=boss/sports&k=" + id + "&a=1&speed=1.5 target=FSPIVFRAME>" + id + "</a> ";
+}
+
+document.getElementById("demo").innerHTML = str;
+</script>
+

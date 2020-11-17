@@ -53,14 +53,14 @@ cp ../../res/iframe.res iframe.html
 sed -i $THISGALLERY iframe.html
 sed -i $THISCOUNT iframe.html 
 
-SIZE=`expr $count - 1`
-for i in $(seq 0 $SIZE); do 
-    new=$(printf "%04d" "$i") 
-    cp ../../res/index.res ../$new/index.html 2> error
-    sed -i $THISGALLERY ../$new/index.html 2> error
-    j="s/{PROJECT}/$new/"
-    sed -i $j ../$new/index.html 2> error
-    sed -i 's/{SIZE}/72/' ../$new/index.html 2> error 
+COUNT=`expr $count - 1`
+for i in $(seq 0 $COUNT); do 
+    ID=$(printf "%04d" "$i") 
+    cp ../../res/index.res ../$ID/index.html 2> error
+    sed -i $THISGALLERY ../$ID/index.html 2> error
+    j="s/{PROJECT}/$ID/"
+    sed -i $j ../$ID/index.html 2> error
+    sed -i 's/{SIZE}/72/' ../$ID/index.html 2> error 
 done
 
 
