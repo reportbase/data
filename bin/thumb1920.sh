@@ -1,6 +1,5 @@
 mkdir -p thumb
 cd thumb
-
 mkdir -p tmp
 cp ../*.jpg tmp
 cd tmp

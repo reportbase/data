@@ -1,4 +1,4 @@
 cd ../$1/orig
-
-#../../bin/./full.sh
-../../bin/./thumb.sh 
+full.sh
+gif.sh
+thumb1920.sh 

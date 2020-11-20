@@ -2,55 +2,30 @@
     * {margin: 0; padding: 0}
     html, body {height: 100%; margin: 0; margin-top: 10px; background-color: #ffffff}
     canvas {outline: none; position: absolute
-    </style>
+</style>
 <center>
+<p id="demo"></p>
 
-  <a href=https://repba.com/?p=boss/express&k=0000&a=1>
-    <img src="https://repba.com/data/boss/express/0000/0520.gif"></a>
-  <a href=https://repba.com/?p=boss/express&k=0001&a=1>
-    <img src="https://repba.com/data/boss/express/0001/0520.gif"></a>
-  <a href=https://repba.com/?p=boss/express&k=0002&a=1>
-    <img src="https://repba.com/data/boss/express/0002/0520.gif"></a>
-  <a href=https://repba.com/?p=boss/express&k=0003&a=1>
-    <img src="https://repba.com/data/boss/express/0003/0520.gif"></a>
-  <a href=https://repba.com/?p=boss/express&k=0004&a=1>
-    <img src="https://repba.com/data/boss/express/0004/0520.gif"></a>
-  <a href=https://repba.com/?p=boss/express&k=0005&a=1>
-    <img src="https://repba.com/data/boss/express/0005/0520.gif"></a>
-  <a href=https://repba.com/?p=boss/express&k=0006&a=1>
-    <img src="https://repba.com/data/boss/express/0006/0520.gif"></a>
-  <a href=https://repba.com/?p=boss/express&k=0007&a=1>
-    <img src="https://repba.com/data/boss/express/0007/0520.gif"></a>
-  <a href=https://repba.com/?p=boss/express&k=0008&a=1>
-    <img src="https://repba.com/data/boss/express/0008/0520.gif"></a>
-  <a href=https://repba.com/?p=boss/express&k=0009&a=1>
-    <img src="https://repba.com/data/boss/express/0009/0520.gif"></a>
-  <a href=https://repba.com/?p=boss/express&k=0010&a=1>
-    <img src="https://repba.com/data/boss/express/0010/0520.gif"></a>
-  <a href=https://repba.com/?p=boss/express&k=0011&a=1>
-    <img src="https://repba.com/data/boss/express/0011/0520.gif"></a>
-  <a href=https://repba.com/?p=boss/express&k=0012&a=1>
-    <img src="https://repba.com/data/boss/express/0012/0520.gif"></a>
-  <a href=https://repba.com/?p=boss/express&k=0013&a=1>
-    <img src="https://repba.com/data/boss/express/0013/0520.gif"></a>
-  <a href=https://repba.com/?p=boss/express&k=0014&a=1>
-    <img src="https://repba.com/data/boss/express/0014/0520.gif"></a>
-  <a href=https://repba.com/?p=boss/express&k=0015&a=1>
-    <img src="https://repba.com/data/boss/express/0015/0520.gif"></a>
-  <a href=https://repba.com/?p=boss/express&k=0016&a=1>
-    <img src="https://repba.com/data/boss/express/0016/0520.gif"></a>
-  <a href=https://repba.com/?p=boss/express&k=0017&a=1>
-    <img src="https://repba.com/data/boss/express/0017/0520.gif"></a>
-  <a href=https://repba.com/?p=boss/express&k=0018&a=1>
-    <img src="https://repba.com/data/boss/express/0018/0520.gif"></a>
-  <a href=https://repba.com/?p=boss/express&k=0019&a=1>
-    <img src="https://repba.com/data/boss/express/0019/0520.gif"></a>
-  <a href=https://repba.com/?p=boss/express&k=0020&a=1>
-    <img src="https://repba.com/data/boss/express/0020/0520.gif"></a>
-  <a href=https://repba.com/?p=boss/express&k=0021&a=1>
-    <img src="https://repba.com/data/boss/express/0021/0520.gif"></a>
-  <a href=https://repba.com/?p=boss/express&k=0022&a=1>
-    <img src="https://repba.com/data/boss/express/0022/0520.gif"></a>
-  <a href=https://repba.com/?p=boss/express&k=0023&a=1>
-    <img src="https://repba.com/data/boss/express/0023/0520.gif"></a>
+<script>
+Number.prototype.pad = function(size)
+{
+    var s = String(this);
+    while (s.length < (size || 2)) {s = "0" + s;}
+	    return s;
+}
+
+var str = "";
+for (var n = 0; n < 6; ++n)
+{
+    var id = n.pad(4);
+    str += "<a href=https://repba.com/?p=boss/express&k="+id+"&a=1>\n";
+    str += "<img src=https://repba.com/data/boss/express/"+id+"/";
+    str += "0520.gif></a>\n";
+}
+
+console.log(str)
+document.getElementById("demo").innerHTML = str;
+</script>
+
+
 
