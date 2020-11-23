@@ -1,4 +1,4 @@
 cd ../$1/orig
+gif.sh
+thumb.sh 
 full.sh
-gif640.sh
-thumb640.sh 

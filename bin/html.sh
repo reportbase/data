@@ -2,65 +2,47 @@ rm *.html
 
 . ../meta.ini
 THISGALLERY=s/{GALLERY}/${name}/
+THISIZE=${count}
 THISCOUNT=s/{SIZE}/${count}/
 
-cp ../../../res/b000.res 440x280.html
-sed -i $THISGALLERY 440x280.html
-sed -i 's/{NAME}/0440.0280/' 440x280.html
-sed -i $THISCOUNT 440x280.html
-
-cp ../../../res/b000.res 180x220.html
-sed -i $THISGALLERY 180x220.html
-sed -i 's/{NAME}/0180.0220/' 180x220.html
-sed -i $THISCOUNT 180x220.html
-
-cp ../../../res/b000.res 300x360.html
-sed -i $THISGALLERY 300x360.html
-sed -i 's/{NAME}/0300.0360/' 300x360.html
-sed -i $THISCOUNT 300x360.html
-
-cp ../../../res/b000.res 220x280.html
-sed -i $THISGALLERY 220x280.html
-sed -i 's/{NAME}/0220.0280/' 220x280.html
-sed -i $THISCOUNT 220x280.html
-
-cp ../../../res/b001.res 520.html
-sed -i $THISGALLERY 520.html
-sed -i 's/{NAME}/0520/' 520.html
-sed -i $THISCOUNT 520.html
-
-cp ../../../res/b001.res 0220.0280.html
-sed -i $THISGALLERY 0220.0280.html
-sed -i 's/{NAME}/0220.0280/' 0220.0280.html
-sed -i $THISCOUNT 0220.0280.html
-
-cp ../../../res/b001.res 0300.0360.html
-sed -i $THISGALLERY 0300.0360.html
-sed -i 's/{NAME}/0300.0360/' 0300.0360.html
-sed -i $THISCOUNT 0300.0360.html
-
-cp ../../../res/b001.res 0440.0280.html
-sed -i $THISGALLERY 0440.0280.html
-sed -i 's/{NAME}/0440.0280/' 0440.0280.html
-sed -i $THISCOUNT 0440.0280.html
-
-cp ../../../res/b001.res 0180.0220.html
+cp ../../../res/001.res 0180.0220.html
 sed -i $THISGALLERY 0180.0220.html
 sed -i 's/{NAME}/0180.0220/' 0180.0220.html
 sed -i $THISCOUNT 0180.0220.html
 
-cp ../../../res/iframe.res iframe.html
-sed -i $THISGALLERY iframe.html
-sed -i $THISCOUNT iframe.html 
+cp ../../../res/001.res 0490.0280.html
+sed -i $THISGALLERY 0490.0280.html
+sed -i 's/{NAME}/0490.0280/' 0490.0280.html
+sed -i $THISCOUNT 0490.0280.html
 
-COUNT=`expr $count - 1`
+cp ../../../res/001.res 0420.0240.html
+sed -i $THISGALLERY 0420.0240.html
+sed -i 's/{NAME}/0420.0240/' 0420.0240.html
+sed -i $THISCOUNT 0420.0240.html
+
+cp ../../../res/001.res 0240.0240.html
+sed -i $THISGALLERY 0240.0240.html
+sed -i 's/{NAME}/0240.0240/' 0240.0240.html
+sed -i $THISCOUNT 0240.0240.html
+
+cp ../../../res/002.res 002.html
+sed -i $THISGALLERY 002.html
+sed -i $THISCOUNT 002.html 
+
+COUNT=`expr $THISIZE - 1`
 for i in $(seq 0 $COUNT); do 
     ID=$(printf "%04d" "$i") 
-    cp ../../../res/index.res ../$ID/index.html 2> error
-    sed -i $THISGALLERY ../$ID/index.html 2> error
+    . ../$ID/meta.ini
+    IMAGECOUNT=${count}
+    rm ../$ID/*.html 2> /dev/null  
+    cp ../../../res/000.res ../$ID/000.html 2> /dev/null
+    sed -i $THISGALLERY ../$ID/000.html 2> /dev/null
     j="s/{PROJECT}/$ID/"
-    sed -i $j ../$ID/index.html 2> error
-    sed -i 's/{SIZE}/72/' ../$ID/index.html 2> error 
+    sed -i $j ../$ID/000.html 2> /dev/null
+    j="s/{SIZE}/$IMAGECOUNT/"
+    sed -i $j ../$ID/000.html 2> /dev/null 
+    j="s/{COUNT}/$THISIZE/"
+    sed -i $j ../$ID/000.html 2> /dev/null
 done
 
 
