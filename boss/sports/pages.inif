@@ -1,0 +1,11 @@
+animation = VENUS
+layers = 24
+
+[0000] 
+Montage.Cols_4 = 24
+Draw.Size_4 = 3
+[0001]
+[0002]
+[0003]
+[0004]
+[0005]

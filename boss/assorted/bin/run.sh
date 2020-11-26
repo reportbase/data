@@ -1,5 +1,5 @@
 cd ../$1/orig
 
-full.sh
+#full.sh
 gif960.sh 
-thumb960.sh 
+#thumb960.sh 
