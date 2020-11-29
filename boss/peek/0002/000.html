@@ -7,7 +7,7 @@
 <br>
 
 <font size=4>
-peek/0002
+<h1>Predators</h1><br>
 <p id="images"></p><br>
 <p id="links"></p><br>
 
@@ -29,12 +29,13 @@ for (var n = 0; n < 36; ++n)
 
 document.getElementById("images").innerHTML = str;
 
+lst = ["Ocean","Fish","Predators","Pizza","Jesus","Anime","Arizona","Cars","Faces","Chocolate","Race Cars","Comics","Egypt","Spiderman",];
 var str = "";
 for (var n = 0; n < 14; ++n)
 {
     var id = n.pad(4);
     str += "<a href=https://repba.com/data/boss/peek/" + id + "/000.html>";
-    str += id + "</a><br>";
+    str += "<h2>" + lst[n] + "</h2></a><br>";
 }
 
 document.getElementById("links").innerHTML = str;

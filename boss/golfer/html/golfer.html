@@ -1,0 +1,45 @@
+<style type="text/css">
+    * {margin: 0; padding: 0}
+    html, body {height: 100%; margin: 0; background-color: #ffffff}
+    canvas {outline: none; position: absolute}
+    a { text-decoration: none; }
+</style>
+
+<font size=6>
+<center>
+
+<iframe name=ifr id=ifr src="https://reportbase.com/?p=boss/golfer&k=0000&a=3" 
+    width="100%" height="80%" style="border:none;overflow:hidden;max-width:720;max-height:960"
+    scrolling="no" frameborder="0" allowfullscreen="true" 
+    allow="autoplay; clipboard-write; encrypted-media; picture-in-picture" allowFullScreen="true"></iframe><br>
+<a href="https://reportbase.com?p=boss/golfer&k=0000&a=3" target="ifr">John</a>
+<a href="https://reportbase.com?p=boss/golfer&k=0001&a=3" target="ifr">John</a>
+<a href="https://reportbase.com?p=boss/golfer&k=0002&a=3" target="ifr">Jim</a>
+<a href="https://reportbase.com?p=boss/golfer&k=0003&a=3" target="ifr">Bill</a>
+<a href="https://reportbase.com?p=boss/golfer&k=0004&a=3" target="ifr">Ted</a>
+<a href="https://reportbase.com?p=boss/golfer&k=0005&a=3" target="ifr">Travis</a>
+<a href="https://reportbase.com?p=boss/golfer/0006&k=0000&a=3" target="ifr">Phil</a>
+<a href="https://reportbase.com?p=boss/golfer/0007&k=0000&a=3" target="ifr">Bob</a>
+<a href="javascript:void(0);" onclick="fullscreen()">New</a>
+<p>
+
+<iframe name=FSPIVFRAME src="https://reportbase.com?p=boss/golfer&k=0000&a=3" 
+scrolling="no" frameborder="0" allowfullscreen="true" 
+allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+
+<p id="demo"/>
+
+<script>
+function ifr() {return document.getElementById('ifr').contentWindow; }
+function fullscreen() { ifr().postMessage('open', "https://reportbase.com"); }
+function speed(k) {ifr().postMessage(k?'speed+':'speed-', "https://reportbase.com") }
+
+Number.prototype.pad = function(size)
+{
+    var s = String(this);
+    while (s.length < (size || 2)) {s = "0" + s;}
+	    return s;
+}
+
+</script>
+

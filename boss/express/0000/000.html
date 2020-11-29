@@ -7,7 +7,7 @@
 <br>
 
 <font size=4>
-express/0000
+<h1>Gallery I</h1><br>
 <p id="images"></p><br>
 <p id="links"></p><br>
 
@@ -29,12 +29,13 @@ for (var n = 0; n < 72; ++n)
 
 document.getElementById("images").innerHTML = str;
 
+lst = ["Gallery I","Gallery II","Gallery III","Gallery IV","Gallery V","Gallery VI",];
 var str = "";
 for (var n = 0; n < 6; ++n)
 {
     var id = n.pad(4);
     str += "<a href=https://repba.com/data/boss/express/" + id + "/000.html>";
-    str += id + "</a><br>";
+    str += "<h2>" + lst[n] + "</h2></a><br>";
 }
 
 document.getElementById("links").innerHTML = str;

@@ -4,6 +4,7 @@ layers = 24
 [0000] 
 Montage.Cols_4 = 24
 Draw.Size_4 = 1
+Canvas.Height_4 = 240
 [0001]
 [0002]
 [0003]

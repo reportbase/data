@@ -7,7 +7,7 @@
 <br>
 
 <font size=4>
-abstract/0000
+<h1>Steve Jenkins</h1><br>
 <p id="images"></p><br>
 <p id="links"></p><br>
 
@@ -29,12 +29,13 @@ for (var n = 0; n < 72; ++n)
 
 document.getElementById("images").innerHTML = str;
 
+lst = ["Steve Jenkins","Sam Bore","Becky Votel","Kelly Sanders","Boris Altereiro","Terry Boalt",];
 var str = "";
 for (var n = 0; n < 6; ++n)
 {
     var id = n.pad(4);
     str += "<a href=https://repba.com/data/boss/abstract/" + id + "/000.html>";
-    str += id + "</a><br>";
+    str += "<h2>" + lst[n] + "</h2></a><br>";
 }
 
 document.getElementById("links").innerHTML = str;

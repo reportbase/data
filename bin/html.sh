@@ -29,20 +29,35 @@ cp ../../../res/002.res 002.html
 sed -i $THISGALLERY 002.html
 sed -i $THISCOUNT 002.html 
 
+TITLELST="lst = ["
 COUNT=`expr $THISIZE - 1`
 for i in $(seq 0 $COUNT); do 
-    ID=$(printf "%04d" "$i") 
-    . ../$ID/meta.ini
+    PROJECT=$(printf "%04d" "$i") 
+    . ../$PROJECT/meta.ini
     IMAGECOUNT=${count}
-    rm ../$ID/*.html 2> /dev/null  
-    cp ../../../res/000.res ../$ID/000.html 2> /dev/null
-    sed -i $THISGALLERY ../$ID/000.html 2> /dev/null
-    j="s/{PROJECT}/$ID/"
-    sed -i $j ../$ID/000.html 2> /dev/null
-    j="s/{SIZE}/$IMAGECOUNT/"
-    sed -i $j ../$ID/000.html 2> /dev/null 
+    TITLE="${title}"
+    TITLELST=$TITLELST\"$TITLE\",
+done
+TITLELST=$TITLELST"];"
+
+for i in $(seq 0 $COUNT); do 
+    PROJECT=$(printf "%04d" "$i") 
+    . ../$PROJECT/meta.ini
+    IMAGECOUNT=${count}
+    TITLE=${title}
+    rm ../$PROJECT/*.html 2> /dev/null  
+    cp ../../../res/000.res ../$PROJECT/000.html 2> /dev/null
+    sed -i $THISGALLERY ../$PROJECT/000.html 2> /dev/null
+    j="s/{PROJECT}/$PROJECT/"
+    sed -i $j ../$PROJECT/000.html 2> /dev/null
+    j="s/{IMAGECOUNT}/$IMAGECOUNT/"
+    sed -i $j ../$PROJECT/000.html 2> /dev/null 
     j="s/{COUNT}/$THISIZE/"
-    sed -i $j ../$ID/000.html 2> /dev/null
+    sed -i $j ../$PROJECT/000.html 2> /dev/null
+    j="s/{TITLE}/$TITLE/"
+    sed -i "$j" ../$PROJECT/000.html 2> /dev/null
+    j="s/{TITLELST}/$TITLELST/"
+    sed -i "$j" ../$PROJECT/000.html 2> /dev/null
 done
 
 

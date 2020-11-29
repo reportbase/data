@@ -7,7 +7,7 @@
 <br>
 
 <font size=4>
-{GALLERY}/{PROJECT}
+<h1>{TITLE}</h1><br>
 <p id="images"></p><br>
 <p id="links"></p><br>
 
@@ -20,7 +20,7 @@ Number.prototype.pad = function(size)
 }
 
 var str = "";
-for (var n = 0; n < {SIZE}; ++n)
+for (var n = 0; n < {IMAGECOUNT}; ++n)
 {
     var id = n.pad(4);
     str += "<a href=https://repba.com/?p=boss/{GALLERY}&k={PROJECT}&a=1&image=" + id + ">";
@@ -29,12 +29,13 @@ for (var n = 0; n < {SIZE}; ++n)
 
 document.getElementById("images").innerHTML = str;
 
+{TITLELST}
 var str = "";
 for (var n = 0; n < {COUNT}; ++n)
 {
     var id = n.pad(4);
     str += "<a href=https://repba.com/data/boss/{GALLERY}/" + id + "/000.html>";
-    str += id + "</a><br>";
+    str += "<h2>" + lst[n] + "</h2></a><br>";
 }
 
 document.getElementById("links").innerHTML = str;
