@@ -2,9 +2,10 @@ animation = VENUS
 layers = 24
 
 [0000] 
-Montage.Cols_4 = 24
-Draw.Size_4 = 1
+Montage.Cols_4 = 12
+Draw.Size_4 = 2
 Canvas.Height_4 = 240
+Extension_4 = webp
 [0001]
 [0002]
 [0003]

@@ -1,1 +1,10 @@
-As Qanon picked up steam, growing skepticism over the motives of Diaz, Rogers, and the other early Qanon supporters led some in the internet's conspiracy circles to turn their paranoia on the group. Recently, some Qanon followers have accused Diaz and Rogers of profiting from the movement by soliciting donations from their followers. Other pro-Trump online groups have questioned the roles that Diaz and Rogers have played in promoting Q, pointing to a series of slip-ups that they say show Rogers and Diaz may have been involved in the theory from the start.
+<div class="media">
+  <div id="title" class="title"></div>
+  <div id="comment" class="content"> </div>
+  <div id="author" class="footer"> </div>
+</div>
+
+
+
+
+

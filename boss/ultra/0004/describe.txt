@@ -1,1 +1,26 @@
-Diaz, who emerged from bankruptcy in 2009, says in her YouTube videos that she now relies on donations from patrons funding her YouTube "research" as her sole source of income. Diaz declined to comment on this story. "Because I cover Q, I got an audience," Diaz acknowledged in a video that NBC News reviewed last week before she deleted it.
+<div class="media">
+  <div class="title">
+    Advanced 
+  </div>
+  <div class="content">
+    Links to advanced options below.<p><br>
+
+    <a href=javascript:void(0) onclick="wider();">Increase Width </a> /
+    <a href=javascript:void(0) onclick="thinner();">Reduce Width </a> /
+    <a href=javascript:void(0) onclick="better();">Increase Quality </a> /
+    <a href=javascript:void(0) onclick="worse();">Decrease Quality </a>
+    <p>
+
+    Click <a href="https://repba.com?p=boss/peek" target="_blank">here</a>
+    for assorted image panoramas.
+
+   <div class="footer">
+        Full Screen Panoramic Image Viewer 
+  </div>
+</div>
+
+
+
+
+
+

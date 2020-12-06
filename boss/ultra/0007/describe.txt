@@ -1,1 +1,2 @@
-Growl is a notification system for OS X. Growl has been around since 2004, and was originally called Global Notifications Center. The name was changed to Growl (like the noise a dog makes) since we felt the name Notifications Center was too geeky. We were wrong about that haha.
+<h2 id="info"></h2>
+

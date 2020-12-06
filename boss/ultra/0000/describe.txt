@@ -1,9 +1,17 @@
-Tap to start.  
-Press and hold to accelerate.  
-Swipe/pan to move.  
+<div class="media">
+  <div class="title">
+        FSPIV
+  </div>
+  <div class="content">
+       Deploy your images at FSPIV. <p> 
+       The web's premiere solution for full screen panoramic image viewing.<p>
+       Click below for deployment options. Click above for feature summaries.  
+        
+   <div class="footer">
+        Full Screen Panoramic Image Viewer
+  </div>
+</div>
 
-iQAnon "was first championed by a handful of people who worked together to 
-stir discussion of the 'Q' posts, eventually pushing the theory on to bigger platforms and gaining 
-followers — a strategy that proved to be the key to Qanon's spread and the originators' 
-financial gain..." reports NBC News, in an article shared by long-time Slashdot reader AmiMoJo .
-<a href=https://google.com>google.com</a>
+
+
+

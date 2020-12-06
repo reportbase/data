@@ -1,1 +1,23 @@
-Now, the people behind that effort are at the center of a fractious debate among conspiracy enthusiasts, some of whom believe the three people who first popularized the Qanon theory are promoting it in order to make a living. Others suggest that these original followers actually wrote Q's mysterious posts...
+<div class="media">
+  <div class="title">
+    Full Screen 
+  </div>
+  <div class="content">
+        
+        FSPIV images are resized to the screen height, creating.<br>
+        wide image panoramas that extend beyond the screen.
+        FSPIV rotates these images as 360 degree panoramas.<p><br>
+        
+        FSPIV does not require specialized equipment or software and 
+        works with all browser supported images. 
+        FSPIV supports the wide image photography created 
+        in today's popular mobile devices.<p>
+
+        Click <a href="https://repba.com?p=boss/scapes" target="_blank">here</a>
+        for landscape photography.
+  <div class="footer">
+        Full Screen Panoramic Image Viewer 
+  </div>
+</div>
+
+

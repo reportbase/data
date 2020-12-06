@@ -1,2 +1,31 @@
-In November 2017, a small-time YouTube video creator and two moderators of the 4chan website, one of the most extreme message boards on the internet, banded together and plucked out of obscurity an anonymous and cryptic post from the many conspiracy theories that populated the website's message board. Over the next several months, they would create videos, a Reddit community, a business and an entire mythology based off the 4chan posts of "Q," the pseudonym of a person claiming to be a high-ranking military officer. The theory they espoused would become Qanon, and it would eventually make its way from those message boards to national media stories and the rallies of President Donald Trump.
-<a href=https://google.com>google.com</a>c
+<div class="media">
+  <div class="title">
+    Image Panoramas 
+  </div>
+  <div class="content">
+        Browse 360 degree panoramas in full screen on both mobile and desktop.<p><br>  
+        
+        Use simple gestures and <br>
+        keyboard shortcuts to rotate.<p>
+
+        Pan for slow rotation.<br> 
+        Press for slower rotation.<br> 
+        Hold press to accelerate rotation.<p>
+
+        Double taps, <br>
+        quick swipes and <br>
+        arrow keys to <br>
+        rotate single images.<p>
+ 
+        To accelerate rotation, fast horizontal swipes.<p>
+
+        Click <a href="https://repba.com?p=boss/express" target="_blank">here</a>
+        for expressionist paintings from the
+        late 19th and early 20th centuries.  
+  </div>
+  <div class="footer">
+       Full Screen Panoramic Image Viewer 
+  </div>
+</div>
+
+
