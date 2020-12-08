@@ -1,10 +1,14 @@
 animation = VENUS
 layers = 24
+hidden = 384
 
 [0000] 
 Montage.Cols_4 = 12
 Draw.Size_4 = 2
 Canvas.Height_4 = 240
+Pinch_4 = BOSS
+Hide.Frame_8 = 1
+Hide.Frame_9 = 1
 Extension_4 = webp
 [0001]
 [0002]

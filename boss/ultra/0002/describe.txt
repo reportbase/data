@@ -1,22 +1,30 @@
 <div class="media">
   <div class="title">
-    Full Screen 
+    Image Panoramas 
   </div>
   <div class="content">
+        Browse 360 degree panoramas in full screen on both mobile and desktop.<p><br>  
         
-        FSPIV images are resized to the screen height, creating.<br>
-        wide image panoramas that extend beyond the screen.
-        FSPIV rotates these images as 360 degree panoramas.<p><br>
-        
-        FSPIV does not require specialized equipment or software and 
-        works with all browser supported images. 
-        FSPIV supports the wide image photography created 
-        in today's popular mobile devices.<p>
+        Use simple gestures and <br>
+        keyboard shortcuts to rotate.<p>
 
-        Click <a href="https://repba.com?p=boss/scapes" target="_blank">here</a>
-        for landscape photography.
+        Pan for slow rotation.<br> 
+        Press for slower rotation.<br> 
+        Hold press to accelerate rotation.<p>
+
+        Double taps, <br>
+        swipes and <br>
+        arrow keys to <br>
+        rotate only a single image.<p>
+ 
+        To accelerate rotation, hard horizontal swipes, graduated from top to bottom.<p>
+
+        Click <a href="https://repba.com?p=boss/express" target="_blank">here</a>
+        for expressionist paintings from the
+        late 19th and early 20th centuries.  
+  </div>
   <div class="footer">
-        Full Screen Panoramic Image Viewer 
+       Full Screen Panoramic Image Viewer 
   </div>
 </div>
 

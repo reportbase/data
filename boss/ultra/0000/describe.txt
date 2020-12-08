@@ -3,9 +3,14 @@
         FSPIV
   </div>
   <div class="content">
-       Deploy your images at FSPIV. <p> 
-       The web's premiere solution for full screen panoramic image viewing.<p>
-       Click below for deployment options. Click above for feature summaries.  
+       The web's premiere full screen panoramic image viewer.
+       Motion creates emotion. <p><br>
+        
+       Click <a href=javascript:void(0) onclick="panorama();">&#x25CF here </a>
+       to turn on<br>panoramic motion.<p>
+
+       Click below for creative image solutions. Click above 
+       for feature summaries.  
         
    <div class="footer">
         Full Screen Panoramic Image Viewer

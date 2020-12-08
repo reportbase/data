@@ -1,13 +1,5 @@
 <div class="media">
   <div id="comment" class="content"> 
-        FSPIV creates panoramas from montages of images.
-        FSPIV divides the panorama into slices and draws only those slices that are 
-        visible.
-        Very large panoramas can therefore be drawn to the screen with a quality comparable to video.
-        A cylinder of the image is created in virtual memory with the viewer situated in the center. 
-        The cylinder is then rotated around the viewer, providing a 360 degree panoramic experience.
-        To start the cylinder's rotation, swipe the panorama from left/right or up/down.
-        To rotate the cylinder short distances, quick press the image.  
   </div>
 </div>
 

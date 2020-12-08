@@ -3,8 +3,8 @@
     HTML Iframe 
   </div>
   <div class="content">
-    Add panoramas to web pages with HTML iframes. <br>Links below show
-    basic FSPIV commands.<p><br>
+    Add FSPIV to any web page with an HTML iframe. <p><br>
+    Basic FSPIV commands below.<p>
 
     <a href=javascript:void(0) onclick="pageup();">Previous Image </a> /
     <a href=javascript:void(0) onclick="pagedown();">Next Image </a> /
@@ -12,13 +12,10 @@
     <a href=javascript:void(0) onclick="faster();">Faster </a> /
     <a href=javascript:void(0) onclick="panorama();">Panorama </a> / 
     <a href=javascript:void(0) onclick="filmstrip()");">Filmstrip </a> /
-    <a href=javascript:void(0) onclick="open();">New Window </a> /
-    <a href=javascript:void(0) onclick="harder();">Increase Momentum </a> /
-    <a href=javascript:void(0) onclick="softer();">Reduce Momentum </a> 
     <p>
 
     Click <a href="https://repba.com?p=boss/city" target="_blank">here</a>
-    for cyberpunk themed image panoramas.
+    for sample image panoramas.
 
    <div class="footer">
         Full Screen Panoramic Image Viewer 
