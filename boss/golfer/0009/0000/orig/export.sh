@@ -4,5 +4,5 @@
 #out_h is the height of the output rectangle
 #x and y specify the top left corner of the output rectangle
 rm *.jpg
-ffmpeg -i *.MOV -vf "fps=30,crop=1080:1240:0:300" -q:v 2 %04d.jpg
+ffmpeg -i *.MOV -vf "fps=30" -s 960x540 -q:v 2 %04d.jpg
 
