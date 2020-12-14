@@ -24,9 +24,19 @@ then
     montage {0060..0071}.jpg -tile 12x1 -mode Concatenate ../../012.005.jpg 2> error
 fi
 
+if [ $width -ge 3840 ]; 
+then
+    montage {0000..0005}.jpg -tile 6x1 -mode Concatenate ../../006.000.jpg 2> error
+    montage {0006..0011}.jpg -tile 6x1 -mode Concatenate ../../006.001.jpg 2> error
+    montage {0012..0017}.jpg -tile 6x1 -mode Concatenate ../../006.002.jpg 2> error
+    montage {0018..0023}.jpg -tile 6x1 -mode Concatenate ../../006.003.jpg 2> error
+    montage {0024..0029}.jpg -tile 6x1 -mode Concatenate ../../006.004.jpg 2> error
+    montage {0030..0035}.jpg -tile 6x1 -mode Concatenate ../../006.005.jpg 2> error
+fi
+
 cp tmp/*.jpg .
 for image in *.jpg; do convert $image -sampling-factor 4:2:0 -strip -quality 80 -interlace JPEG -resize x280 -colorspace RGB $image ; done
-if [ $width -le 720 ]; 
+if [ $width -le 1080 ]; 
 then
     montage {0000..0071}.jpg -tile 72x1 -mode Concatenate ../../072.000.jpg 2> error
     montage {0072..0143}.jpg -tile 72x1 -mode Concatenate ../../072.001.jpg 2> error

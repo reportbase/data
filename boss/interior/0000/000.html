@@ -2,7 +2,8 @@
     * {margin: 0; padding: 0}
     html, body {height: 100%; margin: 0; margin-top: 10px; background-color: #ffffff}
     canvas {outline: none; position: absolute
-    </style>
+    a { text-decoration: none; }
+</style>
 <center>
 <br>
 

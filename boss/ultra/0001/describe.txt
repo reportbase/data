@@ -3,20 +3,19 @@
     Full Screen 
   </div>
   <div class="content">
-        FSPIV creates 360 degree panoramas from image montages that are resized to 
-        full screen. <p><br>
-        FSPIV divides the panorama into slices and draws only those that are 
-        visible to the viewer. 
-        The 360 degree panorama is rotated as if standing
-        in the middle of a cylinder.<p>
+        FSPIV creates panoramas from standard images and
+        displays them in full screen.<p><br>
  
         FSPIV does not require specialized equipment or software and 
         works with all browser supported images. 
         FSPIV supports the wide image photography created 
         in today's popular mobile devices.<p>
 
+        Click <a href=javascript:void(0) onclick="panorama();">&#x25CF here </a>
+        to turn on<br>panoramic motion.<p>
+        
         Click <a href="https://repba.com?p=boss/scapes" target="_blank">here</a>
-        for landscape photography.
+        for landscape photography examples.  
   <div class="footer">
         Full Screen Panoramic Image Viewer 
   </div>

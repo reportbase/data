@@ -3,14 +3,14 @@
         FSPIV
   </div>
   <div class="content">
-       The web's premiere full screen panoramic image viewer.
-       Motion creates emotion. <p><br>
+       Learn how to add panoramic motion to photography and digital art at FSPIV. 
+       <p><br>
         
        Click <a href=javascript:void(0) onclick="panorama();">&#x25CF here </a>
-       to turn on<br>panoramic motion.<p>
+       to start <br>panoramic motion.<p>
 
-       Click below for creative image solutions. Click above 
-       for feature summaries.  
+       Click above for feature summaries.  
+       Click below for creative image solutions and deployment options. 
         
    <div class="footer">
         Full Screen Panoramic Image Viewer

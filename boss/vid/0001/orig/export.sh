@@ -4,5 +4,5 @@
 #out_h is the height of the output rectangle
 #x and y specify the top left corner of the output rectangle
 rm *.jpg
-ffmpeg -i *.mp4 -vf "fps=15" -q:v 2 %04d.jpg
+ffmpeg -i *.mp4 -vf "fps=12" -q:v 2 %04d.jpg
 

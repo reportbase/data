@@ -1,6 +1,6 @@
 #pbase center/north/south
 
-for NAME in *.jpg ; do
+for NAME in *.jpg; do
 STR=$(identify -format '%[basename]' $NAME)
 STR=$(echo $STR 1 | awk '{print $1 + $2}')
 convert -background black -bordercolor black -fill white \

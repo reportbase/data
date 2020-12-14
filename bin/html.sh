@@ -29,6 +29,10 @@ cp ../../../res/002.res 002.html
 sed -i $THISGALLERY 002.html
 sed -i $THISCOUNT 002.html 
 
+cp ../../../res/003.res 003.html
+sed -i $THISGALLERY 003.html
+sed -i $THISCOUNT 003.html 
+
 TITLELST="lst = ["
 COUNT=`expr $THISIZE - 1`
 for i in $(seq 0 $COUNT); do 

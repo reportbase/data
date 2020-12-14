@@ -3,8 +3,8 @@
     HTML Iframe 
   </div>
   <div class="content">
-    Add FSPIV to any web page with an HTML iframe. <p><br>
-    Basic FSPIV commands below.<p>
+    Add FSPIV panoramas to a web page with an HTML iframe. <p><br>
+    Iframe directive below: <p>
 
     <a href=javascript:void(0) onclick="pageup();">Previous Image </a> /
     <a href=javascript:void(0) onclick="pagedown();">Next Image </a> /
@@ -15,7 +15,7 @@
     <p>
 
     Click <a href="https://repba.com?p=boss/city" target="_blank">here</a>
-    for sample image panoramas.
+    for examples.
 
    <div class="footer">
         Full Screen Panoramic Image Viewer 

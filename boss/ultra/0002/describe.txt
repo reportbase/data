@@ -1,12 +1,10 @@
 <div class="media">
   <div class="title">
-    Image Panoramas 
+    User Gestures 
   </div>
   <div class="content">
-        Browse 360 degree panoramas in full screen on both mobile and desktop.<p><br>  
-        
         Use simple gestures and <br>
-        keyboard shortcuts to rotate.<p>
+        keyboard shortcuts to browse images.<p>
 
         Pan for slow rotation.<br> 
         Press for slower rotation.<br> 
