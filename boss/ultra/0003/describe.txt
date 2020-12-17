@@ -1,21 +1,19 @@
 <div class="media">
   <div class="title">
-    HTML Iframe 
+    HTML 
   </div>
   <div class="content">
-    Add FSPIV panoramas to a web page with an HTML iframe. <p><br>
-    Iframe directive below: <p>
+    Browse image panorams on any web site with an HTML iframe. <p><br>
+    Example iframe directives: <p>
 
     <a href=javascript:void(0) onclick="pageup();">Previous Image </a> /
     <a href=javascript:void(0) onclick="pagedown();">Next Image </a> /
+    <a href=javascript:void(0) onclick="zoom();">Zoom </a> /
     <a href=javascript:void(0) onclick="slower();">Slower </a> /
     <a href=javascript:void(0) onclick="faster();">Faster </a> /
     <a href=javascript:void(0) onclick="panorama();">Panorama </a> / 
-    <a href=javascript:void(0) onclick="filmstrip()");">Filmstrip </a> /
+    <a href=javascript:void(0) onclick="filmstrip()");">Filmstrip </a>
     <p>
-
-    Click <a href="https://repba.com?p=boss/city" target="_blank">here</a>
-    for examples.
 
    <div class="footer">
         Full Screen Panoramic Image Viewer 

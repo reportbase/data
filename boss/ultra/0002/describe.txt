@@ -1,25 +1,23 @@
 <div class="media">
   <div class="title">
-    User Gestures 
+    Browse Images
   </div>
   <div class="content">
-        Use simple gestures and <br>
-        keyboard shortcuts to browse images.<p>
+        Browse images with simple gestures and <br>
+        keyboard shortcuts.<p><br>
 
         Pan for slow rotation.<br> 
-        Press for slower rotation.<br> 
-        Hold press to accelerate rotation.<p>
+        Short Press for slower rotation.<br> 
+        Long Press for faster rotation.<p> 
 
-        Double taps, <br>
-        swipes and <br>
-        arrow keys to <br>
-        rotate only a single image.<p>
+        Swipe left/right to rotate image. <br>
+        Swipe up/up to zoom. <p>
+
+        Rotation speed is graduated from top to bottom.<p>
+
+        Left/right keys to rotate image.<br>
+        Up/down keys to zoom.<p>
  
-        To accelerate rotation, hard horizontal swipes, graduated from top to bottom.<p>
-
-        Click <a href="https://repba.com?p=boss/express" target="_blank">here</a>
-        for expressionist paintings from the
-        late 19th and early 20th centuries.  
   </div>
   <div class="footer">
        Full Screen Panoramic Image Viewer 

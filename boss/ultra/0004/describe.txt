@@ -3,15 +3,13 @@
     Advanced 
   </div>
   <div class="content">
-    Links to advanced options below.<p><br>
+    Advanced options below.<p><br>
 
     <a href="javascript:void(0);" onclick="newindow();">New Window </a> /
-    <a href="javascript:void(0);" onclick="original();">Original </a> /
-    <a href="javascript:void(0);" onclick="montage();">Montage </a> 
+    <a href="javascript:void(0);" onclick="original();">Original Image</a> /
+    <a href="javascript:void(0);" onclick="montage();">Original Montage</a> /
+    <a href="javascript:void(0);" onclick="ifrclick(4);">Panorama</a> 
     <p>
-
-    Click <a href="https://repba.com?p=boss/peek" target="_blank">here</a>
-    for assorted image panoramas.
 
    <div class="footer">
         Full Screen Panoramic Image Viewer 

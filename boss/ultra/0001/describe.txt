@@ -1,21 +1,18 @@
 <div class="media">
   <div class="title">
-    Full Screen 
+    Panoramas 
   </div>
   <div class="content">
-        FSPIV creates panoramas from standard images and
-        displays them in full screen.<p><br>
+        Create panoramas from standard images and
+        display them in full screen.<p><br>
  
-        FSPIV does not require specialized equipment or software and 
-        works with all browser supported images. 
-        FSPIV supports the wide image photography created 
+        Does not require specialized equipment or software and 
+        works with standard image formats. 
+        Supports the wide image photography created 
         in today's popular mobile devices.<p>
 
         Click <a href=javascript:void(0) onclick="panorama();">&#x25CF here </a>
         to turn on<br>panoramic motion.<p>
-        
-        Click <a href="https://repba.com?p=boss/scapes" target="_blank">here</a>
-        for landscape photography examples.  
   <div class="footer">
         Full Screen Panoramic Image Viewer 
   </div>
