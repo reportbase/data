@@ -4,6 +4,6 @@
 #out_h is the height of the output rectangle
 #x and y specify the top left corner of the output rectangle
 rm *.jpg
-ffmpeg -i *.mov -vf "fps=10" -s 540x960 -q:v 2 %04d.jpg
-for image in *.jpg; do convert $image -rotate 0 -gravity center -crop +0+0 -crop -0-150 $(basename -- "$image") ; done
+ffmpeg -i *.mov -vf "fps=60" -s 540x960 -q:v 2 int0/%04d.jpg
+for image in int0/*.jpg; do convert $image -rotate 0 -gravity center -crop +0+0 -crop -0-150 $(basename -- "$image") ; done
 

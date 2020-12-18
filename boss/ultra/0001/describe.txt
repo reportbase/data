@@ -1,18 +1,17 @@
 <div class="media">
   <div class="title">
-    Panoramas 
+    Standard Images
   </div>
   <div class="content">
-        Create panoramas from standard images and
-        display them in full screen.<p><br>
+        Use standard images to create panorams.<p><br>
  
-        Does not require specialized equipment or software and 
-        works with standard image formats. 
+        Specialized equipment or software is not required.
         Supports the wide image photography created 
-        in today's popular mobile devices.<p>
+        by today's popular mobile devices.<p>
 
         Click <a href=javascript:void(0) onclick="panorama();">&#x25CF here </a>
         to turn on<br>panoramic motion.<p>
+
   <div class="footer">
         Full Screen Panoramic Image Viewer 
   </div>

@@ -3,20 +3,20 @@
     Browse Images
   </div>
   <div class="content">
-        Browse images with simple gestures and <br>
+        Browse images with touch gestures and <br>
         keyboard shortcuts.<p><br>
 
         Pan for slow rotation.<br> 
         Short Press for slower rotation.<br> 
         Long Press for faster rotation.<p> 
 
-        Swipe left/right to rotate image. <br>
+        Swipe left/right to rotate. <br>
         Swipe up/up to zoom. <p>
 
         Rotation speed is graduated from top to bottom.<p>
 
-        Left/right keys to rotate image.<br>
-        Up/down keys to zoom.<p>
+        Left/right to rotate.<br>
+        Up/down to zoom.<p>
  
   </div>
   <div class="footer">

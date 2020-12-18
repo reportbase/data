@@ -1,10 +1,10 @@
 <div class="media">
   <div class="title">
-        FSPIV
+       Panoramic Motion 
   </div>
   <div class="content">
-       Learn how to add panoramic motion<br>
-       to digital images at FSPIV. 
+       Add panoramic motion<br>
+       to digital imagery at FSPIV. 
        <p><br>
         
        Click <a href=javascript:void(0) onclick="panorama();">&#x25CF here </a>

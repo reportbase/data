@@ -1,10 +1,10 @@
 <div class="media">
   <div class="title">
-    HTML 
+    HTML iFrame 
   </div>
   <div class="content">
-    Browse image panorams on any web site with an HTML iframe. <p><br>
-    Example iframe directives: <p>
+    Add panoramas to web pages with an HTML iframe. <p><br>
+    Example commands: <p>
 
     <a href=javascript:void(0) onclick="pageup();">Previous Image </a> /
     <a href=javascript:void(0) onclick="pagedown();">Next Image </a> /

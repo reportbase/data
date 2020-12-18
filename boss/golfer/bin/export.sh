@@ -5,5 +5,5 @@
 #x and y specify the top left corner of the output rectangle
 rm *.jpg
 ffmpeg -i *.mov -vf "fps=30" -s 600x960 -q:v 2 unt0/%04d.jpg
-for image in unt0/*.jpg; do convert $image -rotate 0 -gravity center -brightness-contrast 10x20 -crop +0+0 -crop -0-150 $(basename -- "$image") ; done
+for image in unt0/*.jpg; do convert $image -rotate 0 -gravity center -brightness-contrast 10x10 -crop +0+0 -crop -0-150 $(basename -- "$image") ; done
 
