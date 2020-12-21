@@ -1,20 +1,18 @@
 <div class="media">
   <div class="title">
-       Panoramic Motion 
+       Panoramic Motion
   </div>
   <div class="content">
-       Add panoramic motion<br>
-       to digital imagery at FSPIV. 
-       <p><br>
+       Create panoramic motion <br>from image montages.<p><br>
         
        Click <a href=javascript:void(0) onclick="panorama();">&#x25CF here </a>
        to start <br>panoramic motion.<p>
 
-       Click above for feature summaries.  
-       Click below for creative image solutions and deployment options. 
+       Click above for feature summaries.<br>  
+       Click below for creative image solutions. 
         
    <div class="footer">
-        Full Screen Panoramic Image Viewer
+        Panoramic Image Viewer
   </div>
 </div>
 

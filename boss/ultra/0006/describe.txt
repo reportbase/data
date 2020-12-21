@@ -1,8 +1,17 @@
 <div class="media">
-  <div id="title" class="title"></div>
-  <div id="comment" class="content"> </div>
-  <div id="author" class="footer"> </div>
+  <div class="title">
+       Image Services 
+  </div>
+  <div class="content">
+       Contact us for creative image solutions.<p><br>
+   
+        LINKS HERE
+   <div class="footer">
+        Panoramic Image Viewer
+  </div>
 </div>
+
+
 
 
 

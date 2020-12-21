@@ -5,7 +5,7 @@ cd thumb
 mkdir -p tmp
 cp ../*.jpg tmp
 cd tmp
-numb000.sh center
+#numb000.sh center
 cd ..
 
 cp tmp/*.jpg .
@@ -32,12 +32,23 @@ then
     montage {0018..0023}.jpg -tile 6x1 -mode Concatenate ../../006.003.$ext 2> error
     montage {0024..0029}.jpg -tile 6x1 -mode Concatenate ../../006.004.$ext 2> error
     montage {0030..0035}.jpg -tile 6x1 -mode Concatenate ../../006.005.$ext 2> error
+    montage {0000..0007}.jpg -tile 8x1 -mode Concatenate ../../008.000.$ext 2> error
+    montage {0008..0015}.jpg -tile 8x1 -mode Concatenate ../../008.001.$ext 2> error
+    montage {0016..0023}.jpg -tile 8x1 -mode Concatenate ../../008.002.$ext 2> error
+    montage {0024..0031}.jpg -tile 8x1 -mode Concatenate ../../008.003.$ext 2> error
+    montage {0032..0039}.jpg -tile 8x1 -mode Concatenate ../../008.004.$ext 2> error
 fi
 
 cp tmp/*.jpg .
-for image in *.jpg; do convert $image -sampling-factor 4:2:0 -strip -quality 70 -interlace JPEG -resize x180 -colorspace RGB $image ; done
+for image in *.jpg; do convert $image -sampling-factor 4:2:0 -strip -quality 70 -interlace JPEG -resize x160 -colorspace RGB $image ; done
 montage {0000..0071}.jpg -tile 72x1 -mode Concatenate ../../072.000.$ext 2> error
 montage {0072..0143}.jpg -tile 72x1 -mode Concatenate ../../072.001.$ext 2> error
+montage {0000..0011}.jpg -tile 12x1 -mode Concatenate ../../012.000.$ext 2> error
+montage {0012..0023}.jpg -tile 12x1 -mode Concatenate ../../012.001.$ext 2> error
+montage {0024..0035}.jpg -tile 12x1 -mode Concatenate ../../012.002.$ext 2> error
+montage {0036..0047}.jpg -tile 12x1 -mode Concatenate ../../012.003.$ext 2> error
+montage {0048..0059}.jpg -tile 12x1 -mode Concatenate ../../012.004.$ext 2> error
+montage {0060..0071}.jpg -tile 12x1 -mode Concatenate ../../012.005.$ext 2> error
 
 cp tmp/*.jpg .
 for image in *.jpg; do convert $image -sampling-factor 4:2:0 -strip -quality 70 -interlace JPEG -resize x280 -colorspace RGB $image ; done

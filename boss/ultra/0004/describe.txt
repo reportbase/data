@@ -1,21 +1,24 @@
 <div class="media">
   <div class="title">
-    Advanced 
+    Panoramic Video
   </div>
   <div class="content">
-    Advanced options below.<p><br>
+    Convert standard videos into panoramic video.<p><br>
 
-    <a href="javascript:void(0);" onclick="newindow();">New Window </a> /
-    <a href="javascript:void(0);" onclick="original();">Original Image</a> /
-    <a href="javascript:void(0);" onclick="montage();">Original Montage</a> /
-    <a href="javascript:void(0);" onclick="ifrclick(4);">Panorama</a> 
-    <p>
+    Perfect for frame by frame <br>analysis and comparison.<p>
 
+       Click <a href=javascript:void(0) onclick="panorama();">&#x25CF here </a>
+       to start <br>panoramic video.<p>
+
+    <a href=javascript:void(0) onclick="pageup();">Previous </a> 
+    <a href=javascript:void(0) onclick="pagedown();">Next </a> <br>
+    <a href=javascript:void(0) onclick="zoom();">Zoom </a> 
+    <a href=javascript:void(0) onclick="slower();">Slower </a> 
+    <a href=javascript:void(0) onclick="faster();">Faster </a>
    <div class="footer">
-        Full Screen Panoramic Image Viewer 
+        Panoramic Image Viewer 
   </div>
 </div>
-
 
 
 

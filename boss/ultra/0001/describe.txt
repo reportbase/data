@@ -1,19 +1,22 @@
 <div class="media">
   <div class="title">
-    Standard Images
+   Panoramic Images 
   </div>
   <div class="content">
-        Use standard images to create panorams.<p><br>
+        Add panoramic motion to digital<br>
+        photography and art. Motion creates emotion.<p><br>
  
-        Specialized equipment or software is not required.
-        Supports the wide image photography created 
-        by today's popular mobile devices.<p>
+        Specialized equipment or expensive software is<br>
+        not required.<br>
+        Create panoramas from the<br> 
+        digital imagery created by today's<br>
+        popular mobile devices.<br><p>
 
         Click <a href=javascript:void(0) onclick="panorama();">&#x25CF here </a>
-        to turn on<br>panoramic motion.<p>
+        to start<br>panoramic motion.<p>
 
   <div class="footer">
-        Full Screen Panoramic Image Viewer 
+        Panoramic Image Viewer 
   </div>
 </div>
 

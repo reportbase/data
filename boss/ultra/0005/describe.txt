@@ -1,5 +1,19 @@
 <div class="media">
-  <div id="comment" class="content"> 
+  <div class="title">
+       Panoramic Slideshows
+  </div>
+  <div class="content">
+       Create panoramic slideshows <br>from image montages.<p><br>
+        
+       Click <a href=javascript:void(0) onclick="panorama();">&#x25CF here </a>
+       to start an example<br>image slide show.<p>
+        
+   <div class="footer">
+        Panoramic Image Viewer
   </div>
 </div>
+
+
+
+
 

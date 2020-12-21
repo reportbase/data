@@ -1,22 +1,23 @@
 <div class="media">
   <div class="title">
-    HTML iFrame 
+    Panoramic Web
   </div>
   <div class="content">
-    Add panoramas to web pages with an HTML iframe. <p><br>
-    Example commands: <p>
+    Add panoramic motion to web pages.<p><br>
 
-    <a href=javascript:void(0) onclick="pageup();">Previous Image </a> /
-    <a href=javascript:void(0) onclick="pagedown();">Next Image </a> /
-    <a href=javascript:void(0) onclick="zoom();">Zoom </a> /
-    <a href=javascript:void(0) onclick="slower();">Slower </a> /
-    <a href=javascript:void(0) onclick="faster();">Faster </a> /
-    <a href=javascript:void(0) onclick="panorama();">Panorama </a> / 
-    <a href=javascript:void(0) onclick="filmstrip()");">Filmstrip </a>
-    <p>
+    Panoramas can interact<br>
+    with the hosting page.<p>
 
+       Click <a href=javascript:void(0) onclick="panorama();">&#x25CF here </a>
+       to start <br>panoramic motion.<p>
+
+    <a href=javascript:void(0) onclick="pageup();">Previous </a> 
+    <a href=javascript:void(0) onclick="pagedown();">Next </a> <br>
+    <a href=javascript:void(0) onclick="zoom();">Zoom </a> 
+    <a href=javascript:void(0) onclick="slower();">Slower </a> 
+    <a href=javascript:void(0) onclick="faster();">Faster </a>
    <div class="footer">
-        Full Screen Panoramic Image Viewer 
+        Panoramic Image Viewer 
   </div>
 </div>
 

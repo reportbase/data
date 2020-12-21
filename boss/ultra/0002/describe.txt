@@ -1,10 +1,10 @@
 <div class="media">
   <div class="title">
-    Browse Images
+    Browse Panoramas
   </div>
   <div class="content">
-        Browse images with touch gestures and <br>
-        keyboard shortcuts.<p><br>
+        Browse panoramas with <br>
+        touch gestures and keyboard shortcuts.<p><br>
 
         Pan for slow rotation.<br> 
         Short Press for slower rotation.<br> 
@@ -13,14 +13,14 @@
         Swipe left/right to rotate. <br>
         Swipe up/up to zoom. <p>
 
-        Rotation speed is graduated from top to bottom.<p>
+        Rotation speed is graduated from<br>top to bottom.<p>
 
-        Left/right to rotate.<br>
-        Up/down to zoom.<p>
+        Left/right keys to rotate.<br>
+        Up/down keys to zoom.<p>
  
   </div>
   <div class="footer">
-       Full Screen Panoramic Image Viewer 
+       Panoramic Image Viewer 
   </div>
 </div>
 
