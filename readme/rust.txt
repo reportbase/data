@@ -1,0 +1,12 @@
+Use after free
+Double free
+Memory leaks
+Buffer overreads
+Null Pointers 
+Data races
+
+mutable
+immutable
+garbage collector
+zero cost abstractions
+

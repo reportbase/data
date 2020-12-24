@@ -1,23 +1,20 @@
 <div class="media">
   <div class="title">
-   Panoramic Images 
+   Photography 
   </div>
   <div class="content">
-        Add panoramic motion to digital<br>
-        photography and art. Motion creates emotion.<p><br>
- 
-        Specialized equipment or expensive software is<br>
-        not required.<br>
-        Create panoramas from the<br> 
-        digital imagery created by today's<br>
-        popular mobile devices.<br><p>
+        Browse image libraries in full screen, without
+        distraction at repba.com <p><br>
+        
+        Three browsing modes are provided, filmstrip, slideshow and panorama.<p> 
+        Thumbnail mode is provided for image searches.<p>
+            
+       Click <a href=javascript:void(0) onclick="panorama();">&#x25CF here </a>
+       to start panoramic motion.
 
-        Click <a href=javascript:void(0) onclick="panorama();">&#x25CF here </a>
-        to start<br>panoramic motion.<p>
-
-  <div class="footer">
-        Panoramic Image Viewer 
-  </div>
+    <div class="footer">
+        repba.image.services
+    </div>
 </div>
 
 

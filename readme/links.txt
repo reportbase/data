@@ -1,0 +1,331 @@
+https://jobot.com/
+
+[]
+path = https://freemusicarchive.org/genre/Electronic
+title = freemusic
+
+[]
+path = https://www.freepik.com/home
+title = freepik
+
+[]
+path = https://www.wallpaperflare.com/
+title = Wallpaperflare
+
+[]
+path = https://depositphotos.com
+title = Deposit Photos
+
+[]
+path = https://mail.google.com
+title = Mail
+
+[S]
+path = https://play.google.com/books
+title = Books
+
+[]
+path = https://youtube.com
+title = Youtube
+
+[]
+path = https://drive.google.com/drive/u/0/my-drive
+title = Drive
+
+[]
+path = https://voice.google.com
+title = Voice
+
+[]
+title = Calendar
+path = https://calendar.google.com/calendar/render?pli=1#main_7
+
+[]
+path = https://news.google.com/news/?ned=us&gl=US&hl=en
+title = News
+
+[]
+path = https://contacts.google.com
+title = Contacts
+
+[]
+path = https://photos.google.com/
+title = Photos
+
+[]
+path = https://www.google.com/maps
+title = Map
+
+[]
+path = https://play.google.com
+title = Play
+
+[]
+path = https://play.google.com/movies?hl=en_US
+title = Movies
+
+[]
+path = https://www.desmos.com/
+describe = Equaition Visualizer.  Math
+title = Desmos
+
+[]
+path = https://onlinepngtools.com
+base64 = convert-png-to-base64
+title = PNG Tools
+
+[]
+path = https://www.webpagetest.org
+title = Webpagetest
+describe = speed test
+
+[]
+path = https://webassembly.studio/
+title = Web Assembly Studio
+
+[]
+title = Obfuscator
+path = https://obfuscator.io/
+
+[] 
+title = svg path editor
+path = https://yqnn.github.io/svg-path-editor/
+
+[]
+path = https://editor.method.ac/
+title = SVG Vector Editor
+
+[]
+title = Joe Rogan
+path = https://podcasts.joerogan.net/podcasts
+
+[]
+title = 50 Things
+path = https://www.bbc.co.uk/programmes/p04b1g3c
+
+[]
+title = NPR Podcast Directory
+path = https://www.npr.org/podcasts/
+
+[]
+path = https://bigthink.com/
+title = Big Think
+
+[]
+title = Serial
+path = https://serialpodcast.org/
+
+[]
+title = Pop.Culture
+path = https://www.npr.org/podcasts/510282/pop-culture-happy-hour
+
+[]
+title = Sam Harris
+path = https://samharris.org/
+
+[]
+title = Radio Lab
+path = https://www.wnycstudios.org/shows/radiolab
+
+[]
+title = Dan Carlin
+path = https://www.dancarlin.com/
+
+[]
+path = https://www.npr.org/programs/ted-radio-hour/
+title = Ted Talk
+
+[]
+path = https://www.pbs.org/show/newshour/
+title = PBS News Hour
+
+[]
+path = https://podbay.fm/show/81210923
+title = 60 Minutes
+
+[]
+path = https://www.youtube.com/channel/UCu5jfQcpRLm9xhmlSd5S8xw
+title = State of Trance
+
+[]
+path = https://www.youtube.com/watch?v=1sl5KJ69qiA 
+title = Mine Field
+
+[]
+path = https://www.youtube.com/channel/UCdJa8L2rQJ6vPzgSDc_xQqA
+title = Coccolino Deep
+
+[]
+path = https://news.ycombinator.com/
+title = Hacker News
+
+[]
+path = https://www.dwitter.net
+title = Dwitter
+
+[]
+path = https://affinity.serif.com/en-us/
+help = https://affinity.help
+forum = https://forum.affinity.serif.com/
+title = Affinity 
+color = #31819d
+describe = svg editor
+
+[]
+path = https://www.bbcearth.com
+title = BBCEarth
+
+[]
+path = https://contributor.stock.adobe.com/en/uploads
+path2 = https://stock.adobe.com/
+title = Adobe
+
+[]
+path = https://www.axios.com
+title = Axios
+
+[]
+path = https://dash.cloudflare.com/722a1d3674ae54abfcfd3dd81456bbcc
+title = Cloudflare
+
+[]
+path = https://digital.darkhorse.com/bookshelf
+title = Comics
+
+[]
+path = https://github.com
+title = Github
+
+[]
+path = https://dcc.godaddy.com/domains/?ci=
+title = Godaddy
+
+[]
+path = https://www.linuxcloudvps.com
+title = Linux Cloud
+
+[]
+path = https://m.nautil.us
+title = Nautilus
+
+[]
+path = https://www.slashdot.org
+title = Slashdot
+
+[]
+path = https://belleviewstation.activebuilding.com/portal/profile/view/id/1058243
+title = Apartment
+
+[]
+path = https://lichess.org/
+title = Chess
+
+[]
+path = https://twitter.com/
+title = Twitter
+user = reportbase@gmail.com
+
+[]
+path = https://www.tumblr.com/dashboard
+path2 = https://repba.tumblr.com
+path3 = https://repba.tumblr.com/archive
+title = Tumbler
+user = tom@repba.com
+
+[]
+title = National Geographic
+path = https://www.nationalgeographic.com/
+
+[]
+title = The Daily Discovery
+path = https://dailygalaxy.com/
+
+[]
+path = https://3perf.com/talks/web-perf-101/
+title = Web Performance
+
+[]
+path = https://html.spec.whatwg.org/
+title = Web Specification
+
+[]
+path = https://html.spec.whatwg.org/
+title = Web Specification
+
+[]
+path = https://remotedevjobs.co/blog/remote-job-hunting
+title = Remote Jobs
+
+[]
+path = https://www.epicgames.com/store/en-US/
+title = Epic 
+
+[]
+title = Vecteezy
+path = https://www.vecteezy.com
+
+[]
+title = Vector Stock 
+path = https://www.vectorstock.com
+
+[]
+title = Pexels
+path = https://www.pexels.com
+
+[]
+title = Pixabay
+path = https://www.pixabay.com
+
+[]
+title = Flat Icon
+path = https://www.flaticon.com/
+
+[]
+title = PNG Fly
+path = https://www.pngfly.com
+
+[]
+title = All-Freee
+path = https://all-free-download.com/free-vectors/
+
+[]
+title = YA Web-Design
+path = https://ya-webdesign.com/
+
+[]
+title = Adobe Photo Stock
+path = https://stock.adobe.com/
+
+[]
+title = Smashing Magazine
+path = https://www.smashingmagazine.com/
+
+[]
+title = Getty Images
+path = https://www.gettyimages.com
+
+[]
+title = Millo 
+descibe = Freelancing
+path = https://millo.co/
+
+[]
+title = Graphic River
+describe = Artist Market Place
+path = https://graphicriver.net/
+
+[]
+title = Etsy
+path = https://www.etsy.com
+
+[]
+path = https://fonts.google.com/
+title = Google Fonts
+
+[]
+path = https://vectr.com
+title = Vectr
+
+[]
+path = https://keen-slider.io/examples/#examples
+title = javascript slider panorama

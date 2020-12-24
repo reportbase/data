@@ -1,0 +1,1 @@
+unzip -qq -o "*.zip"

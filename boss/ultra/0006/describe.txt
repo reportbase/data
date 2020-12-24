@@ -1,10 +1,25 @@
 <div class="media">
   <div class="title">
-       Image Services 
+    Shortcuts
   </div>
   <div class="content">
        Contact us for creative image solutions.<p><br>
    
+      Browse panoramas with <br>
+        touch gestures and keyboard shortcuts.<p><br>
+
+        Pan for slow rotation.<br> 
+        Short Press for slower rotation.<br> 
+        Long Press for faster rotation.<p> 
+
+        Swipe left/right to rotate. <br>
+        Swipe up/up to zoom. <p>
+
+        Rotation speed is graduated from<br>top to bottom.<p>
+
+        Left/right keys to rotate.<br>
+        Up/down keys to zoom.<p>
+ 
         LINKS HERE
    <div class="footer">
         Panoramic Image Viewer

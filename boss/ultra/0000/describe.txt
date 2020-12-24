@@ -1,18 +1,22 @@
 <div class="media">
   <div class="title">
-       Panoramic Motion
+       Repba Image Services
   </div>
   <div class="content">
-       Create panoramic motion <br>from image montages.<p><br>
-        
-       Click <a href=javascript:void(0) onclick="panorama();">&#x25CF here </a>
-       to start <br>panoramic motion.<p>
+       Hosted application services for improved image browsing.<p><br>
+       
+        <a href="">Photography</a><br>
+        <a href="">Slideshows and Filmstrips</a><br>
+        <a href="">Motion Pictures</a><br>
+        <a href="">Panoramas</a><br>
+        <a href="">Shortcuts</a><br>
+        <a href="">Image Services</a><p>
 
-       Click above for feature summaries.<br>  
-       Click below for creative image solutions. 
+       Click <a href=javascript:void(0) onclick="panorama();">&#x25CF here </a>
+       to start panoramic motion.
         
    <div class="footer">
-        Panoramic Image Viewer
+        repba.image.services
   </div>
 </div>
 

@@ -1,2 +1,30 @@
-<h2 id="info"></h2>
+<div class="media">
+  <div class="title">
+        Image Services 
+  </div>
+  <div class="content">
+       Host panoramas, slideshows <br>
+       filmstrips and motion video at repba.com <br>
+       with repba.image.services.<p><br>
+        
+        <table>
+        <tr><td><a href="">Panoramas</a></td></tr>
+        <tr><td><a href="">Slideshows and Filmstrips</a></td></tr>
+        <tr><td><a href="">Motion Video</a></td></tr>
+        <tr><td><a href="">360 &deg; Panoramas</a></td></tr>
+        <tr><td><a href="">Panoramic Web</a></td></tr>
+        <tr><td><a href="">Shortcuts</a></td></tr>
+        <tr><td><a href="">Image Services</a></td></tr>
+        </table><p>
+
+       Click <a href=javascript:void(0) onclick="panorama();">&#x25CF here </a>
+       to start panoramic motion.
+        
+   <div class="footer">
+        repba.image.services
+  </div>
+</div>
+
+
+
 

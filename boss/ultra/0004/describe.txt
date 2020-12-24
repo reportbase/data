@@ -1,6 +1,5 @@
 <div class="media">
   <div class="title">
-    Panoramic Video
   </div>
   <div class="content">
     Convert standard videos into panoramic video.<p><br>
@@ -16,7 +15,7 @@
     <a href=javascript:void(0) onclick="slower();">Slower </a> 
     <a href=javascript:void(0) onclick="faster();">Faster </a>
    <div class="footer">
-        Panoramic Image Viewer 
+        repba.image.services 
   </div>
 </div>
 

@@ -1,23 +1,10 @@
 <div class="media">
   <div class="title">
-    Panoramic Web
+    Motion Pictures
   </div>
   <div class="content">
-    Add panoramic motion to web pages.<p><br>
-
-    Panoramas can interact<br>
-    with the hosting page.<p>
-
-       Click <a href=javascript:void(0) onclick="panorama();">&#x25CF here </a>
-       to start <br>panoramic motion.<p>
-
-    <a href=javascript:void(0) onclick="pageup();">Previous </a> 
-    <a href=javascript:void(0) onclick="pagedown();">Next </a> <br>
-    <a href=javascript:void(0) onclick="zoom();">Zoom </a> 
-    <a href=javascript:void(0) onclick="slower();">Slower </a> 
-    <a href=javascript:void(0) onclick="faster();">Faster </a>
-   <div class="footer">
-        Panoramic Image Viewer 
+     <div class="footer">
+       repba.image.services 
   </div>
 </div>
 
