@@ -1,0 +1,22 @@
+<div class="media">
+  <div class="title">
+   Motion Pictures 
+  </div>
+  <div class="content">
+    <a style="background-color:white; focus: orange; hover: orange" 
+        target="ifr" href="/?p=boss/poke&k=0005&a=1">Disney </a><p>
+
+    <a href=javascript:void(0) onclick="pageup();">Previous </a> 
+    <a href=javascript:void(0) onclick="pagedown();">Next </a> <br>
+    <a href=javascript:void(0) onclick="zoom();">Zoom </a> 
+    <a href=javascript:void(0) onclick="slower();">Slower </a> 
+    <a href=javascript:void(0) onclick="faster();">Faster </a>
+
+    <div class="footer">
+        <a href=javascript:void(0) onclick="">repba.image.services</a>
+    </div>
+</div>
+
+
+
+

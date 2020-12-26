@@ -1,0 +1,56 @@
+<div class="media">
+    <div class="title">
+        Filmstrips 
+    </div>
+  
+    <div class="content">
+        <a target="ifr" href="/?p=boss/peek&k=0000&a=2&f=1">00 </a> / 
+        <a target="ifr" href="/?p=boss/peek&k=0001&a=2&f=1">01 </a> / 
+        <a target="ifr" href="/?p=boss/peek&k=0002&a=2&f=1">02 </a> /
+        <a target="ifr" href="/?p=boss/peek&k=0003&a=2&f=1">03 </a> /
+        <a target="ifr" href="/?p=boss/peek&k=0004&a=2&f=1">04 </a> /
+        <a target="ifr" href="/?p=boss/peek&k=0005&a=2&f=1">05 </a> /
+        <a target="ifr" href="/?p=boss/peek&k=0006&a=2&f=1">06 </a> /
+        <a target="ifr" href="/?p=boss/peek&k=0007&a=2&f=1">07 </a> /
+        <a target="ifr" href="/?p=boss/peek&k=0008&a=2&f=1">08 </a> /
+        <a target="ifr" href="/?p=boss/peek&k=0009&a=2&f=1">09 </a> /
+        <a target="ifr" href="/?p=boss/peek&k=0010&a=2&f=1">10 </a> /
+        <a target="ifr" href="/?p=boss/peek&k=0011&a=2&f=1">11 </a> /
+        <a target="ifr" href="/?p=boss/peek&k=0012&a=2&f=1">12 </a> /
+        <a target="ifr" href="/?p=boss/peek&k=0013&a=2&f=1">13 </a> /
+ 
+        <a target="ifr" href="/?p=boss/sports&k=0000&a=2&f=1">14 </a> / 
+        <a target="ifr" href="/?p=boss/sports&k=0001&a=2&f=1">15 </a> /
+        <a target="ifr" href="/?p=boss/sports&k=0002&a=2&f=1">16 </a> /
+        <a target="ifr" href="/?p=boss/sports&k=0003&a=2&f=1">17 </a> /
+        <a target="ifr" href="/?p=boss/sports&k=0004&a=2&f=1">18 </a> /
+
+        <a target="ifr" href="/?p=boss/city&k=0000&a=2&f=1">19 </a> /
+        <a target="ifr" href="/?p=boss/city&k=0001&a=2&f=1">20 </a> /
+        <a target="ifr" href="/?p=boss/city&k=0002&a=2&f=1">21 </a> /
+        <a target="ifr" href="/?p=boss/city&k=0003&a=2&f=1">22 </a> /
+        <a target="ifr" href="/?p=boss/city&k=0004&a=2&f=1">23 </a> /
+     
+        <a target="ifr" href="/?p=boss/express&k=0000&a=2&f=1">24 </a> / 
+        <a target="ifr" href="/?p=boss/express&k=0001&a=2&f=1">25 </a> /
+        <a target="ifr" href="/?p=boss/express&k=0002&a=2&f=1">26 </a> /
+        <a target="ifr" href="/?p=boss/express&k=0003&a=2&f=1">27 </a> /
+        <a target="ifr" href="/?p=boss/express&k=0004&a=2&f=1">28 </a> /
+        <a target="ifr" href="/?p=boss/express&k=0005&a=2&f=1">29 </a> 
+        
+        <p><p>
+      
+        <a href=javascript:void(0) onclick="panorama();">Panorama </a> / 
+        <a href=javascript:void(0) onclick="slideshow();">Slideshow </a> / 
+        <a href=javascript:void(0) onclick="filmstrip();">Filmstrip </a><br>
+        <a href=javascript:void(0) onclick="zoom();">Zoom </a> /
+        <a href=javascript:void(0) onclick="slower();">Slower </a> /
+        <a href=javascript:void(0) onclick="faster();">Faster </a>
+    </div>
+
+    <div class="footer">
+        <a href=javascript:void(0) onclick="goservices()">repba.image.services</a>
+    </div>
+</div>
+
+

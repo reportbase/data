@@ -1,0 +1,77 @@
+<div class="media">
+    <div class="title">
+        Panoramas 
+    </div>
+  
+    <div class="content">
+        <a target="ifr" href="/?p=boss/poke&k=0000&a=1&f=1">00 </a> /
+        <a target="ifr" href="/?p=boss/poke&k=0001&a=1&f=1">01 </a> /
+        <a target="ifr" href="/?p=boss/poke&k=0002&a=1&f=1">02 </a> /
+        <a target="ifr" href="/?p=boss/poke&k=0003&a=1&f=1">03 </a> /
+        <a target="ifr" href="/?p=boss/poke&k=0004&a=1&f=1">04 </a> /
+        <a target="ifr" href="/?p=boss/poke&k=0005&a=1&f=1">05 </a> /
+        
+        <a target="ifr" href="/?p=boss/scapes&k=0000&a=1&f=1">06 </a> /
+        <a target="ifr" href="/?p=boss/scapes&k=0001&a=1&f=1">07 </a> /
+        <a target="ifr" href="/?p=boss/scapes&k=0002&a=1&f=1">08 </a> /
+        <a target="ifr" href="/?p=boss/scapes&k=0003&a=1&f=1">09 </a> /
+        <a target="ifr" href="/?p=boss/scapes&k=0004&a=1&f=1">10 </a> /
+        <a target="ifr" href="/?p=boss/scapes&k=0005&a=1&f=1">11 </a> /
+        <a target="ifr" href="/?p=boss/scapes&k=0006&a=1&f=1">12 </a> /
+        <a target="ifr" href="/?p=boss/scapes&k=0007&a=1&f=1">13 </a> /
+        <a target="ifr" href="/?p=boss/scapes&k=0008&a=1&f=1">14 </a> /
+        <a target="ifr" href="/?p=boss/scapes&k=0009&a=1&f=1">15 </a> /
+        <a target="ifr" href="/?p=boss/scapes&k=0010&a=1&f=1">16 </a> /
+        <a target="ifr" href="/?p=boss/scapes&k=0011&a=1&f=1">17 </a> /
+        <a target="ifr" href="/?p=boss/scapes&k=0012&a=1&f=1">18 </a> /
+        <a target="ifr" href="/?p=boss/scapes&k=0013&a=1&f=1">19 </a> /
+        <a target="ifr" href="/?p=boss/scapes&k=0014&a=1&f=1">20 </a> /
+        <a target="ifr" href="/?p=boss/scapes&k=0015&a=1&f=1">21 </a> /
+        <a target="ifr" href="/?p=boss/scapes&k=0016&a=1&f=1">22 </a> /
+        <a target="ifr" href="/?p=boss/scapes&k=0017&a=1&f=1">23 </a> /
+        <a target="ifr" href="/?p=boss/scapes&k=0018&a=1&f=1">24 </a> /
+        <a target="ifr" href="/?p=boss/scapes&k=0019&a=1&f=1">25 </a> /
+        <a target="ifr" href="/?p=boss/scapes&k=0020&a=1&f=1">26 </a> /
+        <a target="ifr" href="/?p=boss/scapes&k=0021&a=1&f=1">27 </a> /
+        <a target="ifr" href="/?p=boss/scapes&k=0022&a=1&f=1">28 </a> /
+        <a target="ifr" href="/?p=boss/scapes&k=0023&a=1&f=1">29 </a> /
+        
+        <a target="ifr" href="/?p=boss/life&k=0000&a=1&f=1">30 </a> /
+        <a target="ifr" href="/?p=boss/life&k=0001&a=1&f=1">31 </a> /
+        <a target="ifr" href="/?p=boss/life&k=0002&a=1&f=1">32 </a> /
+        <a target="ifr" href="/?p=boss/life&k=0003&a=1&f=1">33 </a> /
+        <a target="ifr" href="/?p=boss/life&k=0004&a=1&f=1">34 </a> /
+        <a target="ifr" href="/?p=boss/life&k=0005&a=1&f=1">35 </a> /
+ 
+        <a target="ifr" href="/?p=boss/interior&k=0000&a=1&f=1">36 </a> /
+        <a target="ifr" href="/?p=boss/interior&k=0001&a=1&f=1">37 </a> /
+        <a target="ifr" href="/?p=boss/interior&k=0002&a=1&f=1">38 </a> /
+        <a target="ifr" href="/?p=boss/interior&k=0003&a=1&f=1">39 </a> /
+        <a target="ifr" href="/?p=boss/interior&k=0004&a=1&f=1">40 </a> /
+        <a target="ifr" href="/?p=boss/interior&k=0005&a=1&f=1">41 </a> /
+ 
+        <a target="ifr" href="/?p=boss/combat&k=0000&a=1&f=1">36 </a> /
+        <a target="ifr" href="/?p=boss/combat&k=0001&a=1&f=1">37 </a> /
+        <a target="ifr" href="/?p=boss/combat&k=0002&a=1&f=1">38 </a> /
+        <a target="ifr" href="/?p=boss/combat&k=0003&a=1&f=1">39 </a> /
+        <a target="ifr" href="/?p=boss/combat&k=0004&a=1&f=1">40 </a> /
+        <a target="ifr" href="/?p=boss/combat&k=0005&a=1&f=1">41 </a> /
+
+        <p><p>
+
+        <a href=javascript:void(0) onclick="panorama();">Panorama </a> / 
+        <a href=javascript:void(0) onclick="slideshow();">Slideshow </a> / 
+        <a href=javascript:void(0) onclick="filmstrip();">Filmstrip </a><br>
+        <a href=javascript:void(0) onclick="zoom();">Zoom </a> /
+        <a href=javascript:void(0) onclick="slower();">Slower </a> /
+        <a href=javascript:void(0) onclick="faster();">Faster </a>
+    </div>
+
+    <div class="footer">
+        <a href=javascript:void(0) onclick="goservices()">repba.image.services</a>
+    </div>
+</div>
+
+
+
+

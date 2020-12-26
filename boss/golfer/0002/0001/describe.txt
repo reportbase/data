@@ -1,0 +1,55 @@
+<div class="media">
+    <div class="title">
+        Motion Pictures 
+    </div>
+
+    <div class="content">
+        <a target="ifr" href="/?p=boss/golfer/0000&k=0000&a=2&f=1">00 </a> /
+        <a target="ifr" href="/?p=boss/golfer/0000&k=0001&a=2&f=1">01 </a> /
+        <a target="ifr" href="/?p=boss/golfer/0000&k=0002&a=2&f=1">02 </a> /
+        <a target="ifr" href="/?p=boss/golfer/0000&k=0003&a=2&f=1">03 </a> /
+        <a target="ifr" href="/?p=boss/golfer/0000&k=0004&a=2&f=1">04 </a> /
+
+        <a target="ifr" href="/?p=boss/golfer/0001&k=0000&a=2&f=1">05 </a> /
+        <a target="ifr" href="/?p=boss/golfer/0001&k=0001&a=2&f=1">06 </a> /
+        <a target="ifr" href="/?p=boss/golfer/0001&k=0002&a=2&f=1">07 </a> /
+        <a target="ifr" href="/?p=boss/golfer/0001&k=0003&a=2&f=1">08 </a> /
+        <a target="ifr" href="/?p=boss/golfer/0001&k=0004&a=2&f=1">09 </a> /
+
+        <a target="ifr" href="/?p=boss/golfer/0002&k=0000&a=2&f=1">10 </a> /
+        <a target="ifr" href="/?p=boss/golfer/0002&k=0001&a=2&f=1">11 </a> /
+        <a target="ifr" href="/?p=boss/golfer/0002&k=0002&a=2&f=1">12 </a> /
+        <a target="ifr" href="/?p=boss/golfer/0002&k=0003&a=2&f=1">13 </a> /
+        <a target="ifr" href="/?p=boss/golfer/0002&k=0004&a=2&f=1">14 </a> /
+
+        <a target="ifr" href="/?p=boss/golfer/0003&k=0000&a=2&f=1">15 </a> /
+        <a target="ifr" href="/?p=boss/golfer/0003&k=0001&a=2&f=1">16 </a> /
+        <a target="ifr" href="/?p=boss/golfer/0003&k=0002&a=2&f=1">17 </a> /
+        <a target="ifr" href="/?p=boss/golfer/0003&k=0003&a=2&f=1">18 </a> /
+        <a target="ifr" href="/?p=boss/golfer/0003&k=0004&a=2&f=1">19 </a> /
+
+        <a target="ifr" href="/?p=boss/golfer/0004&k=0000&a=2&f=1">20 </a> /
+        <a target="ifr" href="/?p=boss/golfer/0004&k=0001&a=2&f=1">21 </a> /
+        <a target="ifr" href="/?p=boss/golfer/0004&k=0002&a=2&f=1">22 </a> /
+        <a target="ifr" href="/?p=boss/golfer/0004&k=0003&a=2&f=1">23 </a> /
+        <a target="ifr" href="/?p=boss/golfer/0004&k=0004&a=2&f=1">24 </a> /
+
+        <p><p>
+
+        <a href=javascript:void(0) onclick="panorama();">Panorama </a> / 
+        <a href=javascript:void(0) onclick="slideshow();">Slideshow </a> / 
+        <a href=javascript:void(0) onclick="filmstrip();">Filmstrip </a><br>
+        <a href=javascript:void(0) onclick="zoom();">Zoom </a> /
+        <a href=javascript:void(0) onclick="slower();">Slower </a> /
+        <a href=javascript:void(0) onclick="faster();">Faster </a>
+    </div>
+
+    <div class="footer">
+        <a href=javascript:void(0) onclick="goservices()">repba.image.services</a>
+    </div>
+</div>
+
+
+
+
+

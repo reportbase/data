@@ -1,0 +1,29 @@
+<div class="media">
+    <div class="title">
+        Slideshows 
+    </div>
+  
+    <div class="content">
+        <a target="ifr" href="/?p=boss/ultra/0001&k=0001&a=2&quiet=1">00 </a> /
+        <a target="ifr" href="/?p=boss/ultra/0001&k=0002&a=2&quiet=1">01 </a> /
+        <a target="ifr" href="/?p=boss/ultra/0001&k=0004&a=2&quiet=1">02 </a> /
+        <a target="ifr" href="/?p=boss/ultra/0001&k=0005&a=2&quiet=1">03 </a> /
+        <a target="ifr" href="/?p=boss/ultra/0001&k=0006&a=2&quiet=1">04 </a> /
+        <a target="ifr" href="/?p=boss/ultra/0001&k=0007&a=2&quiet=1">05 </a> 
+        
+        <p><p>
+
+        <a href=javascript:void(0) onclick="panorama();">Panorama </a> / 
+        <a href=javascript:void(0) onclick="slideshow();">Slideshow </a> / 
+        <a href=javascript:void(0) onclick="filmstrip();">Filmstrip </a><br>
+        <a href=javascript:void(0) onclick="zoom();">Zoom </a> /
+        <a href=javascript:void(0) onclick="slower();">Slower </a> /
+        <a href=javascript:void(0) onclick="faster();">Faster </a>
+    </div>
+
+    <div class="footer">
+        <a href=javascript:void(0) onclick="goservices()">repba.image.services</a>
+    </div>
+</div>
+
+

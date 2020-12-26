@@ -1,0 +1,32 @@
+<div class="media">
+  <div class="title">
+       Repba Image Services
+  </div>
+  <div class="content">
+
+       Hosted application services for <br>
+       hierarchical image browsing.<p><br>
+       
+        Full screen panoramic images <br>
+        without distraction.<p>
+
+       Image Browsing Modes:<br>
+        <a href=javascript:void(0) onclick="gofilmstrip()">Filmstrip</a><br>
+        <a href=javascript:void(0) onclick="goslideshow()">Slideshow</a><br>
+        <a href=javascript:void(0) onclick="gopanorama()">Panorama</a><p>
+
+       Advanced Features:<br>
+        <a href=javascript:void(0) onclick="gomotion()">Motion Picture</a><br>
+        <a href=javascript:void(0) onclick="go360()">360 &deg; Panorama</a><p>
+     
+       Click <a href=javascript:void(0) onclick="goservices();">&#x25CF here </a>
+       for more information<br>about repba.image.services.
+  
+   <div class="footer">
+        <a href=javascript:void(0) onclick="goservices()">repba.image.services</a>
+  </div>
+</div>
+
+
+
+
