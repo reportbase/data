@@ -34,20 +34,23 @@
         <a target="ifr" href="/?p=boss/golfer/0004&k=0003&a=2&f=1">23 </a> /
         <a target="ifr" href="/?p=boss/golfer/0004&k=0004&a=2&f=1">24 </a> /
 
-        <p><p>
-
-        <a href=javascript:void(0) onclick="panorama();">Panorama </a> / 
-        <a href=javascript:void(0) onclick="slideshow();">Slideshow </a> / 
-        <a href=javascript:void(0) onclick="filmstrip();">Filmstrip </a><br>
-        <a href=javascript:void(0) onclick="zoom();">Zoom </a> /
-        <a href=javascript:void(0) onclick="slower();">Slower </a> /
-        <a href=javascript:void(0) onclick="faster();">Faster </a>
     </div>
 
     <div class="footer">
         <a href=javascript:void(0) onclick="goservices()">repba.image.services</a>
     </div>
 </div>
+
+<a href=/?p=boss/wide&a=1 target="_blank"><img src=/data/boss/wide/0000/0180.0220.gif></a>
+<a href=/?p=boss/tall&a=1 target="_blank"><img src=/data/boss/tall/0000/0180.0220.gif></a>
+<a href=/?p=boss/abstract&a=1 target="_blank"><img src=/data/boss/abstract/0000/0180.0220.gif></a>
+<a href=/?p=boss/assort&a=1 target="_blank"><img src=/data/boss/assort/0000/0180.0220.gif></a>
+<a href=/?p=boss/peek&a=1 target="_blank"><img src=/data/boss/peek/0000/0180.0220.gif></a>
+<a href=/?p=boss/sport&a=1 target="_blank"><img src=/data/boss/sports/0000/0180.0220.gif></a>
+<a href=/?p=boss/express&a=1 target="_blank"><img src=/data/boss/express/0000/0180.0220.gif></a>
+<a href=/?p=boss/covers&a=1 target="_blank"><img src=/data/boss/covers/0000/0180.0220.gif></a>
+
+
 
 
 

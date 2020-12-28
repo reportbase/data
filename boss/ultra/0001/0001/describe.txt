@@ -6,24 +6,30 @@
     <div class="content">
         <a target="ifr" href="/?p=boss/ultra/0001&k=0001&a=2&quiet=1">00 </a> /
         <a target="ifr" href="/?p=boss/ultra/0001&k=0002&a=2&quiet=1">01 </a> /
-        <a target="ifr" href="/?p=boss/ultra/0001&k=0004&a=2&quiet=1">02 </a> /
-        <a target="ifr" href="/?p=boss/ultra/0001&k=0005&a=2&quiet=1">03 </a> /
-        <a target="ifr" href="/?p=boss/ultra/0001&k=0006&a=2&quiet=1">04 </a> /
-        <a target="ifr" href="/?p=boss/ultra/0001&k=0007&a=2&quiet=1">05 </a> 
+        <a target="ifr" href="/?p=boss/ultra/0001&k=0003&a=2&quiet=1">02 </a> /
+        <a target="ifr" href="/?p=boss/ultra/0001&k=0004&a=2&quiet=1">03 </a> /
+        <a target="ifr" href="/?p=boss/ultra/0001&k=0005&a=2&quiet=1">04 </a> /
+        <a target="ifr" href="/?p=boss/ultra/0001&k=0006&a=2&quiet=1">05 </a> /
+        <a target="ifr" href="/?p=boss/ultra/0001&k=0007&a=2&quiet=1">06 </a> /
         
-        <p><p>
-
-        <a href=javascript:void(0) onclick="panorama();">Panorama </a> / 
-        <a href=javascript:void(0) onclick="slideshow();">Slideshow </a> / 
-        <a href=javascript:void(0) onclick="filmstrip();">Filmstrip </a><br>
-        <a href=javascript:void(0) onclick="zoom();">Zoom </a> /
-        <a href=javascript:void(0) onclick="slower();">Slower </a> /
-        <a href=javascript:void(0) onclick="faster();">Faster </a>
+        <a target="ifr" href="/?p=boss/xultra&k=0000&a=2">07 </a> /
+        <a target="ifr" href="/?p=boss/xultra&k=0001&a=2">08 </a> /
+        <a target="ifr" href="/?p=boss/xultra&k=0002&a=2">09 </a> 
+       
     </div>
 
     <div class="footer">
         <a href=javascript:void(0) onclick="goservices()">repba.image.services</a>
     </div>
 </div>
+
+<a href=/?p=boss/wide&a=1 target="_blank"><img src=/data/boss/wide/0000/0180.0220.gif></a>
+<a href=/?p=boss/tall&a=1 target="_blank"><img src=/data/boss/tall/0000/0180.0220.gif></a>
+<a href=/?p=boss/abstract&a=1 target="_blank"><img src=/data/boss/abstract/0000/0180.0220.gif></a>
+<a href=/?p=boss/assort&a=1 target="_blank"><img src=/data/boss/assort/0000/0180.0220.gif></a>
+<a href=/?p=boss/peek&a=1 target="_blank"><img src=/data/boss/peek/0000/0180.0220.gif></a>
+<a href=/?p=boss/sport&a=1 target="_blank"><img src=/data/boss/sports/0000/0180.0220.gif></a>
+<a href=/?p=boss/express&a=1 target="_blank"><img src=/data/boss/express/0000/0180.0220.gif></a>
+<a href=/?p=boss/covers&a=1 target="_blank"><img src=/data/boss/covers/0000/0180.0220.gif></a>
 
 
