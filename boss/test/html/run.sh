@@ -1,2 +1,0 @@
-html.sh
-links.sh

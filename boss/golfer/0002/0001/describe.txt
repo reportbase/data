@@ -4,51 +4,18 @@
     </div>
 
     <div class="content">
-        <a target="ifr" href="/?p=boss/golfer/0000&k=0000&a=2&f=1">00 </a> /
-        <a target="ifr" href="/?p=boss/golfer/0000&k=0001&a=2&f=1">01 </a> /
-        <a target="ifr" href="/?p=boss/golfer/0000&k=0002&a=2&f=1">02 </a> /
-        <a target="ifr" href="/?p=boss/golfer/0000&k=0003&a=2&f=1">03 </a> /
-        <a target="ifr" href="/?p=boss/golfer/0000&k=0004&a=2&f=1">04 </a> /
 
-        <a target="ifr" href="/?p=boss/golfer/0001&k=0000&a=2&f=1">05 </a> /
-        <a target="ifr" href="/?p=boss/golfer/0001&k=0001&a=2&f=1">06 </a> /
-        <a target="ifr" href="/?p=boss/golfer/0001&k=0002&a=2&f=1">07 </a> /
-        <a target="ifr" href="/?p=boss/golfer/0001&k=0003&a=2&f=1">08 </a> /
-        <a target="ifr" href="/?p=boss/golfer/0001&k=0004&a=2&f=1">09 </a> /
-
-        <a target="ifr" href="/?p=boss/golfer/0002&k=0000&a=2&f=1">10 </a> /
-        <a target="ifr" href="/?p=boss/golfer/0002&k=0001&a=2&f=1">11 </a> /
-        <a target="ifr" href="/?p=boss/golfer/0002&k=0002&a=2&f=1">12 </a> /
-        <a target="ifr" href="/?p=boss/golfer/0002&k=0003&a=2&f=1">13 </a> /
-        <a target="ifr" href="/?p=boss/golfer/0002&k=0004&a=2&f=1">14 </a> /
-
-        <a target="ifr" href="/?p=boss/golfer/0003&k=0000&a=2&f=1">15 </a> /
-        <a target="ifr" href="/?p=boss/golfer/0003&k=0001&a=2&f=1">16 </a> /
-        <a target="ifr" href="/?p=boss/golfer/0003&k=0002&a=2&f=1">17 </a> /
-        <a target="ifr" href="/?p=boss/golfer/0003&k=0003&a=2&f=1">18 </a> /
-        <a target="ifr" href="/?p=boss/golfer/0003&k=0004&a=2&f=1">19 </a> /
-
-        <a target="ifr" href="/?p=boss/golfer/0004&k=0000&a=2&f=1">20 </a> /
-        <a target="ifr" href="/?p=boss/golfer/0004&k=0001&a=2&f=1">21 </a> /
-        <a target="ifr" href="/?p=boss/golfer/0004&k=0002&a=2&f=1">22 </a> /
-        <a target="ifr" href="/?p=boss/golfer/0004&k=0003&a=2&f=1">23 </a> /
-        <a target="ifr" href="/?p=boss/golfer/0004&k=0004&a=2&f=1">24 </a> /
-
-    </div>
+        Frame images are extracted from customer videos to define 
+        REPBA motion pictures. Benefits include fast access, menu selection, 
+        speed control, frame number display, continuous playing, and zooming.  
+        After full page selection for the above 4K, 60fps golfer, refer to the 
+        command menu help button for user interaction controls. Click to watch 
+        the ball move slightly off the tee. Click the top left menu to try other swings.<p> 
 
     <div class="footer">
         <a href=javascript:void(0) onclick="goservices()">repba.image.services</a>
     </div>
 </div>
-
-<a href=/?p=boss/wide&a=1 target="_blank"><img src=/data/boss/wide/0000/0180.0220.gif></a>
-<a href=/?p=boss/tall&a=1 target="_blank"><img src=/data/boss/tall/0000/0180.0220.gif></a>
-<a href=/?p=boss/abstract&a=1 target="_blank"><img src=/data/boss/abstract/0000/0180.0220.gif></a>
-<a href=/?p=boss/assort&a=1 target="_blank"><img src=/data/boss/assort/0000/0180.0220.gif></a>
-<a href=/?p=boss/peek&a=1 target="_blank"><img src=/data/boss/peek/0000/0180.0220.gif></a>
-<a href=/?p=boss/sport&a=1 target="_blank"><img src=/data/boss/sports/0000/0180.0220.gif></a>
-<a href=/?p=boss/express&a=1 target="_blank"><img src=/data/boss/express/0000/0180.0220.gif></a>
-<a href=/?p=boss/covers&a=1 target="_blank"><img src=/data/boss/covers/0000/0180.0220.gif></a>
 
 
 

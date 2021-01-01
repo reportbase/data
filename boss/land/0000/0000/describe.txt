@@ -4,6 +4,15 @@
     </div>
     
     <div class="content">
+        The repba image viewer is an excellent tool to view 360 degree images.   
+        This is accomplished by using the panoramic or filmstrip viewing options.   
+        Each panorama or filmstrip automated view shows a portion of the overall 360 
+        degree image typically 8-12 images.  The image can also be viewed manually using 
+        panning, cursor depress, or clicking right/leff side of screen to move forward/reverse 
+        one image. Select one of the 360 images links below and then select 
+        full screen view of the above iFrame view to 
+        display the 360 degree images in various automated and manual ways. <br><p>
+
         <a target="ifr" href="/?p=boss/land/0000&k=0000&a=1">00 </a> /
 
         <a target="ifr" href="/?p=boss/land/0001&k=0000&a=1">01 </a> /
@@ -82,16 +91,6 @@
         <a href=javascript:void(0) onclick="goservices()">repba.image.services</a>
     </div>
 </div>
-
-<a href=/?p=boss/wide&a=1 target="_blank"><img src=/data/boss/wide/0000/0180.0220.gif></a>
-<a href=/?p=boss/tall&a=1 target="_blank"><img src=/data/boss/tall/0000/0180.0220.gif></a>
-<a href=/?p=boss/abstract&a=1 target="_blank"><img src=/data/boss/abstract/0000/0180.0220.gif></a>
-<a href=/?p=boss/assort&a=1 target="_blank"><img src=/data/boss/assort/0000/0180.0220.gif></a>
-<a href=/?p=boss/peek&a=1 target="_blank"><img src=/data/boss/peek/0000/0180.0220.gif></a>
-<a href=/?p=boss/sport&a=1 target="_blank"><img src=/data/boss/sports/0000/0180.0220.gif></a>
-<a href=/?p=boss/express&a=1 target="_blank"><img src=/data/boss/express/0000/0180.0220.gif></a>
-<a href=/?p=boss/covers&a=1 target="_blank"><img src=/data/boss/covers/0000/0180.0220.gif></a>
-
 
 
 

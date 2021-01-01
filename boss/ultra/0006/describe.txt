@@ -1,0 +1,44 @@
+<div class="media">
+    <div class="title">
+        Services
+    </div>
+    <div class="content">
+   
+        Engage repba at support@repba.com for proposals, quotes, 
+        pricing and payments. Free image group deployment based on estimated 
+        price is offered for a limited time. Invoicing will occur when 
+        customer accepts their online repba url image and menu presentation.<p><br>
+
+        <U>SlideShow Pricing</U><br> Deployment of a non-menu image slideshow 
+        with up to 180 images in multiples of 18 portrait or 9 landscape 
+        images as accessed by a single browser url. Perfect for 
+        weddings, birthdays, or special events.<p>
+
+        <U>Fixed Pricing</U><br> Deploy image group for browser url access with 
+        menu select-able sub-groups. The customer provides an image group 
+        worksheet that defines the image group menu and deployment parameters. 
+        Price is based on the number of images and duration of hosting.<p>
+
+        <U>Variable Monthly Pricing</U><br> Deployment of variable number of image 
+        group images accessed by single url with menu select-able sub-groups 
+        and nested sub-groups. An image group worksheet is provided to the 
+        REPBA team to define the image group menus and deployment parameters. 
+        End monthly invoices will occur for image group active images.<p>
+
+        <U>Demo Pricing</U><br>Deployment of one image group with up to 5 
+        images in each sub-group for a 1-week online evaluation 
+        access. Free to new customers.<p>
+
+        <U>Motion Picture Gallery</U><br> Deployment of menu controlled access 
+        to multiple people each with multiple motion videos using single url access.<p>
+
+        <U>Custom Pricing</U><br> Custom unique service with special pricing. 
+        Adding sub-groups, images, or renewals may also be facilitated by this 
+        service. Send email to support@repba.com to request specific custom pricing.<p> 
+
+    </div>
+    <div class="footer">
+        repba.image.services
+    </div>
+</div>
+

@@ -1,0 +1,40 @@
+<div class="media">
+    <div class="title">
+         Animations 
+    </div>
+  
+    <div class="content">
+        <a target="ifr" href="/?p=yoll/0003&k=0000&a=1&f=1">00</a> /
+        <a target="ifr" href="/?p=yoll/0003&k=0001&a=1&f=1">01</a> /
+        <a target="ifr" href="/?p=yoll/0003&k=0002&a=1&f=1">02</a> /
+        <a target="ifr" href="/?p=yoll/0003&k=0003&a=1&f=1">03</a> /
+        <a target="ifr" href="/?p=yoll/0003&k=0004&a=1&f=1">04</a> /
+        <a target="ifr" href="/?p=yoll/0003&k=0005&a=1&f=1">05</a> /
+        <a target="ifr" href="/?p=yoll/0003&k=0006&a=1&f=1">06</a> /
+        <a target="ifr" href="/?p=yoll/0003&k=0007&a=1&f=1">07</a> /
+        <a target="ifr" href="/?p=yoll/0003&k=0008&a=1&f=1">08</a> /
+        <a target="ifr" href="/?p=yoll/0003&k=0009&a=1&f=1">09</a> /
+        <a target="ifr" href="/?p=yoll/0003&k=0010&a=1&f=1">10</a> /
+        <a target="ifr" href="/?p=yoll/0003&k=0011&a=1&f=1">11</a> /
+        <a target="ifr" href="/?p=yoll/0003&k=0012&a=1&f=1">12</a> /
+        <a target="ifr" href="/?p=yoll/0003&k=0013&a=1&f=1">13</a> /
+  
+    </div>
+
+    <div class="footer">
+        <a href=javascript:void(0) onclick="goservices()">repba.image.services</a>
+    </div>
+</div>
+
+<a href=/?p=boss/king&a=1&k=0009 target="_blank"><img src=/data/boss/king/0009/0180.0220.gif></a>
+<a href=/?p=boss/king&a=1&k=0011 target="_blank"><img src=/data/boss/king/0011/0180.0220.gif></a>
+<a href=/?p=boss/king&a=1&k=0007 target="_blank"><img src=/data/boss/king/0007/0180.0220.gif></a>
+<a href=/?p=boss/king&a=1&k=0005 target="_blank"><img src=/data/boss/king/0005/0180.0220.gif></a>
+<a href=/?p=boss/king&a=1&k=0002 target="_blank"><img src=/data/boss/king/0002/0180.0220.gif></a>
+<a href=/?p=boss/king&a=1&k=0013 target="_blank"><img src=/data/boss/king/0013/0180.0220.gif></a>
+<a href=/?p=boss/king&a=1&k=0003 target="_blank"><img src=/data/boss/king/0003/0180.0220.gif></a>
+<a href=/?p=boss/king&a=1&k=0004 target="_blank"><img src=/data/boss/king/0004/0180.0220.gif></a>
+
+
+
+
