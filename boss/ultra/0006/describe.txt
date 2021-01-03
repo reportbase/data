@@ -4,24 +4,23 @@
     </div>
     <div class="content">
    
-        Engage repba at support@repba.com for proposals, quotes, 
-        pricing and payments. Free image group deployment based on estimated 
-        price is offered for a limited time. Invoicing will occur when 
-        customer accepts their online repba url image and menu presentation.<p><br>
+        Contact support@repba.com for proposals, quotes, 
+        and pricing. Free image group deployment is offered  
+        for a limited time. Invoicing will occur when 
+        customer accepts their online Repba url image and menu presentation.<p><br>
 
         <U>SlideShow Pricing</U><br> Deployment of a non-menu image slideshow 
-        with up to 180 images in multiples of 18 portrait or 9 landscape 
+        with up to 144 images.
         images as accessed by a single browser url. Perfect for 
         weddings, birthdays, or special events.<p>
 
         <U>Fixed Pricing</U><br> Deploy image group for browser url access with 
-        menu select-able sub-groups. The customer provides an image group 
-        worksheet that defines the image group menu and deployment parameters. 
+        menu selectable subgroups. 
         Price is based on the number of images and duration of hosting.<p>
 
         <U>Variable Monthly Pricing</U><br> Deployment of variable number of image 
-        group images accessed by single url with menu select-able sub-groups 
-        and nested sub-groups. An image group worksheet is provided to the 
+        group images accessed by single url with menu selectable subgroups 
+        and nested subgroups. An image group worksheet is provided to the 
         REPBA team to define the image group menus and deployment parameters. 
         End monthly invoices will occur for image group active images.<p>
 
@@ -33,7 +32,7 @@
         to multiple people each with multiple motion videos using single url access.<p>
 
         <U>Custom Pricing</U><br> Custom unique service with special pricing. 
-        Adding sub-groups, images, or renewals may also be facilitated by this 
+        Adding subgroups, images, or renewals may also be facilitated by this 
         service. Send email to support@repba.com to request specific custom pricing.<p> 
 
     </div>

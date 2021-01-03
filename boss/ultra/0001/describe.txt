@@ -1,25 +1,26 @@
 <div class="media">
     <div class="title">
-        Slideshow Examples
+        RepbaViewer 
     </div>
   
     <div class="content">
 
-        Portrait slideshows are center rotated.
-        Landscape slideshows are panoramically rotated.
-        The rotation motion can be reversed 
-        in the full screen command menu.<p><br>
-
-        Slideshows examples, sorted by image size follow.<p>
-
-        640x1080 0.592<br> 
-        <a target="ifr" href="/?p=boss/posters&k=0000&a=2&f=1">01</a> /
-        <a target="ifr" href="/?p=boss/posters&k=0001&a=2&f=1">02</a> /
-        <a target="ifr" href="/?p=boss/posters&k=0002&a=2&f=1">03</a> /
-        <a target="ifr" href="/?p=boss/posters&k=0003&a=2&f=1">04</a> /
-        <a target="ifr" href="/?p=boss/posters&k=0004&a=2&f=1">05</a> /
-        <a target="ifr" href="/?p=boss/posters&k=0005&a=2&f=1">06</a> <p>
+        The RepbaViewer is a full screen height image viewer for panoramic slideshows.  
+        It creates panoramas from collections of 
+        portrait and landscape images.  
+        When multiple images are visible, typical for portrait
+        images on a wide screen device, the panorama can be framed 
+        to focus the viewers attention on a single image. For
+        non IOS devices, a full screen presentation is ideal. Full
+        screen presentations disable the menus and toolboars and provide
+        the best possibe image viewing experience on mobile devices.<p><br>
         
+        The following is a list of example panoramas,
+        sorted by image size.<p>
+
+        After selecting a panorama, tap 
+        the bottom toolbar on the top image to enable the full screen view.<p>
+
         960x1080 0.888<br>
         <a target="ifr" href="/?p=boss/assort&k=0000&a=2&f=1">01</a> /
         <a target="ifr" href="/?p=boss/assort&k=0001&a=2&f=1">02</a> /

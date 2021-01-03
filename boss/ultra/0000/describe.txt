@@ -5,45 +5,34 @@
   <div class="content">
 
        Hosted application services for <br>
-       full screen image slideshows. <p><br>
-
-       Slideshow Demos<br>
-        <a target="ifr" href="/?p=boss/peek&k=0001&a=2&f=1">01</a> /
-        <a target="ifr" href="/?p=boss/peek&k=0002&a=2&f=1">02</a> /
-        <a target="ifr" href="/?p=boss/peek&k=0003&a=2&f=1">03</a> /
-        <a target="ifr" href="/?p=boss/peek&k=0004&a=2&f=1">04</a> /
-        <a target="ifr" href="/?p=boss/peek&k=0005&a=2&f=1">05</a> /
-        <a target="ifr" href="/?p=boss/peek&k=0006&a=2&f=1">06</a> /
-        <a target="ifr" href="/?p=boss/peek&k=0007&a=2&f=1">07</a> /
-        <a target="ifr" href="/?p=boss/peek&k=0008&a=2&f=1">08</a> /
-        <a target="ifr" href="/?p=boss/peek&k=0009&a=2&f=1">09</a> /
-        <a target="ifr" href="/?p=boss/peek&k=0010&a=2&f=1">10</a> /<br>
-        <a target="ifr" href="/?p=boss/peek&k=0011&a=2&f=1">11</a> /
-        <a target="ifr" href="/?p=boss/peek&k=0012&a=2&f=1">12</a> /
-        <a target="ifr" href="/?p=boss/peek&k=0013&a=2&f=1">13</a> /
-        <a target="ifr" href="/?p=boss/sports&k=0000&a=2&f=1">14</a> /
-        <a target="ifr" href="/?p=boss/sports&k=0001&a=2&f=1">15</a> /
-        <a target="ifr" href="/?p=boss/sports&k=0002&a=2&f=1">16</a> /
-        <a target="ifr" href="/?p=boss/sports&k=0003&a=2&f=1">17</a> /
-        <a target="ifr" href="/?p=boss/sports&k=0004&a=2&f=1">18</a> /
-        <a target="ifr" href="/?p=boss/city&k=0000&a=2&f=1">19</a> /
-        <a target="ifr" href="/?p=boss/city&k=0001&a=2&f=1">20</a> /
-        <a href=javascript:void(0) onclick="godemos()"> ... </a> 
+       full screen panoramic slideshows. <p><br>
+        
+        <a href=javascript:void(0) onclick="gopanorama()">Panoramic Rotations</a><br>
+        <a href=javascript:void(0) onclick="godemos()">Full Height Images</a><br>
+        <a href=javascript:void(0) onclick="goservices()">Hosting Services</a><br>
+        Thumbnails Images<br>
+        Panoramic Menus
         <p>
-
-        Panoramic and slideshow rotations<br>
-        Full height images<br>
-        Refined user interface<br>
-        Thumbnails images<br>
-        Customizable panoramic menus<p>
     
        Advanced Features<br>
         <a href=javascript:void(0) onclick="gomotion()">Motion Pictures</a><br>
         <a href=javascript:void(0) onclick="go360()">360 &deg; Panoramas</a><p>
 
-       Click <a href=javascript:void(0) onclick="goservices();">&#x25CF here </a>
-       for more information<br>about repba.image.services.
-   </div> 
+        <div style="font-size:medium">
+            Get Familiar with RepbaViewer. 
+            Click <a href=/?p=boss/king&a=2&k=0003 target="_blank">here </a> to  
+            load an example panorama into full screen. 
+            Once in full sreen, click the right menu for options and help.
+            Tap or pan the panorama to rotate.
+            Tap the following animated GIF to view another panorama. <p>
+        </div>
+
+        <a href=/?p=boss/peek&k=0001&a=2 target="_blank"><img src=/data/boss/peek/0001/0490.0280.gif></a><p><br>
+ 
+        Click <a href=javascript:void(0) onclick="goservices();">&#x25CF here </a>
+        for more information<br>about repba.image.services.<p>
+
+  </div> 
    <div class="footer">
         <a href=javascript:void(0) onclick="goservices()">repba.image.services</a>
   </div>

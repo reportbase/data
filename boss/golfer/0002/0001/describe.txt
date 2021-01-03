@@ -1,16 +1,26 @@
 <div class="media">
     <div class="title">
-        Motion Pictures 
+        Panoramic Motion Pictures 
     </div>
 
     <div class="content">
 
-        Frame images are extracted from customer videos to define 
-        REPBA motion pictures. Benefits include fast access, menu selection, 
-        speed control, frame number display, continuous playing, and zooming.  
-        After full page selection for the above 4K, 60fps golfer, refer to the 
-        command menu help button for user interaction controls. Click to watch 
-        the ball move slightly off the tee. Click the top left menu to try other swings.<p> 
+        Create motion pictures by exporting video frames into 
+        panoramas.  This is useful to create short, fast loading videos,
+        that are zoomable.  The above motion picture is a 
+        panoramic slideshow of a complete golfswing, exported from a 4K video.<p><br>
+        
+        Tap the image and hit the three dots to load
+        the panorama into full screen.  Once in full screen, zoom the image and
+        watch the ball move slightly off the golf tee.  This type of focused control is
+        very difficult with videos.   Exporting portions of a video into a panorama
+        allow for very focused presentations.<p>
+
+        Swipe the top of the panorma to slow the speed. Swipe the bottom of the 
+        panorama to increase the speed.  Click the left side to move to the previous frame.
+        Click the right side to move to the next frame.  Click the top
+        left menu to load another golf swing.  Click the top right menu for other 
+        options.
 
     <div class="footer">
         <a href=javascript:void(0) onclick="goservices()">repba.image.services</a>

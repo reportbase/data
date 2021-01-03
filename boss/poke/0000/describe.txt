@@ -1,47 +1,32 @@
 <div class="media">
      <div class="title">
-        Slideshow Rotations 
+        RepbaViewer Rotations 
     </div>
     <div class="content">
 
-        RepbaView portrait or landscape full height images are 
-        displayed in Panorama or SlideShow motion. Depending on 
-        image aspect ratio and user preference, one of the motion 
-        types maybe preferred over the other. Panning tools enable 
-        users to view the non displayed ends of landscape images 
-        when they extend beyond the sides of the screen. After 
-        clicking one of the following examples, click anywhere on 
-        the upper image, then enable the full screen mode and 
-        review the Panorama and Filmstrip displays.<p><br>
+        RepbaViewer creates a panoramic image cylinder that can be rotated 360 degrees.
+        The rotation is either panoramic or centered.
+        Panoramic rotation pans the entire cylinder in both directions. 
+        The initial rotation is determined by the url
+        parameters.  Panoramas that consist of portrait images 
+        default to a centered rotation. Short press or pan the panorama
+        to rotate images when they extend beyond the screen. 
+        Image thumbnails of the panorama are availale for fast selection.
+        A no-motion option is available to avoid inadvertent rotation.<p><br>
 
-        Slideshow creates an image cylinder that can be
-        rotated 360 degrees.  The rotation 
-        motion is either panoramic or centered.  
-        Panoramic rotation  pans the entire cylinder.   
-        Wide images default to panoramic.
-        Slideshow rotation centers each image.
-        Portrait images default to slideshow.<p>
+        Animated GIFs are created for each panorama. Gifs are useful when
+        posting to social media and emails. Click on the Gif examples below.
+        These examples will take you directly to a full screen presentation. 
+        <p>
 
-        Full screen mode resizes the image to the device's
-        screen height.
-        Image thumbnails of the slideshow can be viewed on the web page or in
-        full screen mode.
-        Start the full screen mode by tapping the image and then
-        the full screen icon.
-        Help is available in the full screen command menu.<p>
-
-        Animated gifs are created for each image group.
-        Gifs are useful when posting to social media and in emails. See 
-        examples below.<p>
-
-        <a href=/?p=boss/peek&a=1&k=0000 target="_blank"><img src=/data/boss/peek/0000/0180.0220.gif></a>
-        <a href=/?p=boss/peek&a=1&k=0001 target="_blank"><img src=/data/boss/peek/0001/0180.0220.gif></a>
-        <a href=/?p=boss/peek&a=1&k=0002 target="_blank"><img src=/data/boss/peek/0002/0180.0220.gif></a>
-        <a href=/?p=boss/peek&a=1&k=0003 target="_blank"><img src=/data/boss/peek/0003/0180.0220.gif></a>
-        <a href=/?p=boss/peek&a=1&k=0004 target="_blank"><img src=/data/boss/peek/0004/0180.0220.gif></a>
-        <a href=/?p=boss/peek&a=1&k=0005 target="_blank"><img src=/data/boss/peek/0005/0180.0220.gif></a>
-        <a href=/?p=boss/peek&a=1&k=0006 target="_blank"><img src=/data/boss/peek/0006/0180.0220.gif></a>
-        <a href=/?p=boss/peek&a=1&k=0007 target="_blank"><img src=/data/boss/peek/0007/0180.0220.gif></a>
+        <a href=/?p=boss/peek&a=2&k=0000 target="_blank"><img src=/data/boss/peek/0000/0180.0220.gif></a>
+        <a href=/?p=boss/peek&a=2&k=0001 target="_blank"><img src=/data/boss/peek/0001/0180.0220.gif></a>
+        <a href=/?p=boss/peek&a=2&k=0002 target="_blank"><img src=/data/boss/peek/0002/0180.0220.gif></a>
+        <a href=/?p=boss/peek&a=2&k=0003 target="_blank"><img src=/data/boss/peek/0003/0180.0220.gif></a>
+        <a href=/?p=boss/peek&a=2&k=0008 target="_blank"><img src=/data/boss/peek/0008/0180.0220.gif></a>
+        <a href=/?p=boss/peek&a=2&k=0005 target="_blank"><img src=/data/boss/peek/0005/0180.0220.gif></a>
+        <a href=/?p=boss/peek&a=2&k=0006 target="_blank"><img src=/data/boss/peek/0006/0180.0220.gif></a>
+        <a href=/?p=boss/peek&a=2&k=0007 target="_blank"><img src=/data/boss/peek/0007/0180.0220.gif></a>
      </div>
     <div class="footer">
         <a href=javascript:void(0) onclick="goservices()">repba.image.services</a>

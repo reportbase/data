@@ -1,0 +1,15 @@
+
+<iframe name=ifr1 id=ifr1 src="/?p=boss/depo/0001&k=0000&a=2&f=1" 
+    width="100%" height="180" style="background:white;border:none;overflow:hidden;max-width:1280;}
+    scrolling="no" frameborder="0" allowfullscreen="true" allowtransparency="true"
+    allow="autoplay; clipboard-write; encrypted-media; picture-in-picture"></iframe><br>
+<iframe name=ifr2 id=ifr2 src="/?p=boss/tall&k=0003&e=0&a=2&f=1" 
+    width="100%" height="180" style="background:white;border:none;overflow:hidden;max-width:1280;}
+    scrolling="no" frameborder="0" allowfullscreen="true" allowtransparency="true"
+    allow="autoplay; clipboard-write; encrypted-media; picture-in-picture"></iframe><br>
+<iframe name=ifr3 id=ifr3 src="/?p=boss/tall&k=0002&e=0&a=2&f=1" 
+    width="100%" height="180" style="background:white;border:none;overflow:hidden;max-width:1280;}
+    scrolling="no" frameborder="0" allowfullscreen="true" allowtransparency="true"
+    allow="autoplay; clipboard-write; encrypted-media; picture-in-picture"></iframe>
+
+
