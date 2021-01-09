@@ -25,6 +25,7 @@ cp ../*.jpg .
 for image in *.jpg; do convert $image -sampling-factor 4:2:0 -strip -quality 80 -interlace JPEG -resize x280 -colorspace RGB $image ; done
 for image in *.jpg; do convert $image -gravity center -crop 490x280+0+0 $image; done
 convert -delay 100 -loop 0 {0000..0011}.jpg ../../0490.0280.gif
+convert -delay 100 -loop 0 {0000..0011}.jpg ../../490.280.gif
 convert ../../0490.0280.gif -font DejaVu-Sans-Bold -pointsize 18 -coalesce -gravity South -background white -splice 0x72 -annotate +0+30 "$HEADER" -gravity south -annotate +0+5 "$SUBHEADER"  ../../0490.0280.gif
 
 cp ../*.jpg .

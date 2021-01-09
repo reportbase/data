@@ -1,26 +1,26 @@
 <div class="media">
     <div class="title">
-        Panoramic Motion Pictures 
+        RepbaView Motion Pictures 
     </div>
 
     <div class="content">
 
         Create motion pictures by exporting video frames into 
-        panoramas.  This is useful to create short, fast loading videos,
-        that are zoomable.  The above motion picture is a 
-        panoramic slideshow of a complete golfswing, exported from a 4K video.<p><br>
-        
-        Tap the image and hit the three dots to load
-        the panorama into full screen.  Once in full screen, zoom the image and
-        watch the ball move slightly off the golf tee.  This type of focused control is
-        very difficult with videos.   Exporting portions of a video into a panorama
-        allow for very focused presentations.<p>
+        an image group.  This creates short, fast loading,
+        zoomable, variable speed motion pictures with automatic replay.  The above motion picture is a 
+        golfswing exported from a 4K video.<p><br>
 
-        Swipe the top of the panorma to slow the speed. Swipe the bottom of the 
-        panorama to increase the speed.  Click the left side to move to the previous frame.
-        Click the right side to move to the next frame.  Click the top
-        left menu to load another golf swing.  Click the top right menu for other 
-        options.
+        <a href=/?p=boss/golfer/0002/&k=0000&a=2><img src=motion.jpg></a><p>
+
+        Tap the image and hit the three dots to load
+        the panorama into full screen.  Once in full screen, refer to the help menu to enable various 
+        swing speeds and
+        tap the right or left side of the screen to position the club head nudging the ball
+        slightly off the golf tee.
+        This type of focused control is
+        very difficult with videos.   
+        Click the top
+        left menu to load another golf swing.  <p>
 
     <div class="footer">
         <a href=javascript:void(0) onclick="goservices()">repba.image.services</a>

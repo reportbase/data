@@ -1,0 +1,33 @@
+<div class="media">
+    <div class="title">
+        RepbaView Motion Pictures 
+    </div>
+
+    <div class="content">
+
+        Create motion pictures by exporting video frames into 
+        an image group.  This creates short, fast loading,
+        zoomable, variable speed motion pictures with automatic replay.  The above motion picture is a 
+        golfswing exported from a 4K video.<p><br>
+        
+        Tap the image and hit the three dots to load
+        the panorama into full screen.  Once in full screen, refer to the help menu to enable various 
+        swing speeds and
+        tap the right or left side of the screen to position the club head nudging the ball
+        slightly off the golf tee.
+        This type of focused control is
+        very difficult with videos.   
+        Click the top
+        left menu to load another golf swing.  <p>
+
+    <div class="footer">
+        <a href=javascript:void(0) onclick="goservices()">repba.image.services</a>
+    </div>
+</div>
+
+
+
+
+
+
+

@@ -4,31 +4,32 @@
     </div>
     
     <div class="content">
-        RepbaViewer is a very capable 360 degeree panoramic image viewer.  
-        It has a very familiar user interface and can view panoramas 
-        created from a variety of sources.<p><br>
-        
-        The above
-        example is of a very large landscape panorama.  Tap the image
-        and click the three dots to display it in full screen.<p>
+        The RepbaView image viewer is an excellent tool to view 360 degree
+        images. This is accomplished by using the panoramic, slideshow or
+        manual viewing options. Each panorama or slideshow automated view shows
+        a portion of the overall 360 degree image typically 8-12 images.
+        Manually rotating the image is an effective way to view 360 degree
+        images. The image can be viewed manually using panning, cursor
+        depress, or clicking right/left side of screen to move forward/reverse
+        one image. When viewing 360 degree images, the entire Repba image
+        cylinder is consumed with the image. 360 Panoramic images rotate
+        continuously without an inherent left or right side.         
+        <p><br>
 
-        360 degree panoramas are a very powerful presentation tool.
-        Images presented as a conontinuos, full screen, distraction free  
-        panorama are very powerful. They more accurately capture how we experience 
-        the world than the typical 2D presentation.  
-        The ability to view digital imagery in 360 degrees
-        is an ideal way to present collections of images and to share experiences.<p>
-
-        Panoramas can be created in various ways with a variety of tools.
-        Images are divided into slices and rotated around the user as 
-        if they were standing in a cylinder. Only a portion of the panorama is
-        visiable at any given angle.  The remainder of the cylinder can be viewed 
-        by rotating the panorama around the viewer.<p>
-
-        Panoramic images rotate contiously without an inherent left or right side. 
-        Panoramas consisting of many hundreds of standard images 
-        are now possible with RepbaViewer.<p>
-        
+        The above RepbaView iFrame image is a 360 degree cityscape photo.
+        Pan left, pan right, briefly depress right screen, briefly
+        depress left screen to manually rotate the image. Click screen to stop
+        rotation and click tool bar right arrow to start rotation.  Click the
+        green area surrounding the arrow to enable panorama rotation, and click
+        the blue area surrounding arrow to enable slideshow rotation.  
+        <p>
+    	
+        Tap the above iFrame RepbaView image click the three dots to enable the
+        RepbaView full screen view of the 360 image. Perform the above manual
+        interaction steps using the right icon menu to select rotation options.
+        Note the enhanced view of the image when using Repbaview in full screen.
+        If using a non IOS device, select full screen mode to see yet a higher
+        quality image. 
     </div>
     
     <div class="footer">

@@ -2,11 +2,11 @@
     width="100%" height="180" style="background:white;border:none;overflow:hidden;max-width:1280;}
     scrolling="no" frameborder="0" allowfullscreen="true" allowtransparency="true"
     allow="autoplay; clipboard-write; encrypted-media; picture-in-picture"></iframe><br>
-<iframe name=ifr2 id=ifr2 src="/?p=boss/golfer/0003&k=0000&e=0&a=2&f=1" 
+<iframe name=ifr2 id=ifr2 src="/?p=boss/golfer/0002&k=0002&e=0&a=2&f=1" 
     width="100%" height="180" style="background:white;border:none;overflow:hidden;max-width:1280;}
     scrolling="no" frameborder="0" allowfullscreen="true" allowtransparency="true"
     allow="autoplay; clipboard-write; encrypted-media; picture-in-picture"></iframe><br>
-<iframe name=ifr3 id=ifr3 src="/?p=boss/golfer/0004&k=0002&e=0&a=2&f=1" 
+<iframe name=ifr3 id=ifr3 src="/?p=boss/golfer/0001&k=0000&e=0&a=2&f=1" 
     width="100%" height="180" style="background:white;border:none;overflow:hidden;max-width:1280;}
     scrolling="no" frameborder="0" allowfullscreen="true" allowtransparency="true"
     allow="autoplay; clipboard-write; encrypted-media; picture-in-picture"></iframe>
