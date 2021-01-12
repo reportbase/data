@@ -1,33 +1,37 @@
 <div class="media">
   <div class="title">
-        RepbaView 
+       RepbaView 
   </div>
   <div class="content">
 
        Hosted services for <br>
        delivery of RepbaView images. <p><br>
         
-        <a href=javascript:void(0) onclick="godemos()">Full Screen</a><br>
-        <a href=javascript:void(0) onclick="gopanorama()">Panoramas and Slideshows</a><br>
-        Thumbnail Images<br>
-        Panoramic Menus
-        <p>
+       <a href=javascript:void(0) onclick="godemos()">Full Screen</a><br>
+       <a href=javascript:void(0) onclick="gopanorama()">Panoramas and Slideshows</a><br>
+       Thumbnail Images<br>
+       Panoramic Menus
+       <p>
     
        Advanced Features<br>
         <a href=javascript:void(0) onclick="gomotion()">Motion Pictures</a><br>
         <a href=javascript:void(0) onclick="go360()">360 &deg; Panoramas</a><p>
 
         <div style="font-size:medium">
-            Get Familiar with RepbaView. Swipe the top image to the 
-            start the image rotation.
-            Click to start the <a href=/?p=boss/king&a=2&k=0003 target="_parent">king </a>  
+            Get Familiar with RepbaView. 
+            Swipe left on the top iFrame image and notice the delayed auto
+            motion start-up. Two image groups further demonstrate RepbaView.
+            For each image group, select different menu subgroups, manually pan
+            a stopped image, and select panorama and slideshow auto motions.
+            Refer to the help menu for command info. Click back-arrow on the
+            image group display to return to this page. 
+            <a href=/?p=boss/king&a=2&k=0003 target="_parent">
+            Click to start
+            </a>
+            the
+            animal King image group. Tap the following Fish GIF start the Fish
             image group. 
-            Once loaded, click the right menu for options and help.
-            Select the panorama button and watch the rotation change. Click the
-            back arrow to return to this screen.
-            Tap the following GIF to start the fish image group and repeat the
-            same actions. <p>
-        </div>
+        </div><br><p>
 
         <a href=/?p=boss/peek&k=0001&a=2 target="_parent"><img src=/data/boss/peek/0001/490.280.gif></a><p><br>
 

@@ -5,17 +5,32 @@
   
     <div class="content">
 
-        The RepbaView is a full height image viewer for panoramic slideshows.  
-        It creates panoramas from collections of 
-        portrait and landscape images.  
+        RepbaView displays pictures at full screen height eliminating the need
+        for cellphone and tablet users to pinch-out landscape photos to full
+        screen. This feature enhances the user experience by alleviating the
+        time it takes to manually pinch-out individual photos to full height.
+        Images are stored in a cylinder format enabling wrap around parametric
+        viewing.  The cylindrical menus enables users to conveniently select
+        documents, named picture subgroups, or commands.  As opposed to typical
+        websites that stack pictures vertically, pictures are displayed
+        horizontally, providing attractive continuous wrap around image
+        viewing.  Panning options enable users to view the hidden portion of
+        wide landscape images. The client/server architecture minimizes network
+        traffic providing fast user command and display performance.<br><p>
+    
         When multiple images are visible, typical for portrait
-        images on a wide screen device, the panorama can be framed 
+        images on a wide screen device, the image group can be framed 
         to focus the viewers attention on a single image. 
         Full screen presentations disable the menus and toolbars providing
         the optimum image viewing experiences.<p><br>
         
-        The following is a list of example panoramas,
+        The following is a list of example image groups,
         sorted by image size.<p>
+
+        To become familiar with the RepbaView user interface, select panorama
+        and slideshow image views, zooming, and fullscreen command menu options
+        for the selected image group. Also select a few other image subgroups
+        as displayed by the image group menu.<p>         
 
         Select an example below, then tap the thumbnail image 
         above to display the panorama in full screen.<p>
