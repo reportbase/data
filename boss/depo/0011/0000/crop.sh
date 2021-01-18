@@ -1,7 +1,8 @@
 #left,top      right,bottom
-convert 015.000.webp -crop +0+50 -crop -0-50 015.000.webp
-convert 015.001.webp -crop +0+50 -crop -0-50 015.001.webp
-convert 015.002.webp -crop +0+50 -crop -0-50 015.002.webp
-convert 015.003.webp -crop +0+50 -crop -0-50 015.003.webp
-convert 015.004.webp -crop +0+50 -crop -0-50 015.004.webp
+convert 004.000.webp -crop +100+15 -crop -0-15 004.000a.webp
+convert 004.001.webp -crop +100+15 -crop -0-15 004.001a.webp
+convert 004.002.webp -crop +100+0 -crop -0-30 004.002a.webp
+convert  004.000a.webp 004.001a.webp +append 008.000.webp
+
+
 

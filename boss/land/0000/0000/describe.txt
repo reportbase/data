@@ -4,34 +4,29 @@
     </div>
     
     <div class="content">
-        The RepbaView image viewer is an excellent tool to view 360 degree
-        images. This is accomplished by using the panoramic, slideshow or
-        manual viewing options. Each panorama or slideshow automated view shows
-        a portion of the overall 360 degree image typically 8-12 images.
-        Manually rotating the image is an effective way to view 360 degree
-        images. The image can be viewed manually using panning, cursor
-        depress, or clicking right/left side of screen to move forward/reverse
-        one image. When viewing 360 degree images, the entire Repba image
-        cylinder is consumed with the image. 360 Panoramic images rotate
-        continuously without an inherent left or right side.         
-        <p><br>
 
-        The above RepbaView iFrame image is a 360 degree cityscape photo.
-        Pan left, pan right, briefly depress right screen, briefly
-        depress left screen to manually rotate the image. Click screen to stop
-        rotation and click tool bar right arrow to start rotation.  Click the
-        green area surrounding the arrow to enable panorama rotation, and click
-        the blue area surrounding arrow to enable slideshow rotation.  
-        <p>
+        RepbaView is an excellent tool to view 360 degree
+        images. This is accomplished by using the panorama, slideshow or manual
+        viewing options. Each panorama or slideshow automated view shows a
+        portion of the overall 360 degree image.  Manual
+        image interaction is an effective way to view 360 degree images. The
+        image can be viewed manually using panning, cursor depress, or clicking
+        right/left side of screen to move forward/reverse one image. When
+        viewing 360 degree images, the entire Repba image cylinder is consumed
+        with the image. 360 Panoramic images rotate continuously without an
+        inherent left or right side.<p><br>
     	
-        Tap the above iFrame RepbaView image click the three dots to enable the
-        RepbaView full screen view of the 360 image. Perform the above manual
-        interaction steps using the right icon menu to select rotation options.
-        Note the enhanced view of the image when using Repbaview in full screen.
-        If using a non IOS device, select full screen mode to see yet a higher
-        quality image. 
+        Tap the top iFrame RepbaView image and click the toolbar fullscreen icon to
+        enable full height view of the 360 image. Refer to the command help display
+        to perform manual image interaction steps. Pan left, pan right, briefly
+        depress right screen, briefly depress left screen to manually rotate
+        the image. Click screen to stop rotation and click toolbar right arrow
+        to start rotation. Then select panarama and slideshow auto motions.<br>  
+        <a href=/?p=boss/loud&k=0003&a=1&s=400 target="_parent"><p><br>
+        Click to start</a> the New York City 360 panarama. View using default panarama motion, slideshow motion 
+        and manually. Also select a few of the 
+        other interesting panaramas defined by the image menu.         
     </div>
-    
     <div class="footer">
         <a href=javascript:void(0) onclick="goservices()">repba.image.services</a>
     </div>

@@ -1,2 +1,2 @@
-convert  *.webp +append 030.000.jpg
+convert a_0a.jpg a_1a.jpg +append 012.001.jpg
 

@@ -5,22 +5,21 @@
 
     <div class="content">
 
-        Create motion pictures by exporting video frames into 
-        an image group.  This creates short, fast loading,
-        zoomable, variable speed motion pictures with automatic replay.  The above motion picture is a 
-        golfswing exported from a 4K video.<p><br>
+        Create motion pictures by exporting video frames into an imagegroup.
+        This creates short, fast loading, zoomable, variable speed motion
+        pictures with automatic replay.  The above motion picture is a golf
+        swing exported from a 4K video. This methodology also supports creation
+        of time elapsed motion pictures.<p><br>
 
-        <a href=/?p=boss/golfer/0002/&k=0000&a=2><img src=motion.jpg></a><p>
-
-        Tap the image and hit the three dots to load
-        the panorama into full screen.  Once in full screen, refer to the help menu to enable various 
-        swing speeds and
-        tap the right or left side of the screen to position the club head nudging the ball
-        slightly off the golf tee.
-        This type of focused control is
-        very difficult with videos.   
-        Click the top
-        left menu to load another golf swing.  <p>
+        Tap one of the top images and click the toolbar fullscreen icon to
+        enable the full height view.  Swipe left top/bottom of screen to enable
+        show/fast swing.  Refer to the command help menu and tap the right or
+        left side of the screen to position the club head nudging the ball
+        slightly off the golf tee.  This type of focused control is very
+        difficult with videos.   Click the top left menu to load another golf
+        swing. Each of the 3 iFrame golf swings below can be manually interacted with or enabled at 
+        full height.  <p><br>
+    </div>
 
     <div class="footer">
         <a href=javascript:void(0) onclick="goservices()">repba.image.services</a>

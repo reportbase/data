@@ -3,37 +3,62 @@
        RepbaView 
   </div>
   <div class="content">
+	<div style="font-size:medium">
 
-       Hosted services for <br>
-       delivery of RepbaView images. <p><br>
-        
-       <a href=javascript:void(0) onclick="godemos()">Full Screen</a><br>
-       <a href=javascript:void(0) onclick="gopanorama()">Panoramas and Slideshows</a><br>
-       Thumbnail Images<br>
-       Panoramic Menus
-       <p>
-    
-       Advanced Features<br>
-        <a href=javascript:void(0) onclick="gomotion()">Motion Pictures</a><br>
-        <a href=javascript:void(0) onclick="go360()">360 &deg; Panoramas</a><p>
+        View images like never before in full screen panorama.  
+        Display widescreen imagery on portrait screens.  This website summarizes how
+        RepbaView features provide hosting services for
+        customers aiming to display their images in new and creative
+        ways. 
+        <br><p><p>
+
+        RepbaView renders <a href=javascript:void(0) onclick="godemos()">images at full height</a> on PC's tablets, and cellphones.  It provides   
+        <a href=javascript:void(0) onclick="gopanorama()">motion panorama and
+        slideshow</a> displays to enhance the user experience.  Thumbnail
+        displays allow users to quickly search and select specific images in large
+        image collections. The RepbaView design using a cylindrical panarama enables
+        it to effectively display <a href=javascript:void(0) onclick="go360()">360 Panorama</a> 
+        images.  This technology also provides
+        state-of-the-art dynamic panoramic menus. Integrating images extracted from videos into RepbaView 
+        <a href=javascript:void(0) onclick="gomotion()">motion pictures</a> provide 
+        viewing advantages for short videos such as golf swings.
+        <p>
+        </div>
+
+        Three steps to get <br>familiar with RepbaView.<p> 
 
         <div style="font-size:medium">
-            Get Familiar with RepbaView. 
-            Swipe left on the top iFrame image and notice the delayed auto
-            motion start-up. Two image groups further demonstrate RepbaView.
-            For each image group, select different menu subgroups, manually pan
+            Step-1. Click on the top iFrame image to stop motion, click the
+            toolbar fullscreen icon to enable the full height view, 
+            click the right/left side of screen to move forward/backward thru the images,
+	        click the top left image menu and view various gallery images,
+            and finally reselect the repba.com url to return to this display.
+        </div><p>
+
+        <div style="font-size:medium">
+            Step-2. Two additional image groups further demonstrate RepbaView.
+            For each imagegroup, select different menu subgroups, manually pan
             a stopped image, and select panorama and slideshow auto motions.
-            Refer to the help menu for command info. Click back-arrow on the
-            image group display to return to this page. 
-            <a href=/?p=boss/king&a=2&k=0003 target="_parent">
-            Click to start
-            </a>
-            the
-            animal King image group. Tap the following Fish GIF start the Fish
-            image group. 
+            Refer to the help menu for command info. If user has keyboard, type "g' to remove and add image frames. 
+            Click back-arrow on the
+            imagegroup display to return to this page. 
+            
+            <a href=/?p=boss/king&a=2&k=0003 target="_parent"> Click to start
+            </a> the animal King imagegroup. Tap the following Fish GIF start
+            the Fish imagegroup. 
         </div><br><p>
 
-        <a href=/?p=boss/peek&k=0001&a=2 target="_parent"><img src=/data/boss/peek/0001/490.280.gif></a><p><br>
+        <a href=/?p=boss/peek&k=0001&a=2&s=200 target="_parent"><img src=/data/boss/peek/0001/490.280.gif></a><p>
+
+        <div style="font-size:medium">
+            Step-3.<a href=/?p=boss/repo/0009&a=2&s=1&k=0000 target="_parent">
+            Click to start</a> a framed image slideshow imagegroup.  Each of the many
+            image subgroups have various number of images. Select a few
+            of the fun slideshows enabled by the top left image menu icon
+            buttons.  Then select the "office fashions" image subgroup and 
+            click the toolbar triple-dots icon to enable the thumbnail view that 
+            can help to find and select a specific image within a large number of images.  
+        </div><p><p>
 
         Supporting Documents<br>
         <a href=repba.pdf>RepbaView Description</a><br>
@@ -41,8 +66,8 @@
         <a href=worksheet.txt>Image Group Worksheet</a>
         
         <div style="font-size:small">
-        Site Contact: Email support@repba.com.<br>
-        Privacy: Site does not update cookies.
+            Site Contact: support@repba.com.<br>
+            Privacy: Site does not update cookies.
         </div>
   </div> 
    <div class="footer">

@@ -1,1 +1,1 @@
-../boss/poke/0000/describe.txt
+../boss/ultra/0002/describe.txt

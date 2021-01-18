@@ -1,1 +1,1 @@
-convert -crop 9600x1440 a.jpg 006.00%d.webp
+convert -crop 8119x1724 a.jpg a_%d.jpg

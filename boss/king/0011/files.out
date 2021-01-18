@@ -1,0 +1,21 @@
+total 20308
+drwx--x--x  4 scott users    4096 Jan 17 19:21 .
+drwx--x--x 20 scott users    4096 Jan 17 18:56 ..
+-rw-rw-r--  1 scott users 1218356 Jan 17 19:21 003.000.jpg
+-rw-rw-r--  1 scott users 1000050 Jan 17 19:21 003.001.jpg
+-rw-rw-r--  1 scott users 1113353 Jan 17 19:21 003.002.jpg
+-rw-rw-r--  1 scott users  647147 Jan 17 19:21 003.003.jpg
+-rw-rw-r--  1 scott users 1363343 Jan 17 19:21 003.004.jpg
+-rw-rw-r--  1 scott users  955711 Jan 17 19:21 003.005.jpg
+-rw-rw-r--  1 scott users 2220053 Jan 17 19:21 006.000.jpg
+-rw-rw-r--  1 scott users 1761707 Jan 17 19:21 006.001.jpg
+-rw-rw-r--  1 scott users 2326929 Jan 17 19:21 006.002.jpg
+-rw-rw-r--  1 scott users 3335970 Jan 17 19:21 009.000.jpg
+-rw-rw-r--  1 scott users 2976028 Jan 17 19:21 009.001.jpg
+-rw-rw-r--  1 scott users 1819352 Jan 17 19:21 018.000.jpg
+-rw-rw-r--  1 scott users     320 Jan 17 19:21 aspects.out
+-rw-rw-r--  1 scott users     929 Jan 17 19:21 error
+-rw-rw-r--  1 scott users       0 Jan 17 19:21 files.out
+-rw-rw-r--  1 scott users      44 Dec 26 22:28 meta.ini
+drwxrwxr-x  2 scott users    4096 Jan 17 19:20 orig
+drwxrwxr-x  2 scott users    4096 Jan 17 19:21 tmp
