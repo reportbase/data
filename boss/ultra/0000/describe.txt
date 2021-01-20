@@ -7,13 +7,13 @@
 
         View images like never before in full screen panorama.  
         Display widescreen imagery on portrait screens.  This website summarizes how
-        RepbaView features provide hosting services for
-        customers aiming to display their images in new and creative
-        ways. 
+        RepbaView features provide 
+        <a href=javascript:void(0) onclick="goservices()">hosting services</a> 
+        for customers aiming to display their images in new and creative ways. 
         <br><p><p>
 
         RepbaView renders <a href=javascript:void(0) onclick="godemos()">images at full height</a> on PC's tablets, and cellphones.  It provides   
-        <a href=javascript:void(0) onclick="gopanorama()">motion panorama and
+        motion <a href=javascript:void(0) onclick="gopanorama()">panorama and
         slideshow</a> displays to enhance the user experience.  Thumbnail
         displays allow users to quickly search and select specific images in large
         image collections. The RepbaView design using a cylindrical panarama enables
@@ -57,7 +57,8 @@
             of the fun slideshows enabled by the top left image menu icon
             buttons.  Then select the "office fashions" image subgroup and 
             click the toolbar triple-dots icon to enable the thumbnail view that 
-            can help to find and select a specific image within a large number of images.  
+            can help to find and select a specific image within a large number of images. 
+            Refer to a summary of imagegroups or more examples of how RepbaView brings life to images.
         </div><p><p>
 
         Supporting Documents<br>

@@ -22,7 +22,7 @@
         depress right screen, briefly depress left screen to manually rotate
         the image. Click screen to stop rotation and click toolbar right arrow
         to start rotation. Then select panarama and slideshow auto motions.<br>  
-        <a href=/?p=boss/loud&k=0003&a=1&s=400 target="_parent"><p><br>
+        <a href=/?p=boss/land/0004&k=0003&a=1&s=400 target="_parent"><p><br>
         Click to start</a> the New York City 360 panarama. View using default panarama motion, slideshow motion 
         and manually. Also select a few of the 
         other interesting panaramas defined by the image menu.         

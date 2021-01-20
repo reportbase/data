@@ -11,16 +11,19 @@
         The cylindrical menus enable users to conveniently select documents,
         named picture subgroups, or commands.  As opposed to typical websites
         that stack pictures vertically, pictures are displayed horizontally,
-        providing attractive continuous wrap around image viewing.<br> <p>
+        providing attractive continuous wrap around image viewing.
+        To demonstrate how panning options enable users to view the hidden portion of wide landscape
+        images, click on the above iframe images and enable the full screen icon to
+        enable the Ultra landscape imagegroup. Click right side of screen several times to 
+        advance images. When image is stopped, notice that the image is wider than you screen. Two ways to
+        see the full image are 1) depress the cursor on the right or left side to see the full 
+        image, and 2) pan left or right to see the full image. If not using an IOS device, select
+        the fullscreen icon to view the images in full screen and repeat step 1 and 2 to view the full
+        width of the wide images.  Mannually pinch the top, middle, or bottom of the screen to enable
+        zoom.  Pince the screen again to disable Zoom. Tap the screen to center the image. Click
+        back arrow to return to the home page. 
+<br> <p>
         <p>
-
-        Panning options enable users to view the hidden portion of wide landscape
-        images. The client/server architecture minimizes network traffic
-        providing fast user command and display performance. When multiple
-        images are visible, typically for portrait images on a wide screen
-        device, the imagegroup can be framed to focus the viewers attention on
-        a single image.  Full screen presentations disable the menus and
-        toolbars providing a optimum image viewing experiences.<p>
        
      </div>
 

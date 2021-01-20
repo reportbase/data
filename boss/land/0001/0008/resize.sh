@@ -1,3 +1,3 @@
-convert 009.000.jpg -resize x180 006.000.webp
+convert 012.000.jpg -resize x540 008.000.jpg
 
 

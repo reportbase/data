@@ -1,0 +1,12 @@
+<a target=ifr href=/?p=boss/land/0001&k=0000&a=1&s=300&f=1&image=0>Lamiril Restaurant</a><br>
+<a target=ifr href=/?p=boss/land/0001&k=0001&a=1&s=300&f=1&image=0>Vantage Point</a><br>
+<a target=ifr href=/?p=boss/land/0001&k=0002&a=1&s=300&f=1&image=0>Lake Heron</a><br>
+<a target=ifr href=/?p=boss/land/0001&k=0003&a=1&s=300&f=1&image=0>Battle of Brussels</a><br>
+<a target=ifr href=/?p=boss/land/0001&k=0004&a=1&s=300&f=1&image=0>Bass Lake</a><br>
+<a target=ifr href=/?p=boss/land/0001&k=0005&a=1&s=300&f=1&image=0>Ateck Square</a><br>
+<a target=ifr href=/?p=boss/land/0001&k=0006&a=1&s=300&f=1&image=0>Chester Bay</a><br>
+<a target=ifr href=/?p=boss/land/0001&k=0007&a=1&s=300&f=1&image=0>Tacoma Park</a><br>
+<a target=ifr href=/?p=boss/land/0001&k=0008&a=1&s=300&f=1&image=0>Salt Lake</a><br>
+<a target=ifr href=/?p=boss/land/0001&k=0009&a=1&s=300&f=1&image=0>Whilmore Pass</a><br>
+<a target=ifr href=/?p=boss/land/0001&k=0010&a=1&s=300&f=1&image=0>Raven Cove</a><br>
+<a target=ifr href=/?p=boss/land/0001&k=0011&a=1&s=300&f=1&image=0>Detoor Bay</a><br>

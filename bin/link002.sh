@@ -11,6 +11,8 @@ printf 'Path = /?p=boss/%s\n' $PARENT >> links.ini
 COUNT=`expr $count + 1`
 printf 'Size = '$COUNT'\n\n' >> links.ini
 
+rm describe.txt 2> /dev/null
+
 COUNT=`expr $count - 1`
 for i in $(seq 0 $COUNT); do 
     PROJECT=$(printf "%04d" "$i") 
@@ -23,6 +25,7 @@ for i in $(seq 0 $COUNT); do
     printf '[%s]\n' $PROJECT >> links.ini
     printf 'Title = %s\n' "$TITLE" >> links.ini
     printf 'Path = /?p=boss/%s/%s&k=%s&'$A$B$F$S'\n' $PARENT $THISNAME $PROJECT >> links.ini
+    printf '<a target=ifr href=/?p=boss/%s/%s&k=%s&'$A$B$F$S'>%s</a><br>\n' $PARENT $THISNAME $PROJECT "$TITLE" >> describe.txt
 done
 
 
