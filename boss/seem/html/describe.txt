@@ -14,3 +14,4 @@
 <a target=ifr href=/?p=boss//seem&k=0013&a=1&s=300&f=1&image=0>Electric Pattern</a><br>
 <a target=ifr href=/?p=boss//seem&k=0014&a=1&s=300&f=1&image=0>Volt Pattern</a><br>
 <a target=ifr href=/?p=boss//seem&k=0015&a=1&s=300&f=1&image=0>Health Pattern</a><br>
+<a target=ifr href=/?p=boss//seem&k=0016&a=1&s=300&f=1&image=0>Flow Pattern</a><br>
