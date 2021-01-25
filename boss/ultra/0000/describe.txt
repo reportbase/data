@@ -12,15 +12,15 @@
         for customers aiming to display their images in new and creative ways. 
         <br><p><p>
 
-        RepbaView renders <a href=javascript:void(0) onclick="godemos()">images at full height</a> on PC's tablets, and cellphones.  It provides   
-        motion <a href=javascript:void(0) onclick="gopanorama()">panorama and
+        RepbaView renders <a target=ifr href="/?p=boss/ultra&k=0001&a=1&s=2&f=1">images at full height</a> on PC's tablets, and cellphones.  It provides   
+        motion <a target=ifr href="/?p=boss/ultra&k=0002&a=1&s=2&f=1">panorama and
         slideshow</a> displays to enhance the user experience.  Thumbnail
         displays allow users to quickly search and select specific images in large
         image collections. The RepbaView design using a cylindrical panarama enables
-        it to effectively display <a href=javascript:void(0) onclick="go360()">360 Panorama</a> 
+        it to effectively display <a target=ifr href="/?p=boss/land/0000&k=0000&a=1&s=2&f=1">360 Panorama</a> 
         images.  This technology also provides
         state-of-the-art dynamic panoramic menus. Integrating images extracted from videos into RepbaView 
-        <a href=javascript:void(0) onclick="gomotion()">motion pictures</a> provide 
+        <a target=ifr href="/?p=boss/golfer/0002&k=0001&a=1&s=2&f=1">motion pictures</a> provide 
         viewing advantages for short videos such as golf swings.
         <p>
         </div>
@@ -43,12 +43,12 @@
             Click back-arrow on the
             imagegroup display to return to this page. 
             
-            <a href=/?p=boss/king&a=2&k=0003 target="_parent"> Click to start
+            <a href=/?p=boss/king&a=1&k=0003&s=1&f=1 target="_parent"> Click to start
             </a> the animal King imagegroup. Tap the following Fish GIF start
             the Fish imagegroup. 
         </div><br><p>
 
-        <a href=/?p=boss/peek&k=0001&a=2&s=200 target="_parent"><img src=/data/boss/peek/0001/490.280.gif></a><p>
+        <a href=/?p=boss/peek&k=0001&a=1&s=200&f=1 target="_parent"><img src=0420.0240.gif></a><p>
 
         <div style="font-size:medium">
             Step-3.<a href=/?p=boss/repo/0009&a=2&s=1&k=0000 target="_parent">
@@ -72,7 +72,7 @@
         </div>
   </div> 
    <div class="footer">
-        <a href=javascript:void(0) onclick="goservices()">repba.image.services</a>
+        <a target=ifr href="/?p=boss/ultra&k=0006&a=1&s=2&f=1">repba.image.services</a>
   </div>
 </div>
 

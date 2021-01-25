@@ -22,11 +22,6 @@
         useful for posting to social media and emails. Click on the following GIF images
         to enable various imagegroups. For each imagegroup, view different subgroups
         by selecting the left image menu. 
-        <p>
-
-        <a href=/?p=boss/xultra&a=1&s=0300&k=0000><img src=/data/boss/xultra/0000/0180.0220.gif></a>
-        <a href=/?p=boss/xassort&a=1&s=0300&k=0000><img src=/data/boss/xassort/0000/0180.0220.gif></a>
-        <a href=/?p=boss/wide&a=1&s=0300&k=0000><img src=/data/boss/wide/0000/0180.0220.gif></a>
     </div>
     <div class="footer">
         <a href=javascript:void(0) onclick="goservices()">repba.image.services</a>

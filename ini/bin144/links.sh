@@ -17,7 +17,7 @@ for i in $(seq 0 $COUNT); do
     TITLE="${title}"
     printf '[%s]\n' $PROJECT >> links.ini
     printf 'Title = %s\n' "$TITLE" >> links.ini
-    printf 'Path = /?p=boss/%s&k=%s&a=1\n' $THISNAME $PROJECT >> links.ini
+    printf 'Path = /?p=boss/%s&k=%s&a=1&s=1&f=1\n' $THISNAME $PROJECT >> links.ini
 done
 
 

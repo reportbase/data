@@ -16,4 +16,5 @@ sed -i s/{PARENTNAME}/${PARENTNAME}/ html/home.html 2> /dev/null
 sed -i s/{PROJECTNAME}/${PROJECTNAME}/ html/home.html 2> /dev/null
 sed -i "s/{PROJECTITLE}/${PROJECTITLE}/" html/home.html 2> /dev/null
 
+bin/./links.sh
 
