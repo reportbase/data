@@ -1,23 +1,26 @@
-. ../meta.ini
+. meta.ini
 THISIZE=${count}
 THISNAME=${name}
+a=${a}
+f=${f}
+s=${s}
 
-printf '[8000]\n' > links.ini  
-printf 'Title = %s\n' "$title" >> links.ini
-printf 'Fill.Color = rgba(0,0,100,0.7)\n' >> links.ini
-printf 'Path = INDEXHTML\n' >> links.ini
+printf '[8000]\n' > html/links.ini  
+printf 'Title = %s\n' "$title" >> html/links.ini
+printf 'Fill.Color = rgba(0,0,100,0.7)\n' >> html/links.ini
+printf 'Path = INDEXHTML\n' >> html/links.ini
 
 COUNT=`expr $count + 1`
-printf 'Size = '$COUNT'\n\n' >> links.ini
+printf 'Size = '$COUNT'\n\n' >> html/links.ini
 
 COUNT=`expr $count - 1`
 for i in $(seq 0 $COUNT); do 
     PROJECT=$(printf "%04d" "$i") 
-    . ../$PROJECT/meta.ini
+    . $PROJECT/meta.ini
     TITLE="${title}"
-    printf '[%s]\n' $PROJECT >> links.ini
-    printf 'Title = %s\n' "$TITLE" >> links.ini
-    printf 'Path = /?p=boss/%s&k=%s&a=1&s=1&f=1\n' $THISNAME $PROJECT >> links.ini
+    printf '[%s]\n' $PROJECT >> html/links.ini
+    printf 'Title = %s\n' "$TITLE" >> html/links.ini
+    printf 'Path = /?p=boss/%s&k=%s&a=%s&s=%s&f=%s\n' $THISNAME $PROJECT $a $s $f >> html/links.ini
 done
 
 
