@@ -39,17 +39,17 @@
         The design allows it to display various image aspect ratios. For example a 2:1 image can zoomed to viewable 
         4:1 or 8:1 image. RepbaView can display projection 360&deg; images that include a front & back image. 
         A user can view the front or back image separately or pan accross the entire image. This also supports
-        a slideshow view of an imagegroup consisting of many different projection 360&deg; images.<p>
+        a slideshow view of an imagegroup consisting of many different projection 360&deg; images.<p><p>
 
         A browser does not properly display projection 360&deg; images. Special software is needed to view
         projection panomara images.  RepbaView is desiged to view these images. 
-        <a href=/data/boss/tree/0004/002.012.jpg>Click here</a> to see how a 
-        browser displays a cityscape drone image versus
-        <a href=/?p=boss/tree&k=0004&e=12&s=1&f=1&a=1>click here</a> to see how RepbaView displays the same image. <p>   
+        <a href=/data/boss/tree/0006/004.000.jpg>Click here</a> to see how a 
+        browser displays a cityscape drone projection image versus
+        <a href=/?p=boss/tree&k=0006&e=0&s=1&f=0&a=1>click here</a> to see RepbaView properly displays the image. <p>   
 
         
         Addition examples of projection 360 images can be
-        found <a href=/?p=boss/tree&k=0004&e=0&s=1&f=0&a=1>here</a>.          
+        found <a href=/?p=boss/tree>here</a>.          
         Six imagegroups each having 20-40 images are provided. Each of the imagegroups can be viewed as 
         a slideshow or manually.  Projection 360&deg; panorama subgroups can be included in an imagegroup with other subgroup images and documents. 
         There are two key zooming selections: rotation and magnification. Zooming is

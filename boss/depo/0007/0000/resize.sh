@@ -1,4 +1,4 @@
-for image in 012*.jpg; do convert $image -sampling-factor 4:2:0 -strip -resize x1100 -quality 75 -interlace JPEG -colorspace RGB $image ; done
+for image in a.jpg; do convert $image -quality 90 $image ; done
 #for image in *.jpg 5*; do convert $image -resize 900x1080! -quality 80 $image; done
 
 

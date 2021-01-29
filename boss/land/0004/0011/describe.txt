@@ -1,1 +1,1 @@
-<a target=ifr href=/?p=boss/land/0004&k=0011&a=1&s=300&f=1&image=0>Desert Oasis</a><br>
+<a target=ifr href=/?p=boss/land/0004&k=0010&a=1&s=300&f=1&image=0>Taisum Bay</a><br>

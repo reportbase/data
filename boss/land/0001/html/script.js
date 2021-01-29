@@ -9,10 +9,6 @@ Number.prototype.pad = function(size)
 	    return s;
 }
 
-window.onload = function() 
-{
-}
-
 window.addEventListener("keydown", function (evt)
 {
     if (ifr().postMessage(evt.key, url.origin))

@@ -21,7 +21,12 @@
         RepbaView also creates animated GIFs when building imagegroups. Gifs are
         useful for posting to social media and emails. Click on the following GIF images
         to enable various imagegroups. For each imagegroup, view the different subgroups
-        by selecting the left menu icon. 
+        by selecting the left menu icon. <p>
+        
+        <a target=ifr href=/?p=boss/city&k=0000&a=1&s=300&f=1&image=0><img src=/data/boss/city/0000/420.240.gif></img></a>
+        <a target=ifr href=/?p=boss/combat&k=0000&a=1&s=300&f=1&image=0><img src=/data/boss/combat/0000/420.240.gif></img></a>
+        <a target=ifr href=/?p=boss/scapes&k=0000&a=1&s=300&f=1&image=0><img src=/data/boss/scapes/0000/420.240.gif></img></a>
+        
         </div>
     </div>
     <div class="footer">

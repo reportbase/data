@@ -1,3 +1,3 @@
-convert 004.008.jpg -sampling-factor 4:2:0 -strip -quality 90 -resize x540 -interlace JPEG -colorspace RGB 006.008.jpg
+for image in *.jpg; do convert $image -sampling-factor 4:2:0 -strip -resize x1080 -interlace JPEG -colorspace RGB $image ; done
 
 

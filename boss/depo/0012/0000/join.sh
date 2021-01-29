@@ -1,2 +1,2 @@
-convert  a.jpg a.jpg +append 009.000.webp
+convert  *.jpg +append 010.000.jpg
 

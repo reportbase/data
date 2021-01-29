@@ -21,10 +21,12 @@
         image, or 2) pan left or right to see the full image. If not using an IOS device, select
         the fullscreen icon to view the images in full screen and repeat steps to view the full
         image width.  The center column of the screen is reserved for interactive image rotation and 
-        zooming.  The arrows rotating the image up/down and +/- icons increase or decrease magnification. 
+        zooming.  The arrows rotate the image up/down and the +/- icons increase/decrease magnification. 
         Rotate and magnify the image to become familar with these screen controls. Click right side of screen 
         to move to the center of the 
-        image. Click back arrow to return to the home page. 
+        next image. Click back arrow to return to the home page. 
+
+        The following examples demostrate how RepbaView brings images to life.   <tbd>
         </div>
         <br> <p>
         <p>
