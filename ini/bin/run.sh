@@ -1,1 +1,1 @@
-../bin/./describe000.sh
+div.sh

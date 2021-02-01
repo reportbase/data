@@ -24,12 +24,15 @@
         zooming.  The arrows rotate the image up/down and the +/- icons increase/decrease magnification. 
         Rotate and magnify the image to become familar with these screen controls. Click right side of screen 
         to move to the center of the 
-        next image. Click back arrow to return to the home page. 
+        next image. Click back arrow to return to the home page. <p>
 
-        The following examples demostrate how RepbaView brings images to life.   <tbd>
-        </div>
-        <br> <p>
-        <p>
+        Rotate the panorama's relative position by tapping the bottom of the screen.<p>
+
+        Tap the animated GIF to display an image group of landscape photography.  The image
+        group is organized into 24 sub-groups. A menu is displayed if a sub-group is not specified
+        in the URL specification.<p>
+
+        <a href=/?p=boss/scapes><img src=/data/boss/scapes/0001/420.240.gif></img></a>
        
      </div>
 

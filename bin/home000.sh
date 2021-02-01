@@ -11,7 +11,7 @@ for i in $(seq 0 $COUNT); do
     cat $NAME/div.out  >> html/div.out 2> /dev/null 
 done
 
-sed 's/{DESCRIBE}/$x/g' bin/home.res | x="$(<html/div.out)" envsubst '$x' > html/home.html
+sed 's/{DESCRIBE}/$x/g' /srv/http/data/res/home.res | x="$(<html/div.out)" envsubst '$x' > html/home.html
 sed -i s/{PARENTNAME}/${PARENTNAME}/ html/home.html 2> /dev/null
 sed -i s/{PROJECTNAME}/${PROJECTNAME}/ html/home.html 2> /dev/null
 sed -i "s/{PROJECTITLE}/${PROJECTITLE}/" html/home.html 2> /dev/null
