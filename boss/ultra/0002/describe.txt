@@ -4,23 +4,27 @@
     </div>
     <div class="content">
         <div style="font-size:medium">
-        RepbaView stores images in a cylinder format that can be rotated 360
+        RepbaView stores images in a cylinder format that is rotated 360
         degrees to display panoramic or slideshow images.  The images are
         displayed by a rotating scan of the cylinder in either direction. The
         cylindrical image design is also used to implement RepbaView menus that
         provide convenient selection of image subgroups and documents.
         Image panorama or slideshow auto motion can be enabled as default or
         selectable speeds.  Manual screen gestures provide panning, movement of
-        images, start auto motion, stop auto motion.  User screen controls also
+        images, start auto motion, and stop auto motion.  User screen controls also
         allow users to view the hidden portions of landscape images.  Short
         press or pan the image when it extends beyond the horizontal ends of
-        the screen.  Image thumbnails, as shown by the top image, are available
-        for fast search and image selection.  A no-auto-motion option is available
-        to avoid inadvertent auto rotation during manual interaction steps.<p><br>
+        the screen. A no-auto-motion option is available
+        to avoid inadvertent auto rotation during manual interaction steps.
+        To demonstrate panorama and slideshow auto motion, click on the above iframe
+        images and enable the full screen icon to
+        activate the Ultra landscape imagegroup with full height image display. Using the image menu, select various 
+        subgroup galleries and enable command menu panorama or slideshow motion.<p><br>
 
-        RepbaView also creates animated GIFs when building imagegroups. Gifs are
-        useful for posting to social media and emails. Click on the following GIF images
-        to enable various imagegroups. For each imagegroup, view the different subgroups
+        RepbaView creates animated GIFs when building imagegroups. Gifs are
+        useful for posting to social media and emails. Click on the following GIF image
+        to enable the Express imagegroup having 7 subgroups each with 72 early 20th century paintings.
+        View the different subgroups
         by selecting the left menu icon. <p>
        
         <a href=/?p=boss/express><img src=/data/boss/express/0000/420.240.gif></img></a>

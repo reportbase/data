@@ -74,7 +74,6 @@ h1, p { margin: 0 0 1em 0; }
     padding-top: 10px;
     padding-bottom: 10px; 
     grid-area: title; 
-    border: 20px solid black; 
 }
 
 .section-image

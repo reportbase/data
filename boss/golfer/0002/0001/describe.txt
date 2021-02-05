@@ -5,11 +5,11 @@
 
     <div class="content">
         <div style="font-size:medium">
-        Generate RepaView motion pictures by exporting video frames to an imagegroup
+        Generate RepaView motion pictures by exporting specific video frames to an imagegroup
         creating short, fast loading, zoomable, variable speed motion
         pictures with auto replay.  The above motion picture is a golf
-        swing exported from a 60fps 4K video. This methodology also supports creation
-        of time elapsed motion pictures.<p><br>
+        swing exported from a 60fps 4K video. Swing videos captures at 30fps or 60fps typically use 54 RepbaView images. 
+        This methodology also supports creation of time elapsed motion pictures.<p><br>
 
         Tap one of the top images and click the toolbar fullscreen icon to
         enable the full height view.  Swipe left on the top left 1/3 screen to enable
@@ -18,7 +18,8 @@
         left side of the screen to move backward one frame. See if you can position the club head nudging the ball
         slightly off the golf tee.  This type of focused control is 
         difficult using videos.   Click the top left menu "home/Jimmy" button to enable
-        menu of other golfers.  Select another golfer to view their swings.  <p><br>
+        menu of other golfers.  Select another golfer to view their swings. Click the browser back arrow or enter the 
+        repba.com url to return to the home page. <p><br>
         </div>
     </div>
 

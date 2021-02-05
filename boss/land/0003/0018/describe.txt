@@ -1,1 +1,1 @@
-<a target=ifr href=/?p=boss/land/0003&k=0018&a=1&s=300&f=1&image=0>San Cristobal Point</a><br>
+<a target=ifr href=/?p=boss/land/0003&k=0020&a=1&s=300&f=1&image=0>Hallgrimskirk Point</a><br>

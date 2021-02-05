@@ -4,65 +4,69 @@
     </div>
     <div class="content">
 	    <div style="font-size:medium">
-            View images like never before in full screen panorama.  Display
-            widescreen imagery on portrait screens.  The repba.com site summarizes
-            how the RepbaView web application provides <a target=ifr
-            href="/?p=boss/ultra&k=0006&a=1&s=2&f=1">hosting services</a> for
-            customers aiming to display their images in new and creative ways.
-            <br><p><p>
+            View images like never before in full screen panorama. Display
+            widescreen imagery on cell phones, tablets and PC screens. Websites typically
+        stack pictures vertically and employ thumbnails, whereas RepbaView full screen images are displayed horizontally,
+        providing continuous wrap around image viewing. RepbaView redefines dynamic menus
+        using its cylindrical panoramic design.                
+        <br><p><p>
+         </div>     
+                
 
-            RepbaView renders <a target=ifr
-            href="/?p=boss/ultra&k=0001&a=1&s=2&f=1">images at full height</a> on
-            PC's tablets, and cell phones.  It provides motion <a target=ifr
-            href="/?p=boss/ultra&k=0002&a=1&s=2&f=1">panorama and slideshow</a>
-            displays to enhance the user experience.  Thumbnail displays allow
-            users to quickly search and select specific images in large image
-            collections. The RepbaView design using a cylindrical panorama enables
-            it to effectively display <a target=ifr
-            href="/?p=boss/land/0000&k=0000&a=1&s=2&f=1">360&deg; panorama</a> images.
-            This technology also provides state-of-the-art dynamic panoramic menus.
-            Integrating images extracted from videos into RepbaView <a target=ifr
-            href="/?p=boss/golfer/0002&k=0001&a=1&s=2&f=1">motion pictures</a>
-            provides viewing advantages for short videos such as golf swings.
-        </div>
-
-        Three Steps To Get <br>Familiar With RepbaView.<p> 
-
+        Steps To Get <br>Familiar With RepbaView.<p> 
+        <div align=left>
         <div style="font-size:medium">
-            Step-1. Click on the top iFrame image to stop motion, click the
-            toolbar fullscreen icon to enable the full height view, click the
-            right/left side of screen to move forward/backward thru the images,
-            click the top left image menu icon and view various gallery images, and
-            finally reselect the repba.com url to return to this display.
+            1. Click the top iFrame image to stop panoramic mostion. Click the
+            right/left side of image to move forward/backward thru the images. The next objective is
+            to activate the iFrame top image to full height and view various image galleries by clicking 
+            subgroup buttons on the top left image menu. Click the bottom right icon to activate the
+            iFrame image at full height.<p><p>            
+            2. Perform the actions defined by the <a target=ifr
+            href="/?p=boss/ultra&k=0001&a=1&s=2&f=1">RepaView Images</a> page.<p><p>
         </div><p>
 
         <div style="font-size:medium;">
-            Step-2. Two additional image groups further demonstrate RepbaView.
-            For each imagegroup, select different menu subgroups, manually pan
-            a stopped image, and select panorama and slideshow auto motions using 
-            the upper right command menu icon.
-            Refer to the help menu for command info. If user has keyboard, type
-            "f' to remove and add image frames.  Click back arrow to return to this page. 
-            
+            3. Select different menu subgroups and initiate panorama and slideshow 
+            motion for each subgroup. Refer to the help menu for command information.                                   
             <a href=/?p=boss/king&a=1&k=0003&s=1&f=1 target="_parent"> Click to
-            start </a> the Giraffes subgroup of the animal King imagegroup. Tap the following GIF
+            start </a> the Giraffes subgroup of the animal King imagegroup. 
+            <p><p>
+            4. Repeat the step-3 actions after tapping the following GIF
             image to start the Ocean subgroup of the poke imagegroup. 
         </div><br><p>
+            
 
         <a href=/?p=boss/peek&k=0000&a=1&s=200&f=1 target="_parent"><img src=/data/boss/peek/0000/420.240.gif></a><p>
-
-        <div style="font-size:medium">
-            Step-3.<a href=/?p=boss/repo/0009&a=2&s=1&k=0000 target="_parent">
-            Click to start</a> a framed image slideshow imagegroup.  Each of
-            the many image subgroups have various number of images. Select a
-            few of the fun slideshows enabled by the top left image menu icon
-            buttons.  Then select the "office fashions" image subgroup and
-            click the toolbar triple-dots icon to enable the thumbnail view
-            that can help to find and select a specific image within a large
-            number of images.  
-        </div><p><p>
+            <div style="font-size:medium">
+            5. Perform the motion related actions defined by the <a target=ifr
+            href="/?p=boss/ultra&k=0002&a=1&s=2&f=1">RepbaView Image Motion</a> page.
+            <p><p>
  
-        <div style="">
+              
+
+        
+            
+            6. View imagegroup of various framed slideshows. The image subgroups have different numbers of images. Select a
+            few of the fun slideshows enabled by the top left image menu icon
+            buttons including the "executive fashions" image subgroup. If user device has a keyboard, type
+            "f' to remove and add image frames. 
+            Click to <a href=/?p=boss/repo/0009&a=2&s=1&k=0000 target="_parent">start the framed slideshows</a> imagegroup. 
+            <p><p>
+            7. RepbaView also displays 360&deg; panoramas and motion pictures.  
+            The RepbaView design uses a cylindrical panorama to display <a target=ifr
+            href="/?p=boss/land/0000&k=0000&a=1&s=2&f=1">360&deg; panorama</a> images.
+            Extracting images from videos into RepbaView <a target=ifr
+            href="/?p=boss/golfer/0002&k=0001&a=1&s=2&f=1">motion pictures</a>
+            provide viewing advantages for brief motion videos such as golf swings.<p><p>
+            </div>
+            
+            This site and its supporting doumentation describe
+            how the RepbaView web application provides <a target=ifr
+            href="/?p=boss/ultra&k=0006&a=1&s=2&f=1">hosting services</a> for
+            customers aiming to display their images in new and creative ways.
+            </div><p><p>
+            <div style="">
+        
             Supporting Documents<br>
             <a href=repba.pdf>RepbaView Description</a><br>
             <a href=services.pdf>Services Description</a><br>

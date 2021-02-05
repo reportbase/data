@@ -9,28 +9,30 @@
         for users to pinch-out landscape photos to full screen. Images are
         stored in a cylinder format with no gaps between images.
         The cylindrical menus enable users to conveniently select documents,
-        named picture subgroups, or commands.  As opposed to typical websites
-        that stack pictures vertically, pictures are displayed horizontally,
-        providing attractive continuous wrap around image viewing.<p><p>
+        named picture subgroups, or commands.  <p><p>
 
-        To demonstrate how panning options enable users to view the hidden portion of wide landscape
-        images, click on the above iframe images and enable the full screen icon to
-        enable the Ultra landscape imagegroup. Click right side of screen several times to 
+        The objecive is to demonstrate how panning options enable users to view the hidden portion of wide landscape
+        images.  When the full height iframe imaga is active, click right side of screen several times to 
         advance images. When image is stopped, notice that the image is wider than the screen. Two ways to
         see the full image are 1) depress the cursor on the right or left side to see the full 
-        image, or 2) pan left or right to see the full image. If not using an IOS device, select
-        the fullscreen icon to view the images in full screen and repeat steps to view the full
-        image width.  The center column of the screen is reserved for interactive image rotation and 
+        image, or 2) pan up or down to see the full image.  The center column of the screen is reserved for interactive image rotation and 
         zooming.  The arrows rotate the image up/down and the +/- icons increase/decrease magnification. 
         Rotate and magnify the image to become familar with these screen controls. Click right side of screen 
         to move to the center of the 
-        next image. Click back arrow to return to the home page. <p>
+        next image. Rotate the panorama's relative position by tapping the bottom of the screen. To move the iFrame image
+        to full height and initiate the actions, click on the above iframe images to stop motion and click on the bottom right full screen icon to
+        activate the Ultra landscape imagegroup.<p>
+        Full screen operation 
+        is dependent on the type of user client. For Windows-10, select browser full screen option for complete RepbaView full screen operation.
+        For Android, select RepbaView full screen option for full screen usage without image or command menus.  
+        RepbaView full screen mode is not supported for IOS devices.
+        <p>
 
-        Rotate the panorama's relative position by tapping the bottom of the screen.<p>
-
-        Tap the animated GIF to display an image group of landscape photography.  The image
-        group is organized into 24 sub-groups. A menu is displayed if a sub-group is not specified
-        in the URL specification.<p>
+        When activating an image without a defined url subgroup, an image menu is displayed for user selection. This test image
+        group is organized into 24 sub-groups each having 72 images. Using the image menu, click on several of the galleries to view
+        some of the more than 2000 images. Click on the image menu button "landscapes" to display 
+        the imagegroup index that displays iFrame images for each subgroup. To peform these actions, tap the animated GIF to display the landscape 
+        photography imagegroup menu. Click the browser back arrow or enter the repba.com url to return to the home page. <p>
 
         <a href=/?p=boss/scapes><img src=/data/boss/scapes/0001/420.240.gif></img></a>
        

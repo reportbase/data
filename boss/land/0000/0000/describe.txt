@@ -12,7 +12,7 @@
         image interaction is an effective way to view 360&deg; images. The
         image can be viewed manually using panning, cursor depress, or clicking
         right/left side of screen to move forward/reverse one image. When
-        viewing 360&deg; images, the entire Repba image cylinder is consumed
+        viewing 360&deg; images, the entire RepbaView image cylinder is consumed
         with the image. 360&deg; panoramic images rotate continuously without an
         inherent left or right side.<p><br>
     	
@@ -23,7 +23,8 @@
         manually rotate the image. Click screen to stop rotation and click
         toolbar arrow to restart rotation. Then select panorama and
         slideshow auto motions. <a href=/?p=boss/land/0004&k=0003&a=1&s=400
-        target="_parent"><p> Click to start</a> the New York City 360&deg; panorama.
+        target="_parent"><p> Click to start</a> the New York City 360&deg; panorama 
+        that is subgroup 0004 of imagegroup Land. 
         View using default panorama motion, slideshow motion and manually. Also
         select a few of the other interesting panoramas defined by the image
         menu.<p><p>
@@ -37,7 +38,7 @@
         rectilinear projection images.  Since it connects the ends of the image, it can
         display a wide range of projection 360&deg; image sizes providing a wrap around panning view.
         The design allows it to display various image aspect ratios. For example a 2:1 image can zoomed to viewable 
-        4:1 or 8:1 image. RepbaView can display projection 360&deg; images that include a front & back image. 
+        4:1 or 8:1 image. RepbaView displays projection 360&deg; images that include a front & back image. 
         A user can view the front or back image separately or pan accross the entire image. This also supports
         a slideshow view of an imagegroup consisting of many different projection 360&deg; images.<p><p>
 
@@ -45,22 +46,22 @@
         projection panomara images.  RepbaView is desiged to view these images. 
         <a href=/data/boss/tree/0006/004.000.jpg>Click here</a> to see how a 
         browser displays a cityscape drone projection image versus
-        <a href=/?p=boss/tree&k=0006&e=0&s=1&f=0&a=1>click here</a> to see RepbaView properly displays the image. <p>   
-
+        <a href=/?p=boss/tree&k=0006&e=0&s=1&f=0&a=1>click here</a> to see RepbaView properly displays the image.
+        <a href=/data/boss/tree/html/0007.html>Click here</a> to enable browser display of 12 car interiors 360&deg; images. Note 
+        distorted images. Click the images to see how RepbaView properly displays the images.  <p> 
         
-        Addition examples of projection 360 images can be
-        found <a href=/?p=boss/tree>here</a>.          
-        Six imagegroups each having 20-40 images are provided. Each of the imagegroups can be viewed as 
-        a slideshow or manually.  Projection 360&deg; panorama subgroups can be included in an imagegroup with other subgroup images and documents. 
+        <a href=/?p=boss/tree&k=0005&a=1&s=1&z=2&c=2&f=0>Click here</a> to activate the tree imagegroup that has 9 subgroups each         
+        having 20-40 example 360&deg; images. Each of the subgroups can be viewed as 
+        a panorama, slideshow or manually.  Projection 360&deg; panorama subgroups can be included in an imagegroup with other subgroup images and documents. 
         There are two key zooming selections: rotation and magnification. Zooming is
         particularily important for projection 360 images to obtain a quality user view. The center column of the screen is reserved for 
         interactive image rotation and 
         zooming.  The center column arrows rotate the image up/down and the +/- icons increase or decrease magnification. To prevent panoramic 
         edge distortions, image framing (&f=0 in url) is recommended. Screen rotation and magnification steps are 
-        likely needed to properly display interesting portions of the image.  Reference the command menu help button for
-        detailed command and screen interaction information. Panning keeps the active left & right images of the panorama displayed.  The right or left arrows
-        move to the next projection 360&deg; image in the subgroup. RepaView allows viewing projection 360 panoramas without using
-        special headsets.  
+        likely needed to properly display specific portions of the image.  Reference the command menu help button for
+        detailed command and screen interaction information. Panning keeps the active left & right images of the panorama displayed without moving to the next image.  The right or left arrows
+        move to the next projection 360&deg; image in the subgroup. RepaView allows viewing projection 360&deg; panoramas without using
+        special headsets. Click the browser back arrow or enter the repba.com url to return to the home page.  
        
          <p>
         

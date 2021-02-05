@@ -1,4 +1,4 @@
-for image in *.jpg; do convert $image -quality 80 $image ; done
-#for image in *.jpg 5*; do convert $image -resize 900x1080! -quality 80 $image; done
+convert 004.000.jpg -resize x280 thumb.jpg 
+convert thumb.jpg -gravity center -crop 640x280+0+0 thumb.jpg
 
 
