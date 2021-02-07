@@ -1,6 +1,6 @@
-total 21084
-drwx--x--x  4 scott users    4096 Jan 17 19:20 .
-drwx--x--x 20 scott users    4096 Jan 17 18:56 ..
+total 16400
+drwx--x--x  4 scott users    4096 Feb  6 18:31 .
+drwx--x--x 21 scott users    4096 Feb  6 17:50 ..
 -rw-rw-r--  1 scott users  966554 Jan 17 19:20 003.000.jpg
 -rw-rw-r--  1 scott users 1372271 Jan 17 19:20 003.001.jpg
 -rw-rw-r--  1 scott users 1006437 Jan 17 19:20 003.002.jpg
@@ -10,12 +10,21 @@ drwx--x--x 20 scott users    4096 Jan 17 18:56 ..
 -rw-rw-r--  1 scott users 2341506 Jan 17 19:20 006.000.jpg
 -rw-rw-r--  1 scott users 2232141 Jan 17 19:20 006.001.jpg
 -rw-rw-r--  1 scott users 1972053 Jan 17 19:20 006.002.jpg
--rw-rw-r--  1 scott users 3349587 Jan 17 19:20 009.000.jpg
--rw-rw-r--  1 scott users 3198177 Jan 17 19:20 009.001.jpg
--rw-rw-r--  1 scott users 1906484 Jan 17 19:20 018.000.jpg
--rw-rw-r--  1 scott users     320 Jan 17 19:20 aspects.out
--rw-rw-r--  1 scott users     929 Jan 17 19:20 error
--rw-rw-r--  1 scott users       0 Jan 17 19:20 files.out
+-rw-rw-r--  1 scott users  799578 Feb  6 18:31 009.000.jpg
+-rw-rw-r--  1 scott users  745868 Feb  6 18:31 009.001.jpg
+lrwxrwxrwx  1 scott users      11 Feb  5 19:20 012.000.jpg -> 006.000.jpg
+lrwxrwxrwx  1 scott users      11 Feb  5 19:20 012.001.jpg -> 006.001.jpg
+lrwxrwxrwx  1 scott users      11 Feb  5 19:20 012.002.jpg -> 006.002.jpg
+lrwxrwxrwx  1 scott users      11 Feb  5 19:20 012.003.jpg -> 006.003.jpg
+lrwxrwxrwx  1 scott users      11 Feb  5 19:20 012.004.jpg -> 006.004.jpg
+lrwxrwxrwx  1 scott users      11 Feb  5 19:20 012.005.jpg -> 006.005.jpg
+-rw-rw-r--  1 scott users  815200 Jan 26 11:05 240.240.gif
+-rw-rw-r--  1 scott users 1279012 Jan 26 11:04 420.240.gif
+-rw-rw-r--  1 scott users    1262 Feb  6 18:31 aspects.out
+-rw-rw-r--  1 scott users    1414 Jan 17 19:20 describe.txt
+-rw-rw-r--  1 scott users    1486 Feb  6 17:58 div.out
+-rw-rw-r--  1 scott users    1050 Feb  6 18:31 error
+-rw-rw-r--  1 scott users       0 Feb  6 18:31 files.out
 -rw-rw-r--  1 scott users      35 Dec 26 22:27 meta.ini
 drwxrwxr-x  2 scott users    4096 Jan 17 19:20 orig
-drwxrwxr-x  2 scott users    4096 Jan 17 19:20 tmp
+drwxrwxr-x  2 scott users    4096 Feb  6 18:31 tmp

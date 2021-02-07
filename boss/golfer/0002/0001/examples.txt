@@ -1,4 +1,0 @@
-<iframe src="/?p=boss/golfer/0000&k=0000&e=0&a=2&s=400&f=0" height=320 width=220 scrolling=no frameborder=0></iframe>
-<iframe src="/?p=boss/golfer/0001&k=0000&e=0&a=2&s=400&f=0" height=320 width=220 scrolling=no frameborder=0 ></iframe>
-<iframe src="/?p=boss/golfer/0002&k=0000&e=0&a=2&s=400&f=0" height=320 width=220 scrolling=no frameborder=0 ></iframe>
-

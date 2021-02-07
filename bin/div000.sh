@@ -18,7 +18,7 @@ printf '<div class=section-links>\n' >> div.out
 
 for i in $(seq 0 $COUNT); do 
     ID=$(printf "%03d" "$i") 
-    printf '<a target=ifr href=/?p=boss/%s&k=%s&a=%s&s=%s&f=%s&image=%s>%s</a> /\n' $PROJECTNAME $NAME $a $s $f $i $ID >> div.out
+    printf '<a target=ifr href=/?p=boss/%s&k=%s&a=%s&s=%s&f=%s&image=%s>%s</a>&nbsp;/\n' $PROJECTNAME $NAME $a $s $f $i $ID >> div.out
 done
 
 printf '</div><p>\n' >> div.out

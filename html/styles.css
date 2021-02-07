@@ -50,12 +50,17 @@ a:active { color:blue; }
 img { max-width: 100%; }
 h1, p { margin: 0 0 1em 0; }
 
-.media 
+.media.back
 { 
     margin-bottom: 0em; 
     border-radius: 10% / 50%;
     border: 20px solid black; 
     padding: 20px 70px 20px 70px; 
+}
+
+.media 
+{ 
+    margin-bottom: 0em; 
 }
 
 .media > .title 

@@ -1,5 +1,7 @@
+
 #../lbin/symlink.sh
-div.sh
+div000.sh
 #../bin/./gif.sh
-#../bin/./full.sh
+rm *.jpg
+../bin/./full.sh
 #../bin/./join.sh

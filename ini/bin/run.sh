@@ -1,4 +1,4 @@
-#../lbin/./resize.sh
-div001.sh
-#../lbin/./symlink.sh
-#../bin/./resize.sh
+#rm *.jpg
+#div001.sh
+#../lbin/./full.sh
+../lbin/./tem.sh
