@@ -6,5 +6,5 @@ cd 0000
 for ((i=0;i<=$COUNT;i++)); do
     FOLDER=$(printf "../%04d" "$i")
     cd $FOLDER
-    ../bin/./run.sh
+    ../ini/./run.sh
 done

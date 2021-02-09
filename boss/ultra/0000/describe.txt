@@ -4,41 +4,47 @@
     </div>
     <div class="content">
 	    <div style="font-size:medium">
+             <div align=left>
             View images like never before in full screen panorama. Display
             widescreen imagery on cell phones, tablets and PC screens. Websites typically
         stack pictures vertically and employ thumbnails, whereas RepbaView full screen images are displayed horizontally,
         providing continuous wrap around image viewing. RepbaView redefines dynamic menus
         using its cylindrical panoramic design.                
         <br><p><p>
-         </div>     
+         </div>
+           </div>     
                 
 
         Steps To Get <br>Familiar With RepbaView.<p> 
         <div align=left>
         <div style="font-size:medium">
-            1. Click the top iFrame image to stop panoramic mostion. Click the
-            right/left side of image to move forward/backward thru the images. The next objective is
-            to activate the iFrame top image to full height and view various image galleries by clicking 
-            subgroup buttons on the top left image menu. Click the bottom right icon to activate the
-            iFrame image at full height.<p><p>            
-            2. Perform the actions defined by the <a target=ifr
+            1. Interact with the top iFrame image. Click the top iFrame image to stop panoramic motion and click 
+            the right/left side of image to move forward/backward thru the images.<p><p>          
+            2. Select imagegroup subgroups using the image menu. After 
+            <a href=/?p=boss/ultra&a=1&k=0004&s=1&f=1 target="_parent">click to start </a>the Ultra image group, view various 
+            image galleries by clicking the left icon image menu subgroup buttons. Click the browser back arrow to return 
+            to this page. <p><p>
+            3. Perform actions defined by the <a target=ifr
             href="/?p=boss/ultra&k=0001&a=1&s=2&f=1">RepaView Images</a> page.<p><p>
         </div><p>
 
         <div style="font-size:medium;">
-            3. Select different menu subgroups and initiate panorama and slideshow 
-            motion for each subgroup. Refer to the help menu for command information.                                   
+            4. Enable panorama 
+            and slideshow motion using the command menu with various image subgroups. After motion type is 
+            selected, click the command menu icon to clear the displayed buttons. Click anywhere on the screen 
+            to stop motion and click the toolbar right-arrow to start motion. Refer to the command menu help button for 
+            command information. There are two action sequences. 1)                                    
             <a href=/?p=boss/king&a=1&k=0003&s=1&f=1 target="_parent"> Click to
-            start </a> the Giraffes subgroup of the animal King imagegroup. 
-            <p><p>
-            4. Repeat the step-3 actions after tapping the following GIF
-            image to start the Ocean subgroup of the poke imagegroup. 
-        </div><br><p>
+            start </a> the Giraffes subgroup of the animal King imagegroup to perform the actions. 
+            Click the browser back arrow to return to this page. 2) Tap the GIF image below to start the Ocean subgroup 
+            of the poke imagegroup and perform the above actions. 
+            Click the browser back arrow to return to this page.<p>
+                </div><br>
             
 
         <a href=/?p=boss/peek&k=0000&a=1&s=200&f=1 target="_parent"><img src=/data/boss/peek/0000/420.240.gif></a><p>
             <div style="font-size:medium">
-            5. Perform the motion related actions defined by the <a target=ifr
+            5. Perform actions defined by the <a target=ifr
             href="/?p=boss/ultra&k=0002&a=1&s=2&f=1">RepbaView Image Motion</a> page.
             <p><p>
  
