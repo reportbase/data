@@ -1,1 +1,0 @@
-../bin/links.sh

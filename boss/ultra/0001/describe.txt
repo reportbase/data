@@ -33,7 +33,7 @@
         group is organized into 24 sub-groups each having 72 images. Using the image menu, click on several of the galleries to view
         some of the more than 2000 images. Click on the image menu button "landscapes" to display 
         the imagegroup index that displays iFrame images for each subgroup. To peform these actions, tap the following animated GIF to display the landscape 
-        photography imagegroup menu. Enter the repba.com url to return to the home page and perform step-6 of the RepbaView familization steps.<p>
+        photography imagegroup menu. Enter the repba.com url to return to the home page and perform step-4 of the RepbaView familization steps.<p>
        
         <a href=/?p=boss/scapes><img src=/data/boss/scapes/0001/420.240.gif></img></a>
        
@@ -41,7 +41,8 @@
      </div>
 
     <div class="footer">
-        <a href=javascript:void(0) onclick="goservices()">repba.image.services</a>
+        <a target=ifr href="/?p=boss/ultra&k=0006&a=1&s=2&f=1">repba.image.services</a>
+
     </div>
 </div>
 

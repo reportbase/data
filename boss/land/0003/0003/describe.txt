@@ -1,1 +1,1 @@
-<a target=ifr href=/?p=boss/land/0003&k=0003&a=1&s=300&f=1&image=0>Quan Point</a><br>
+<a target=ifr href=/?p=boss/land/0003&k=0019&a=1&s=300&f=1&image=0>Conundrum Point</a><br>

@@ -1,3 +1,3 @@
 #left,top      right,bottom
-convert 007.000.webp -crop +0+100 -crop -0-0 007.000.webp
+convert 006.000.jpg -crop +0+100 -crop -0-0 006.000.a.jpg
 

@@ -4,6 +4,7 @@
     </div>
     <div class="content">
         <div style="font-size:medium">
+        <div align=left>
         RepbaView stores images in a cylinder format that is rotated 360
         degrees to display panoramic or slideshow images.  The images are
         displayed by a rotating scan of the cylinder in either direction. The
@@ -24,15 +25,16 @@
         RepbaView creates animated GIFs when building imagegroups. Gifs are
         useful for posting to social media and emails. Click on the following GIF image
         to enable the Express imagegroup having 7 subgroups each with 72 early 20th century paintings.
-        View the different subgroups
-        by selecting the left menu icon. <p>
+        View the different subgroups     
+        by selecting the left menu icon. Enter the repba.com url to return to the home page and 
+        perform step-6 of the RepbaView familization steps.<p>
        
         <a href=/?p=boss/express><img src=/data/boss/express/0000/420.240.gif></img></a>
-        
+        </div>
         </div>
     </div>
     <div class="footer">
-        <a href=javascript:void(0) onclick="goservices()">repba.image.services</a>
+        <a target=ifr href="/?p=boss/ultra&k=0006&a=1&s=2&f=1">repba.image.services</a>
     </div>
 </div>
 

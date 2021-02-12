@@ -5,11 +5,11 @@
     <div class="content">
 	    <div style="font-size:medium">
              <div align=left>
-            View images like never before in full screen panorama. Display
+            View images in full screen panorama. Display
             widescreen imagery on cell phones, tablets and PC screens. Websites typically
         stack pictures vertically and employ thumbnails, whereas RepbaView full screen images are displayed horizontally,
-        providing continuous wrap around image viewing. RepbaView redefines dynamic menus
-        using its cylindrical panoramic design.                
+        providing continuous wrap around image viewing. It's cylindrical panoramic design is used to render images and 
+        create innovative menus.              
         <br><p><p>
          </div>
            </div>     
@@ -22,7 +22,7 @@
             the right/left side of image to move forward/backward thru the images.<p><p>          
             2. Select imagegroup subgroups using the image menu. After 
             <a href=/?p=boss/ultra&a=1&k=0004&s=1&f=1 target="_parent">click to start </a>the Ultra image group, view various 
-            image galleries by clicking the left icon image menu subgroup buttons. Click the browser back arrow to return 
+            image galleries by clicking the left icon image menu buttons. Click the browser back arrow to return 
             to this page. <p><p>
             3. Perform actions defined by the <a target=ifr
             href="/?p=boss/ultra&k=0001&a=1&s=2&f=1">RepaView Images</a> page.<p><p>
@@ -47,17 +47,18 @@
             5. Perform actions defined by the <a target=ifr
             href="/?p=boss/ultra&k=0002&a=1&s=2&f=1">RepbaView Image Motion</a> page.
             <p><p>
- 
               
-
-        
-            
-            6. View imagegroup of various framed slideshows. The image subgroups have different numbers of images. Select a
-            few of the fun slideshows enabled by the top left image menu icon
-            buttons including the "executive fashions" image subgroup. If user device has a keyboard, type
+            6. View imagegroup of framed slideshows and panorams of various image numbers and sizes. 
+            As demonstrated by this imagegroup, RepbaView 
+            is designed to effectively display slideshows.
+            Select a few of the fun slideshows enabled by the top left image menu icon
+            buttons including the "executive fashions", "costumes", "Sport Shots", and "Globe" image subgroups. 
+            If user device has a keyboard, type
             "f' to remove and add image frames. 
-            Click to <a href=/?p=boss/repo/0009&a=2&s=1&k=0000 target="_parent">start the framed slideshows</a> imagegroup. 
-            <p><p>
+            Click to <a href=/?p=boss/repo/0009&a=2&s=1&k=0000 target="_parent">start the framed slideshows</a> imagegroup
+            to access some of the various subgroups. 
+            Enter the repba.com url to return to this page and perform step-7 of the RepbaView familization.<p> 
+            <p>
             7. RepbaView also displays 360&deg; panoramas and motion pictures.  
             The RepbaView design uses a cylindrical panorama to display <a target=ifr
             href="/?p=boss/land/0000&k=0000&a=1&s=2&f=1">360&deg; panorama</a> images.
@@ -67,7 +68,7 @@
             </div>
             
             This site and its supporting doumentation describe
-            how the RepbaView web application provides <a target=ifr
+            RepbaView web application <a target=ifr
             href="/?p=boss/ultra&k=0006&a=1&s=2&f=1">hosting services</a> for
             customers aiming to display their images in new and creative ways.
             </div><p><p>

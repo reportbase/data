@@ -1,5 +1,0 @@
-<a target=ifr href=/?p=boss/tree/0000&k=0000&a=&b=&f=&s=>Gallery I</a><br>
-<a target=ifr href=/?p=boss/tree/0000&k=0001&a=&b=&f=&s=>Gallery II</a><br>
-<a target=ifr href=/?p=boss/tree/0000&k=0002&a=&b=&f=&s=>Gallery III</a><br>
-<a target=ifr href=/?p=boss/tree/0000&k=0003&a=&b=&f=&s=>Gallery IV</a><br>
-<a target=ifr href=/?p=boss/tree/0000&k=0004&a=&b=&f=&s=>Gallery V</a><br>

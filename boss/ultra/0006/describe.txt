@@ -3,7 +3,7 @@
         RepbaView Services
     </div>
     <div class="content">
-        
+        <div align=left>
         Contact the RepbaView team for proposals and quotes.
         Free imagegroup deployment based on customer estimated 
         price concurrence is provided. Invoicing occurs when 
@@ -37,6 +37,7 @@
         <U>Custom Pricing</U><br> Unique service with special pricing. 
         Adding subgroups, images, or renewals may be facilitated by this 
         service. Send email to support@repba.com to request specific custom pricing.<p> 
+        </div>
         </div>
     </div>
     <div class="footer">

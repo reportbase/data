@@ -1,2 +1,2 @@
-convert a.jpg a.jpg a.jpg +append 006.000.jpg
+convert  *.jpg +append 012.000.jpg
 

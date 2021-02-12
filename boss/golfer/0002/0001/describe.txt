@@ -5,6 +5,7 @@
 
     <div class="content">
         <div style="font-size:medium">
+        <div align=left>
         Generate RepaView motion pictures by exporting specific video frames to an imagegroup
         creating short, fast loading, zoomable, variable speed motion
         pictures with auto replay.  The above motion picture is a golf
@@ -17,13 +18,15 @@
         Refer to the command help menu and tap the right screen to move forward one frame and
         left side of the screen to move backward one frame. See if you can position the club head nudging the ball
         slightly off the golf tee.  This type of focused control is 
-        difficult using videos.   Click the top left menu "Jimmy" button to enable
-        menu of other golfers.  Select another golfer to view their swings. Click the browser back arrow or enter the 
+        difficult using videos. Click the top left menu "Jimmy" button to enable
+        menu of other golfers. Select another golfer to view their swings. Click the browser back arrow or enter the 
         repba.com url to return to the home page. <p><br>
+        </div>
         </div>
     </div>
 
     <div class="footer">
-        <a href=javascript:void(0) onclick="goservices()">repba.image.services</a>
+        <a target=ifr href="/?p=boss/ultra&k=0006&a=1&s=2&f=1">repba.image.services</a>
+
     </div>
 </div>
