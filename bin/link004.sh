@@ -14,7 +14,7 @@ printf 'Size = '$COUNT'\n\n' >> html/links.ini
 COUNT=`expr $count - 1`
 for i in $(seq 0 $COUNT); do 
     PROJECT=$(printf "%04d" "$i") 
-    . $PROJECT/0000/meta.ini
+    . $PROJECT/meta.ini
     TITLE="${title}"
     a=${a}
     f=${f}
@@ -23,7 +23,7 @@ for i in $(seq 0 $COUNT); do
     c=${c}
     printf '[%s]\n' $PROJECT >> html/links.ini
     printf 'Title = %s\n' "$TITLE" >> html/links.ini
-    printf 'Path = /?p=boss/%s/%s&k=0000&a=%s&s=%s&f=%s&c=%s&z=%s\n' $THISNAME $PROJECT $a $s $f $c $z >> html/links.ini
+    printf 'Path = /?p=boss/%s&k=%s&a=%s&s=%s&f=%s&c=%s&z=%s\n' $THISNAME $PROJECT $a $s $f $c $z >> html/links.ini
 done
 
 
