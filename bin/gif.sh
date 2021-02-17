@@ -3,6 +3,7 @@ cd tmp
 
 cp ../orig/*.jpg .
 for image in *.jpg; do convert $image -sampling-factor 4:2:0 -strip -quality 80 -interlace JPEG -resize x240 -colorspace RGB $image ; done
+convert -delay 100 -loop 0 {0000..0008}.jpg ../240.gif
 for image in *.jpg; do convert $image -gravity center -crop 420x240+0+0 $image; done
 convert -delay 100 -loop 0 {0000..0008}.jpg ../420.240.gif
 
