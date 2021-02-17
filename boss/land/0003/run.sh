@@ -1,3 +1,3 @@
+./html/./links.sh
 all.sh
-link002.sh
-home000.sh
+home.sh

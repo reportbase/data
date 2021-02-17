@@ -2,8 +2,6 @@
 THISIZE=${count}
 THISNAME=${name}
 a=${a}
-f=${f}
-s=${s}
 
 printf '[8000]\n' > html/links.ini  
 printf 'Title = %s\n' "$title" >> html/links.ini
@@ -20,7 +18,7 @@ for i in $(seq 0 $COUNT); do
     TITLE="${title}"
     printf '[%s]\n' $PROJECT >> html/links.ini
     printf 'Title = %s\n' "$TITLE" >> html/links.ini
-    printf 'Path = /?p=boss/%s&k=%s&a=%s&s=%s&f=%s\n' $THISNAME $PROJECT $a $s $f >> html/links.ini
+    printf 'Path = /?p=boss/%s&k=%s&a=%s\n' $THISNAME $PROJECT $a >> html/links.ini
 done
 
 

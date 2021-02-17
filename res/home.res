@@ -4,7 +4,7 @@
 </head>
 
 <body>
-<iframe name=ifr id=ifr src="/?p=boss/{PARENTNAME}/{PROJECTNAME}&k=0000&e=0&a={a}&f={f}&s={s}&z={z}&c={c}" 
+<iframe name=ifr id=ifr src="/?p=boss/{PARENTNAME}/{PROJECTNAME}&k=0000&e=0&a=1" 
     frameborder=0 width=100% ></iframe><br>
 <p>
 <center>

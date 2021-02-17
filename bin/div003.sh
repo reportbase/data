@@ -4,10 +4,6 @@ PROJECTITLE=${title}
 PROJECTNAME=${name}
 PROJECTCOUNT=${count}
 a=${a}
-f=${f}
-s=${s}
-z=${z}
-c=${c}
 
 . meta.ini
 NAME=${PWD##*/} 

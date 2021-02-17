@@ -63,7 +63,7 @@
             The RepbaView design uses a cylindrical panorama to display <a target=ifr
             href="/?p=boss/land/0000&k=0000&a=1&s=2&f=1">360&deg; panorama</a> images.
             Extracting images from videos into RepbaView <a target=ifr
-            href="/?p=boss/golfer/0002&k=0001&a=1&s=2&f=1">motion pictures</a>
+            href="/?p=boss/golfer/0002&k=0001&a=2&s=2&f=1">motion pictures</a>
             provide viewing advantages for brief motion videos such as golf swings.<p><p>
             </div>
             
