@@ -6,7 +6,10 @@ printf 'Title = %s\n' "Home" >> html/links.ini
 printf 'Fill.Color = rgba(0,0,100,0.7)\n' >> html/links.ini
 printf 'Path = /data/boss/%s/html/000.html\n' ${NAME} >> html/links.ini
 
-COUNT=`expr $count - 2`
+COUNT=`expr $count + 1`
+printf 'Size = '$COUNT'\n\n' >> html/links.ini
+
+COUNT=`expr $count - 1`
 for i in $(seq 0 $COUNT); do 
     PROJECT=$(printf "%04d" "$i") 
     . $PROJECT/meta.ini

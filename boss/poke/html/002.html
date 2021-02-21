@@ -38,8 +38,7 @@
 <script>
 function projects() {return document.getElementById("projects"); }
 function images() {return document.getElementById("images"); }
-var k = url.pathname.split("/")[3]
-document.getElementById("ifr").src="/?p=boss/"+k+"&k=0000&e=0&a=1" 
+document.getElementById("ifr").src="/?p=boss/"+meta.name+"&k=0000&e=0&a=1" 
 
 var str = "";
 for (var n = 0; n < meta.data.length; ++n)

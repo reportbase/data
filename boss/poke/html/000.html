@@ -17,7 +17,7 @@
 
 <div class="media">
     <div class="title">
-        Poke
+        <div id=title></div>
     </div>
 
     <div class=content>
@@ -34,7 +34,8 @@
 </table>
 <script type="text/javascript" src="iframe.js"></script>
 <script>
-function projects() {return document.getElementById("projects"); }
+function title() {return document.getElementById("title");}
+function projects() {return document.getElementById("projects");}
 document.getElementById("ifr").src="/?p=boss/"+meta.name+"&k=0000&e=0&a=1" 
 
 var str = "";
@@ -43,17 +44,18 @@ for (var n = 0; n < meta.data.length; ++n)
     var id = n.pad(4); 
     var obj = meta.data[n];
     str += "<div class=section-title>"+obj.title+"</div>\n";
-    str += "<div class=section-image><a target=ifr href=/?p=boss/"+meta.name+"&k="+id+"&a=1&image=0><img src=/data/boss/"+meta.name+"/"+id+"/420.240.gif></img></a></div>\n";
+    str += "<div class=section-image><a target=ifr href=/?p=boss/"+meta.name+"&k="+id+"&a=1><img src=/data/boss/"+meta.name+"/"+id+"/420.240.gif></img></a></div>\n";
     str += "<div class=section-links>\n";
     for (var m = 0; m < obj.count; ++m)
     {
         var name = (m+1).pad(4); 
-        str += "<a target=ifr href=/?p=boss/"+meta.name+"&k="+id+"&a=1&image=0>"+name+"</a>&nbsp;\n";
+        str += "<a target=ifr href=/?p=boss/"+meta.name+"&k="+id+"&a=1&image="+m+">"+name+"</a>&nbsp;\n";
     }
 
     str += "</div>\n";
 }
 
+title().innerHTML = meta.title;
 projects().innerHTML = str;
 </script>
 

@@ -1,0 +1,1 @@
+sed '/url=/d' meta.ini #delete line from ini
