@@ -1,4 +1,4 @@
-for image in 054*.jpg; do convert $image -sampling-factor 4:2:0 -strip -quality 50 -resize x360 -interlace JPEG -colorspace RGB $image ; done
+for image in *.gif; do convert $image -sampling-factor 4:2:0 -strip -quality 70 -resize x540 -interlace JPEG -colorspace RGB $image ; done
 #for image in *.jpg 5*; do convert $image -resize 900x1080! -quality 80 $image; done
 
 

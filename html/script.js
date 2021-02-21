@@ -9,6 +9,13 @@ Number.prototype.pad = function(size)
 	    return s;
 }
 
+function image(n)
+{
+    scroll(0,0); 
+    var a = { "key": "image", "value": n } 
+    ifr().postMessage(a, url.origin);
+}
+
 window.addEventListener("keydown", function (evt)
 {
     if (ifr().postMessage(evt.key, url.origin))
@@ -19,17 +26,4 @@ window.addEventListener("keydown", function (evt)
     }
 
 }, false);
-
-function getstring(name, projects, size)
-{
-    var str = "";
-    var m = 0;
-    for (var k = 0; k < projects; ++k)
-    {
-        for (var n = 0; n < size; ++n, ++m)
-            str += "<a target=ifr href=/?p=boss/"+name+"&k=0000&a=1&s=300&f=1&image="+m.pad(3)+">"+(m+1).pad(3)+"</a> / ";
-    }
-    
-    return str;
-}
 

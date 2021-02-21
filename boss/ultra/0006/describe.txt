@@ -4,6 +4,7 @@
     </div>
     <div class="content">
         <div align=left>
+
         Contact the RepbaView team for proposals and quotes.
         Free imagegroup deployment based on customer estimated 
         price concurrence is provided. Invoicing occurs when 

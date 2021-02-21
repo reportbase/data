@@ -10,7 +10,8 @@
         creating short, fast loading, zoomable, variable speed motion
         pictures with auto replay.  The above motion picture is a golf
         swing exported from a 60fps 4K video. Swing videos captures at 30fps or 60fps typically use 54 RepbaView images. 
-        This methodology also supports creation of time elapsed motion pictures.<p><br>
+        This methodology also supports creation of time elapsed motion pictures.
+        Tap<a href=javascript:void(0) onclick="image(8)"> here </a> to go directly to the 8th frame.</a> <p><br>
 
         Tap one of the top images and click the toolbar fullscreen icon to
         enable the full height view.  Swipe left on the top left 1/3 screen to enable
@@ -22,6 +23,8 @@
         menu of other golfers. Select another golfer to view their swings. Click the browser back arrow or enter the 
         repba.com url to return to the home page. <p><br>
         </div>
+        
+        <a href=/?p=boss/golfer/0002&k=0001&a=2><img src=/data/boss/golfer/0002/0001/054.gif></img></a>
         </div>
     </div>
 

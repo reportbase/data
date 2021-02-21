@@ -1,0 +1,41 @@
+<head>
+<link rel="stylesheet" href="styles.css">
+<script type="text/javascript" src="meta.js"></script>
+<script type="text/javascript" src="script.js"></script>
+</head>
+
+<script>
+</script>
+</head>
+<body>
+<center>
+
+<table>
+<tr>
+<td width=60></td>
+<td width=960 align=center>
+
+    <div id=projects></div>
+   
+</td>
+<td width=60></td>
+</tr>
+</table>
+<script type="text/javascript" src="iframe.js"></script>
+<script>
+function projects() {return document.getElementById("projects"); }
+var str = "";
+for (var n = 0; n < meta.data.length; ++n)
+{
+    var id = n.pad(4);
+    var obj = meta.data[n];
+    str += "<div>";
+    str += "<div>"+obj.title+"</div>\n";
+    str += "<a target=ifr href=/?p=boss/"+meta.name+"&k="+id+"&a=1&image=0><img src=/data/boss/"+meta.name+"/"+id+"/420.240.gif></img></a></div>\n";
+    str += "</div>";
+}
+
+projects().innerHTML = str;
+</script>
+</body>
+

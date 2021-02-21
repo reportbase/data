@@ -1,1 +1,1 @@
-../../../bin/link000.sh
+../../poke/html/links.sh

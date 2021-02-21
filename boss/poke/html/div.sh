@@ -1,5 +1,6 @@
 . ../meta.ini
 PROJECTNAME=${name}
+PROJECTCOUNT=${count}
 
 . meta.ini
 NAME=${PWD##*/} 
@@ -17,4 +18,5 @@ for i in $(seq 0 $COUNT); do
 done
 
 printf '</div><p>\n' >> div.out
+
 
