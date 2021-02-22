@@ -1,1 +1,1 @@
-../0000/run.sh
+../../seem/run.sh

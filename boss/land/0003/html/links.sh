@@ -1,1 +1,1 @@
-../../0000/html/links.sh
+../../0001/html/links.sh

@@ -42,7 +42,7 @@
                 </div><br>
             
 
-        <a href=/?p=boss/peek&k=0000&a=1&s=200&f=1 target="_parent"><img src=/data/boss/peek/0000/420.240.gif></a><p>
+        <a href=/?p=boss/peek&k=0000&a=1&s=200&f=1 target="_parent"><img src=/data/boss/peek/0000/320.gif></a><p>
             <div style="font-size:medium">
             5. Perform actions defined by the <a target=ifr
             href="/?p=boss/ultra&k=0002&a=1&s=2&f=1">RepbaView Image Motion</a> page.
@@ -53,9 +53,7 @@
             is designed to effectively display slideshows.
             Select a few of the fun slideshows enabled by the top left image menu icon
             buttons including the "executive fashions", "costumes", "Sport Shots", and "Globe" image subgroups. 
-            If user device has a keyboard, type
-            "f' to remove and add image frames. 
-            Click to <a href=/?p=boss/repo/0009&a=2&s=1&k=0000 target="_parent">start the framed slideshows</a> imagegroup
+            Click to <a href=/?p=boss/repo&k=0009&d=0&a=2 target="_parent">start the framed slideshows</a> imagegroup
             to access some of the various subgroups. 
             Enter the repba.com url to return to this page and perform step-7 of the RepbaView familization.<p> 
             <p>

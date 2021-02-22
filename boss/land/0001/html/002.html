@@ -1,0 +1,61 @@
+<head>
+<link rel="stylesheet" href="styles.css">
+<script type="text/javascript" src="meta.js"></script>
+<script type="text/javascript" src="script.js"></script>
+</head>
+
+<body>
+<iframe name=ifr id=ifr frameborder=0 width=100%></iframe><br>
+<p>
+<center>
+<table>
+<tr>
+<td>
+</td>
+<td align=center width=800>
+<h3>
+
+<div class="media">
+    <div class=content>
+        <div class=section-links>
+            <div id=projects></div>
+        </div>
+        <p>
+        <div class=section-links>
+            <div id=images></div>
+        </div>
+    </div>
+    <div class="footer">
+        repba.image.services
+    </div>
+</div>
+
+</h3> </td>
+<td></td>
+</tr>
+</table>
+<script type="text/javascript" src="iframe.js"></script>
+<script>
+function projects() {return document.getElementById("projects"); }
+function images() {return document.getElementById("images"); }
+document.getElementById("ifr").src="/?p=boss/land/"+meta.name+"&k=0000&e=0&a=1" 
+
+var str = "";
+for (var n = 0; n < meta.data.length; ++n)
+{
+    var id = n.pad(4);
+    var obj = meta.data[n];
+    str += " <a target=ifr href=/?p=boss/land/"+meta.name+"&k="+id+"&a=1>"+obj.title+"</a>&nbsp;/";
+}
+
+projects().innerHTML = str;
+
+</script>
+
+</body>
+
+
+
+
+
+
