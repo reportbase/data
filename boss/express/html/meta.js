@@ -4,37 +4,37 @@ count:7,
 data:[
 {
 title:"Gallery I",
-name:"0000",
+name:"EXUI",
 count:72,
 },
 {
 title:"Gallery II",
-name:"0001",
+name:"EXOQ",
 count:72,
 },
 {
 title:"Gallery III",
-name:"0002",
+name:"EXRT",
 count:72,
 },
 {
 title:"Gallery IV",
-name:"0003",
+name:"EXBM",
 count:72,
 },
 {
 title:"Gallery V",
-name:"0004",
+name:"EXBH",
 count:72,
 },
 {
 title:"Gallery VI",
-name:"0005",
+name:"EXER",
 count:72,
 },
 {
 title:"Gallery VII",
-name:"0006",
+name:"EXER",
 count:72,
 },
 ]

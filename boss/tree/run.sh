@@ -1,3 +1,1 @@
-./html/./links.sh
-all.sh
-home.sh
+../city/run.sh

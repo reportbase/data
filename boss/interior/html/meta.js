@@ -4,32 +4,32 @@ count:6,
 data:[
 {
 title:"Gallery I",
-name:"0000",
+name:"INRE",
 count:72,
 },
 {
 title:"Gallery II",
-name:"0001",
+name:"INQE",
 count:72,
 },
 {
 title:"Gallery III",
-name:"0002",
+name:"INYT",
 count:72,
 },
 {
 title:"Gallery IV",
-name:"0003",
+name:"INBN",
 count:72,
 },
 {
 title:"Gallery V",
-name:"0004",
+name:"INTV",
 count:72,
 },
 {
 title:"Gallery VI",
-name:"0005",
+name:"INEE",
 count:72,
 },
 ]

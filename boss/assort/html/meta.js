@@ -4,42 +4,42 @@ count:8,
 data:[
 {
 title:"Gallery I",
-name:"0000",
+name:"ASQA",
 count:72,
 },
 {
 title:"Gallery II",
-name:"0001",
+name:"ASQB",
 count:72,
 },
 {
 title:"Famous Faces",
-name:"0002",
+name:"ASQD",
 count:72,
 },
 {
 title:"Gallery IV",
-name:"0003",
+name:"ASQE",
 count:72,
 },
 {
 title:"Gallery V",
-name:"0004",
+name:"ASQF",
 count:72,
 },
 {
 title:"Gallery VI",
-name:"0005",
+name:"ASQG",
 count:72,
 },
 {
-title:"Faces",
-name:"0006",
+title:"Young Faces",
+name:"ASQH",
 count:72,
 },
 {
 title:"Food Dishes",
-name:"0007",
+name:"ASQI",
 count:72,
 },
 ]

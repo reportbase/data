@@ -1,1 +1,2 @@
 sed '/url=/d' meta.ini #delete line from ini
+find data/ -name '*.json' -exec cat {} \; > uber.json   #recurse folders concat them

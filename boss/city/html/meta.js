@@ -4,27 +4,27 @@ count:5,
 data:[
 {
 title:"Futurama",
-name:"0000",
+name:"CYAB",
 count:72,
 },
 {
 title:"Cyber City",
-name:"0001",
+name:"CYKB",
 count:72,
 },
 {
 title:"Multiverse",
-name:"0002",
+name:"CYIU",
 count:72,
 },
 {
 title:"Tiny Town",
-name:"0003",
+name:"CYRQ",
 count:72,
 },
 {
 title:"Megaopolis",
-name:"0004",
+name:"CYWE",
 count:72,
 },
 ]

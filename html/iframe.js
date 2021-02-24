@@ -6,7 +6,7 @@ k.addEventListener('load', function(evt)
 
     if (safari())
     {
-        this.style.height = '360px';
+        //this.style.height = '360px';
     }
 
     this.contentWindow.addEventListener('wheel', function(evt) 

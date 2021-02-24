@@ -49,8 +49,7 @@
         <a href=/data/boss/tree/0006/004.000.jpg>Click here</a> to see how a 
         browser displays a cityscape drone projection image versus
         <a href=/?p=boss/tree&k=0006&e=0&s=1&f=0&a=1>click here</a> to see how RepbaView properly displays the image.
-        <a href=/data/boss/tree/html/0007.html>Click here</a> to enable browser display of 12 car interiors 360&deg; images. Note 
-        distorted images. Click the images to see how RepbaView properly displays the images.  <p> 
+        Click the images to see how RepbaView properly displays the images.  <p> 
         
         The tree imagegroup has 9 subgroups each         
         with 20-40 example projection 360&deg; images. Each of the subgroups can be viewed as 
