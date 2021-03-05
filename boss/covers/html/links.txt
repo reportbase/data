@@ -1,0 +1,18 @@
+
+[9001]
+Title = Reports
+Fill.Color = rgba(0,0,100,0.7)
+Size = 5
+[CO00]
+Title = 000
+Path = /data/boss/covers/html/000.html
+[CO01]
+Title = 001
+Path = /data/boss/covers/html/001.html
+[CO02]
+Title = 002
+Path = /data/boss/covers/html/002.html
+[CO03]
+Title = 003
+Path = /data/boss/covers/html/003.html
+

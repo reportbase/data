@@ -6,36 +6,54 @@
     <div class="content">
         <div align=left>
         <div style="font-size:medium">
-        RepbaView displays pictures at full screen height eliminating the time
-        for users to pinch-out landscape photos to full screen. Images are
-        stored in a cylinder format with no gaps between images.
-        The cylindrical menus enable users to conveniently select documents,
-        image subgroups, or commands.  <p><p>
+	At the top level, RepbaView Images are defined as imagegroups. Each imagegroup
+	consists of subgroups of image montages that have similar image aspect
+ 	ratio and size. Depending on the horizontal size of the images, montages 
+	have 1 to 18 images. RepbaView displays images at full screen height eliminating time
+        and effort for users to pinch-out landscape photos to full screen. Images are
+        stored in a cylinder format on the client with no gaps between images.
+        The cylinder is rotated 360
+        degrees in either direction to display panorama or slideshow images.   
+        Image panorama or slideshow auto motion can be enabled as default or
+        select-able speeds. The cylindrical image design is used to implement RepbaView menus that
+        provide convenient user selection of image subgroups, documents, or commands.
+	Subgroups typically represent images but can also refer to nested subgroup menus.
+  	Manual screen gestures provide panning, movement of
+        images, start auto motion, and stop auto motion.  User screen controls also
+        allow users to view the hidden portions of wide images by cursor
+        press or panning when it extends beyond the horizontal ends of
+        the screen. A no-auto-motion command menu option is available
+        to avoid inadvertent auto rotation during manual interaction steps
+	and enable the right/left arrows to manually move forward/reverse individual 
+        images.<p><p>
+	RepbaView starts imagegroups using urls, short-urls,
+        GIFs, or iFrames. These start-up options include properties that define initial motion
+        and display subgroup. Available short-url names for an image group are reported when selecting the "report" subgroup name of an imagegroup. 
+	They are particularly useful in social media posts when formal urls are not supported. When activating an imagegroup without a defined url subgroup, an image menu is displayed
+	for user selection of the image subgroup. The image at the top of this page is an iFrame instance of a RepbaView imagegroup. It
+	can be migrated to a full screen view by pinching the screen or depressing the cursor on the center 1/3rd column of the screen. iFrames are
+	helpful when imagegroup displays and text are desired on the same page or when images are desired in a fixed web page window space.  
+        
+          
 
-        The objectives of this paragraph are to demonstrate how panning options enable users to view the hidden portion of wide 
-        images and show how the center screen icons are used for image up/down rotation and magnification. When the full height iframe image is active, click right side of screen several times to 
-        advance images. When image is stopped, notice that the image is wider than the screen. There are two ways to
-        rotate the image and view its non visible ends, 1) depress the cursor on the right or left side, or 2) pan up/down. The center column of the screen is reserved for interactive image rotation and 
-        zooming.  The arrows rotate the image up/down and the +/- icons increase/decrease magnification. 
-        Rotate and magnify the image to become familar with these screen controls. Click right side of screen 
-        to move to the center of the 
-        next image. Select an image relative position by tapping the bottom of the screen. To perform these steps using a few image subgroups
-        click on top iFrame image to stop motion and click the bottom right full screen icon to activate the Ultra imagegroup at full height.
-        Click on the browser back arrow to return to this page. 
+        
         <p>
-        Full screen operation 
-        is dependent on the type of user client. For Windows-10, select browser full screen option for continous RepbaView full screen operation.
-        For Android, select RepbaView full screen option for full screen usage without image or command menus.  
-        RepbaView full screen mode is not supported for IOS devices.
-        <p>
-
-        When activating an image without a defined url subgroup, an image menu is displayed for user selection. The "scapes" image
+        Full screen operation depends on the client type as follows.
+	For Windows-10, RepbaView full screen operation is supported by the Edge browser. Select browser full screen option
+        for continuous full screen operation while using RepaView.
+        For Android Clients, RepbaView full screen operation is supported while viewing images of a image subgroup.  To enable another
+        image or command menu, RepbaView full screen mode must be deactivated.
+	For IOS clients, RepbaView full screen mode is not supported. 
+                <p>
+	        
+	The "scapes" image
         group is organized into 24 sub-groups each having 72 images. Using the image menu, click on several of the galleries to view
         some of the more than 2000 images. Click on the image menu button "landscapes" to display 
-        the imagegroup index that displays iFrame images for each subgroup. To peform these actions, tap the following animated GIF to display the landscape 
-        photography imagegroup menu. Enter the repba.com url to return to the home page and perform step-4 of the RepbaView familization steps.<p>
+        the imagegroup index that displays iFrame images for each subgroup. To peform the above actions, tap the following animated GIF to enable the landscape 
+        imagegroup menu. Enter the browser repba.com url to return to the home page and perform step-4 of the RepbaView familization steps.<p>
        
-        <a href=/?p=boss/scapes><img src=/data/boss/scapes/0001/420.240.gif></img></a>
+        <a href=/?p=boss/scapes><img src=/data/boss/scapes/0001/240.gif></img></a><p><p>
+	 
        
      </div>
      </div>

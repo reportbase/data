@@ -4,47 +4,47 @@ count:9,
 data:[
 {
 title:"Gallery I",
-name:"0000",
+name:"WIAB",
 count:36,
 },
 {
 title:"Gallery II",
-name:"0001",
+name:"WIKL",
 count:36,
 },
 {
 title:"Gallery III",
-name:"0002",
+name:"WIUH",
 count:36,
 },
 {
 title:"Gallery IV",
-name:"0003",
+name:"WIGQ",
 count:36,
 },
 {
 title:"Gallery V",
-name:"0004",
+name:"WIGL",
 count:36,
 },
 {
 title:"Gallery VI",
-name:"0005",
+name:"WIGT",
 count:36,
 },
 {
 title:"Gallery VII",
-name:"0006",
+name:"WIPI",
 count:36,
 },
 {
 title:"Gallery VIII",
-name:"0007",
+name:"WIWS",
 count:36,
 },
 {
 title:"Gallery IX",
-name:"0008",
+name:"WIBN",
 count:36,
 },
 ]

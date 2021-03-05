@@ -29,7 +29,7 @@ count:72,
 },
 {
 title:"Gallery VI",
-name:"CBTQ",
+name:"CBDA",
 count:72,
 },
 ]

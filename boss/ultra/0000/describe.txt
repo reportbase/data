@@ -18,13 +18,13 @@
         Steps To Get <br>Familiar With RepbaView.<p> 
         <div align=left>
         <div style="font-size:medium">
-            1. Interact with the top iFrame image. Click the top iFrame image to stop panoramic motion and click 
-            the right/left side of image to move forward/backward thru the images.<p><p>          
+            1. Interact with the top iFrame image. Click the top iFrame right or left side of image to stop panoramic motion. Click 
+            the right/left side of image arrows to reinitiate forward/backward image motion.<p><p>          
             2. Select imagegroup subgroups using the image menu. After 
-            <a href=/?p=boss/ultra&a=1&k=0004&s=1&f=1 target="_parent">click to start </a>the Ultra image group, view various 
-            image galleries by clicking the left icon image menu buttons. Click the browser back arrow to return 
+            <a href=/?p=boss/sock&a=1&k=0004&s=1&f=1 target="_parent">click to start </a>the sock image group, view various 
+            image subgroups by clicking the left icon image menu buttons. Click the browser back arrow to return 
             to this page. <p><p>
-            3. Perform actions defined by the <a target=ifr
+            3. Imagegroup definitions, menus, and initiation options using Ultra imagegroup<a target=ifr
             href="/?p=boss/ultra&k=0001&a=1&s=2&f=1">RepaView Images</a> page.<p><p>
         </div><p>
 
@@ -44,7 +44,7 @@
 
         <a href=/?p=boss/peek&k=0000&a=1&s=200&f=1 target="_parent"><img src=/data/boss/peek/0000/320.gif></a><p>
             <div style="font-size:medium">
-            5. Perform actions defined by the <a target=ifr
+            5. Image motion user interaction using the Ultra image group<a target=ifr
             href="/?p=boss/ultra&k=0002&a=1&s=2&f=1">RepbaView Image Motion</a> page.
             <p><p>
               
@@ -59,7 +59,7 @@
             <p>
             7. RepbaView also displays 360&deg; panoramas and motion pictures.  
             The RepbaView design uses a cylindrical panorama to display <a target=ifr
-            href="/?p=boss/land/0000&k=0000&a=1&s=2&f=1">360&deg; panorama</a> images.
+            href="/?p=boss/land&k=0000&a=1&s=2&f=1">360&deg; panorama</a> images.
             Extracting images from videos into RepbaView <a target=ifr
             href="/?p=boss/golfer/0002&k=0001&a=2&s=2&f=1">motion pictures</a>
             provide viewing advantages for brief motion videos such as golf swings.<p><p>

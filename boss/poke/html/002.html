@@ -1,5 +1,9 @@
 <head>
 <link rel="stylesheet" href="styles.css">
+<style>
+@media (orientation: landscape) { iframe { height:480; } }
+@media (orientation: portrait) { iframe { height:840 } }
+</style>
 <script type="text/javascript" src="meta.js"></script>
 <script type="text/javascript" src="script.js"></script>
 </head>
@@ -10,7 +14,9 @@
 <center>
 <table>
 <tr>
-<td align=center >
+<td>
+</td>
+<td align=center width=800>
 <h3>
 
 <div class="media">
@@ -28,11 +34,14 @@
         </div>
     </div>
     <div class="footer">
-        repba.image.services
+        repba.image.services<br>
+        support@repba.com<br>
+        360&deg; Panoramic Pictures
     </div>
 </div>
 
 </h3> </td>
+<td></td>
 </tr>
 </table>
 <script type="text/javascript" src="iframe.js"></script>
@@ -40,7 +49,7 @@
 function projects() {return document.getElementById("projects"); }
 function images() {return document.getElementById("images"); }
 function title() {return document.getElementById("title"); }
-document.getElementById("ifr").src="/?p=boss/"+meta.name+"&k=0000&e=0&a=1" 
+document.getElementById("ifr").src="/?p=boss/"+meta.name+"&k=0000&e=0&a=0" 
 
 title().innerHTML = meta.title;
 
@@ -49,7 +58,7 @@ for (var n = 0; n < meta.data.length; ++n)
 {
     var id = n.pad(4);
     var obj = meta.data[n];
-    str += " <a target=ifr href=/?p=boss/"+meta.name+"&k="+id+"&a=1>"+obj.title+"</a>&nbsp;/";
+    str += " <a target=ifr href=/?p=boss/"+meta.name+"&k="+id+"&a=0>"+obj.title+"</a>&nbsp;/";
 }
 
 projects().innerHTML = str;

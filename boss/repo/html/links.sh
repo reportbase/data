@@ -1,1 +1,1 @@
-../../depo/html/links.sh
+../../poke/html/links.sh

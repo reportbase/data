@@ -5,31 +5,33 @@
     <div class="content">
         <div style="font-size:medium">
         <div align=left>
-        RepbaView stores images in a cylinder format that is rotated 360
-        degrees to display panoramic or slideshow images.  The images are
-        displayed by a rotating scan of the cylinder in either direction. The
-        cylindrical image design is also used to implement RepbaView menus that
-        provide convenient selection of image subgroups and documents.
-        Image panorama or slideshow auto motion can be enabled as default or
-        selectable speeds.  Manual screen gestures provide panning, movement of
-        images, start auto motion, and stop auto motion.  User screen controls also
-        allow users to view the hidden portions of landscape images.  Short
-        press or pan the image when it extends beyond the horizontal ends of
-        the screen. A no-auto-motion option is available
+        Imagegroup panorama or slideshow auto motion and speed can be enabled as a default start-up option or
+        manually using the command menu.  Manual screen gestures provide panning, movement of
+        images, start/stop auto motion.  Screen controls         
+        also enable users to view the hidden portions of wide images.  A no-auto-motion option is available
         to avoid inadvertent auto rotation during manual interaction steps.
-        To demonstrate panorama and slideshow auto motion, click on the above iframe
-        images and enable the full screen icon to
-        activate the Ultra landscape imagegroup with full height image display. Using the image menu, select various 
-        subgroup galleries and enable command menu panorama or slideshow motion.<p><br>
+        To demonstrate panorama and slideshow auto motion, click the right or left side of the above iframe
+        images to stop motion and pinch the screen to activate the Ultra landscape imagegroup with full height image display. Using the image menu, select various 
+        subgroup galleries and use the top right command menu to select panorama or slideshow motion options. Use the back arrow to return to this page.<p><br>
+	
+	RepbaView supports viewing the hidden portion of wide 
+        images, up/down image rotation, magnification of images when motion is stopped. When the top iFrame image is at full height, stopped, and centered notice that the image is wider than the screen. There are two ways to
+        rotate the image and view its non visible ends: 1) depress the cursor on the right or left side, or 2) pan up/down. The center column of the screen is reserved for interactive image rotation and 
+        zooming.  The arrows rotate the image up/down and the +/- icons increase/decrease magnification. 
+        Rotate and magnify the image to become familar with these screen controls. Click right side of screen 
+        to move to the center of the 
+        next image. Select an image relative position by tapping the bottom of the screen. To perform these steps using a few image subgroups
+        click on top iFrame right or left side to stop motion and pinch the screen to activate the Ultra imagegroup at full height.
+        Click on the browser back arrow to return to this page.
 
-        RepbaView creates animated GIFs when building imagegroups. Gifs are
+        RepbaView creates animated GIFs and imagegroup reports when building imagegroups on the RepaView cloud. Gifs are
         useful for posting to social media and emails. Click on the following GIF image
         to enable the Express imagegroup having 7 subgroups each with 72 early 20th century paintings.
         View the different subgroups     
         by selecting the left menu icon. Enter the repba.com url to return to the home page and 
         perform step-6 of the RepbaView familization steps.<p>
        
-        <a href=/?p=boss/express><img src=/data/boss/express/0000/420.240.gif></img></a>
+        <a href=/?p=boss/express><img src=/data/boss/express/0000/240.gif></img></a>
         </div>
         </div>
     </div>

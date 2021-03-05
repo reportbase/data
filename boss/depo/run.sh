@@ -1,1 +1,1 @@
-html/./links.sh 2> /dev/null
+../poke/run.sh

@@ -4,57 +4,57 @@ count:11,
 data:[
 {
 title:"Gallery I",
-name:"0000",
+name:"ULAM",
 count:24,
 },
 {
 title:"Gallery II",
-name:"0001",
+name:"ULDE",
 count:24,
 },
 {
 title:"Gallery III",
-name:"0002",
+name:"ULQD",
 count:24,
 },
 {
 title:"Gallery IV",
-name:"0003",
+name:"ULCD",
 count:24,
 },
 {
 title:"Gallery V",
-name:"0004",
+name:"ULED",
 count:24,
 },
 {
 title:"Gallery VI",
-name:"0005",
+name:"ULDA",
 count:24,
 },
 {
 title:"Gallery VII",
-name:"0006",
+name:"ULDQ",
 count:24,
 },
 {
 title:"Gallery VIII",
-name:"0007",
+name:"ULOI",
 count:24,
 },
 {
 title:"Gallery IX",
-name:"0008",
+name:"ULBD",
 count:24,
 },
 {
 title:"Gallery X",
-name:"0009",
+name:"ULSA",
 count:24,
 },
 {
 title:"Gallery XI",
-name:"0010",
+name:"ULJL",
 count:24,
 },
 ]
