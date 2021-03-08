@@ -1,1 +1,1 @@
-for image in *.jpg; do convert $image -background white -gravity north -extent x1550 $image; done  
+for image in *.jpg; do convert $image -background white -gravity north -extent 1280x1700 $image; done  

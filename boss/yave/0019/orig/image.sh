@@ -1,2 +1,2 @@
-convert -size 1024x1536 canvas:white 0026.jpg
-convert -size 1024x1536 canvas:white 0027.jpg
+convert -size  1280x2000 canvas:black 0142.jpg
+convert -size  1280x2000 canvas:black 0143.jpg
