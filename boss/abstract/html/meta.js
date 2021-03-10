@@ -5,32 +5,32 @@ data:[
 {
 title:"Gallery I",
 name:"ABER",
-count:72,
+count:6,
 },
 {
 title:"Gallery II",
 name:"ABET",
-count:72,
+count:6,
 },
 {
 title:"Gallery III",
 name:"ABQE",
-count:72,
+count:6,
 },
 {
 title:"Gallery IV",
 name:"ABVE",
-count:72,
+count:6,
 },
 {
 title:"Gallery V",
 name:"ABUI",
-count:72,
+count:6,
 },
 {
 title:"Gallery VI",
 name:"ABBN",
-count:72,
+count:6,
 },
 ]
 }

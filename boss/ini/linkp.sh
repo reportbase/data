@@ -1,2 +1,2 @@
-find .. -name 'links.ini' -exec cat {} \; > linkp.ini
+find .. -name 'links.ini' -exec cat {} \; > ini/linkp.ini
 

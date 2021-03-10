@@ -13,7 +13,7 @@
     <div class="footer">
         repba.image.services<br>
         support@repba.com<br>
-        Panoramic Image Browser
+        tom brinkman
     </div>
    
 </td>
@@ -32,7 +32,9 @@ function title() {return document.getElementById("title");}
 var url = new URL(window.location.href);
 url.full = url.searchParams.get("f");
 if (!url.full)
-    url.full = "360.gif"
+    url.full = "320";
+    
+url.full += ".gif"
 var str = "";
 for (var n = 0; n < meta.data.length; ++n)
 {

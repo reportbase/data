@@ -110,8 +110,10 @@ h1, p { margin: 0 0 1em 0; }
     padding: 10px; 
 }
 
-.media > .footer 
+.footer 
 { 
+    text-transform: uppercase;
+    font-weight: bold; 
     padding: 10px; 
     grid-area: ft; 
 }

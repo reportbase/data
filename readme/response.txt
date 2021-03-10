@@ -1,0 +1,19 @@
+Please add to your list of ideas. The premise is that users should be provided an optimum viewing experience that only the customer (image owner/representative) can provide. User can have some controls but the expectation is that they are infrequently used. 
+
+Provide customer secure imagegroup and image specific management capability to augment current montage build processes by providing an Imagegroup property modification capability.  The objective is to provide an optimum user viewing experience. It couild overlay the normal user RepbaView UI or be separate app. Dynamic property definitions would be sent to the client with other files at imagegroup startup. Periodic cache clearing should make updates available without deployments. The following are potential dynamic admin opportunities. 
+1) When the next picture arrow is selected, transfer current image zoom settings to the control file for implementation when users access images in normal mode. 
+2) Define white text overlay of limited characters for top middle, or bottom image display.  
+3) Provide convenient admin UI to establish imagegroup start-up options (currently in the url).applicable to all imagegroup RepbaRiew startup methods: url, short-url, GIF, iFrame. Url parameters and command menu options would take precedence, if used. General use of the short-urls would, therefore, be promoted. . 
+4) Tune the quality of all, some, or individual images. 
+5) Establish fixed Frame boundaries and options to fill images.
+6) Establish speed settings by image for image sequences.. (how long to display, other than default)
+7) Blank out part of images (for comics middle page, etc).. 
+
+Companion Considerations
+1) Fix small command menus to prevent movement.
+2) Provide clean display during auto motiion.
+3) Provide image number on command menu only. (eliminate task bar)
+4) Add command menu item to start motion, separate from motion selection.
+5) For android, determine how to make RepbaView fullscreen useful or disable it.
+6) Click anywhere on screen to stop motion and enable image, command icons. 
+

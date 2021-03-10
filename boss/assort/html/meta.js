@@ -5,42 +5,42 @@ data:[
 {
 title:"Gallery I",
 name:"ASQA",
-count:72,
+count:8,
 },
 {
 title:"Gallery II",
 name:"ASQB",
-count:72,
+count:8,
 },
 {
 title:"Famous Faces",
 name:"ASQD",
-count:72,
+count:8,
 },
 {
 title:"Gallery IV",
 name:"ASQE",
-count:72,
+count:8,
 },
 {
 title:"Gallery V",
 name:"ASQF",
-count:72,
+count:8,
 },
 {
 title:"Gallery VI",
 name:"ASQG",
-count:72,
+count:8,
 },
 {
 title:"Young Faces",
 name:"ASQH",
-count:72,
+count:8,
 },
 {
 title:"Food Dishes",
 name:"ASQI",
-count:72,
+count:8,
 },
 ]
 }
