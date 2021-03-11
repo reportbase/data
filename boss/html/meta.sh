@@ -11,10 +11,12 @@ do
         . $FILE
         TITLE="${title}"
         COUNT="${count}"
+        DESCRIBE="${describe}"
         NAME=$(basename -- "$FOLDER")
         printf '{\n' >> html/meta.js
         printf 'title:\"%s\",\n' "$TITLE" >> html/meta.js
         printf 'name:\"%s\",\n' "$NAME" >> html/meta.js
+        printf 'describe:\"%s\",\n' "$DESCRIBE" >> html/meta.js
         printf 'count:%s,\n' "$COUNT" >> html/meta.js
         printf '},\n' >> html/meta.js
     fi

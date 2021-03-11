@@ -1,4 +1,4 @@
-var meta = {title:"Wide",
+var meta = {title:"Wide Photographs",
 name:"wide",
 count:9,
 data:[

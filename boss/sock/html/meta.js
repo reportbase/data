@@ -1,4 +1,4 @@
-var meta = {title:"Sock",
+var meta = {title:"Sports Photography",
 name:"sock",
 count:8,
 data:[

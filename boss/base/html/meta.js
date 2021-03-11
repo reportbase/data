@@ -1,4 +1,4 @@
-var meta = {title:"Gallery V",
+var meta = {title:"Assorted 360&deg; Panoramas",
 name:"base",
 count:12,
 data:[

@@ -1,4 +1,4 @@
-var meta = {title:"Tall",
+var meta = {title:"Tall Images",
 name:"tall",
 count:6,
 data:[

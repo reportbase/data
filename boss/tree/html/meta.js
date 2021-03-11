@@ -1,4 +1,4 @@
-var meta = {title:"360 Panorama",
+var meta = {title:"360&deg; VR Panorama",
 name:"tree",
 count:9,
 data:[

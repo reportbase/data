@@ -1,4 +1,4 @@
-var meta = {title:"City",
+var meta = {title:"City Art",
 name:"city",
 count:5,
 data:[

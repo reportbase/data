@@ -1,4 +1,4 @@
-var meta = {title:"Express",
+var meta = {title:"Expressionism 1900's",
 name:"express",
 count:7,
 data:[

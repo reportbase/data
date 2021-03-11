@@ -16,6 +16,17 @@ function image(n)
     ifr().postMessage(a, url.origin);
 }
 
+window.addEventListener("keyup", function (evt)
+{
+    if (ifr().postMessage(evt.key, url.origin))
+    {
+        scroll(0,0); 
+        evt.preventDefault();
+        return false;
+    }
+
+}, false);
+
 window.addEventListener("keydown", function (evt)
 {
     if (ifr().postMessage(evt.key, url.origin))

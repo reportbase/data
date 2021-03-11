@@ -1,4 +1,4 @@
-var meta = {title:"Comics",
+var meta = {title:"Graphic Novels",
 name:"yave",
 count:50,
 data:[
@@ -98,7 +98,7 @@ name:"YAES",
 count:30,
 },
 {
-title:"3. Endor's Game - Command School #1-5",
+title:"Endor's Game - Command School #1-5",
 name:"YACC",
 count:30,
 },

@@ -1,7 +1,7 @@
 for i in `ls -d ./*/`
 do
   cd "$i"
-    ./run.sh
+    ./run.sh 2> /dev/null
   cd ..
 done
 

@@ -40,7 +40,8 @@ for (var n = 0; n < meta.data.length; ++n)
 {
     var id = n.pad(4);
     var obj = meta.data[n];
-    str += "<a target=_blank href=/?p=boss/"+meta.name+"&k="+id+"&a=1&image=0><img src=/data/boss/"+meta.name+"/"+id+"/"+url.full+"></img></a></div>\n";
+    str += "<a target=_blank href=/?p=boss/"+
+        meta.name+"&k="+id+"&a=1&image=0><img src=/data/boss/"+meta.name+"/"+id+"/"+url.full+"></img></a></div>\n";
 }
 
 projects().innerHTML = str;

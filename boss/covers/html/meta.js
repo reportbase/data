@@ -1,4 +1,4 @@
-var meta = {title:"Covers",
+var meta = {title:"Comic Covers",
 name:"covers",
 count:6,
 data:[
