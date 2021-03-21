@@ -19,6 +19,26 @@ iframe {max-height: 70vh; overflow: auto;}
 </td>
 <td align=center width=800>
 
+<div class="section-title">
+    RepbaViewer - Motion Creates Emotion<p><br>
+
+    Insert the following 
+    html directive into your website to add RepbaViewer to any website. 
+    See the examples below.<p>
+
+    &lt;iframe width=100% src=https://repba.com/?p=boss/express&amp;k=0000&gt;<p>
+
+    This link will load page 66.6 of a graphic novel at a 75% 
+    zoom level.  <a target=ifr href=https://repba.com/?p=boss/yave&k=0058&d=10&z=16&c=5&r=5&a=0>
+        https://repba.com/?p=boss/yave&amp;k=0058&amp;d=10&amp;z=11&amp;c=5&amp;r=5&amp;a=0</a><p>
+
+    This link will load the middle 20% of panoramic cityscape at 50%. 
+    <a target=ifr href=https://repba.com/?p=boss/base&k=0011&d=0&z=11&c=5&r=5&a=1>
+        https://repba.com/?p=boss/base&amp;k=0011&amp;d=0&amp;z=11&amp;c=5&amp;r=5&amp;a=1</a><p>
+     
+    Panoramic image motion creates emotion.   Contact support@repba.com to get started with RepbaViewer. <p>
+</div>
+
 <div class="media">
     <div class=content>
         <div id=projects></div>
@@ -26,7 +46,6 @@ iframe {max-height: 70vh; overflow: auto;}
     <div class="footer">
         repba.image.services<br>
         support@repba.com<br>
-        tom brinkman 
     </div>
 </div>
 
@@ -42,13 +61,14 @@ Number.prototype.pad = function(size)
     while (s.length < (size || 2)) {s = "0" + s;}
 	    return s;
 }
+
 function title() {return document.getElementById("title");}
 function projects() {return document.getElementById("projects");}
-var obj2 = meta.data[0];
-document.getElementById("ifr").src="/?p=boss/"+obj2.name+"&k=0000&e=0&a=1" 
+document.getElementById("ifr").src="/?p=boss/combat&k=0004&e=0&a=1&z=7&r=5" 
 url.full = url.searchParams.get("f");
 if (!url.full)
     url.full = "002";
+
 var str = "";
 for (var n = 0; n < meta.data.length; ++n)
 {

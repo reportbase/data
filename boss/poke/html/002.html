@@ -1,8 +1,9 @@
 <head>
 <link rel="stylesheet" href="styles.css">
 <style>
-@media (orientation: landscape) { iframe { height:480; } }
-@media (orientation: portrait) { iframe { height:840 } }
+    @media (orientation: landscape) { iframe { height:480; } }
+    @media (orientation: portrait) { iframe { height:840 } }
+    iframe {max-height: 70vh; overflow: auto;}
 </style>
 <script type="text/javascript" src="meta.js"></script>
 <script type="text/javascript" src="script.js"></script>
@@ -25,17 +26,26 @@
         </div>
 
         <div class=section-links>
-            <div id=projects></div>
-        </div>
-        <p>
-        <div class=section-links>
             <div id=images></div>
         </div>
+        <p>
+        
+        <div class=section-links>
+            <div id=projects></div>
+        </div>
     </div>
+    <div class=section-title>
+        <div id=shorturl></div>
+    </div>
+
+    <div>
+        <a href=javascript:void(0) onclick=auto()>Run</a>&nbsp;/
+        <a href=javascript:void(0) onclick=fullscreen()>Fullscreen</a>&nbsp;
+    </div>
+
     <div class="footer">
         repba.image.services<br>
         support@repba.com<br>
-        tom brinkman
     </div>
 </div>
 
@@ -48,16 +58,8 @@
 function projects() {return document.getElementById("projects"); }
 function images() {return document.getElementById("images"); }
 function title() {return document.getElementById("title"); }
-document.getElementById("ifr").src="/?p=boss/"+meta.name+"&k=0000&e=0&a=0" 
-var str = "";
-for (var n = 0; n < meta.data.length; ++n)
-{
-    var id = n.pad(4);
-    var obj = meta.data[n];
-    str += " <a target=ifr href=/?p=boss/"+meta.name+"&k="+id+"&a=0>"+obj.title+"</a>&nbsp;/";
-}
-
-projects().innerHTML = str;
+function shorturl() {return document.getElementById("shorturl"); }
+document.getElementById("ifr").src="/?p=boss/"+meta.name+"&k=0000&e=0&a=1" 
 
 var str = "";
 var count = meta.data[0].count;
@@ -67,11 +69,35 @@ for (var n = 0; n < count; ++n)
     str += " <a href=javascript:void(0) onclick=image("+n+")>"+id+"</a>&nbsp;/";
 }
 
-title().innerHTML = meta.title;
 images().innerHTML = str;
+
+var str = "";
+for (var n = 0; n < meta.data.length; ++n)
+{
+    var id = n.pad(4);
+    var obj = meta.data[n];
+    str += " <a target=ifr href=/?p=boss/"+meta.name+"&k="+id+"&a=1>"+obj.title+"</a>&nbsp;/";
+}
+
+projects().innerHTML = str;
+
+shorturl().innerHTML = "<a href=/data/boss/"+meta.name+"/html/003.html>Short Urls</a>";
+title().innerHTML = meta.title;
 </script>
 
 </body>
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

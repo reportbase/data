@@ -1,39 +1,135 @@
-<div>Race<br>
-<div>Cars<br>
-<a target=ifr href=/?p=boss/peek&k=0010&a=1&s=300&f=1&image=0>000</a> /
-<a target=ifr href=/?p=boss/peek&k=0010&a=1&s=300&f=1&image=1>001</a> /
-<a target=ifr href=/?p=boss/peek&k=0010&a=1&s=300&f=1&image=2>002</a> /
-<a target=ifr href=/?p=boss/peek&k=0010&a=1&s=300&f=1&image=3>003</a> /
-<a target=ifr href=/?p=boss/peek&k=0010&a=1&s=300&f=1&image=4>004</a> /
-<a target=ifr href=/?p=boss/peek&k=0010&a=1&s=300&f=1&image=5>005</a> /
-<a target=ifr href=/?p=boss/peek&k=0010&a=1&s=300&f=1&image=6>006</a> /
-<a target=ifr href=/?p=boss/peek&k=0010&a=1&s=300&f=1&image=7>007</a> /
-<a target=ifr href=/?p=boss/peek&k=0010&a=1&s=300&f=1&image=8>008</a> /
-<a target=ifr href=/?p=boss/peek&k=0010&a=1&s=300&f=1&image=9>009</a> /
-<a target=ifr href=/?p=boss/peek&k=0010&a=1&s=300&f=1&image=10>010</a> /
-<a target=ifr href=/?p=boss/peek&k=0010&a=1&s=300&f=1&image=11>011</a> /
-<a target=ifr href=/?p=boss/peek&k=0010&a=1&s=300&f=1&image=12>012</a> /
-<a target=ifr href=/?p=boss/peek&k=0010&a=1&s=300&f=1&image=13>013</a> /
-<a target=ifr href=/?p=boss/peek&k=0010&a=1&s=300&f=1&image=14>014</a> /
-<a target=ifr href=/?p=boss/peek&k=0010&a=1&s=300&f=1&image=15>015</a> /
-<a target=ifr href=/?p=boss/peek&k=0010&a=1&s=300&f=1&image=16>016</a> /
-<a target=ifr href=/?p=boss/peek&k=0010&a=1&s=300&f=1&image=17>017</a> /
-<a target=ifr href=/?p=boss/peek&k=0010&a=1&s=300&f=1&image=18>018</a> /
-<a target=ifr href=/?p=boss/peek&k=0010&a=1&s=300&f=1&image=19>019</a> /
-<a target=ifr href=/?p=boss/peek&k=0010&a=1&s=300&f=1&image=20>020</a> /
-<a target=ifr href=/?p=boss/peek&k=0010&a=1&s=300&f=1&image=21>021</a> /
-<a target=ifr href=/?p=boss/peek&k=0010&a=1&s=300&f=1&image=22>022</a> /
-<a target=ifr href=/?p=boss/peek&k=0010&a=1&s=300&f=1&image=23>023</a> /
-<a target=ifr href=/?p=boss/peek&k=0010&a=1&s=300&f=1&image=24>024</a> /
-<a target=ifr href=/?p=boss/peek&k=0010&a=1&s=300&f=1&image=25>025</a> /
-<a target=ifr href=/?p=boss/peek&k=0010&a=1&s=300&f=1&image=26>026</a> /
-<a target=ifr href=/?p=boss/peek&k=0010&a=1&s=300&f=1&image=27>027</a> /
-<a target=ifr href=/?p=boss/peek&k=0010&a=1&s=300&f=1&image=28>028</a> /
-<a target=ifr href=/?p=boss/peek&k=0010&a=1&s=300&f=1&image=29>029</a> /
-<a target=ifr href=/?p=boss/peek&k=0010&a=1&s=300&f=1&image=30>030</a> /
-<a target=ifr href=/?p=boss/peek&k=0010&a=1&s=300&f=1&image=31>031</a> /
-<a target=ifr href=/?p=boss/peek&k=0010&a=1&s=300&f=1&image=32>032</a> /
-<a target=ifr href=/?p=boss/peek&k=0010&a=1&s=300&f=1&image=33>033</a> /
-<a target=ifr href=/?p=boss/peek&k=0010&a=1&s=300&f=1&image=34>034</a> /
-<a target=ifr href=/?p=boss/peek&k=0010&a=1&s=300&f=1&image=35>035</a> /
-</div><p>
+<div class="media">
+    <div class="title">
+        RepbaView 
+    </div>
+    <div class="content">
+	    <div style="font-size:medium">
+
+            <div align=left>
+            View images in full screen panorama. Display
+            widescreen imagery on cell phones, tablets and PC screens.<p><br>
+
+            HTML5 renders in portrait, 
+            forcing digital media to be resized
+            to the screen's width.   On larger landscape screens, this 
+            is not a problem, but on smaller portrait screens such as a mobile-phone,
+            wide images can often be unrecognizable.<p>
+
+            Wide landscape media rendered on a portrait screen must be resized aggressively to fit the screen's width.  
+            Wide media resized to the screen width
+            forces the user to either rotate the device to landscape or simply accept smaller sized media.<p>
+            
+            RepbaView fixes this by rendering landscape media in a virtual panorama.
+            RepbaView resizes media to the screen 
+            height, not the screen width.  This creates a full screen virtual panorama
+            as much of the image extends beyond the screen's horizonal boundry.<p>
+
+            RepbaView is a breakthrough rendering technology.  See many examples of this herein.<p>
+
+            It is easy to add RepbaViewer to any website, just insert the following html directive.
+            &lt;iframe width=100% src=https://repba.com/?p=boss/express&amp;k=0000&gt;<p>
+
+            Pan the images to scroll through the entire image group.  Swipe
+            the images for automated motion, slower on top, faster on the bottom.  
+            RepbaView creates emotion by adding motion to still photography. 
+            Photographs are more are fun to browse when viewed with the RepbaView's panoramic motion display.<p>
+
+            Each image is individually selectable and can interact with the parent page to create a product catalog.
+            This has many applications which customers are just now beginning to explore. <p> 
+
+            RepbaView supports a rich URL to position any image at the desired zoom level.
+            For example, this link will load page 66.6 of a graphic novel at a 75% zoom. 
+             <a target=ifr href=https://repba.com/?p=boss/yave&k=0058&d=10&z=16&c=5&r=5&a=0>
+                https://repba.com/?p=boss/yave&amp;k=0058&amp;d=10&amp;z=11&amp;c=5&amp;r=5&amp;a=0</a><p>
+
+            This link will load the middle 20% of panoramic cityscape at 50%. 
+            <a target=ifr href=https://repba.com/?p=boss/base&k=0011&d=0&z=11&c=5&r=5&a=1>
+                https://repba.com/?p=boss/base&amp;k=0011&amp;d=0&amp;z=11&amp;c=5&amp;r=5&amp;a=1</a><p>
+
+            <br><p>
+            </div>
+
+
+             <div align=left>
+            View images in full screen panorama. Display
+            widescreen imagery on cell phones, tablets and PC screens. Websites typically
+        stack pictures vertically and employ thumbnails, whereas RepbaView full screen images are displayed horizontally,
+        providing continuous wrap around image viewing. It's cylindrical panoramic design is used to render images and 
+        create innovative menus.              
+        <br><p><p>
+         </div>
+           </div>     
+                
+
+        Steps To Get <br>Familiar With RepbaView.<p> 
+        <div align=left>
+        <div style="font-size:medium">
+            1. Interact with the top iFrame image. Click the top iFrame right or left side of image to stop panoramic motion. Click 
+            the right/left side of image arrows to reinitiate forward/backward image motion.<p><p>          
+            2. Select imagegroup subgroups using the image menu. After 
+            <a href=/?p=boss/olympics&a=1&k=0004 target="_parent">click to start </a>the olympics image group, view various 
+            image subgroups by clicking the left icon image menu buttons. Click the browser back arrow to return 
+            to this page. <p><p>
+            3. Imagegroup definitions, menus, and initiation options using Ultra imagegroup<a target=ifr
+            href="/?p=boss/ultra&k=0001&a=1&s=2&f=1">RepaView Images</a> page.<p><p>
+        </div><p>
+
+        <div style="font-size:medium;">
+            4. Enable panorama 
+            and slideshow motion using the command menu with various image subgroups. After motion type is 
+            selected, click the command menu icon to clear the displayed buttons. Click anywhere on the screen 
+            to stop motion and click the toolbar right-arrow to start motion. Refer to the command menu help button for 
+            command information. There are two action sequences. 1)                                    
+            <a href=/?p=boss/king&a=1&k=0003&s=1&f=1 target="_parent"> Click to
+            start </a> the Giraffes subgroup of the animal King imagegroup to perform the actions. 
+            Click the browser back arrow to return to this page. 2) Tap the GIF image below to start the Ocean subgroup 
+            of the poke imagegroup and perform the above actions. 
+            Click the browser back arrow to return to this page.<p>
+                </div><br>
+            
+
+        <a href=/?p=boss/peek&k=0000&a=1&s=200&f=1 target="_parent"><img src=/data/boss/peek/0000/320.gif></a><p>
+            <div style="font-size:medium">
+            5. Image motion user interaction using the Ultra image group<a target=ifr
+            href="/?p=boss/ultra&k=0002&a=1&s=2&f=1">RepbaView Image Motion</a> page.
+            <p><p>
+              
+            6. View imagegroup of framed slideshows and panorams of various image numbers and sizes. 
+            As demonstrated by this imagegroup, RepbaView 
+            is designed to effectively display slideshows.
+            Select a few of the fun slideshows enabled by the top left image menu icon
+            buttons including the "executive fashions", "costumes", "Sport Shots", and "Globe" image subgroups. 
+            Click to <a href=/?p=boss/repo&k=0009&d=0&a=2 target="_parent">start the framed slideshows</a> imagegroup
+            to access some of the various subgroups. 
+            Enter the repba.com url to return to this page and perform step-7 of the RepbaView familization.<p> 
+            <p>
+            7. RepbaView also displays 360&deg; panoramas and motion pictures.  
+            The RepbaView design uses a cylindrical panorama to display <a target=ifr
+            href="/?p=boss/land&k=0000&a=1&s=2&f=1">360&deg; panorama</a> images.
+            Extracting images from videos into RepbaView <a target=ifr
+            href="/?p=boss/golfer/0002&k=0001&a=2&s=2&f=1">motion pictures</a>
+            provide viewing advantages for brief motion videos such as golf swings.<p><p>
+            </div>
+            
+            This site and its supporting doumentation describe
+            RepbaView web application <a target=ifr
+            href="/?p=boss/ultra&k=0006&a=1&s=2&f=1">hosting services</a> for
+            customers aiming to display their images in new and creative ways.
+            </div><p><p>
+            <div style="">
+        
+            Supporting Documents<br>
+            <a href=repba.pdf>RepbaView Description</a><br>
+            <a href=services.pdf>Services Description</a><br>
+            <a href=worksheet.txt>Image Group Worksheet</a>
+        </div><p>
+
+        <div style="font-size:small">
+            Site Contact: support@repba.com.<br>
+            Privacy: Site does not update cookies.
+        </div>
+    </div> 
+    <div class="footer">
+        <a target=ifr href="/?p=boss/ultra&k=0006&a=1&s=2&f=1">repba.image.services</a>
+    </div>
+</div>

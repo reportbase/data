@@ -1,0 +1,12 @@
+mv 004.000.jpg 001.000.jpg
+mv 004.001.jpg 001.001.jpg
+mv 004.002.jpg 001.002.jpg
+mv 004.003.jpg 001.003.jpg
+mv 004.004.jpg 001.004.jpg
+mv 004.005.jpg 001.005.jpg
+mv 004.006.jpg 001.006.jpg
+mv 004.007.jpg 001.007.jpg
+mv 004.008.jpg 001.008.jpg
+mv 004.009.jpg 001.009.jpg
+mv 004.010.jpg 001.010.jpg
+mv 004.011.jpg 001.011.jpg

@@ -52,14 +52,14 @@
         the imagegroup index that displays iFrame images for each subgroup. To peform the above actions, tap the following animated GIF to enable the landscape 
         imagegroup menu. Enter the browser repba.com url to return to the home page and perform step-4 of the RepbaView familization steps.<p>
        
-        <a href=/?p=boss/scapes><img src=/data/boss/scapes/0001/240.gif></img></a><p><p>
+        <a href=/?p=boss/scapes&k=0001&a=1><img src=/data/boss/scapes/0001/240.gif></img></a><p><p>
 	 
        
      </div>
      </div>
 
     <div class="footer">
-        <a target=ifr href="/?p=boss/ultra&k=0006&a=1&s=2&f=1">repba.image.services</a>
+        <a target=ifr href="/?p=boss/ultra&k=0006&a=1">repba.image.services</a>
 
     </div>
 </div>

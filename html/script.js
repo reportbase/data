@@ -9,6 +9,18 @@ Number.prototype.pad = function(size)
 	    return s;
 }
 
+function fullscreen()
+{
+    var a = { key: "fullscreen", "value": 0, } 
+    ifr().postMessage(a, url.origin);
+}
+
+function auto()
+{
+    var a = { key: "auto", "value": 0, } 
+    ifr().postMessage(a, url.origin);
+}
+
 function image(n)
 {
     scroll(0,0); 
@@ -16,25 +28,4 @@ function image(n)
     ifr().postMessage(a, url.origin);
 }
 
-window.addEventListener("keyup", function (evt)
-{
-    if (ifr().postMessage(evt.key, url.origin))
-    {
-        scroll(0,0); 
-        evt.preventDefault();
-        return false;
-    }
-
-}, false);
-
-window.addEventListener("keydown", function (evt)
-{
-    if (ifr().postMessage(evt.key, url.origin))
-    {
-        scroll(0,0); 
-        evt.preventDefault();
-        return false;
-    }
-
-}, false);
 

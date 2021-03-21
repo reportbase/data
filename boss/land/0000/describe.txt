@@ -22,7 +22,7 @@
         right, briefly depress right screen, briefly depress left screen to
         manually rotate the image. Click screen to stop rotation and click
         toolbar arrow to restart rotation. Then select panorama and
-        slideshow auto motions. <a href=/?p=boss/base&k=0003&a=1&s=400
+        slideshow auto motions. <a href=/?p=boss/base&k=0003&a=1
         target="_parent"><p> Click to start</a> the New York City 360&deg; panorama 
         that is subgroup 0004 of imagegroup Land. 
         View using default panorama motion, slideshow motion and manually. Also
@@ -48,7 +48,7 @@
         projection panorama images.  RepbaView is designed to view these images. 
         <a href=/data/boss/tree/0006/004.000.jpg>Click here</a> to see how a 
         browser displays a cityscape drone projection image versus
-        <a href=/?p=boss/tree&k=0006&e=0&s=1&f=0&a=1>click here</a> to see how RepbaView properly displays the image.
+        <a href=/?p=boss/tree&k=0006&a=1>click here</a> to see how RepbaView properly displays the image.
         Click the images to see how RepbaView properly displays the images.  <p> 
         
         The tree imagegroup has 9 subgroups each         
@@ -62,7 +62,7 @@
         likely needed to properly display specific portions of the image. Reference the command menu help button for
         detailed command and screen interaction information. Panning keeps the active left & right images of the panorama displayed without moving to the next image.  The right or left arrows
         move to the next projection 360&deg; image in the subgroup. RepaView allows viewing projection 360&deg; panoramas without using
-        special headsets. <a href=/?p=boss/tree&k=0005&a=1&s=1&z=2&c=2&f=0>Click here</a> to activate the tree imagegroup and perform the above steps. 
+        special headsets. <a href=/?p=boss/tree&k=0005&a=1>Click here</a> to activate the tree imagegroup and perform the above steps. 
         Enter the repba.com url to return to the home page step 7.  
         </div>
          <p>
@@ -70,7 +70,7 @@
         
     </div>
     <div class="footer">
-        <a target=ifr href="/?p=boss/ultra&k=0006&a=1&s=2&f=1">repba.image.services</a>
+        <a target=ifr href="/?p=boss/ultra&k=0006&a=1">repba.image.services</a>
 
     </div>
 </div>

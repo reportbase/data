@@ -3,8 +3,8 @@ name:"repo",
 count:62,
 data:[
 {
-title:"Funny Face",
-name:"REFF",
+title:"Funny Faces",
+name:"RESU",
 count:1,
 },
 {

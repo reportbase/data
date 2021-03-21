@@ -1,4 +1,4 @@
-var meta = {title:"Panoramic Seamless",
+var meta = {title:"Seamless",
 name:"seem",
 count:15,
 data:[

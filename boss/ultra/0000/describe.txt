@@ -5,7 +5,26 @@
     <div class="content">
 	    <div style="font-size:medium">
              <div align=left>
+
             View images in full screen panorama. Display
+            widescreen imagery on cell phones, tablets and PC screens.
+
+            HTML5 renders web pages in portrait, 
+            which forces digital media to be resized
+            to the screen's width.   On wide landscape screens, HTML5's limitations
+            have not been an issue.  
+            
+            However, Hand-held portrait screens are now popular, but HTML5 still has not been updated.
+            HMTL5 sill requires you to scroll landscape media in portrait.  
+
+            RepbaView fixes this situation by letting you scroll landscape digtial media in 
+            portrait.
+
+            RepbaView creates an optimal viewing experience because the images are resizes to the screen 
+            height and not the screen width.<br><p>
+
+
+            View ssimages in full screen panorama. Display
             widescreen imagery on cell phones, tablets and PC screens. Websites typically
         stack pictures vertically and employ thumbnails, whereas RepbaView full screen images are displayed horizontally,
         providing continuous wrap around image viewing. It's cylindrical panoramic design is used to render images and 
