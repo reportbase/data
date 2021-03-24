@@ -24,9 +24,8 @@
         <div class=section-title>
             <div id=title></div>
         </div>
-
-        <div class=section-links>
-            <div id=images></div>
+        <div class=section-links" style="border-color:grea;border-style:solid;border-width:2;overflow-y:scroll; overflow-x:hidden; padding:8; height:430px;">
+            <div id=images ></div>
         </div>
         <p>
         
@@ -76,7 +75,7 @@ for (var n = 0; n < meta.data.length; ++n)
 {
     var id = n.pad(4);
     var obj = meta.data[n];
-    str += " <a target=ifr href=/?p=boss/"+meta.name+"&k="+id+"&a=1>"+obj.title+"</a>&nbsp;/";
+    str += " <a target=ifr href=/?p=boss/"+meta.name+"&k="+id+"&a=1>"+obj.title+"</a><br>";
 }
 
 projects().innerHTML = str;

@@ -50,26 +50,12 @@ a:active { color:blue; }
 img { max-width: 100%; }
 h1, p { margin: 0 0 1em 0; }
 
-.media.back
-{ 
-    margin-bottom: 0em; 
-    border-radius: 10% / 50%;
-    border: 20px solid black; 
-    padding: 20px 70px 20px 70px; 
-}
-
 .media 
 { 
+    height: 50%;
+    overflow-y: scroll;
+    overflow: auto;
     margin-bottom: 0em; 
-}
-
-.media > .title 
-{ 
-    padding-left: 10px;
-    padding-right: 10px;
-    padding-top: 10px;
-    padding-bottom: 0px; 
-    grid-area: title; 
 }
 
 .section-title
@@ -107,6 +93,7 @@ h1, p { margin: 0 0 1em 0; }
 
 .media > .content 
 { 
+    overflow: auto;
     grid-area: bd; 
     padding: 10px; 
 }

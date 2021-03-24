@@ -103,12 +103,18 @@
             to access some of the various subgroups. 
             Enter the repba.com url to return to this page and perform step-7 of the RepbaView familization.<p> 
             <p>
-            7. RepbaView also displays 360&deg; panoramas and motion pictures.  
-            The RepbaView design uses a cylindrical panorama to display <a target=ifr
-            href="/?p=boss/land&k=0000&a=1&s=2&f=1">360&deg; panorama</a> images.
-            Extracting images from videos into RepbaView <a target=ifr
-            href="/?p=boss/golfer/0002&k=0001&a=2&s=2&f=1">motion pictures</a>
-            provide viewing advantages for brief motion videos such as golf swings.<p><p>
+           7. The RepbaView architecture enables it to support advanced imaging solutions including display 
+	of 360&deg; panoramas, motion pictures, and graphic novels.  
+	The following page links summarize each of these solutions using example imagegroups. 
+	Although the solutions are significantly different from a user perspective, they employ the same 
+	core RepaView technology.  The 360&deg; panoramas are deployed in a cylindrical panorama to display 
+	<a target=ifr href="/?p=boss/land&k=0000&a=1&s=2&f=1">360&deg; panorama</a> projected (VR) and non projected panorama images.  
+	Motion Picture solutions involve extracting select digital images from videos into RepbaView 
+	<a target=ifr href="/?p=boss/golfer/0002&k=0001&a=2&s=2&f=1&z=1&r=2">motion picture</a> solutions that provide viewing 
+	advantages over videos for brief action videos such as golf swings. The 
+	<a target=ifr href="/?p=boss/golfer/0002&k=0001&a=2&s=2&f=1&z=1&r=2">graphic novel</a>
+	solutions deploy short story and comic pages containing graphics with embeded text as RepbaView imagegroups.  
+	Each of the image solutions utilize a browser to render their respective images.<p><p> 
             </div>
             
             This site and its supporting doumentation describe

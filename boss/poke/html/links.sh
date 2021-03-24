@@ -19,12 +19,7 @@ for i in $(seq 0 $COUNT); do
     then
         NAME=$FOLDER
     fi
-    A=$a
-    if [ -z "$A" ]
-    then
-        A=1
-    fi
-
+    A=1
     printf '[%s]\n' $NAME >> html/links.ini
     printf 'Title = %s\n' "$TITLE" >> html/links.ini
     printf 'Path = /?p=boss/%s&k=%s&a=%s\n' $PROJECT $FOLDER $A >> html/links.ini

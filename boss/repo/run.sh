@@ -1,1 +1,1 @@
-../depo/run.sh
+../poke/run.sh

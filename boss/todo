@@ -1,6 +1,8 @@
-movemid opens zoom
-_7 if not loaded show disabled
+insert a=1 into all files
+if zoom 100% hit enter/down arrow or screen move next image
+add rows when zoomed in
+bookmarks from the top row
+tap ignores first click if in motion
+auto2 requires load all
 word wrap title
-
-
-
+update launch menu when loading new
