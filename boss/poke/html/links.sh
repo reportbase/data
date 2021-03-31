@@ -1,45 +1,31 @@
 . meta.ini
 PROJECT=${PWD##*/} 
 
-printf '[8000]\n' > html/links.ini  
-printf 'Title = %s\n' ${PROJECT} >> html/links.ini
-printf 'Fill.Color = rgba(0,0,100,0.7)\n' >> html/links.ini
-printf 'Path = /data/boss/%s/html/000.html\n' ${PROJECT} >> html/links.ini
-
-COUNT=`expr $count + 6`
-printf 'Size = '$COUNT'\n\n' >> html/links.ini
-
+printf '' > html/links.ini
+LINK=8000
 COUNT=`expr $count - 1`
 for i in $(seq 0 $COUNT); do 
     FOLDER=$(printf "%04d" "$i") 
     . $FOLDER/meta.ini
     TITLE="${title}"
+    TITLE1="${title1}"
+    TITLE2="${title2}"
+   
     NAME=$name
     if [ -z "$NAME" ]
     then
         NAME=$FOLDER
     fi
-    A=1
-    printf '[%s]\n' $NAME >> html/links.ini
+
+    A=$a
+    G=$(printf "%04d" $((LINK + i)))
+    printf '[%s]\n' $G >> html/links.ini
+    printf 'Size = %s\n' "$count" >> html/links.ini
     printf 'Title = %s\n' "$TITLE" >> html/links.ini
+    printf 'Title1 = %s\n' "$TITLE1" >> html/links.ini
+    printf 'Title2 = %s\n' "$TITLE2" >> html/links.ini
     printf 'Path = /?p=boss/%s&k=%s&a=%s\n' $PROJECT $FOLDER $A >> html/links.ini
 done
-
-printf '[]\n' >> html/links.ini  
-printf 'Title = Reports\n' >> html/links.ini
-printf 'Fill.Color = rgba(0,0,100,0.7)\n' >> html/links.ini
-printf '[%s0]\n' $PROJECT >> html/links.ini
-printf 'Title = 000\n' >> html/links.ini
-printf 'Path = /data/boss/%s/html/000.html\n' ${PROJECT} >> html/links.ini
-printf '[%s1]\n' $PROJECT >> html/links.ini
-printf 'Title = 001\n' >> html/links.ini
-printf 'Path = /data/boss/%s/html/001.html\n' ${PROJECT} >> html/links.ini
-printf '[%s2]\n' $PROJECT >> html/links.ini
-printf 'Title = 002\n' >> html/links.ini
-printf 'Path = /data/boss/%s/html/002.html\n' ${PROJECT} >> html/links.ini
-printf '[%s3]\n' $PROJECT >> html/links.ini
-printf 'Title = 003\n' >> html/links.ini
-printf 'Path = /data/boss/%s/html/003.html\n' ${PROJECT} >> html/links.ini
 
 cat html/links.txt >> html/links.ini
 

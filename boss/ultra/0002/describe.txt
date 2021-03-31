@@ -5,33 +5,48 @@
     <div class="content">
         <div style="font-size:medium">
         <div align=left>
-        Imagegroup panorama or slideshow auto motion and speed can be enabled as a default start-up option or
-        manually using the command menu.  Manual screen gestures provide panning, movement of
-        images, start/stop auto motion.  Screen controls         
-        also enable users to view the hidden portions of wide images.  A no-auto-motion option is available
-        to avoid inadvertent auto rotation during manual interaction steps.
-        To demonstrate panorama and slideshow auto motion, click the right or left side of the above iframe
-        images to stop motion and pinch the screen to activate the Ultra landscape imagegroup with full height image display. Using the image menu, select various 
-        subgroup galleries and use the top right command menu to select panorama or slideshow motion options. Use the back arrow to return to this page.<p><br>
-	
-	RepbaView supports viewing the hidden portion of wide 
-        images, up/down image rotation, magnification of images when motion is stopped. When the top iFrame image is at full height, stopped, and centered notice that the image is wider than the screen. There are two ways to
-        rotate the image and view its non visible ends: 1) depress the cursor on the right or left side, or 2) pan up/down. The center column of the screen is reserved for interactive image rotation and 
-        zooming.  The arrows rotate the image up/down and the +/- icons increase/decrease magnification. 
-        Rotate and magnify the image to become familar with these screen controls. Click right side of screen 
-        to move to the center of the 
-        next image. Select an image relative position by tapping the bottom of the screen. To perform these steps using a few image subgroups
-        click on top iFrame right or left side to stop motion and pinch the screen to activate the Ultra imagegroup at full height.
-        Click on the browser back arrow to return to this page.
 
-        RepbaView creates animated GIFs and imagegroup reports when building imagegroups on the RepaView cloud. Gifs are
-        useful for posting to social media and emails. Click on the following GIF image
-        to enable the Express imagegroup having 7 subgroups each with 72 early 20th century paintings.
-        View the different subgroups     
-        by selecting the left menu icon. Enter the repba.com url to return to the home page and 
-        perform step-6 of the RepbaView familization steps.<p>
-       
-        <a href=/?p=boss/express><img src=/data/boss/express/0000/240.gif></img></a>
+            Image auto motion is provided in panorama or slideshow views. The motion type
+            and speed can be enabled as default start-up options and manually controlled
+            using the command menu. When motion is active, screen control icons are not
+            displayed providing a quality viewing experience. Motion speed is controlled by
+            manual swiping from low (fast) to high (slow) vertical position. The command
+            menu restart button restarts motion at the same speed and direction. RepbaView
+            supports a seamless transition between manual image control and auto motion.
+            Auto motion is stopped by clicking anywhere on the screen enabling manual
+            screen gestures or keyboard options. Manual controls provide panning,
+            next/previous image selection, restart auto motion at same speed and direction,
+            initiate new motion direction and speed, image magnification, images vertical
+            rotation up or down, and image/command/thumbnail menus. The image and command
+            menu icons are enabled when an image is stopped.  To demonstrate panorama and
+            slideshow auto motion, click anywhere on the above iframe image to stop motion.
+            Then click the “New Window” link below the iFrame display to activate the Ultra
+            landscape imagegroup at full height display. Using the image menu, select
+            various subgroup galleries using the top right command menu to select panorama
+            or slideshow motion options. Use the back arrow to return to this page.<p><br>
+
+            Browsers render images in portrait, forcing digital media to be resized to the
+            screen's width.  Wide landscape images resized to the screen width require
+            users to either rotate the device to landscape or pinch the image to full
+            height.  RepbaView is a breakthrough rendering technology that addresses this
+            limitation by rendering landscape media in a virtual panorama automatically
+            resizing media to the screen height, not the screen width. This creates a full
+            screen virtual panorama as some of a landscape image extends beyond the
+            screen's horizontal boundary. RepbaView supports convenient viewing of the
+            hidden ends of wide images. When the above iFrame image is at full height,
+            stopped, and centered notice that the image is wider than the screen. To center
+            an image, click the footer “+” icon to move to the next image. Pan left/right
+            to view the non visible ends of the image when the view is constrained to the
+            current image.  An effective horizontal panning method is to pan left or right
+            from the center of the image.<p><p> RepbaView creates animated GIFs and
+            imagegroup reports when building imagegroup montages in the RepaView cloud.
+            GIFs are useful when including images to social media and emails. Click on the
+            following GIF image to enable the Express imagegroup that has 7 subgroups each
+            with 72 early 20th century paintings. View different subgroups by selecting
+            buttons defined by the left image menu icon. Enter the repba.com url to return
+            to the home page and perform step-6.<p>
+
+            <a href=/?p=boss/express><img src=/data/boss/express/0000/240.gif></img></a>
         </div>
         </div>
     </div>

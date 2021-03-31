@@ -2,138 +2,105 @@
     <div class="title">
         RepbaView 
     </div>
-    <div class="content">
-	    <div style="font-size:medium">
+	<div align=left style="font-size:medium">
 
-            <div align=left>
-            View images in full screen panorama. Display
-            widescreen imagery on cell phones, tablets and PC screens.<p><br>
-
-            HTML5 renders in portrait, 
-            forcing digital media to be resized
-            to the screen's width.   On larger landscape screens, this 
-            is not a problem, but on smaller portrait screens such as a mobile-phone,
-            wide images can often be unrecognizable.<p>
-
-            Wide landscape media rendered on a portrait screen must be resized aggressively to fit the screen's width.  
-            Wide media resized to the screen width
-            forces the user to either rotate the device to landscape or simply accept smaller sized media.<p>
+            View images in full screen panorama using cell phones, tablets and PC screens.
+            Websites typically stack pictures vertically and employ thumbnails, whereas
+            RepbaView full screen images are displayed horizontally, providing continuous
+            wrap around image viewing. Displaying new pages at the 
+            screen top enhances the user experience over that of vertically
+            panning new pages.  RepbaView is a visionary web application initiative that
+            uses proprietary cylindrical panorama algorithms to display full height images
+            horizontally. It delivers full height, panoramic motion images to parent web
+            sites, emails, or social media using iFrames, GIFs, or URLs. <p><p>
             
-            RepbaView fixes this by rendering landscape media in a virtual panorama.
-            RepbaView resizes media to the screen 
-            height, not the screen width.  This creates a full screen virtual panorama
-            as much of the image extends beyond the screen's horizonal boundry.<p>
-
-            RepbaView is a breakthrough rendering technology.  See many examples of this herein.<p>
-
-            It is easy to add RepbaViewer to any website, just insert the following html directive.
-            &lt;iframe width=100% src=https://repba.com/?p=boss/express&amp;k=0000&gt;<p>
-
-            Pan the images to scroll through the entire image group.  Swipe
-            the images for automated motion, slower on top, faster on the bottom.  
-            RepbaView creates emotion by adding motion to still photography. 
-            Photographs are more are fun to browse when viewed with the RepbaView's panoramic motion display.<p>
-
-            Each image is individually selectable and can interact with the parent page to create a product catalog.
-            This has many applications which customers are just now beginning to explore. <p> 
-
-            RepbaView supports a rich URL to position any image at the desired zoom level.
-            For example, this link will load page 66.6 of a graphic novel at a 75% zoom. 
-             <a target=ifr href=https://repba.com/?p=boss/yave&k=0058&d=10&z=16&c=5&r=5&a=0>
-                https://repba.com/?p=boss/yave&amp;k=0058&amp;d=10&amp;z=11&amp;c=5&amp;r=5&amp;a=0</a><p>
-
-            This link will load the middle 20% of panoramic cityscape at 50%. 
-            <a target=ifr href=https://repba.com/?p=boss/base&k=0011&d=0&z=11&c=5&r=5&a=1>
-                https://repba.com/?p=boss/base&amp;k=0011&amp;d=0&amp;z=11&amp;c=5&amp;r=5&amp;a=1</a><p>
-
-            <br><p>
-            </div>
-
-
-             <div align=left>
-            View images in full screen panorama. Display
-            widescreen imagery on cell phones, tablets and PC screens. Websites typically
-        stack pictures vertically and employ thumbnails, whereas RepbaView full screen images are displayed horizontally,
-        providing continuous wrap around image viewing. It's cylindrical panoramic design is used to render images and 
-        create innovative menus.              
-        <br><p><p>
-         </div>
-           </div>     
-                
-
-        Steps To Get <br>Familiar With RepbaView.<p> 
-        <div align=left>
-        <div style="font-size:medium">
-            1. Interact with the top iFrame image. Click the top iFrame right or left side of image to stop panoramic motion. Click 
-            the right/left side of image arrows to reinitiate forward/backward image motion.<p><p>          
-            2. Select imagegroup subgroups using the image menu. After 
-            <a href=/?p=boss/olympics&a=1&k=0004 target="_parent">click to start </a>the olympics image group, view various 
-            image subgroups by clicking the left icon image menu buttons. Click the browser back arrow to return 
-            to this page. <p><p>
-            3. Imagegroup definitions, menus, and initiation options using Ultra imagegroup<a target=ifr
-            href="/?p=boss/ultra&k=0001&a=1&s=2&f=1">RepaView Images</a> page.<p><p>
-        </div><p>
-
-        <div style="font-size:medium;">
-            4. Enable panorama 
-            and slideshow motion using the command menu with various image subgroups. After motion type is 
-            selected, click the command menu icon to clear the displayed buttons. Click anywhere on the screen 
-            to stop motion and click the toolbar right-arrow to start motion. Refer to the command menu help button for 
-            command information. There are two action sequences. 1)                                    
-            <a href=/?p=boss/king&a=1&k=0003&s=1&f=1 target="_parent"> Click to
-            start </a> the Giraffes subgroup of the animal King imagegroup to perform the actions. 
-            Click the browser back arrow to return to this page. 2) Tap the GIF image below to start the Ocean subgroup 
-            of the poke imagegroup and perform the above actions. 
-            Click the browser back arrow to return to this page.<p>
-                </div><br>
-            
-
-        <a href=/?p=boss/peek&k=0000&a=1&s=200&f=1 target="_parent"><img src=/data/boss/peek/0000/320.gif></a><p>
-            <div style="font-size:medium">
-            5. Image motion user interaction using the Ultra image group<a target=ifr
-            href="/?p=boss/ultra&k=0002&a=1&s=2&f=1">RepbaView Image Motion</a> page.
+            RepbaView challenges the status-quo of image technology providing a platform
+            based on cloud image deployment, full height client side image rendering, and
+            intuitive user interface. Landscape image collections that demand optimum
+            visual quality are prime opportunities to take
+            advantage of RepbaView full height panorama or slideshow displays. RepbaView creates emotion
+            by adding motion to static photography making images fun to browse. It
+            employs a client/server architecture using the browser canvas and GPU interface 
+            to display image collections at high performance and
+            superb quality. Its design splits image montages into hundreds of slices and
+            individually renders them horizontally in real-time. 
+            RepbaView's cylindrical panoramic design is used to
+            render images and create innovative menus. In addition to its core
+            image rendering capabilities, RepbaView is a breakthrough technology
+            that supports advanced image solutions including 360 degree panoramas, motion
+            pictures, and graphic novels. Each of these solutions are summarized by
+            separate pages below.  <br><p>
+                                     
+            Steps To Get <br>Familiar With RepbaView.<p> 
+            1. Interact with the above iFrame image. Click anywhere on the image to stop panoramic motion. Swipe 
+            right to reinitiate forward image motion and swipe left to initiate backward motion.<p><p>  
+            2. Click <a target=ifr href="/?p=boss/ultra&k=0001&a=1">RepaView Images</a> to display a summary of Imagegroup 
+            structure, menus, zooming, vertical image rotation, and start-up options using the Ultra imagegroup. Click the 
+            browser back arrow to return to this page.<p><p>
+            <p>
+            3. Select imagegroup subgroups using the image menu, GIFs, and short-urls. After 
+            <a href=/?p=boss/olympics&a=1&k=0004 target="_parent">click to start </a>the olympics image group to view various 
+            sports related image subgroups by clicking the top left screen to enable image menu buttons. 
+            Click the image menu icon to remove the menu buttons. Then click the Reports/0003 button to view the sports GIF images. 
+            Page down and click on one of the GIF images to display the images at full height in a new display window. Re-enable  
+            the repba.com window and page down the GIF images and click the short-url repba.com?SOSO to enable the Soccer 
+            full height display in a new display window. Re-enable the repba.com window to return to this page. <p><p>
+            4. Click <a target=ifr
+            href="/?p=boss/ultra&k=0002&a=1&s=2&f=1">RepbaView Image Motion</a> 
+            for a summary of Image motion controls using the Ultra imagegroup page.
             <p><p>
+
+
+            5. Enable panorama 
+            and slideshow motion using the command menu while viewing various image subgroups. After motion type is 
+            selected, click the command menu icon to clear the displayed buttons. Click anywhere on the screen 
+            to stop motion and swipe right to start motion. Refer to the command menu help button for 
+            command information. Perform two sequences. 1)                                    
+            <a href=/?p=boss/king&a=1&k=0003&s=1&f=1 target="_parent"> Click to
+            start </a> the Giraffes subgroup of the animal King imagegroup, click the New Window icon below the iFrame 
+            to initiate a full height display, select panorama and slideshow motions using the right command icon. 
+            Click the browser back arrow to return to this page. 2) Tap the GIF image below to start the Ocean subgroup 
+            of the peek imagegroup and perform the same motion related actions. Then click the bottom display row to enable the footer 
+            and select click the num.num icon to enable the thumbnail menu.  Select specific thumbmail images and double click the
+            menu to disable it. Enter url repba.com to return to this page.<p> <br>
+            
+            <a href=/?p=boss/peek&k=0000&a=1&s=200&f=1 target="_parent"><img src=/data/boss/peek/0000/320.gif></a><p>
               
-            6. View imagegroup of framed slideshows and panorams of various image numbers and sizes. 
+            6. View framed and unframed slideshows, and panorams of various image subgroups. 
             As demonstrated by this imagegroup, RepbaView 
             is designed to effectively display slideshows.
             Select a few of the fun slideshows enabled by the top left image menu icon
             buttons including the "executive fashions", "costumes", "Sport Shots", and "Globe" image subgroups. 
             Click to <a href=/?p=boss/repo&k=0009&d=0&a=2 target="_parent">start the framed slideshows</a> imagegroup
             to access some of the various subgroups. 
-            Enter the repba.com url to return to this page and perform step-7 of the RepbaView familization.<p> 
-            <p>
-           7. The RepbaView architecture enables it to support advanced imaging solutions including display 
-	of 360&deg; panoramas, motion pictures, and graphic novels.  
-	The following page links summarize each of these solutions using example imagegroups. 
-	Although the solutions are significantly different from a user perspective, they employ the same 
-	core RepaView technology.  The 360&deg; panoramas are deployed in a cylindrical panorama to display 
-	<a target=ifr href="/?p=boss/land&k=0000&a=1&s=2&f=1">360&deg; panorama</a> projected (VR) and non projected panorama images.  
-	Motion Picture solutions involve extracting select digital images from videos into RepbaView 
-	<a target=ifr href="/?p=boss/golfer/0002&k=0001&a=2&s=2&f=1&z=1&r=2">motion picture</a> solutions that provide viewing 
-	advantages over videos for brief action videos such as golf swings. The 
-	<a target=ifr href="/?p=boss/golfer/0002&k=0001&a=2&s=2&f=1&z=1&r=2">graphic novel</a>
-	solutions deploy short story and comic pages containing graphics with embeded text as RepbaView imagegroups.  
-	Each of the image solutions utilize a browser to render their respective images.<p><p> 
-            </div>
-            
+            Enter the repba.com url to return to this page and perform step-7 of the RepbaView familization.<p><p>
+
+            7. The RepbaView architecture enables it to support advanced imaging solutions including display 
+            of 360&deg; panoramas, motion pictures, and graphic novels.  
+            The following page links summarize each of these solutions using example imagegroups. 
+            Although the solutions are significantly different from a user perspective, they employ the same 
+            core RepaView technology.  The 360&deg; panoramas are deployed in a cylindrical panorama to display 
+            <a target=ifr href="/?p=boss/land&k=0000&a=1&s=2&f=1">360&deg; panorama</a> projected (VR) and non projected panorama images.  
+            Motion Picture solutions involve extracting select digital images from videos into RepbaView 
+            <a target=ifr href="/?p=boss/golfer/0002&k=0001&a=2&s=2&f=1&z=1&r=2">motion picture</a> solutions that provide viewing 
+            advantages over videos for brief action videos such as golf swings. The 
+            <a target=ifr href="/?p=boss/golfer/0002&k=0001&a=2&s=2&f=1&z=1&r=2">graphic novel</a>
+            solutions deploy short story and comic pages containing graphics with embeded text as RepbaView imagegroups.  
+            Each of the image solutions utilize a browser to render their respective images.<p><p> 
+
             This site and its supporting doumentation describe
             RepbaView web application <a target=ifr
             href="/?p=boss/ultra&k=0006&a=1&s=2&f=1">hosting services</a> for
-            customers aiming to display their images in new and creative ways.
-            </div><p><p>
-            <div style="">
-        
+            customers aiming to display their images in new and creative ways.  <p><p>
+                    
             Supporting Documents<br>
             <a href=repba.pdf>RepbaView Description</a><br>
             <a href=services.pdf>Services Description</a><br>
-            <a href=worksheet.txt>Image Group Worksheet</a>
-        </div><p>
+            <a href=worksheet.txt>Image Group Worksheet</a><p>
 
-        <div style="font-size:small">
             Site Contact: support@repba.com.<br>
             Privacy: Site does not update cookies.
-        </div>
+    
     </div> 
     <div class="footer">
         <a target=ifr href="/?p=boss/ultra&k=0006&a=1&s=2&f=1">repba.image.services</a>

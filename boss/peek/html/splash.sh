@@ -1,0 +1,1 @@
+../../king/html/splash.sh

@@ -1,3 +1,3 @@
-for image in 4*.jpg; do convert $image -gravity center -crop 1920x1080+0+0 $image; done
+for image in *.jpg; do convert $image -gravity center -crop $1+0+0 $image; done
 
 

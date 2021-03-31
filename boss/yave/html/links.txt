@@ -1,0 +1,15 @@
+[9001]
+Title = May God have mercy on my enemies, cause I will not
+size = 6
+[]
+Title = Life is What Happens When You Are Busy Making Other Plans
+[]
+Title = Winners Never Quit, Quitters Never Win
+[]
+Title = Do Not Decrease the Goal, Increase the Effort
+[]
+Title = If Opportunity Does Not Knock, Build a Door
+[]
+Title = I can Resist Everything Except Temptation
+
+

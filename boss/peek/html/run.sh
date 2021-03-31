@@ -1,1 +1,1 @@
-../../poke/html/run.sh
+../../king/html/run.sh

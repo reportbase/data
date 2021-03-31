@@ -5,32 +5,32 @@ data:[
 {
 title:"Gallery I",
 name:"INRE",
-count:72,
+count:6,
 },
 {
 title:"Gallery II",
 name:"INQE",
-count:72,
+count:6,
 },
 {
 title:"Gallery III",
 name:"INYT",
-count:72,
+count:6,
 },
 {
 title:"Gallery IV",
 name:"INBN",
-count:72,
+count:6,
 },
 {
 title:"Gallery V",
 name:"INTV",
-count:72,
+count:6,
 },
 {
 title:"Gallery VI",
 name:"INEE",
-count:72,
+count:6,
 },
 ]
 }

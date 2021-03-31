@@ -1,4 +1,10 @@
+. meta.ini
+mkdir -p splash
+EXTENT=$extent
+
 PROJECTNAME=${PWD##*/}
-html/./meta.sh $PROJECTNAME 2> /dev/null
-html/./links.sh $PROJECTNAME 2> /dev/null
-all.sh $PROJECTNAME 2> /dev/null
+html/./meta.sh $PROJECTNAME 
+html/./links.sh $PROJECTNAME 
+all.sh $PROJECTNAME 
+html/./splash.sh $EXTENT
+
