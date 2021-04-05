@@ -78,16 +78,16 @@
 
             7. Example Imagegroup Demos. Enter back arrow or url repba.com to return to this page.<br>
            
-            Click to Start<a href=/?p=boss/interior&a=1&k=0000 target="_parent">  Interior Imagegroup</a>   
-            <a href=/?p=boss/combat&a=2&k=0003 target="_parent">  Combat Imagegroup</a>
-            <a href=/?p=boss/city&a=2&k=0000 target="_parent">  City Imagegroup</a><p><p>
+            Click to Start the following image groups: <a href=/?p=boss/interior&a=1&k=0000 target="_parent">  Interiors, </a>   
+            <a href=/?p=boss/combat&a=2&k=0003 target="_parent"> Military </a> 
+            <a href=/?p=boss/city&a=2&k=0000 target="_parent">or City. </a><p><p>
 
             8. The RepbaView architecture enables it to support advanced imaging solutions including display 
             of 360&deg; panoramas, motion pictures, and graphic novels.  
             The following page links summarize each of these solutions using example imagegroups. 
             Although the solutions are significantly different from a user perspective, they employ the same 
             core RepaView technology.  The 360&deg; panoramas are deployed in a cylindrical format to display 
-            <a target=ifr href="/?p=boss/land&k=0000&a=1&s=2&f=1">360&deg; panorama</a> projected (VR) and non projected panorama images.  
+            <a target=ifr href="/?p=boss/repo&k=0109&a=1&s=2&f=1">360&deg; panorama</a> projected (VR) and non projected panorama images.  
             Motion Picture solutions involve extracting digital images from videos into RepbaView 
             <a target=ifr href="/?p=boss/golfer/0002&k=0001&a=2">motion picture</a> solutions that provide viewing 
             advantages over videos for brief action videos such as golf swings. The 

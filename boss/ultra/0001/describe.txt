@@ -67,7 +67,7 @@
 
             Large cellphones typically only have about 800x500 pixels. HTML does not provide features to support viewing large hi-res images.
             The zoom and vertical rotation RepbaView features allow users view large hi-res images. <a 
-            href=/?p=boss/bath&k=0022&z=12&c=0&r=36&a=1>Chick here</a> to
+            href=/?p=boss/repo&k=0105&z=12&c=0&r=36&a=1>Chick here</a> to
             display a RepabView 30Kx10K hi-res image.  Zoom to maximum level
             to observe the people by the boat. Click the browser back arrow or select url repba.com to return. <p><p> 
 
@@ -75,7 +75,7 @@
             a cylinder format that enables viewing the image at 360 degree wrap-around panorama. The zoom and 
             vertical rotation features allow viewing the image at broad and detailed perspectives.  Simply moving your 
             figure or mouse on the screen moves the image accordingly.  
-            <a href=/?p=boss/bath&k=0025&z=5&a=1&r=35> Click here</a> to view a Monte Carlo hi-res image example. Depress a finger or cursur
+            <a href=/?p=boss/repo&k=0108&z=5&a=1&r=35> Click here</a> to view a Monte Carlo hi-res image example. Depress a finger or cursur
             at the screen edges to move fully around the image. Click the browser back arrow or select url repba.com 
             to return. <p><p>
             
