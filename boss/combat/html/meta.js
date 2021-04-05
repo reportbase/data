@@ -3,34 +3,34 @@ name:"combat",
 count:6,
 data:[
 {
-title:"Gallery I",
+title:"Figher Jets - Gallery I",
 name:"CBIO",
-count:6,
+count:72,
 },
 {
-title:"Gallery II",
+title:"Figher Jets - Gallery II",
 name:"CBAR",
-count:6,
+count:72,
 },
 {
-title:"Gallery III",
+title:"Combat - Gallery III",
 name:"CBZA",
-count:6,
+count:72,
 },
 {
-title:"Gallery IV",
+title:"Combat - Gallery IV",
 name:"CBTR",
-count:6,
+count:72,
 },
 {
-title:"Gallery V",
+title:"Combat - Gallery V",
 name:"CBTQ",
-count:6,
+count:72,
 },
 {
-title:"Gallery VI",
+title:"Combat - Gallery VI",
 name:"CBDA",
-count:6,
+count:72,
 },
 ]
 }

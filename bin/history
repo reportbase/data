@@ -1,2 +1,4 @@
+sed -r 's/\s+//g' filename  #clear whitespace
+find . -type f -name $1  #find file
 sed '/url=/d' meta.ini #delete line from ini
 find data/ -name '*.json' -exec cat {} \; > uber.json   #recurse folders concat them

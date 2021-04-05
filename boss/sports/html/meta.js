@@ -1,36 +1,36 @@
-var meta = {title:"Action Photos",
+var meta = {title:"Sports Photograpy",
 name:"sports",
 count:6,
 data:[
 {
-title:"Gallery I",
+title:"Sports Photograhy - Gallery I",
 name:"SPAI",
-count:6,
+count:72,
 },
 {
-title:"Gallery II",
-name:"SPAI",
-count:6,
+title:"Sports Photograhy - Gallery II",
+name:"SPAD",
+count:72,
 },
 {
-title:"Gallery III",
-name:"SPAI",
-count:6,
+title:"Sports Photograhy - Gallery III",
+name:"SPAE",
+count:72,
 },
 {
 title:"Gallery IV",
-name:"SPAI",
-count:6,
+name:"SPAE",
+count:72,
 },
 {
-title:"Gallery V",
-name:"SPAI",
-count:6,
+title:"Sports Photograhy - Gallery IV",
+name:"SPAF",
+count:72,
 },
 {
-title:"Gallery VI",
-name:"SPAI",
-count:6,
+title:"Sports Photograhy - Gallery V",
+name:"SPAG",
+count:72,
 },
 ]
 }

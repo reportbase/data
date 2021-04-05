@@ -3,34 +3,34 @@ name:"covers",
 count:6,
 data:[
 {
-title:"April.1975",
+title:"Comic Book Covers - April.1975",
 name:"COEW",
-count:6,
+count:72,
 },
 {
-title:"May.1976",
-name:"COEO",
-count:6,
+title:"Comic Book Covers - May.1975",
+name:"COEW",
+count:72,
 },
 {
-title:"June.1976",
+title:"Comic Book Covers - Jun.1976",
 name:"CORE",
-count:6,
+count:72,
 },
 {
-title:"July.1978",
+title:"Comic Book Covers - July.1978",
 name:"COVH",
-count:6,
+count:72,
 },
 {
-title:"January.1979",
+title:"Comic Book Covers - Jan.1979",
 name:"CORY",
-count:6,
+count:72,
 },
 {
-title:"March.1975",
-name:"COBM",
-count:6,
+title:"Comic Book Covers - March.1975",
+name:"CORY",
+count:72,
 },
 ]
 }

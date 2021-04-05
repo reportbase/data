@@ -3,34 +3,34 @@ name:"life",
 count:6,
 data:[
 {
-title:"Insects",
+title:"Life - Insects I",
 name:"LIIN",
-count:6,
+count:72,
 },
 {
-title:"Insects II",
-name:"LII2",
-count:6,
+title:"Life - Insects II",
+name:"LIIN2",
+count:72,
 },
 {
-title:"Reptiles",
+title:"Life - Reptiles",
 name:"LIRE",
-count:6,
+count:72,
 },
 {
-title:"Reptiles II",
-name:"LIR2",
-count:6,
+title:"Life - Reptiles II",
+name:"LIRE2",
+count:72,
 },
 {
-title:"Cats",
+title:"Life - Cats",
 name:"LICA",
-count:6,
+count:72,
 },
 {
-title:"Dogs",
+title:"Life - Dogs",
 name:"LIDO",
-count:6,
+count:72,
 },
 ]
 }

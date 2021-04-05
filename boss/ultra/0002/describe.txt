@@ -38,15 +38,19 @@
             an image, click the footer “+” icon to move to the next image. Pan left/right
             to view the non visible ends of the image when the view is constrained to the
             current image.  An effective horizontal panning method is to pan left or right
-            from the center of the image.<p><p> RepbaView creates animated GIFs and
+            from the center of the image. RepbaView also supports an assisted panning
+            method where users only need a brief swipe at right/left image to view the page end. To easily
+            sync up image postion, click the 
+            center of the screen to view the subgroup thumbnail menu. <p><p> 
+            RepbaView creates animated GIFs and
             imagegroup reports when building imagegroup montages in the RepaView cloud.
             GIFs are useful when including images to social media and emails. Click on the
             following GIF image to enable the Express imagegroup that has 7 subgroups each
             with 72 early 20th century paintings. View different subgroups by selecting
             buttons defined by the left image menu icon. Enter the repba.com url to return
-            to the home page and perform step-6.<p>
+            to the home page and perform step-5.<p>
 
-            <a href=/?p=boss/express><img src=/data/boss/express/0000/240.gif></img></a>
+            <a href=/?p=boss/express><img src=/data/boss/express/0000/gif/240.gif></img></a>
         </div>
         </div>
     </div>

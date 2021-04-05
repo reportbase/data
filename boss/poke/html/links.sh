@@ -3,13 +3,11 @@ PROJECT=${PWD##*/}
 
 printf '' > html/links.ini
 LINK=8000
-COUNT=`expr $count - 1`
-for i in $(seq 0 $COUNT); do 
+SIZA=$count
+SIZE=`expr $count - 1`
+for i in $(seq 0 $SIZE); do 
     FOLDER=$(printf "%04d" "$i") 
     . $FOLDER/meta.ini
-    TITLE="${title}"
-    TITLE1="${title1}"
-    TITLE2="${title2}"
    
     NAME=$name
     if [ -z "$NAME" ]
@@ -20,10 +18,17 @@ for i in $(seq 0 $COUNT); do
     A=$a
     G=$(printf "%04d" $((LINK + i)))
     printf '[%s]\n' $G >> html/links.ini
-    printf 'Size = %s\n' "$count" >> html/links.ini
-    printf 'Title = %s\n' "$TITLE" >> html/links.ini
-    printf 'Title1 = %s\n' "$TITLE1" >> html/links.ini
-    printf 'Title2 = %s\n' "$TITLE2" >> html/links.ini
+
+    if [ $i = 0 ]; then
+        printf 'Size = %s\n' "$SIZA" >> html/links.ini
+    fi
+
+    printf 'Short = %s\n' "$name" >> html/links.ini
+    printf 'Title = %s\n' "$title" >> html/links.ini
+    printf 'Title1 = %s\n' "$title1" >> html/links.ini
+    printf 'Title2 = %s\n' "$title2" >> html/links.ini
+    printf 'Extent = %s\n' "$extent" >> html/links.ini
+    printf 'Count = %s\n' "$count" >> html/links.ini
     printf 'Path = /?p=boss/%s&k=%s&a=%s\n' $PROJECT $FOLDER $A >> html/links.ini
 done
 

@@ -7,17 +7,17 @@
         <div align=left style="font-size:medium">
 
             At the top level, RepbaView Image collections are defined as imagegroups.
-            Each imagegroup consists of subgroups of image montages that have similar image
+            Each imagegroup consists of subgroups of image montages having similar image
             aspect ratio and size.  Dividing images appropriately between subgroups
-            promotes effective image organization and user access. Depending on the
-            horizontal size of the images, montages consist of 1 to 18 images. RepbaView
-            displays images at full screen height eliminating user time and effort to
-            pinch-out landscape photos to full screen. Images are stored in a cylinder
-            format on the client with no gaps between images. The cylinder can be rotated
+            promotes effective image organization. Depending on the
+            horizontal size of the images, montages consist of various image numbers. RepbaView
+            displays images at full screen height eliminating the effort to
+            pinch-out landscape photos to full screen. Montages are stored in client memory as a 
+            cylindrical representation. The cylinder can be rotated
             360 degrees in either direction to display panorama or slideshow images. Image
-            group start-up motion options of panorama, slideshow, or no motion can be
-            established where motion speed can be changed by the user. The cylindrical
-            image design is used to implement RepbaView menus that provide convenient user
+            group start-up speed and motion options of panorama, slideshow, or no-motion can be
+            established. When active, an imagegroup motion and speed can be dynamically changed by the user. 
+            RepbaView menus provide convenient user
             selection of image subgroups, documents, or commands. Image subgroups typically
             represent images but can also refer to nested subgroup menus.  <p><p>The display
             of RepbaView imagegroups are initiated by urls, short-urls, GIFs, or iFrames.
@@ -34,72 +34,60 @@
             RepbaView iFrame to an optional full screen new window enhances view and
             control of images.<p><p>
 
-            The top header zoom icons and vertical image panning rotation provide
-            interactive image view tuning.  The Image tuning process involves zooming and
-            vertical image rotation.  Vertically panning rotates the image up/down and the
+            Image view tuning involves zooming and
+            vertical image rotation.  The image zoom header and vertical panning rotation provide
+            interactive image view tuning. Vertical panning rotates the image up/down and the
             top header +/- icons increase/decrease magnification. The above Ultra
-            imagegroup, Gallery II subgroup iFrame view can be used to demonstrate the
+            imagegroup, Gallery II subgroup, iFrame view can be used to demonstrate the
             tuning options. If using a cellphone, switch to landscape view to better see
             the iFrame image. To demonstrate zooming, stop image motion by clicking
-            anywhere on the screen, click the top display row to enable the header that
-            consists of -, num1.num2, + icons.  The num1 is the current zoom selection and
+            anywhere on the screen. Then Click the top display row to enable the header which
+            consists of - num1.num2 + icons.  The num1 is the current zoom selection and
             the num2 is the total number of zoomable positions. Click - and + selections
-            and see the numbers changes.  To demonstrate vertical image rotation, click the
-            bottom row to enable the footer that consists of  -, num1.num2, + icons. The
+            and see the numbers change.  To demonstrate vertical image rotation, click the
+            bottom row to enable the footer that consists of  - num1.num2 + icons. The
             num1 is the current subgroup image and num2 is the current rotatable position.
             Pan the image up and down and watch the image rotate with corresponding changes
-            to the footer num1 value.  Click the footer - and + icons to move to the next
-            or previous images. Click the browser back arrow to return to this page.<p>
+            to the footer num2 value.  Click the footer - and + icons to move to the next
+            or previous images.  Click the browser back arrow or select url repba.com to return.<p>
             
-            Next select the “new window” link below the iFrame display to enable full
+            Next select the “new window” link below the iFrame to enable full
             screen view.  While selecting various image subgroups using the top left image
-            menu, perform the above zoom and image rotation image tuning steps. Click on
-            the footer num.num icon to enable or disable the thumbnail menu that enables
+            menu, perform the above zoom and image rotation image tuning steps. Click center of screen 
+            to enable the thumbnail menu that allows
             users to view and select subgroup images based on their thumbnail image.  Using
-            the thumbnail menu, display various images and tap the footer num.num to
-            disable the thumbnail menu. Click the browser back arrow to return to this
-            page.  <p>
+            the thumbnail menu, display various images. Select an image or double click a display to
+            disable the thumbnail menu. Click the browser back arrow or select url repba.com to return.  <p>
             
-            Another exercise to become familiar with the interactive zoom and
-            vertical rotation tuning features is to activate the “Finding Waldo” large
-            high-res image and locate one or more of the 3 Waldo figures. Click &lt;a
-            target=ifr href="/?p=boss/repo&k=0034&d=0&z=0&c=0&r=0&a=1”&gt;Waldo&lt;/a&gt;
-            to display the image. Click the browser back arrow to return to this page.<p>
+            An exercise to become familiar with the interactive zoom and
+            vertical rotation features is to activate the “Finding Waldo” large
+            high-res image and locate one or more of the 3 Waldo figures. Click <a
+            href=/?p=boss/repo&k=0034&a=1&z=7 target=_parent> Waldo</a>  
+            to display the image. Click the browser back arrow or select repba.com to return.<p>
+
+            Large cellphones typically only have about 800x500 pixels. HTML does not provide features to support viewing large hi-res images.
+            The zoom and vertical rotation RepbaView features allow users view large hi-res images. <a 
+            href=/?p=boss/bath&k=0022&z=12&c=0&r=36&a=1>Chick here</a> to
+            display a RepabView 30Kx10K hi-res image.  Zoom to maximum level
+            to observe the people by the boat. Click the browser back arrow or select url repba.com to return. <p><p> 
+
+            RepbaView's design is particularily effective at viewing hi-res images. It stores the image in
+            a cylinder format that enables viewing the image at 360 degree wrap-around panorama. The zoom and 
+            vertical rotation features allow viewing the image at broad and detailed perspectives.  Simply moving your 
+            figure or mouse on the screen moves the image accordingly.  
+            <a href=/?p=boss/bath&k=0025&z=5&a=1&r=35> Click here</a> to view a Monte Carlo hi-res image example. Depress a finger or cursur
+            at the screen edges to move fully around the image. Click the browser back arrow or select url repba.com 
+            to return. <p><p>
             
             The "scapes" imagegroup is organized into 24 sub-groups each consisting of
             72 images. Using the image menu, click several of the image subgroups to view
             some of the more than 2000 images. Click on the image menu button "scapes'' to
             display iFrame images for each subgroup. To perform these actions, tap the
-            following animated GIF to enable the landscape imagegroup menu. Click on the
-            browser back arrow to return to this page.<p>
+            following animated GIF to enable the landscape imagegroup menu. Click the browser back arrow 
+            or select url repba.com to return.<p>
 
             <a href=/?p=boss/scapes&k=0001&a=1><img
-            src=/data/boss/scapes/0001/240.gif></img></a><p><p>
-
-            RepbaView supports hi-res images.   Click <a target=ifr
-            href="/?p=boss/golfer/0002&k=0001&a=2&s=2&f=1&z=1&r=2">here</a> to
-            display a RepabView 30Kx10K hi-res image.  Zoom to maximum zoom level
-            and see the people by the boat. The clear zooming image of hi-res
-            images is provided by slicing the image into slices and only rendering
-            the visible slices. Click the browser back arrow to return to this
-            page. <p><p> 
-
-            repba.com url to return to the home page and perform step-4 of
-            the RepbaView To add the RepbaView imagegroup express iFrame view
-            to any website,  insert this html directive:  &lt;iframe
-            width=100% src=https://repba.com/?p=boss/express&k=0000&gt; <p>
-            RepbaView supports a rich URL that can position an image at the
-            desired zoom level. For example, this link will load page 66.6 of
-            a graphic novel at 75% zoom where c=zoom level, and r=rotation
-            level. 
-            https://repba.com/?p=boss/yave&k=0058&d=10&z=11&c=5&r=5&a=0 <p>
-            This link will load the middle 20% of panoramic cityscape at 50%
-            zoom.
-            https://repba.com/?p=boss/base&k=0011&d=0&z=11&c=5&r=5&a=1. Enter
-            the browser familiarization steps.  Another exercise to become
-            familiar with the interactive zoom and vertical rotation tuning
-            features is to 
-
+            src=/data/boss/scapes/0001/gif/240.gif></img></a><p><p>   
 
     <div class="footer">
         <a target=ifr href="/?p=boss/ultra&k=0006&a=1">repba.image.services</a>
