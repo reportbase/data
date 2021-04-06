@@ -1,42 +1,42 @@
 [9001]
-Title = May God have mercy on my enemies, cause I will not
+Title = Repbaviewer - Panoramic image viewer for graphic novels and image slide shows.  
 size = 146
 []
-Title = The difference between genius and stupidity is that genius has its limits.
+Title = Press left/right rotates the image across pages. Swipe left/right moves to the next/previous page.  Pan left/right/up/down positions the current page. Tap middle of the screen to show page thumbnails.  
 []
-Title = The Harder You Work, The Luckier You Get
+Title = q picture quality; - zoom in; + zoom out; f fullscreen; e screenshot; backspace/page-up/arrow left/ previous page; enter/page-down/arrow right next page.
 []
-Title = Teamwork Makes the Dream Work
+Title = Example graphic novels.
 []
-Title = OK Monday, Lets Do This
+Title = Example image slide show.
 []
-Title = Do Not Decrease the Goal, Increase the Effort
+Title = Example Panoramas 
 []
-Title = We Didn't Lose the Game, We Just Ran Out of Time
+Title = Contact Tom Brinkman at support@reportbase.com for more information.
 []
-Title = The Seeds of Doubt Grow Bitter Fruit
+Title = Product Slideshow
 []
-Title = Success Consists of Getting Up Just One More Time Than You Fail
+Title = Comic slides
 []
-Title = Enjoy Life Today, Yesterday Is Gone Tomorrow
+Title = Portraits slide show
 []
-Title = If Not Us Who? If Not Now When?
+Title = Animals slideshow
 []
-Title = If Opportunity Does Not Knock, Build a Door
+Title = Art slideshow
 []
-Title = It Was Not Raining When Noah Built the Ark
+Title = Cartoon Slideshow
 []
-Title = What We Are is God's Gift, What We Become is Our Gift to God
+Title = Cityscapes slideshow
 []
-Title = The Best Way to Predict the Future is To Invent It
+Title = Stadiumns slideshow
 []
-Title = Failure is the Condiment Which Gives Success Its Flavor
+Title = House Interiors slideshow
 []
-Title = I can Resist Everything Except Temptation
+Title = Anime slideshow
 []
-Title = What's Another Word For Thesaurus
+Title = Abstract art slideshow
 []
-Title = It Is During the Darkest Moments That We Must Focus To See the Light
+Title = Bird's Eye slideshow
 []
 Title = Winners Never Quit, Quitters Never Win
 []
