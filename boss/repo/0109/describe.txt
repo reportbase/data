@@ -14,8 +14,8 @@
         right/left side of screen to move forward/reverse one image. When
         viewing 360&deg; images, the interior of RepbaView image cylinder is painted
         with the image. 360&deg; panoramic images rotate continuously without an
-        inherent left or right side.  <a href=/?p=boss/bath>Click here</a> for an 
-        example 360&deg; image group. Depress the cursor on the right or left side of
+        inherent left or right side.  <a href=/?p=boss/repo&k=0098&d=0&z=0&c=0&r=0&a=1>Click here</a> to view
+        the New York skyline 360&deg; image. Depress the cursor on the right or left side of
         page move smoothly around the 360 image.<p><br>
     	
         </div>
@@ -51,12 +51,12 @@
         displayed without moving to the next image.  The right or left arrows
         move to the next projection 360&deg; image in the subgroup. RepaView allows viewing projection 360&deg; panoramas without using
         special headsets. <a href=/?p=boss/tree&k=0005&a=0>Click here</a> to activate the tree imagegroup explained herein and perform the 
-        following steps to view and rotate the images.
+        following steps to view and rotate the images.<p>
 
-        Steps to select and rotate 360&deg images in the tree imagegroup.  
-        1. Click the top left image menu to select one of the subgroups.
-        2. Click - + to select different images in the subgroup.
-        3. Depress the left or right side of image to rotate it 60&deg.
+        Steps to select and rotate 360&deg images in the tree imagegroup.<br>  
+        1. Click the top left image menu to select one of the subgroups.<br>
+        2. Click - + to select different images in the subgroup.<br>
+        3. Depress the left or right side of image to rotate it 60&deg.<br>
         </div>
          <p>
         

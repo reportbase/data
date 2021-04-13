@@ -6,8 +6,7 @@ $PROJECTNAME 2> /dev/null
 #../html/./home.sh 
 #../html/./gif.sh $1 2> /dev/null
 
-sed -r -i 's/\s+//g' meta.ini  #clear whitespace
 #sed -i '/a=/d' meta.ini 
-#printf 'a=1\n' >> meta.ini
+#printf 'r=0\n' >> meta.ini
 
 rm -f *.out error

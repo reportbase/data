@@ -16,6 +16,9 @@ for i in $(seq 0 $SIZE); do
     fi
 
     A=$a
+    Z=$z
+    C=$c
+    R=$r
     G=$(printf "%04d" $((LINK + i)))
     printf '[%s]\n' $G >> html/links.ini
 
@@ -29,7 +32,7 @@ for i in $(seq 0 $SIZE); do
     printf 'Title2 = %s\n' "$title2" >> html/links.ini
     printf 'Extent = %s\n' "$extent" >> html/links.ini
     printf 'Count = %s\n' "$count" >> html/links.ini
-    printf 'Path = /?p=boss/%s&k=%s&a=%s\n' $PROJECT $FOLDER $A >> html/links.ini
+    printf 'Path = /?p=boss/%s&k=%s&a=%s&z=%s&c=%s&r=%s\n' $PROJECT $FOLDER $A $Z $C $R >> html/links.ini
 done
 
 cat html/links.txt >> html/links.ini
