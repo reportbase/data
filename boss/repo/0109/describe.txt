@@ -14,7 +14,7 @@
         right/left side of screen to move forward/reverse one image. When
         viewing 360&deg; images, the interior of RepbaView image cylinder is painted
         with the image. 360&deg; panoramic images rotate continuously without an
-        inherent left or right side.  <a href=/?p=boss/repo&k=0098&d=0&z=0&c=0&r=0&a=1>Click here</a> to view
+        inherent left or right side.  <a href=/?p=boss/repba&k=0020&d=0&z=0&c=0&r=0&a=1>Click here</a> to view
         the New York skyline 360&deg; image. Depress the cursor on the right or left side of
         page move smoothly around the 360 image.<p><br>
     	
@@ -35,9 +35,7 @@
 
         A browser does not properly display projection 360&deg; images. Special software is needed to view
         projection panorama images.  RepbaView is designed to view these images. 
-        <a href=/data/boss/tree/0006/001.000.jpg>Click here</a> to see how a 
-        browser displays a cityscape drone projection.
-        <a href=/?p=boss/tree&k=0006&a=0>click here</a> to see how RepbaView displays the image.<p>
+        <a href=/?p=boss/repba&k=0021&a=0>click here</a> to see how RepbaView displays the image.<p>
         
         The tree imagegroup has 9 subgroups each         
         with 12 example projection 360&deg; images. Each of the subgroups can be viewed as 
@@ -50,7 +48,7 @@
         detailed command and screen interaction information. Panning keeps the active left & right images of the panorama 
         displayed without moving to the next image.  The right or left arrows
         move to the next projection 360&deg; image in the subgroup. RepaView allows viewing projection 360&deg; panoramas without using
-        special headsets. <a href=/?p=boss/tree&k=0005&a=0>Click here</a> to activate the tree imagegroup explained herein and perform the 
+        special headsets. <a href=/?p=boss/repba&k=0022&a=0>Click here</a> to activate the tree imagegroup explained herein and perform the 
         following steps to view and rotate the images.<p>
 
         Steps to select and rotate 360&deg images in the tree imagegroup.<br>  

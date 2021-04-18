@@ -1,26 +1,31 @@
 <div class="media">
     <div class="title">
-        RepbaView Viewing Graphic Novels 
+        RepbaView - Viewing Graphic Novels 
     </div>
   
     <div class="content">
         <div align=left style="font-size:medium">
 	A wide range of comics and short stories are available in graphic novel format where pages include 
-        graphics and related text. RepbaView is desinged to effectively view graphic novels. .</a> <p><p>
+        graphics and related text. RepbaView is designed to effectively view the novels. </a> <p><p>
 	
         Thousands of graphic novel comics and short stories have been created over the years in .jpg format. They are best suited 
-        for viewing on wide screen PCs, tablets where the full width of a page can be displayed on a page. Since their page height
+        for viewing on wide screen PCs, tablets where the full width of a page can be displayed on the screen. Since their page height
         is greater than the vertical PC and tablet screen height, down paging is required to properly view a
         novel.  Common sizes for graphic novels are “5.5 x 8.5” 
-        or “8.5 x 11”. Due to printing requirements, the total pages of a comic book are divisible by 4. Repaview supports viewing
-        graphic novels for both wide and smaller width devices.  Smaller width 
-        devices such as cell phones involve more navigation steps to view a graphic novel. Instead of
-        down only panning motion, the user much move across the page in addition to moving down. RepbaView provides graphic menus 
-        to select specific graphic novels and view each of the graphic novel pages using a Thumbnail menu. <p><p> 
+        or “8.5 x 11”. Due to printing requirements, the total pages of a comic book are divisible by 4. Repbaview supports viewing
+        graphic novels by both wide and smaller width devices.  Smaller width 
+        devices such as cell phones involve more navigation steps where a user must move across the page in addition to moving down. 
+        RepbaView provides an imagegroup menu 
+        for users to select specific graphic novels. A thumbnail menu is provided to view individual pages of a novel. <p><p> 
 
-        Steps to view a grapic novel on a wide screen PC or tablet.<br>
+        A footer is specifically designed to support graphic novels. It includes a sprocket symbol icon that when clicked shows all images in the 
+        novel. It also includes a sliding page bar that allows users to select specific pages in the novel. It includes 
+        "- and +" icons that allow users to move forward or reverse thru pages.  The footer is enabled by
+        clicking on the bottom display row and disabled by clicking the right or left side of the screen. <p><p>
+
+	Steps to view a graphic novel on a wide screen PC or tablet.<br>
         1. Click the "New Window" icon below the above iFrame to enable full screen view.  Note that an iFrame could be used to 
-        display a specific graphic novel but the limited screen size would be a disadvantage.<br>
+           display a specific graphic novel but the limited screen size would be a disadvantage.<br>
         2. Click the upper left image menu icon to enable a graphic display of the imagegroup graphic novels. <br>
         3. Pan thru the images and select the "Punisher Black Widow" comic book.<br>
         4. Click the top display row to enable the zoom icons and click the "+" icon until the vertical red line is just outside
@@ -28,15 +33,14 @@
         5. Click the down/up arrow or pgdn/pgup to move down/up the image in vertical rotation increments to move down the image 
            and read the 54 page comic book. New pages are always displayed at the top of page.<p><p>
         Notes:<br>
-        -- Click the center of the screen to show and select the page thumbnails.<br>
-        -- Tap the +/- to move to the next previous page.<br>
+        -- Tap the footer +/- to move to the next or previous page.<br>
         -- Click the upper left menu to select a new graphic novel.<br>
-        -- Small width device require panning left right to view the covered portion of the page before moving down.<br>
+        -- Small width devices require panning to view the covered portion of the page before moving down.<br>
        
 
         </div>
     <div class="footer">
-        <a target=ifr href="/?p=boss/ultra&k=0006&a=1">repba.image.services</a>
+        <a target=ifr href="/?p=boss/repba&k=0009&a=1">repba.image.services</a>
     </div>
 </div>
 

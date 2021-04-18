@@ -2,7 +2,5 @@ resume
 taxes
 car
 
-rotation is skipping items
-Add \n to wordwrap
-thumbnail bar is flashing
-safari  hi res
+
+

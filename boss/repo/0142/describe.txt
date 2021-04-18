@@ -1,0 +1,91 @@
+<div class="media">
+    <div class="title">
+        RepbaView - Viewing Hi-Resolution Images <p>
+    </div>
+  
+    <div class="content">
+        <div align=left style="font-size:medium">
+
+            Browser and platform software have limited capabilities to view large
+            and Hi-Resolution images.  The latest camera technologies take Hi-Resolution 
+            images but do not provide features that effectively view them. 
+            With large cellphones having only 800x500 pixels, Hi-Res images that have greater
+            than 10K horizontal or vertical pixels are a challenge to view effectively. The challenge
+            is further compounded by HTML not providing specific features to support viewing 
+            large hi-res images.
+           <p> <p>
+	    
+            After extensive
+            investigation and testing of various alternatives to improve viewing of hi-res images, RepbaView 
+            has successfully implemented features to enhance viewing large hi-res images.
+            The features consist of using two windows that, working together, enable users to
+            see both the selected zoom and vertical rotated image in perspective to the
+            full image displayed in a second and smaller window.  Large image panning and motion controls are the 
+            same as normal full height images.  <p>  
+
+            An example large image is displayed by the top of page iFrame. The smaller window is
+            referred to as the “visual footer” that replaces the default footer that allows
+            users to move though a sequences of images.  Standard RepbaView screen user interaction 
+            controls enable users to fully view hi-res images. Using the top iFrame hi-res image, 
+            pan horizontally and vertically to see movement of the visual footer position bar.  Also 
+            start panoramic motion with a horizontal swipe to see the 
+            position bar move across the full image displayed in the visual footer. Simply moving your 
+            finger or mouse on the screen moves the image accordingly.  
+		<p> 
+               
+            A key
+            factor that influences how hi-res RepbaView features are designed is the image pixel
+            size limitation of various client planforms.  Since IOS devices have the least
+            image pixel capacity it dictates how large hi-res images are divided into multiple
+            sub-images. Another key factor is that horizontal manual and depress panning
+            stay within the active sub-image while panoramic auto motion moves across all the sub-images
+            that comprise the large hi-res image.  <p> 
+
+            The “visual footer” is designed to show the selected full height image in relation to the full image.  
+            It contains a moving vertical position bar that includes a red segment showing how the 
+            large screen image relates to the small screen full image.  The red segment of the visual 
+            footer position bar instantanously reflects
+            horizontal and vertical panning position adjustments and active motion. By horizontal panning 
+            or edge screen depress, users can view the visual footer image to determine how many 
+            individual sub-images comprise the hi-res image. 
+            If a hi-res image consists of multiple sub-images, panning is constrained to the active
+            sub-image for both the full display and visual footer. The user can select a specific active
+            sub-image by clicking the visual footer area that represents the image. The vertical position
+            bar is then moved to the selected sub-image.  To move the visual footer position bar to another
+            sub-image, click the desired visual footer image segment. <p>
+
+            Click the New Window link below the top of page iFrame image to enable the full height
+            display of the top image. Click the left image icon to select
+            various subgroups, as defined below, to demonstrate RepaView’s features to view
+            large and Hi-Resolution images.  <p> 
+            For each image,<br> 
+            1) Zoom using the header by clicking the top display row. <br>
+            2) Pan vertically to rotate the image. <br>
+            3) Start panoramic motion by a screen swipe or using command menu. <br>
+            4) Stop panoramic motion by clicking anywhere on the screen. <br>
+            5) Select specific sub-images of the hi-res image by clicking the visual footer.<br>
+            6) Click the browser back arrow to return to this page. <p>
+
+            <a href=/?p=boss/repo&k=0142&d=0&z=10&c=3&r=20&a=1>Demo 1</a><p>
+            <a href=/?p=boss/repo&k=0141&d=0&z=10&c=3&r=20&a=1>Demo 2</a><p>
+            <a href=/?p=boss/repo&k=0140&d=0&z=10&c=3&r=20&a=1>Demo 3</a><p>
+            <a href=/?p=boss/repo&k=0139&d=0&z=10&c=3&r=20&a=1>Demo 4</a><p>
+
+             <a href=/?p=boss/repo&k=0105&z=12&c=0&r=36&a=1>Chick here</a> to
+            display a RepabView 30Kx10K hi-res image.  Zoom to maximum level
+            to observe the people by the boat. Click the browser back arrow or select url repba.com to return. <p><p> 
+
+              
+            <a href=/?p=boss/repo&k=0108&z=5&a=1&r=35> Click here</a> to view a Monte Carlo hi-res image example. Depress a finger or cursur
+            at the screen edges to move fully around the image. Click the browser back arrow or select url repba.com 
+            to return. <p><p>
+
+
+    <div class="footer"> <p>
+        <a target=ifr href="/?p=boss/ultra&k=0006&a=1">repba.image.services</a>
+    </div>
+</div>
+
+
+
+

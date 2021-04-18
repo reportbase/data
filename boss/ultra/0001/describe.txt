@@ -34,23 +34,26 @@
             RepbaView iFrame to an optional full screen new window enhances view and
             control of images.<p><p>
 
-            Image view tuning involves zooming and
-            vertical image rotation.  The image zoom header and vertical panning rotation provide
-            interactive image view tuning. Vertical panning rotates the image up/down and the
+            Image view tuning involves changing zoom settings using the header and
+            vertical image rotation using panning.  Vertical panning rotates the image up/down and the
             top header +/- icons increase/decrease magnification. The above Ultra
             imagegroup, Gallery II subgroup, iFrame view can be used to demonstrate the
             tuning options. If using a cellphone, switch to landscape view to better see
             the iFrame image. To demonstrate zooming, stop image motion by clicking
             anywhere on the screen. Then Click the top display row to enable the header which
-            consists of - num1.num2 + icons.  The num1 is the current zoom selection and
+            consists of the "- num1.num2 +" controls.  Num1 is the current zoom selection and
             the num2 is the total number of zoomable positions. Click - and + selections
-            and see the numbers change.  To demonstrate vertical image rotation, click the
-            bottom row to enable the footer that consists of  - num1.num2 + icons. The
-            num1 is the current subgroup image and num2 is the current rotatable position.
-            Pan the image up and down and watch the image rotate with corresponding changes
-            to the footer num2 value.  Click the footer - and + icons to move to the next
-            or previous images.  Click the browser back arrow or select url repba.com to return.<p>
-            
+            and see the num1 current zoom number to change.  To clear the header, clear the right or
+            left side of the screen or enable the footer. To demonstrate vertical image rotation, 
+            Pan the image up and down and watch the image rotate vertically.  <p>
+
+            The footer that consists of the "- num1.num2 +" controls is enabled when 
+            motion is stopped or the bottom display row is clicked.  Num1 is the 
+            current subgroup image number and num2 is the total number of images. Click the 
+            footer - and + icons to move to the next or previous image and watch the num1 value change.  
+            To clear the header, clear the right or left side of the screen or enable the header. The 
+            header and footer are never displayed at the same time. <p>
+    
             Next select the “new window” link below the iFrame to enable full
             screen view.  While selecting various image subgroups using the top left image
             menu, perform the above zoom and image rotation image tuning steps. Click center of screen 
@@ -62,22 +65,9 @@
             An exercise to become familiar with the interactive zoom and
             vertical rotation features is to activate the “Finding Waldo” large
             high-res image and locate one or more of the 3 Waldo figures. Click <a
-            href=/?p=boss/repo&k=0034&a=1&z=7 target=_parent> Waldo</a>  
+            href=/?p=boss/repba&k=0034&a=1&z=7 target=_parent> Waldo</a>  
             to display the image. Click the browser back arrow or select repba.com to return.<p>
 
-            Large cellphones typically only have about 800x500 pixels. HTML does not provide features to support viewing large hi-res images.
-            The zoom and vertical rotation RepbaView features allow users view large hi-res images. <a 
-            href=/?p=boss/repo&k=0105&z=12&c=0&r=36&a=1>Chick here</a> to
-            display a RepabView 30Kx10K hi-res image.  Zoom to maximum level
-            to observe the people by the boat. Click the browser back arrow or select url repba.com to return. <p><p> 
-
-            RepbaView's design is particularily effective at viewing hi-res images. It stores the image in
-            a cylinder format that enables viewing the image at 360 degree wrap-around panorama. The zoom and 
-            vertical rotation features allow viewing the image at broad and detailed perspectives.  Simply moving your 
-            figure or mouse on the screen moves the image accordingly.  
-            <a href=/?p=boss/repo&k=0108&z=5&a=1&r=35> Click here</a> to view a Monte Carlo hi-res image example. Depress a finger or cursur
-            at the screen edges to move fully around the image. Click the browser back arrow or select url repba.com 
-            to return. <p><p>
             
             The "scapes" imagegroup is organized into 24 sub-groups each consisting of
             72 images. Using the image menu, click several of the image subgroups to view
@@ -86,7 +76,7 @@
             following animated GIF to enable the landscape imagegroup menu. Click the browser back arrow 
             or select url repba.com to return.<p>
 
-            <a href=/?p=boss/scapes&k=0001&a=1><img
+            <a href=/?p=boss/repba&k=0001&a=1><img
             src=/data/boss/scapes/0001/gif/240.gif></img></a><p><p>   
 
     <div class="footer">
