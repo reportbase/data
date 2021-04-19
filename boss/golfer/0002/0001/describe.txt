@@ -39,7 +39,7 @@
     </div>
 
     <div class="footer">
-        <a target=ifr href="/?p=boss/ultra&k=0006&a=1&s=2&f=1">repba.image.services</a>
+        <a target=ifr href="/?p=boss/repba&k=0019&a=1&s=2&f=1">repba.image.services</a>
 
     </div>
 </div>

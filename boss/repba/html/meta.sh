@@ -1,1 +1,1 @@
-../../peek/html/meta.sh
+../../poke/html/meta.sh

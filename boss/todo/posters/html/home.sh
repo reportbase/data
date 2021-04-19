@@ -1,1 +1,0 @@
-../../yave/html/home.sh

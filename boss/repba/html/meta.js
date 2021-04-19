@@ -1,6 +1,6 @@
 var meta = {title:"Projects on the home page",
 name:"repba",
-count:20,
+count:25,
 data:[
 {
 title:"Where's Waldo?",
@@ -55,7 +55,7 @@ count:24,
 {
 title:"Animal Kingdom - Giraffes",
 name:"KIGI",
-count:72,
+count:18,
 },
 {
 title:"Chair Spins",
@@ -65,7 +65,7 @@ count:24,
 {
 title:"Ocean - HD Photographs",
 name:"PEOC",
-count:72,
+count:36,
 },
 {
 title:"Interiors - Gallery I",
@@ -101,6 +101,31 @@ count:66,
 title:"Photography - Gallery VII",
 name:"ULAB",
 count:24,
+},
+{
+title:"New York City Panorama",
+name:"RENY2",
+count:1,
+},
+{
+title:"Dallas Texas",
+name:"REEC",
+count:1,
+},
+{
+title:"Blue Hallway",
+name:"REEC",
+count:1,
+},
+{
+title:"Landscapes - Gallery IV",
+name:"SCAD",
+count:72,
+},
+{
+title:"European Vacation",
+name:"REEV",
+count:1,
 },
 ]
 }

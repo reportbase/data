@@ -1,1 +1,0 @@
-../../poke/html/meta.sh
