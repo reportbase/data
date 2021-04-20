@@ -1,5 +1,6 @@
 rm -r -f *.out error TMP
 NAME=${PWD##*/}
+cp meta.ini .meta.ini
 
 #$PROJECTNAME 2> /dev/null
 #../html/./home.sh 
@@ -9,7 +10,5 @@ NAME=${PWD##*/}
 #cp orig/0000.jpg ../html/splash/$NAME.jpg 2>/dev/null
 #cp thumb.jpg ../html/splash/$NAME.jpg 2>/dev/null
 
-sed -i '/hitrows_8/Id' meta.ini
-sed -i '/draw_8/Id' meta.ini
+#vkd.sh ZoomStart_4 
 
-printf 'hitrows_8=1\n' >> meta.ini

@@ -44,7 +44,7 @@ count:72,
 },
 {
 title:"Combat - Gallery III",
-name:"CBZA",
+name:"CBTR",
 count:72,
 },
 {

@@ -5,6 +5,5 @@ do
   cd ..
 done
 
-html/./meta.sh
 ini/./linkp.sh 
 
