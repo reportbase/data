@@ -54,8 +54,10 @@
             </a>the olympics image group to view various sports related image
             subgroups by clicking the top left screen to enable image menu
             buttons.  Click the image menu icon to remove the menu buttons.
-            <p><p> 4. Click <a target=ifr
-            href=https://repba.com?ULAN>RepbaView Image Motion</a>
+            <p><p> 
+            
+            4. Click <a target=ifr
+            href=https://repba.com?ULAO>RepbaView Image Motion</a>
             for a summary of Image motion controls using the Ultra imagegroup
             page.  <p><p>
 
@@ -65,8 +67,7 @@
             menu icon to clear the displayed buttons. Click anywhere on the
             screen to stop motion and swipe right to start motion. Refer to the
             command menu help button for command information. Perform two
-            sequences. 1)                                    <a
-            href=https://repba.com?KIGI> Click to
+            sequences. 1)<a href=https://repba.com?KIGI> Click to
             start </a> the Giraffes subgroup of the animal King imagegroup to
             initiate a full height display. Select panorama and slideshow
             motions using the right command icon.  Click the browser back arrow

@@ -40,7 +40,7 @@
 
         </div>
     <div class="footer">
-        <a target=ifr href="/?p=boss/repba&k=0009&a=1">repba.image.services</a>
+M        <a target=ifr href="/?p=boss/repba&k=0009&a=1">repba.image.services</a>
     </div>
 </div>
 

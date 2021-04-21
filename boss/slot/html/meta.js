@@ -1,6 +1,6 @@
 var meta = {title:"Experiments",
 name:"slot",
-count:33,
+count:35,
 data:[
 {
 title:"Funny Faces",
@@ -98,12 +98,12 @@ name:"REMC",
 count:25,
 },
 {
-title:"Boy",
+title:"Young Boy",
 name:"REBO",
 count:32,
 },
 {
-title:"Girl",
+title:"Young Girl",
 name:"REGI",
 count:9,
 },
@@ -123,22 +123,22 @@ name:"REJD",
 count:2,
 },
 {
-title:"Child",
+title:"Young Child",
 name:"RECH",
 count:16,
 },
 {
-title:"Globe",
+title:"Spin Globe",
 name:"REGL",
 count:9,
 },
 {
-title:"Towel",
+title:"Towel Dry",
 name:"RETO",
 count:20,
 },
 {
-title:"Teens",
+title:"Teenagers",
 name:"RETE",
 count:75,
 },
@@ -166,6 +166,16 @@ count:24,
 title:"Cartoon Fashion",
 name:"RECF",
 count:24,
+},
+{
+title:"Mixed Fashion",
+name:"REMI2",
+count:30,
+},
+{
+title:"Spirit Shopper",
+name:"RESS",
+count:10,
 },
 ]
 }

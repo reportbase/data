@@ -65,7 +65,7 @@
             An exercise to become familiar with the interactive zoom and
             vertical rotation features is to activate the “Finding Waldo” large
             high-res image and locate one or more of the 3 Waldo figures. Click <a
-            href=/?p=boss/repba&k=0000&a=1&z=7 target=_parent> Waldo</a>  
+            href=https://repba.com?REWA target=_parent> Waldo</a>  
             to display the image. Click the browser back arrow or select repba.com to return.<p>
 
             
@@ -76,11 +76,11 @@
             following animated GIF to enable the landscape imagegroup menu. Click the browser back arrow 
             or select url repba.com to return.<p>
 
-            <a href=/?p=boss/repba&k=0001&a=1><img
+            <a href=https://repba.com?SCAB><img
             src=/data/boss/scapes/0001/gif/240.gif></img></a><p><p>   
 
     <div class="footer">
-        <a target=ifr href="/?p=boss/repbaa&k=0019&a=1">repba.image.services</a>
+        <a target=ifr href="https://repba.com?ULAB">repba.image.services</a>
     </div>
 </div>
 

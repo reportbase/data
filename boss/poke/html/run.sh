@@ -7,8 +7,11 @@ cp meta.ini .meta.ini
 #../html/./gif.sh $1 2> /dev/null
 
 #thumb.sh x240
-#cp orig/0000.jpg ../html/splash/$NAME.jpg 2>/dev/null
-#cp thumb.jpg ../html/splash/$NAME.jpg 2>/dev/null
+cp orig/0000.jpg ../html/splash/$NAME.jpg 2>/dev/null
+cp thumb.jpg ../html/splash/$NAME.jpg 2>/dev/null
 
-#vkd.sh ZoomStart_4 
+#vkr.sh drawsize_4 11
+#vkd.sh ZoomStart_4
 
+
+vkr.sh fillwidth_9 320
