@@ -15,7 +15,9 @@
             cylindrical panorama algorithms to display full height images
             horizontally. It delivers full height, panoramic motion images to
             parent web sites, emails, or social media using iFrames, GIFs, or
-            URLs. <p><p>
+            URLs. RepbaView is a high resolution image viewer for wide media
+            supporting picture in picture panning, grapic novels,
+            animated sequences and panoramic slideshows. <p><p>
             
             RepbaView challenges the status-quo of image technology providing a
             platform based on cloud image deployment, full height client side
@@ -29,7 +31,10 @@
             superb quality. Its design splits image montages into hundreds of
             slices and individually renders them horizontally in real-time.
             RepbaView's cylindrical panoramic design is used to render images
-            and create innovative menus. In addition to its core image
+            and create innovative menus. <br><p>
+
+            RepbaView images can integrated into web pages using
+            an HTML Iframe and a rich messaging API. In addition to its core image
             rendering capabilities, RepbaView is a breakthrough technology that
             supports advanced image solutions including viewing large hi-resolution images, 360 degree panoramas,
             motion pictures, and graphic novels. Each of these solutions are
@@ -98,29 +103,53 @@
             Military </a> <a href=https://repba.com?CYWE>or
             City. </a><p><p>
 
-            8. The RepbaView architecture enables it to support advanced
-            imaging solutions including display of 360&deg; panoramas, high
-            resolution images, motion pictures, and graphic novels.  The
-            following page links summarize each of these solutions using
-            example imagegroups.  <a target=ifr
-            href="https://repba.com?GUCW" target=ifr> High resolution</a>
-            examples are located here.  
+            8. The RepbaView architecture enables advanced imaging solutions. This section summarizes 5 RepbaView 
+	    image solutions that are explained using example imagegroups applicable to the solution. A separate 
+            web page summary is provided for each of the solutions. The solutions provide user access to High-Resolution, 
+            360° panoramas, virtual reality, graphic novels, and motion pictures images. The following hightlighted 
+            page links refer to each of these solutions. The solutions utilize the web application RepbaView and 
+            a browser to render their respective images. The RepbaView visual footer is used by the Hi-Res, 
+            360° panorama, and VR solutions to enhance user visual presentation. <br> <p>
+            
             <a target=ifr
-            href=https://repba.com/?DAFM target=ifr>VR Examples Here</a> 
-            The 360&deg; panoramas are
-            deployed in a cylindrical format to display <a target=ifr
-            href=https://repba.com/?EADE target=ifr>360&deg; panorama</a>
-            projected (VR) and non projected panorama images.  Motion Picture
-            solutions involve extracting digital images from videos into
-            RepbaView <a target=ifr
-            href="/?p=boss/golfer/0002&k=0001&a=2" target=ifr>motion picture</a> solutions
-            that provide viewing advantages over videos for brief action videos
-            such as golf swings. The <a href=https://repba.com?YAWQ target=ifr>graphic novel</a>
-            solutions deploy short story and comic pages containing graphics
-            with embeded text as RepbaView imagegroups.  Each of the image
-            solutions utilize RepbaView and a browser to render their
-            respective images.<p><p> 
+            href="https://repba.com?GUCW" target=ifr> High Resolution Solution</a>. 
+            The hi-res solution summary and examples are located here. High resolution images typically 
+            are xxxx:xxxx pixels with 3-4:1 aspect ratio of high quality and provide excellent zoom-ability. High 
+            resolution images are viewed with picture in picture panning. Tap the forground image to navigate 
+            to any portion of the zoomed-in background image. <br> <p>
+            
+            <a target=ifr
+            href=https://repba.com/?EADE target=ifr>360&deg; Panorama Solution</a>. RepbaView effectively displays 
+            360&deg; panoramas while contrasting the current display area to the overall image. These high aspect ratio images are 
+            taken with special cameras.  RepbaView zooming and vertical rotation features allow finding small objects within wide
+            360&deg; images. <br> <p>
+            
+            <a target=ifr
+            href=https://repba.com/?DAFM target=ifr>Virtual Reality Solution</a>. View VR images taken 
+            by a VR image recording device. The solution contrasts the browser distorted VR image to the RepbaView display of the image. These images
+            are also referred to as projected 360 images. <br> <p>
 
+           
+
+            <a href=https://repba.com?YAWQ target=ifr>Graphic Novel Solution</a>.
+            These solutions display short stories and comic pages containing graphics
+            with embedded text as RepbaView imagegroups.  RepbaView displays the .jpg images
+            in a vertical format best viewed on wide devices. Graphic novels are 
+            panned vertically, with the panning motion restricted to the current page. Animation sequences 
+            are panned in-place, similar to a motion picture video.<br> <p>
+
+
+            <a target=ifr
+            href="/?p=boss/golfer/0002&k=0001&a=2" target=ifr>Motion Pictures Solution.</a> These solutions
+            provide viewing advantages for brief action videos
+            such as golf swings. Motion Picture
+            solutions involve extracting digital images from video .mov images into
+            RepbaView static image data structures. <br> <p><p>
+
+ 
+
+   
+            -----End of the 8 RepbaView Familiarization Steps-----  <p><p>
             This site and its supporting doumentation describe RepbaView web
             application <a target=ifr
             href=https://repba.com?ULAB>hosting services</a> for
@@ -134,6 +163,11 @@
 
             Site Contact: support@repba.com.<br>
             Privacy: Site does not update cookies.
+
+            <a target=ifr
+            href=https://repba.com/?EADE target=ifr>360&deg; panorama</a>
+            projected (VR) and non projected panorama images.  The imagegroup menu capbility provides fast user access to 
+            a collection of brief motion pictures. <br> <p>
     
     </div> 
     <div class="footer">

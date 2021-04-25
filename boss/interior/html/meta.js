@@ -14,12 +14,12 @@ count:72,
 },
 {
 title:"Interiors - Gallery III",
-name:"INST",
+name:"INWU",
 count:72,
 },
 {
 title:"Interiors - Gallery IV",
-name:"INST",
+name:"INSG",
 count:72,
 },
 {

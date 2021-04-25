@@ -32,7 +32,13 @@
             are helpful when imagegroup image displays and html text are needed on the same
             page or when images are desired in a fixed web page window space. Switching a
             RepbaView iFrame to an optional full screen new window enhances view and
-            control of images.<p><p>
+            control of images. RepbaView's advanced touch based interace allows
+            easy panning of wide images that are larger than the screen.
+            Touch the screen and pan the image in all directions Wide image panorams are 
+            resized to the screen height and panned horizontally. Start a panoramic 
+            slideshow with a quick horizontal swipe.
+.
+            <p><p>
 
             Image view tuning involves changing zoom settings using the header and
             vertical image rotation using panning.  Vertical panning rotates the image up/down and the

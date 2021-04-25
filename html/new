@@ -1,0 +1,25 @@
+       RepbaView is a high resolution image viewer for wide media.
+        It supports picture in picture panning, grapic novels,
+        animated sequences and panoramic slideshows.  
+
+        RepbaView is integrated into web pages with
+        an HTML Iframe and a rich messaging API.   
+    
+        RepbaView's advanced touch based interace allows 
+        easy panning of wide images that are larger than the screen. 
+        Touch the screen and pan the image in all directions.
+        Press the screen to pan in-place.
+        Swipe the screen to start the slideshow.
+
+        High resolution images are viewed with picture in picture panning.
+        Tap the forground image to navigate to any portion
+        of the zoomed-in background image.  
+
+        Wide image panorams are resized to the screen height and panned horizontally.  
+        Start a panoramic slideshow with a quick horizontal swipe.
+
+        Graphic novels are panned vertically, with the panning motion
+        restricted to the current page.
+
+        Animation sequences are panned in-place, similar to a
+        motion picture video.

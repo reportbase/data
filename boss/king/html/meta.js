@@ -1,6 +1,6 @@
 var meta = {title:"Animal Kingdom",
 name:"king",
-count:17,
+count:23,
 data:[
 {
 title:"Animal Kingdom - Alligators",
@@ -86,6 +86,36 @@ count:18,
 title:"Animal Kingdom - Tigers",
 name:"KITI",
 count:18,
+},
+{
+title:"Life - Insects I",
+name:"LIIN",
+count:72,
+},
+{
+title:"Life - Insects II",
+name:"LIIN2",
+count:72,
+},
+{
+title:"Life - Reptiles",
+name:"LIRE",
+count:72,
+},
+{
+title:"Life - Reptiles II",
+name:"LIRE2",
+count:72,
+},
+{
+title:"Life - Cats",
+name:"LICA",
+count:72,
+},
+{
+title:"Life - Dogs",
+name:"LIDO",
+count:72,
 },
 ]
 }

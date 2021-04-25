@@ -9,12 +9,12 @@ count:72,
 },
 {
 title:"Comic Book Covers - May.1975",
-name:"COEW",
+name:"COER",
 count:72,
 },
 {
 title:"Comic Book Covers - Jun.1976",
-name:"CORE",
+name:"CORT",
 count:72,
 },
 {
@@ -29,7 +29,7 @@ count:72,
 },
 {
 title:"Comic Book Covers - March.1975",
-name:"CORY",
+name:"CORWM",
 count:72,
 },
 ]
