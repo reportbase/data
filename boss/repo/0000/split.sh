@@ -1,1 +1,1 @@
-convert -crop 7560x2596 a.jpg a_%d.jpg
+convert -crop 2880x1800 003.000.jpg a_%d.jpg

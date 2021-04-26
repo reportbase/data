@@ -114,7 +114,7 @@
             <a target=ifr
             href="https://repba.com?GUCW" target=ifr> High Resolution Solution</a>. 
             The hi-res solution summary and examples are located here. High resolution images typically 
-            are xxxx:xxxx pixels with 3-4:1 aspect ratio of high quality and provide excellent zoom-ability. High 
+            a width greater than 5K pixels with 3-4:1 aspect ratio of high quality and provide excellent zoom-ability. High 
             resolution images are viewed with picture in picture panning. Tap the forground image to navigate 
             to any portion of the zoomed-in background image. <br> <p>
             
