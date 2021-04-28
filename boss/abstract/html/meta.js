@@ -74,7 +74,7 @@ count:72,
 },
 {
 title:"Expressionism - Gallery III",
-name:"EXUA",
+name:"EXWE",
 count:72,
 },
 {

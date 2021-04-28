@@ -24,7 +24,7 @@
         screen view of the Earl imagegroup that has 46 different 360&deg; images. Pan and vertically rotate the default full image
         and watch the visual footer red box track the movement. Observe the visual footer activation
         when panorama motion is stopped by clicking anywhere on the screen. 
-        <a href=https://repba.com?RENSK>Click here</a> to view
+        <a href=https://repba.com?77ER>Click here</a> to view
         the New York skyline 360&deg; image. Depress the cursor on the right or left side of
         page move smoothly around the 360 image. Use the top left menu to visually select other
         360&deg; images to view.  <p><br>

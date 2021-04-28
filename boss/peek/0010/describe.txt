@@ -112,20 +112,20 @@
             360° panorama, and VR solutions to enhance user visual presentation. <br> <p>
             
             <a target=ifr
-            href="https://repba.com?GUCW" target=ifr> High Resolution Solution</a>. 
+            href="https://repba.com?XPQL" target=ifr> High Resolution Solution</a>. 
             The hi-res solution summary and examples are located here. High resolution images typically 
             a width greater than 5K pixels with 3-4:1 aspect ratio of high quality and provide excellent zoom-ability. High 
             resolution images are viewed with picture in picture panning. Tap the forground image to navigate 
             to any portion of the zoomed-in background image. <br> <p>
             
             <a target=ifr
-            href=https://repba.com/?EADE target=ifr>360&deg; Panorama Solution</a>. RepbaView effectively displays 
+            href=https://repba.com/?DBYJ target=ifr>360&deg; Panorama Solution</a>. RepbaView effectively displays 
             360&deg; panoramas while contrasting the current display area to the overall image. These high aspect ratio images are 
             taken with special cameras.  RepbaView zooming and vertical rotation features allow finding small objects within wide
             360&deg; images. <br> <p>
             
             <a target=ifr
-            href=https://repba.com/?DAFM target=ifr>Virtual Reality Solution</a>. View VR images taken 
+            href=https://repba.com/?DADB target=ifr>Virtual Reality Solution</a>. View VR images taken 
             by a VR image recording device. The solution contrasts the browser distorted VR image to the RepbaView display of the image. These images
             are also referred to as projected 360 images. <br> <p>
 

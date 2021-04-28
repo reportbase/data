@@ -13,7 +13,7 @@
             horizontal size of the images, montages consist of various image numbers. RepbaView
             displays images at full screen height eliminating the effort to
             pinch-out landscape photos to full screen. Montages are stored in client memory as a 
-            cylindrical representation. The cylinder can be rotated
+            cylinder. The cylinder can be rotated
             360 degrees in either direction to display panorama or slideshow images. Image
             group start-up speed and motion options of panorama, slideshow, or no-motion can be
             established. When active, an imagegroup motion and speed can be dynamically changed by the user. 
@@ -40,40 +40,32 @@
 .
             <p><p>
 
-            Image view tuning involves changing zoom settings using the header and
-            vertical image rotation using panning.  Vertical panning rotates the image up/down and the
-            top header +/- icons increase/decrease magnification. The above Ultra
-            imagegroup, Gallery II subgroup, iFrame view can be used to demonstrate the
-            tuning options. If using a cellphone, switch to landscape view to better see
-            the iFrame image. To demonstrate zooming, stop image motion by clicking
-            anywhere on the screen. Then Click the top display row to enable the header which
-            consists of the "- num1.num2 +" controls.  Num1 is the current zoom selection and
-            the num2 is the total number of zoomable positions. Click - and + selections
-            and see the num1 current zoom number to change.  To clear the header, clear the right or
-            left side of the screen or enable the footer. To demonstrate vertical image rotation, 
-            Pan the image up and down and watch the image rotate vertically.  <p>
+            Image view tuning involves changing the zoom settings using the header.
+            Vertical panning moves the image up/down relative to its anchor point.
+            Use the above iFrame to practice the tuning options. If using a cellphone, switch to landscape view to better see
+            the iFrame image. To demonstrate zooming, stop the image motion by clicking
+            anywhere on the screen. Then Click the top display row to enable the zoom header.
+            Click the -/+ buttons to zoom in or out.
+            To close the zoom header, click the right or
+            left side of the screen.  
+            Pan the image up and down to reposition the image at different anchor points.  <p>
 
-            The footer that consists of the "- num1.num2 +" controls is enabled when 
-            motion is stopped or the bottom display row is clicked.  Num1 is the 
-            current subgroup image number and num2 is the total number of images. Click the 
-            footer - and + icons to move to the next or previous image and watch the num1 value change.  
-            To clear the header, clear the right or left side of the screen or enable the header. The 
+            The footer consists -/+ controls to move the current page. The current page number is located in the center.
+            To clear the footer, click the right or left side of the screen. The 
             header and footer are never displayed at the same time. <p>
     
             Next select the “new window” link below the iFrame to enable full
             screen view.  While selecting various image subgroups using the top left image
-            menu, perform the above zoom and image rotation image tuning steps. Click center of screen 
-            to enable the thumbnail menu that allows
-            users to view and select subgroup images based on their thumbnail image.  Using
-            the thumbnail menu, display various images. Select an image or double click a display to
-            disable the thumbnail menu. Click the browser back arrow or select url repba.com to return.  <p>
+            menu, perform the above zoom and image rotation image tuning steps. Click the screen 
+            to enable the footer.  Click the gear icon to show the the thumnail images.
+            Select an image or double click the display to
+            close the thumbnail menu. Click the browser back arrow or select url repba.com to return.  <p>
             
             An exercise to become familiar with the interactive zoom and
             vertical rotation features is to activate the “Finding Waldo” large
             high-res image and locate one or more of the 3 Waldo figures. Click <a
-            href=https://repba.com?REWA target=_parent> Waldo</a>  
+            href=https://repba.com?KKWN target=_parent> Waldo</a>  
             to display the image. Click the browser back arrow or select repba.com to return.<p>
-
             
             The "scapes" imagegroup is organized into 24 sub-groups each consisting of
             72 images. Using the image menu, click several of the image subgroups to view

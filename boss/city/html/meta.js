@@ -5,7 +5,7 @@ data:[
 {
 title:"Futurama",
 name:"CYAB",
-count:72,
+count:12,
 },
 {
 title:"Cyber City",

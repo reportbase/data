@@ -32,27 +32,29 @@
             limitation by rendering landscape media in a virtual panorama automatically
             resizing media to the screen height, not the screen width. This creates a full
             screen virtual panorama as some of a landscape image extends beyond the
-            screen's horizontal boundary. RepbaView supports convenient viewing of the
-            hidden ends of wide images. When the above iFrame image is at full height,
+            screen's horizontal boundary. 
+            When the above iFrame image is at full height,
             stopped, and centered notice that the image is wider than the screen. To center
             an image, click the footer “+” icon to move to the next image. Pan left/right
             to view the non visible ends of the image when the view is constrained to the
             current image.  An effective horizontal panning method is to pan left or right
             from the center of the image. RepbaView also supports an assisted panning
-            method where users only need a brief swipe at right/left image to view the page end. To easily
-            sync up image postion, click the 
-            center of the screen to view the subgroup thumbnail menu. <p><p> 
+            method where users only need a brief swipe at right/left image to view the page end. To 
+            sync up image postion, show the thumbnail menu by clicking the gear icon in the footer. <p><p> 
             RepbaView creates animated GIFs and
             imagegroup reports when building imagegroup montages in the RepaView cloud.
             GIFs are useful when including images to social media and emails. Click on the
-            following GIF image to enable the Express imagegroup that has 7 subgroups each
+            following GIF image to enable the abstract imagegroup that has 20 subgroups each
             with 72 early 20th century paintings. View different subgroups by selecting
             buttons defined by the left image menu icon. Enter the repba.com url to return
             to the home page and perform step-5.<p>
 
             <a href=https://repba.com?ABER><img src=/data/boss/abstract/0000/gif/240.gif></img></a>
         </div>
-        </div>
+        </div>:w
+        :q
+        :q
+
     </div>
     <div class="footer">
         <a target=ifr href="https://repba.com?ULAM">repba.image.services</a>
