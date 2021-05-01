@@ -18,12 +18,7 @@
             next/previous image selection, restart auto motion at same speed and direction,
             initiate new motion direction and speed, image magnification, images vertical
             rotation up or down, and image/command/thumbnail menus. The image and command
-            menu icons are enabled when an image is stopped.  To demonstrate panorama and
-            slideshow auto motion, click anywhere on the above iframe image to stop motion.
-            Then click the “New Window” link below the iFrame display to activate the Ultra
-            landscape imagegroup at full height display. Using the image menu, select
-            various subgroup galleries using the top right command menu to select panorama
-            or slideshow motion options. Use the back arrow to return to this page.<p><br>
+            menu icons are enabled when an image is stopped and viewed in full screen.  <p><br>
 
             Browsers render images in portrait, forcing digital media to be resized to the
             screen's width.  Wide landscape images resized to the screen width require
@@ -39,8 +34,9 @@
             to view the non visible ends of the image when the view is constrained to the
             current image.  An effective horizontal panning method is to pan left or right
             from the center of the image. RepbaView also supports an assisted panning
-            method where users only need a brief swipe at right/left image to view the page end. To 
-            sync up image postion, show the thumbnail menu by clicking the gear icon in the footer. <p><p> 
+            method when panoramic motion is enabled, where users only need a brief 
+            swipe at right/left image to view the next page. 
+            <p><p> 
             RepbaView creates animated GIFs and
             imagegroup reports when building imagegroup montages in the RepaView cloud.
             GIFs are useful when including images to social media and emails. Click on the

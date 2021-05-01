@@ -129,8 +129,6 @@
             by a VR image recording device. The solution contrasts the browser distorted VR image to the RepbaView display of the image. These images
             are also referred to as projected 360 images. <br> <p>
 
-           
-
             <a href=https://repba.com?YAWQ target=ifr>Graphic Novel Solution</a>.
             These solutions display short stories and comic pages containing graphics
             with embedded text as RepbaView imagegroups.  RepbaView displays the .jpg images
@@ -138,17 +136,6 @@
             panned vertically, with the panning motion restricted to the current page. Animation sequences 
             are panned in-place, similar to a motion picture video.<br> <p>
 
-
-            <a target=ifr
-            href="/?p=boss/golfer/0002&k=0001&a=2" target=ifr>Motion Pictures Solution.</a> These solutions
-            provide viewing advantages for brief action videos
-            such as golf swings. Motion Picture
-            solutions involve extracting digital images from video .mov images into
-            RepbaView static image data structures. <br> <p><p>
-
- 
-
-   
             -----End of the 8 RepbaView Familiarization Steps-----  <p><p>
             This site and its supporting doumentation describe RepbaView web
             application <a target=ifr

@@ -31,5 +31,11 @@
         Using the image menu, select other example VR projection 360&deg; images. For each image, try various controls
         mentioned above to view the interesting VR Projection 360&deg; images.<p>
 
+            <a href=http://repba.com?DARM>Chick here</a> to
+            display a VR image of private movie theater.  Pan around to view the entire room.<p>
+              
+            <a href=https://repba.com?DAWI>Click here</a> to view a VR hi-res image of the interior of a car. Depress a finger or cursur
+            at the screen edges to move fully around the image. 
+
         </div>
 </div>

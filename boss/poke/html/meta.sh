@@ -1,5 +1,5 @@
-. meta.ini
-
+source <(grep title meta.ini)
+source <(grep count meta.ini)
 PROJECTITLE="${title}"
 PROJECTCOUNT="${count}"
 PROJECTNAME=$1
@@ -14,19 +14,18 @@ name=""
 COUNT=`expr $PROJECTCOUNT - 1`
 for i in $(seq 0 $COUNT); do 
     FOLDER=$(printf "%04d" "$i") 
-    . $FOLDER/meta.ini
-    TITLE="${title}"
-    COUNT="${count}"
-    NAME="${name}"
+    source <(grep title $FOLDER/meta.ini)
+    source <(grep count $FOLDER/meta.ini)
+    source <(grep name $FOLDER/meta.ini)
     if [ -z "$NAME" ]
     then
         NAME=$FOLDER
     fi
 
     printf '{\n' >> html/meta.js
-    printf 'title:\"%s\",\n' "$TITLE" >> html/meta.js
-    printf 'name:\"%s\",\n' "$NAME" >> html/meta.js
-    printf 'count:%s,\n' "$COUNT" >> html/meta.js
+    printf 'title:\"%s\",\n' "$title" >> html/meta.js
+    printf 'name:\"%s\",\n' "$name" >> html/meta.js
+    printf 'count:%s,\n' "$count" >> html/meta.js
     printf '},\n' >> html/meta.js
 done
 

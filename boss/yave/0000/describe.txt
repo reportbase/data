@@ -5,8 +5,11 @@
   
     <div class="content">
         <div align=left style="font-size:medium">
-	A wide range of comics and short stories are available in graphic novel format where pages include 
-        graphics and related text. RepbaView is designed to effectively view the novels. </a> <p><p>
+        A wide range of comics and short stories are available in graphic novel
+        format where pages include graphics and related text. RepbaView is designed
+        to effectively view the novels.
+        Click <a href=https://repba.com?YAWQ>here</a> to see the above graphic novel in full screen.</a> 
+        <p><p>
 	
         Thousands of graphic novel comics and short stories have been created over the years in .jpg format. They are best suited 
         for viewing on wide screen PCs, tablets where the full width of a page can be displayed on the screen. Since their page height
@@ -24,7 +27,7 @@
         clicking on the bottom display row and disabled by clicking the right or left side of the screen. <p><p>
 
 	Steps to view a graphic novel on a wide screen PC or tablet.<br>
-        1. Click the "New Window" icon below the above iFrame to enable full screen view.  Note that an iFrame could be used to 
+        1. An iFrame could be used to 
            display a specific graphic novel but the limited screen size would be a disadvantage.<br>
         2. Click the upper left image menu icon to enable a graphic display of the imagegroup graphic novels. <br>
         3. Pan thru the images and select the "Punisher Black Widow" comic book.<br>

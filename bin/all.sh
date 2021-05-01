@@ -1,4 +1,4 @@
-. meta.ini
+source <(grep count meta.ini)
 COUNT=${count}
 COUNT=`expr $count - 1`
 cd 0000

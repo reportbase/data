@@ -7,13 +7,16 @@
         <div align=left style="font-size:medium">
 
             Browser and platform software have limited capabilities to view large
-            and Hi-Resolution images.  The latest camera technologies take Hi-Resolution 
-            images but do not provide features that effectively view them. 
+            Hi-Resolution images.  Hi-Resolution images are easy to create but hard to view.
             With large cellphones having only 800x500 pixels, Hi-Res images that have greater
             than 10K horizontal or vertical pixels are a challenge to view effectively. The challenge
             is further compounded by HTML not providing specific features to support viewing 
             large hi-res images.
-           <p> <p>
+            Click <a href="https://repba.com?p=boss/gush"> here</a> to view example hi-resolution images.
+            Click the left menu icon to select different image subgroups.  <a href="https://repba.com?QRDJ">QRDJ</a>
+            is a large high quality photo of a Florida Golfcourse.   <a href="https://repba.com?9JBC">9JBC</a> is hires  
+            photo of a European tourist city.  Notice the people sitting by the river.
+            <p> <p>
 	    
             After extensive
             investigation and testing of various alternatives to improve viewing of hi-res images, RepbaView 
@@ -44,9 +47,8 @@
             bar is then moved to the selected sub-image.  To move the visual footer position bar to another
             sub-image, click the desired visual footer image segment. <p>
 
-            Click the New Window link below the top of page iFrame image to enable the full height
-            display of the top image. Click the left image icon to select
-            various subgroups, as defined below, to demonstrate RepaView’s features to view
+            Click the left menu icon to select
+            an image subgroup, as defined below, to demonstrate RepaView’s features to view
             large and Hi-Resolution images.  <p> 
             For each image,<br> 
             1) Zoom using the header by clicking the top display row. <br>
@@ -56,15 +58,12 @@
             5) Select specific sub-images of the hi-res image by clicking the visual footer.<br>
             6) Click the browser back arrow to return to this page. <p>
 
-             <a href=http://repba.com?N0UT>Chick here</a> to
-            display a RepabView 30Kx10K hi-res image.  Zoom to maximum level
-            to observe the people by the boat. Click the browser back arrow or select url repba.com to return. <p><p> 
-
+            <a href=http://repba.com?CALR>Chick here</a> to
+            display a large hires info-graphic image of Antartica.  Zoom to maximum level
+            to notice the details. <p><p> 
               
-            <a href=https://repba.com?5ENY> Click here</a> to view a hi-res image example. Depress a finger or cursur
-            at the screen edges to move fully around the image. Click the browser back arrow or select url repba.com 
-            to return. <p><p>
-
+            <a href=https://repba.com?2WUB>Click here</a> to view a hi-res vector image of a golfcourse. Depress a finger or cursur
+            at the screen edges to move fully around the image.
 
     <div class="footer"> <p>
         <a target=ifr href="http://repba.com?ULAB>repba.image.services</a>

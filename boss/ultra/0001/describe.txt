@@ -27,9 +27,8 @@
             particularly useful in social media posts when full url syntax is not
             supported.  When activating an imagegroup without a defined url subgroup, an
             image menu is displayed for user selection of the initial subgroup. The above
-            image is an iFrame instance of a RepbaView subgroup. It can be migrated to a
-            full screen view by clicking the “New Window” link below the iFrame. iFrames
-            are helpful when imagegroup image displays and html text are needed on the same
+            image is an iFrame instance of a RepbaView subgroup. 
+            iFrames are helpful when imagegroup image displays and html text are needed on the same
             page or when images are desired in a fixed web page window space. Switching a
             RepbaView iFrame to an optional full screen new window enhances view and
             control of images. RepbaView's advanced touch based interace allows
@@ -37,8 +36,17 @@
             Touch the screen and pan the image in all directions Wide image panorams are 
             resized to the screen height and panned horizontally. Start a panoramic 
             slideshow with a quick horizontal swipe.
-.
+            Click <a href=https://repba.com?ULAN>here</a> to see the above iframe in a new window.</a> 
+
             <p><p>
+            Full screen operation depends on the client type as follows.  For
+            Windows-10, RepbaView full screen operation is supported by the
+            Edge browser. Select browser full screen option for continuous full
+            screen operation while using RepaView.  For Android Clients,
+            RepbaView full screen operation is supported while viewing images
+            of a image subgroup.  To enable another image or command menu,
+            RepbaView full screen mode must be deactivated.  For IOS clients,
+            RepbaView full screen mode is not supported.<p>
 
             Image view tuning involves changing the zoom settings using the header.
             Vertical panning moves the image up/down relative to its anchor point.
@@ -50,14 +58,12 @@
             left side of the screen.  
             Pan the image up and down to reposition the image at different anchor points.  <p>
 
-            The footer consists -/+ controls to move the current page. The current page number is located in the center.
-            To clear the footer, click the right or left side of the screen. The 
-            header and footer are never displayed at the same time. <p>
+            The footer controls movement of the current page.  To enable the footer, click the middle
+            of the screen.<p>
     
-            Next select the “new window” link below the iFrame to enable full
-            screen view.  While selecting various image subgroups using the top left image
+            While selecting various image subgroups using the top left image
             menu, perform the above zoom and image rotation image tuning steps. Click the screen 
-            to enable the footer.  Click the gear icon to show the the thumnail images.
+            to enable the footer.  Click the page number to show the the thumbnail images.
             Select an image or double click the display to
             close the thumbnail menu. Click the browser back arrow or select url repba.com to return.  <p>
             
