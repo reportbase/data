@@ -18,6 +18,19 @@
             URLs. RepbaView is a high resolution image viewer for wide media
             supporting picture in picture panning, grapic novels,
             animated sequences and panoramic slideshows. <p><p>
+
+            (new paragraph 1)
+            RepbaView displays images in full screen panorama using cell phones, tablets and
+            PC screens. It displays full screen images horizontally providing continuous 
+            wrap around image viewing in contrast to typical websites that stack pictures 
+            vertically. Display of pages at the top of screen enhances the user 
+            experience over that of vertically panning new pages. RepbaView is a visionary 
+            web application using proprietary cylindrical panorama algorithms to display 
+            full height images horizontally. It delivers full height, panoramic motion images 
+            to parent web sites, emails, or social media using iFrames, GIFs, or URLs.  
+            Its high resolution viewer provides picture in picture panning enabling users 
+            to enjoy both the depth and breath of wide media.<p><p>
+
             
             RepbaView challenges the status-quo of image technology providing a
             platform based on cloud image deployment, full height client side
@@ -33,12 +46,22 @@
             RepbaView's cylindrical panoramic design is used to render images
             and create innovative menus. <br><p>
 
-            RepbaView images can integrated into web pages using
+            (old paragraph 3) RepbaView images can integrated into web pages using
             an HTML Iframe and a rich messaging API. In addition to its core image
             rendering capabilities, RepbaView is a breakthrough technology that
             supports advanced image solutions including viewing large hi-resolution images, 360 degree panoramas,
             motion pictures, and graphic novels. Each of these solutions are
             summarized by separate pages below.  <br><p>
+
+            (new paragraph 3)
+            RepbaView images can be integrated into web pages using an HTML iFrame 
+            with a rich messaging API. In addition to its core static image rendering 
+            capabilities, RepbaView is a breakthrough technology that provides advanced 
+            image solutions for viewing large hi-resolution images, 360 degree panoramas, 
+            VR images, and graphic novels. Each of these solutions are summarized by 
+            separate pages below.<br><p>
+            
+            
                                      
             <div align=left style="font-size:large">
             Steps To Get Familiar With RepbaView.<p>
@@ -54,16 +77,16 @@
             the browser back arrow to return.<p><p>
             
             <p>
-            3. Selecct imagegroup subgroups using the image menu. After <a
-            href="https://repba.com?SOTA">click to start
+            3. Select imagegroup subgroups using the image menu. <a
+            href="https://repba.com?SOTA">Click to start
             </a>the olympics image group to view various sports related image
-            subgroups by clicking the top left screen to enable image menu
-            buttons.  Click the image menu icon to remove the menu buttons.
-            <p><p> 
+            subgroups by clicking the top left image menu icon to enable the visual subgroup menu.  
+            Click outside the visual thumbnail images to remove the menu.
+            Enter url repba.com to return to this page. <p><p>
             
             4. Click <a target=ifr
             href=https://repba.com?ULAO>RepbaView Image Motion</a>
-            for a summary of Image motion controls using the Ultra imagegroup
+            for a summary of Image motion controls using the Abstract imagegroup
             page.  <p><p>
 
             5. Enable panorama 
@@ -77,10 +100,12 @@
             initiate a full height display. Select panorama and slideshow
             motions using the right command icon.  Click the browser back arrow
             to return to this page. 2) Tap the GIF image below to start the
-            Ocean subgroup of the peek imagegroup and perform the same actions.
-            Then click the center of the screen to enable the  thumbnail menu.
-            Select specific thumbmail images and double click the menu to
-            disable it. Enter url repba.com to return to this page.<p> <br>
+            Ocean subgroup of the peek imagegroup and enable various subgroups by clicking the
+            top left image icon to visually select the subgroups. Click outside the visual
+            subgroup display to disable the menu.  Then click anywhere on the screen to stop 
+            motion and click the footer num.num icon to enable the visual thumbnail 
+            menu. Select specific thumbnail visual images and click outside of the thumbnail 
+            image to disable the menu. Enter url repba.com to return to this page.<p> <br>
             
             <a href=https://repba.com?PEOC><img src=/data/boss/peek/0000/gif/320.gif></a><p>
               
