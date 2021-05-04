@@ -5,21 +5,7 @@
 
     	<div class=content align=left style="font-size:medium">
 
-            View images in full screen panorama using cell phones, tablets and
-            PC screens.  Websites typically stack pictures vertically and
-            employ thumbnails, whereas RepbaView full screen images are
-            displayed horizontally, providing continuous wrap around image
-            viewing. Displaying new pages at the screen top enhances the user
-            experience over that of vertically panning new pages.  RepbaView is
-            a visionary web application initiative that uses proprietary
-            cylindrical panorama algorithms to display full height images
-            horizontally. It delivers full height, panoramic motion images to
-            parent web sites, emails, or social media using iFrames, GIFs, or
-            URLs. RepbaView is a high resolution image viewer for wide media
-            supporting picture in picture panning, graphic novels, animated
-            sequences and panoramic slideshows. <p><p>
-
-            (new paragraph 1) RepbaView displays images in full screen panorama
+            RepbaView displays images in full screen panorama
             using cell phones, tablets and PC screens. It displays full screen
             images horizontally providing continuous wrap around image viewing
             in contrast to typical websites that stack pictures vertically.
@@ -46,19 +32,11 @@
             RepbaView's cylindrical panoramic design is used to render images
             and create innovative menus. <br><p>
 
-            (old paragraph 3) RepbaView images can integrated into web pages
-            using an HTML Iframe and a rich messaging API. In addition to its
-            core image rendering capabilities, RepbaView is a breakthrough
-            technology that supports advanced image solutions including viewing
-            large hi-resolution images, 360 degree panoramas, motion pictures,
-            and graphic novels. Each of these solutions are summarized by
-            separate pages below.  <br><p>
-
-            (new paragraph 3)
-            RepbaView images can be integrated into web pages using an HTML
+            
+            Images can be integrated into web pages using an HTML
             iFrame with a rich messaging API. In addition to its core static
             image rendering capabilities, RepbaView is a flexible
-            technology that provides advanced image solutions to view large
+            technology providing advanced image solutions to view large
             hi-resolution images, 360 degree panoramas, VR images, and graphic
             novels. Each of these solutions are summarized by separate pages
             below.<br><p>
@@ -128,8 +106,8 @@
             back arrow or url repba.com to return to this page.<br>
            
             Click to Start the following image groups: <a
-            href=https://repba.com?INSM>  Interiors, </a>   <a
-            href=https://repba.com?CBTQ> Military </a> <a
+            href=https://repba.com?INSM>  Interiors, </a> ...   <a
+            href=https://repba.com?CBTQ> Military </a> ...   <a
             href=https://repba.com?CYWE>or City. </a><p><p>
 
             8. The RepbaView architecture enables advanced imaging solutions.

@@ -4,7 +4,6 @@
     </div>
     
     <div class="content" style="font-size:medium">
-        <div align=left>
 
         RepbaView is an excellent tool to view 360&deg; images. This is
         accomplished by using panorama, slideshow or manual viewing options.
@@ -39,9 +38,6 @@
         image of the ocean. Depress a finger or cursur at the screen edges to
         move fully around the image.<p>
 
-        </div>
-        </div>
-        
     </div>
     <div class="footer">
         <a target=ifr href=https://repba.com?ULAB>repba.image.services</a>

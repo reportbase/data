@@ -3,8 +3,7 @@
         RepbaView Images 
     </div>
   
-    <div class="content">
-        <div align=left style="font-size:medium">
+    <div class=content align=left style="font-size:medium">
 
             At the top level, RepbaView Image collections are defined as
             imagegroups.  Each imagegroup consists of subgroups of image
@@ -78,8 +77,9 @@
             image subgroups to view some of the more than 2000 images. 
             Tap the animated GIF below to load the group.<p>
 
-            <a href=https://repba.com?SCAB><img
-            src=/data/boss/scapes/0001/gif/240.gif></img></a><p><p>   
+            <a class=center href=https://repba.com?SCAB><img
+                src=/data/boss/scapes/0001/gif/240.gif></img></a><p><p>   
+    </div>
 
     <div class="footer">
         <a target=ifr href="https://repba.com?ULAB">repba.image.services</a>

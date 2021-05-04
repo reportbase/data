@@ -1,43 +1,55 @@
-        <div class="content" style="font-size:medium">
-        <div align=left>
+<div class="media">
+     <div class="title">
+        Virtual Reality 
+    </div>
+    
+    <div class="content" style="font-size:medium">
 
-        
-        Browsers do not properly display VR projection 360&deg; images. Special software is needed to view
-        projection panorama images.  The cylindrical image processing design of RepbaView enables it to display popular 
-        VR projection 360&deg; images without using special headsets.  It supports viewing equirectangular, cylindrical, and 
-        rectilinear VR projection images.  Since it connects the ends of the image, it can
-        display a wide range of projection 360&deg; image sizes providing a wrap around panning view of various image 
-        aspect ratios. For example a 2:1 image can zoomed to viewable 
-        4:1 or 8:1 image. 
+        Browsers do not properly display VR projection 360&deg; images. Special
+        software is needed to view projection panorama images.  The cylindrical
+        image processing design of RepbaView enables it to display popular VR
+        projection 360&deg; images without using special headsets.  It supports
+        viewing equirectangular, cylindrical, and rectilinear VR projection
+        images.  Since it connects the ends of the image, it can display a wide
+        range of projection 360&deg; image sizes providing a wrap around
+        panning view of various image aspect ratios. For example a 2:1 image
+        can zoomed to viewable 4:1 or 8:1 image. 
         <p><p>
-
-
         
-        The dash imagegroup has 24 subgroups each         
-        with an example VR projection 360&deg; image. Each of the subgroups can be viewed as 
-        a panorama or slideshow.  The panorama view is a slow and steady rotation of the VR image. 
-        VR Projection 360&deg; panorama subgroups can be included in an imagegroup with other 
-        subgroup images and documents. RepbaView displays VR projection 360&deg; images that include a front & back image. 
-        The visual footer provides a browser distorted view of the front & back images and shows how the 
-        full zoomed image relates to the overall VR image.
-        Standard RepbaView zooming and image rotation are supported for VR images.  Zooming is
-        particularly important for projection 360&deg images to obtain a quality user view. 
-        Screen rotation and magnification steps may be needed to properly display specific portions of the image. 
-        Reference the command menu help button for
-        detailed command and screen interaction information. Panning keeps the active left & right images of the panorama 
-        displayed without moving to the next image.  <p>
+        The dash imagegroup has 24 subgroups each with an example VR projection
+        360&deg; image. Each of the subgroups can be viewed as a panorama or
+        slideshow.  The panorama view is a slow and steady rotation of the VR
+        image.  VR Projection 360&deg; panorama subgroups can be included in an
+        imagegroup with other subgroup images and documents.  RepbaView
+        displays VR projection 360&deg; images that include a front & back
+        image.  The visual footer provides a browser distorted view of the
+        front & back images and shows how the full zoomed image relates to the
+        overall VR image.  Standard RepbaView zooming and image rotation are
+        supported for VR images.  Zooming is particularly important for
+        projection 360&deg images to obtain a quality user view.  Screen
+        rotation and magnification steps may be needed to properly display
+        specific portions of the image.  Reference the command menu help button
+        for detailed command and screen interaction information. Panning keeps
+        the active left & right images of the panorama displayed without moving
+        to the next image.  <p>
 
+        <a href=http://repba.com?DARM>Chick here</a> to display a VR image of
+        private movie theater.  Pan around to view the entire room.<p>
+          
+        <a href=https://repba.com?DAWI>Click here</a> to view a VR hi-res image
+        of the interior of a car. Depress a finger or cursur at the screen
+        edges to move fully around the image. <p>
+    
+        Using the image menu, select other example VR projection 360&deg;
+        images in the dash imagegroup. For each image, try various interactive
+        controls mentioned above to view the interesting VR Projection 360&deg;
+        images.
 
-        
-
-            <a href=http://repba.com?DARM>Chick here</a> to
-            display a VR image of private movie theater.  Pan around to view the entire room.<p>
-              
-            <a href=https://repba.com?DAWI>Click here</a> to view a VR hi-res image of the interior of a car. Depress a finger or cursur
-            at the screen edges to move fully around the image. <p>
-        
-        Using the image menu, select other example VR projection 360&deg; images in the dash imagegroup. For each image, try various 
-        interactive controls mentioned above to view the interesting VR Projection 360&deg; images.<p>
-
-        </div>
+    </div>
+    <div class="footer">
+        <a target=ifr href=https://repba.com?ULAB>repba.image.services</a>
+    </div>
 </div>
+
+        
+

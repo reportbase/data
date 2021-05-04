@@ -3,8 +3,7 @@
         RepbaView - Viewing Hi-Resolution Images <p>
     </div>
   
-    <div class="content">
-        <div align=left style="font-size:medium">
+    <div class="content" align=left style="font-size:medium">
 
             Browser and platform software have limited capabilities to view
             large Hi-Resolution images.  Hi-Resolution images are easy to
@@ -78,7 +77,7 @@
             <a href=https://repba.com?2WUB>Click here</a> to view a hi-res
             vector image of a golfcourse. Depress a finger or cursur at the
             screen edges to move fully around the image.
-
+    </div>
     <div class="footer"> <p>
         <a target=ifr href="http://repba.com?ULAB>repba.image.services</a>
     </div>
