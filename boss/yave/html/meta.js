@@ -63,7 +63,7 @@ name:"YATT",
 count:0,
 },
 {
-title:"Terminal City - Obey and Protect",
+title:"Mad",
 name:"YAMM",
 count:0,
 },
@@ -279,7 +279,7 @@ count:0,
 },
 {
 title:"Donald Duck - Assorted",
-name:"YADD",
+name:"DUCK",
 count:0,
 },
 {

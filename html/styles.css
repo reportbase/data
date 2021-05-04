@@ -41,12 +41,7 @@ body
     -webkit-tap-highlight-color: rgba(0,0,0,0); 
 }
 
-a { text-decoration: none; }
 a:link { color:blue; }
-a:visited { color:blue; }
-a:hover { color:orange; }
-a:focus { color:orange; }
-a:active { color:blue; }
 img { max-width: 100%; }
 h1, p { margin: 0 0 1em 0; }
 
@@ -96,6 +91,8 @@ h1, p { margin: 0 0 1em 0; }
     overflow: auto;
     grid-area: bd; 
     padding: 10px; 
+    text-align: justify;
+    text-justify: inter-word;
 }
 
 .footer 
@@ -129,4 +126,10 @@ h1, p { margin: 0 0 1em 0; }
     display: table-cell; /* Make elements inside the container behave like table cells */
 }
 
-
+.center 
+{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}

@@ -1,6 +1,6 @@
 var meta = {title:"Experiments",
 name:"repo",
-count:72,
+count:82,
 data:[
 {
 title:"Where's Waldo?",
@@ -361,6 +361,56 @@ count:0,
 title:"A-Wing",
 name:"CRTW",
 count:0,
+},
+{
+title:"Anime Warriors II",
+name:"ANCMB",
+count:1,
+},
+{
+title:"Anime Warriors I",
+name:"CBADE",
+count:1,
+},
+{
+title:"Horion Zero IV",
+name:"HORZ4",
+count:1,
+},
+{
+title:"Horion Zero III",
+name:"HORZ3",
+count:1,
+},
+{
+title:"Horion Zero II",
+name:"HORZ2",
+count:1,
+},
+{
+title:"Horion Zero I",
+name:"HORZ1",
+count:1,
+},
+{
+title:"Pirates",
+name:"PIRA",
+count:1,
+},
+{
+title:"Space Combat",
+name:"IOAE",
+count:1,
+},
+{
+title:"Dance Trio",
+name:"PYRE",
+count:1,
+},
+{
+title:"Predator",
+name:"EERI",
+count:1,
 },
 ]
 }

@@ -10,31 +10,34 @@
         accomplished by using panorama, slideshow or manual viewing options.
         The slow constant rotation of panorama motion is an effective way to
         view 360&deg; images. The visual footer shows how the zoomed large
-        image positionally relates to the full image. The visual footer
-        can be enabled by clicking the center of the screen.
-        Standard RepaView zooming and vertical rotation user
-        interaction commands are supported. Click the help button on the upper
-        right command icon for a summary of RepbaView user commands.  When
-        viewing 360&deg; images, the interior of RepbaView image cylinder is
-        painted with the image. 360&deg; panoramic images rotate continuously
-        without an inherent left or right side.  <p><br>
-        Click <a href=https://repba.com?DBYJ>here</a> to see the above iframe in a new window.</a> 
+        image positionally relates to the full image. The visual footer can be
+        enabled by clicking the center of the screen.  Standard RepaView
+        zooming and vertical rotation user interaction commands are supported.
+        Click <a href=https://repba.com?DBYJ>here</a> to see the above iframe
+        in a new window. </a>Click the help button on the upper right command
+        icon for a summary of RepbaView user commands.  When viewing 360&deg;
+        images, the interior of RepbaView image cylinder is painted with the
+        image. 360&deg; panoramic images rotate continuously without an
+        inherent left or right side. Click the browser back buttom to return to
+        this page.  <p><br>
+         
 
-        <a href=https://repba.com?S5ZO>Click </a>
-        to load S5ZO subgroup of the Earl imagegroup.  Pan the visual footer up/down/left/right to quickly navigate the image.<p>
-        The red box tracks the movement. Observe the visual footer activation
-        when panorama motion is stopped by clicking anywhere on the screen. 
-        Depress the cursor on the right or left side of
-        page move smoothly around the 360 image. Use the top left menu to visually select other
-        360&deg; images to view.  <p><br>
+        <a href=https://repba.com?S5ZO>Click </a> to load image #60 (New York
+        City skyline) subgroup of the Earl imagegroup.  Pan the visual footer
+        up/down/left/right to quickly navigate the image.<p> The red box tracks
+        the movement. Observe the visual footer activation when panorama motion
+        is stopped by clicking anywhere on the screen.  Depress the cursor on
+        the right or left side of page move smoothly around the 360 image. Use
+        the top left menu to visually select other 360&deg; images to view.
+        <p><br>
 
-            <a href=http://repba.com?FCIN>Chick here</a> to
-            display a 360 image of European City.  Zoom to the maximum level
-            to notice the details. <p> 
+        <a href=http://repba.com?FCIN>Chick here</a> to display a 360 degree image
+        of a European City.  Zoom to the maximum level to notice the details.
+        <p> 
               
-            <a href=https://repba.com?77ER> Click here</a> to view a 360 hi-res image of the ocean. Depress a finger or cursur
-            at the screen edges to move fully around the image.  
-            to return. <p>
+        <a href=https://repba.com?77ER> Click here</a> to view a 360 hi-res
+        image of the ocean. Depress a finger or cursur at the screen edges to
+        move fully around the image.<p>
 
         </div>
         </div>

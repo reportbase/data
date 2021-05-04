@@ -14,17 +14,17 @@ count:36,
 },
 {
 title:"Predators - HD Photographs",
-name:"PEPE",
+name:"PREDA",
 count:36,
 },
 {
-title:"Predators - HD Photographs",
-name:"PEPI",
+title:"Pizza",
+name:"PIZZA",
 count:36,
 },
 {
 title:"Jesus - HD Photographs",
-name:"PEE",
+name:"JESUS",
 count:36,
 },
 {
@@ -34,7 +34,7 @@ count:36,
 },
 {
 title:"Anime - HD Photographs",
-name:"PEAR",
+name:"ARIZO",
 count:36,
 },
 {
@@ -44,12 +44,12 @@ count:36,
 },
 {
 title:"Faces - HD Photographs",
-name:"PEFA",
+name:"FACES",
 count:36,
 },
 {
 title:"Chocoloate - HD Photographs",
-name:"PECH",
+name:"CHOCO",
 count:36,
 },
 {
@@ -64,7 +64,7 @@ count:36,
 },
 {
 title:"Egypt - HD Photographs",
-name:"PEEG",
+name:"EGYPT",
 count:36,
 },
 {
@@ -104,7 +104,7 @@ count:18,
 },
 {
 title:"Fruit - HD Photographs",
-name:"POFR",
+name:"CANDY",
 count:18,
 },
 {
