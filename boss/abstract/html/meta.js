@@ -1,6 +1,6 @@
 var meta = {title:"Abstract Art",
 name:"abstract",
-count:20,
+count:21,
 data:[
 {
 title:"Gallery I",
@@ -100,6 +100,11 @@ count:72,
 {
 title:"Expressionism - Gallery VIII",
 name:"TXSM",
+count:72,
+},
+{
+title:"Expressionism - Gallery X",
+name:"TXSB",
 count:72,
 },
 ]

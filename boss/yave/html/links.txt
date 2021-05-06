@@ -1,7 +1,10 @@
 [9000]
 Title = Full Screen
 path = FULLSCREEN
-size = 2
+size = 3
+[]
+Title = Thumbnails
+path = THUMBNAILS
 []
 Title = Help
 path = HELP

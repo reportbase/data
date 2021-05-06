@@ -7,23 +7,25 @@
 
             Browser and platform software have limited capabilities to view
             large Hi-Resolution images.  Hi-Resolution images are easy to
-            create but hard to view.  
-            Hi-Res images that have a height or width of 10K 
-            can be a challenge to view on small screens. The challenge
-            is compounded by the fact that HTML does not provide features 
-            to support viewing very large images. Click <a
-            href="https://repba.com?p=boss/gush"> here</a> to view an
-            example hi-resolution images in the Gush imagegroup.  Click the
-            left menu icon to select other images.  <a
+            create but hard to view.  Hi-Res images that have a height or width
+            of 10K can be particularly challenging to view on small screens.  Click <a
+            href="https://repba.com?p=boss/gush"> here</a> to view an example
+            hi-resolution images in the Gush imagegroup.  Click the left menu
+            icon to select other hi-resolution images.  <a
             href="https://repba.com?QRDJ">Image #6</a> is a large high quality
-            photo of a Florida Golfcourse. <a
+            photo of a Florida golfcourse. <a
             href="https://repba.com?9JBC">Image #9</a> is hires  photo of a
-            European tourist city.  Zoomin to view the tourists sitting by the river.
-            <p> <p>
+            European tourist city.  Zoomin to view the tourists sitting by the
+            river.  <p> <p>
 	    
-            After investigation of various alternatives to improve viewing of
-            hi-res images, RepbaView has implemented enhanced viewing large
-            hi-res images.  The features consist of using two windows, working
+            The optimal way to pan large images is to resize the image to the 
+            device's screen height and adjust the zoom level
+            and vertical position to a restricted portion of image.
+            
+            This requires a little practice, but with the assistance of a thumbnail 
+            image at the bottom of the screen, you can now easily pan large hi-res images.<p>
+            
+            The features consist of using two windows, working
             together, enable users to see both the selected zoom and vertical
             rotated image in perspective to the full image displayed in a
             second and smaller window.  Large image panning and motion controls

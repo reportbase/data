@@ -24,14 +24,6 @@
         provides an imagegroup menu for users to select specific graphic novels. A
         thumbnail menu is provided to view individual pages of a novel. <p><p> 
 
-        A footer is specifically designed to support graphic novels. It includes a
-        sprocket symbol icon that when clicked shows all images in the novel. It
-        also includes a sliding page bar that allows users to select specific pages
-        in the novel. It includes "- and +" icons that allow users to move forward
-        or reverse thru pages.  The footer is enabled by clicking on the bottom
-        display row and disabled by clicking the right or left side of the screen.
-        <p>
-
         Steps to view a graphic novel on a wide screen PC or tablet.<br>
         1. An iFrame could be used to 
            display a specific graphic novel but the limited screen size would be a disadvantage.<br>

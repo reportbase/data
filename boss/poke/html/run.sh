@@ -3,6 +3,6 @@ cp meta.ini .meta.ini
 vkt.sh
 vka.sh
 
-
+rm title
 
 

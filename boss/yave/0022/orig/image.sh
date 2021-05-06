@@ -1,2 +1,10 @@
-convert -size  1280x2000 canvas:black 0130.jpg
 convert -size  1280x2000 canvas:black 0131.jpg
+convert -size  1280x2000 canvas:black 0132.jpg
+convert -size  1280x2000 canvas:black 0133.jpg
+convert -size  1280x2000 canvas:black 0134.jpg
+convert -size  1280x2000 canvas:black 0135.jpg
+convert -size  1280x2000 canvas:black 0136.jpg
+convert -size  1280x2000 canvas:black 0137.jpg
+convert -size  1280x2000 canvas:black 0138.jpg
+convert -size  1280x2000 canvas:black 0139.jpg
+convert -size  1280x2000 canvas:black 0140.jpg
