@@ -1,2 +1,5 @@
-convert -size 1170x1800 canvas:black 0184.jpg
-convert -size 1170x1800 canvas:black 0185.jpg
+convert -size 2560x1520 canvas:white 0067.jpg
+convert -size 2560x1520 canvas:white 0068.jpg
+convert -size 2560x1520 canvas:white 0069.jpg
+convert -size 2560x1520 canvas:white 0070.jpg
+convert -size 2560x1520 canvas:white 0071.jpg

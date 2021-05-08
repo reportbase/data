@@ -1,6 +1,6 @@
 var meta = {title:"",
 name:"earl",
-count:72,
+count:71,
 data:[
 {
 title:"",
@@ -355,11 +355,6 @@ count:1,
 {
 title:"",
 name:"PIRAT",
-count:1,
-},
-{
-title:"",
-name:"CINDE",
 count:1,
 },
 ]

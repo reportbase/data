@@ -3,6 +3,5 @@ cp meta.ini .meta.ini
 vkt.sh
 vka.sh
 
-rm title
-
+vkr.sh fillwidth_8 480
 

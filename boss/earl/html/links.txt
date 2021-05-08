@@ -1,0 +1,8 @@
+[9000]
+title = Full Screen
+path = FULLSCREEN
+size = 2
+[]
+title = Help
+path = HELP
+
