@@ -1,6 +1,6 @@
 var meta = {title:"Wide Photographs",
 name:"wide",
-count:22,
+count:24,
 data:[
 {
 title:"Wide Photographs",
@@ -111,6 +111,16 @@ count:72,
 title:"Interiors",
 name:"TZIS",
 count:72,
+},
+{
+title:"Interiors",
+name:"RBQT",
+count:36,
+},
+{
+title:"Interiors",
+name:"RBQS",
+count:36,
 },
 ]
 }

@@ -122,7 +122,7 @@
             RepbaView visual footer is used by the solutions to enhance their
             usability and benefit.  <br> <p>
             
-            <a target=ifr href="https://repba.com?XPQL" target=ifr> High
+            <a target=ifr href="https://repba.com?PQU0" target=ifr> High
             Resolution Solution</a>.  The hi-res solution summary and examples
             are located here. High resolution images typically have a width
             greater than 5K pixels with a 3-4:1 aspect ratio of high quality
