@@ -7,7 +7,10 @@
 
         A wide range of comics and short stories are available in graphic novel
         format where pages include graphics and related text. RepbaView is
-        designed to effectively view the novels.  Click <a
+        designed to effectively view the novels.  
+        Click <a href="https://repba.com?p=boss/yave"> here</a> to view example
+        graphic novels in the Yave imagegroup.  
+        Click <a
         href=https://repba.com?YAWQ>here</a> to see the above graphic novel in
         full screen.</a> <p><p>
 
@@ -37,7 +40,14 @@
         -- Tap the footer +/- to move to the next or previous page.<br>
         -- Click the upper left menu to select a new graphic novel.<br>
         -- Small width devices require panning to view the covered portion of the page before moving down.<br>
-       
+
+        <a href=http://repba.com?YARR>Click here</a> to
+            view a Roger Rabbit graphic novel.  Zoom to maximum level
+            to notice the details. Move the red segment of the visual footer and notice the corresponding
+            location change to the zoomed portion of the larger image. <p> 
+        
+        <a href=http://repba.com?YARS>Click here</a> to
+            view the Rio Strikes Again graphic novel.<p>
     </div>
     <div class="footer">
         <a target=ifr href="/?p=boss/repba&k=0009&a=1">repba.image.services</a>

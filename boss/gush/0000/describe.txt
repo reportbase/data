@@ -71,7 +71,7 @@
                image or visual footer to see the corresponding change to the larger image. <br>
             6) Click the browser back arrow to return to this page. <p>
 
-            <a href=http://repba.com?CALR>Chick here</a> to
+            <a href=http://repba.com?CALR>Click here</a> to
             display a large hires info-graphic image of Antartica.  Zoom to maximum level
             to notice the details. Move the red segment of the visual footer and notice the corresponding
             location change to the zoomed portion of the Antartica map. <p><p> 

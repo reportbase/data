@@ -12,6 +12,8 @@
         image positionally relates to the full image. The visual footer can be
         enabled by clicking the center of the screen.  Standard RepaView
         zooming and vertical rotation user interaction commands are supported.
+        Click <a href="https://repba.com?p=boss/earl"> here</a> to view an example
+        360&deg; images in the Earl imagegroup.  
         Click <a href=https://repba.com?DBYJ>here</a> to see the above iframe
         in a new window. </a>Click the help button on the upper right command
         icon for a summary of RepbaView user commands.  When viewing 360&deg;
@@ -38,10 +40,14 @@
         image of the ocean. Depress a finger or cursur at the screen edges to
         move fully around the image.<p>
 
+        <a href=https://repba.com?ZCNA> Click here</a> to visit a historical
+        heritage site in England.<p>
+    
+        <a href=https://repba.com?68P0> Click here</a> to visit a small village
+        in France.<p>
     </div>
     <div class="footer">
         <a target=ifr href=https://repba.com?ULAB>repba.image.services</a>
-
     </div>
 </div>
 

@@ -14,6 +14,8 @@
         range of projection 360&deg; image sizes providing a wrap around
         panning view of various image aspect ratios. For example a 2:1 image
         can zoomed to viewable 4:1 or 8:1 image. 
+        Click <a href="https://repba.com?p=boss/dash"> here</a> to view an example
+        vr images in the Dash imagegroup.  
         <p><p>
         
         The dash imagegroup has 24 subgroups each with an example VR projection
@@ -39,7 +41,12 @@
         <a href=https://repba.com?DAWI>Click here</a> to view a VR hi-res image
         of the interior of a car. Depress a finger or cursur at the screen
         edges to move fully around the image. <p>
-    
+
+        <a href=https://repba.com?Q4QB>Click here</a> to a VR hi-res image
+        of a castle and surrounding community.<p>
+
+        <a href=https://repba.com?DALB>Click here</a> to to visit the London Bridge.<p>
+     
         Using the image menu, select other example VR projection 360&deg;
         images in the dash imagegroup. For each image, try various interactive
         controls mentioned above to view the interesting VR Projection 360&deg;
