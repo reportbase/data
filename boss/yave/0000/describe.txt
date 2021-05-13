@@ -39,7 +39,7 @@
         Notes:<br>
         -- Tap the footer +/- to move to the next or previous page.<br>
         -- Click the upper left menu to select a new graphic novel.<br>
-        -- Small width devices require panning to view the covered portion of the page before moving down.<br>
+        -- Small width devices require panning to view the covered portion of the page before moving down.<br><p>
 
         <a href=http://repba.com?YARR>Click here</a> to
             view a Roger Rabbit graphic novel.  Zoom to maximum level
