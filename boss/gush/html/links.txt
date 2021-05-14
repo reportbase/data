@@ -1,8 +1,14 @@
 [9000]
-title = Full Screen
+Title = Full Screen (F)
 path = FULLSCREEN
-size = 2
+size = 4
 []
-title = Help
+Title = Information (I)
+path = INFORMATION
+[]
+Title = Footer (G)
+path = FOOTER
+[]
+Title = Help
 path = HELP
 

@@ -1,9 +1,13 @@
-rm -r -f *.out error TMP
-rm -r gif 2> /dev/null
-cp meta.ini .meta.ini
+if [ ! -f "home.jpg" ]; then
+    convert -size 1x1 canvas:white home.jpg
+fi
 
+if [ ! -f "describe.txt" ]; then
+    touch "describe.txt"
+fi
+
+rm -r -f *.out error TMP
+cp meta.ini .meta.ini
 vkt.sh
 vka.sh
-#vkr.sh hitrows_8 9
-#vkr.sh menuspeed_8 750
-vky.sh
+
