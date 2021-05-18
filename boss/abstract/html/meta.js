@@ -1,67 +1,7 @@
 var meta = {title:"Abstract Art",
 name:"abstract",
-count:21,
+count:7,
 data:[
-{
-title:"Gallery I",
-name:"ABER",
-count:72,
-},
-{
-title:"Gallery II",
-name:"ABET",
-count:72,
-},
-{
-title:"Gallery III",
-name:"ABQE",
-count:72,
-},
-{
-title:"Gallery IV",
-name:"ABVE",
-count:72,
-},
-{
-title:"Gallery V",
-name:"ABUI",
-count:72,
-},
-{
-title:"Gallery VI",
-name:"ABBN",
-count:72,
-},
-{
-title:"Young Faces",
-name:"ASQH",
-count:72,
-},
-{
-title:"Food Dishes",
-name:"ASQI",
-count:72,
-},
-{
-title:"Famous Faces",
-name:"FAMO",
-count:72,
-},
-{
-title:"Gallery IV",
-name:"ASQE",
-count:72,
-},
-{
-title:"Gallery V",
-name:"ASQF",
-count:72,
-},
-{
-title:"Gallery VI",
-name:"ASQG",
-count:72,
-},
 {
 title:"Expressionism - Gallery I",
 name:"EXUI",
@@ -95,16 +35,6 @@ count:72,
 {
 title:"Expressionism - Gallery VII",
 name:"EXSM",
-count:72,
-},
-{
-title:"Expressionism - Gallery VIII",
-name:"TXSM",
-count:72,
-},
-{
-title:"Expressionism - Gallery X",
-name:"TXSB",
 count:72,
 },
 ]

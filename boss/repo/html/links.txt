@@ -1,17 +1,1 @@
-[9000]
-Title = Full Screen (F)
-path = FULLSCREEN
-size = 5
-[]
-Title = Information (I)
-path = INFORMATION
-[]
-Title = Footer (G)
-path = FOOTER
-[]
-Title = Zoom (+/-)
-path = ZOOM
-[]
-Title = Help
-path = HELP
 

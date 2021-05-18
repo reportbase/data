@@ -1,13 +1,16 @@
 [9000]
 Title = Full Screen (F)
 path = FULLSCREEN
-size = 5
+size = 6
 []
 Title = Thumbnails (T)
 path = THUMBNAILS
 []
 Title = Information (I)
 path = INFORMATION
+[]
+Title = Zoom (+/-)
+path = ZOOM 
 []
 Title = Footer (G)
 path = FOOTER
