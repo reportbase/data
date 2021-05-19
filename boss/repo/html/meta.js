@@ -239,7 +239,7 @@ count:0,
 },
 {
 title:"Street View",
-name:"STREET",
+name:"STRE",
 count:0,
 },
 {

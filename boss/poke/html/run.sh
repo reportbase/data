@@ -9,6 +9,7 @@ fi
 rm -r -f *.out error TMP
 cp meta.ini .meta.ini
 vkt.sh
-#vka.sh
+vkr.sh momentumlow_4 40 
+vkr.sh momentumhigh_4 40 
 
 
