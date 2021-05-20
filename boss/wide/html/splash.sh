@@ -1,3 +1,4 @@
+#vks.sh width height
 cd html/splash
 RESIZE=$(printf "x%s" $2)
 resize.sh $RESIZE

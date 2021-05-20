@@ -1,36 +1,66 @@
 var meta = {title:"Home Interiors",
 name:"interior",
-count:6,
+count:12,
 data:[
 {
 title:"Interiors - Gallery I",
-name:"INSM",
-count:72,
+name:"INSA",
+count:36,
 },
 {
 title:"Interiors - Gallery II",
-name:"INSA",
+name:"INSB",
 count:72,
 },
 {
 title:"Interiors - Gallery III",
-name:"INWU",
-count:72,
+name:"INSC",
+count:36,
 },
 {
 title:"Interiors - Gallery IV",
-name:"INSG",
-count:72,
+name:"INSD",
+count:36,
 },
 {
 title:"Interiors - Gallery V",
-name:"INQM",
-count:72,
+name:"INSE",
+count:36,
 },
 {
 title:"Interiors - Gallery VI",
-name:"INFA",
+name:"INBA",
+count:36,
+},
+{
+title:"Interiors - Gallery VII",
+name:"INEG",
+count:36,
+},
+{
+title:"Interiors - Gallery VIII",
+name:"INYUK",
 count:72,
+},
+{
+title:"Interiors - Gallery IX",
+name:"INIE",
+count:36,
+},
+{
+title:"Interiors - Gallery X",
+name:"INRE",
+count:36,
+},
+{
+title:"Interiors - Gallery XII",
+name:"ININ",
+count:36,
+},
+{
+title:"Interiors - Gallery XIV",
+name:"INWQ",
+count:36,
 },
 ]
 }

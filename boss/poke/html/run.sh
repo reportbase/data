@@ -8,8 +8,11 @@ fi
 
 rm -r -f *.out error TMP
 cp meta.ini .meta.ini
+vky.sh
 vkt.sh
-vkr.sh momentumlow_4 40 
-vkr.sh momentumhigh_4 40 
+vkh.sh x360
+#vkm.sh 
 
+
+vkd.sh pinch_4
 
