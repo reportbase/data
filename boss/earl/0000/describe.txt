@@ -43,8 +43,6 @@
         <a href=https://repba.com?ZCNA> Click here</a> to visit a historical
         heritage site in England.<p>
     
-        <a href=https://repba.com?68P0> Click here</a> to visit a small village
-        in France.<p>
     </div>
     <div class="footer">
         <a target=ifr href=https://repba.com?ULAB>repba.image.services</a>

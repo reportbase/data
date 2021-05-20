@@ -41,7 +41,7 @@
             the screen and pan the image in all directions. Wide image panorams
             are resized to the screen height and panned horizontally. Start a
             panoramic slideshow with a quick horizontal swipe.  Click <a
-            href=https://repba.com?ULAN>here</a> to see the above iframe in a
+            href=https://repba.com?CHOCO>here</a> to see the above iframe in a
             new window.</a> 
 
             <p><p>
@@ -82,7 +82,7 @@
     </div>
 
     <div class="footer">
-        <a target=ifr href="https://repba.com?ULAB">repba.image.services</a>
+        repba.image.services
     </div>
 </div>
 

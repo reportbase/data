@@ -79,7 +79,7 @@
             the Giraffes subgroup of the animal King imagegroup to initiate a
             full height display. Select panorama and slideshow motions using
             the right command icon.  Click the browser back arrow to return to
-            this page. 2) Tap the GIF image below to start the Ocean subgroup
+            this page. 2) Tap the GIF image below to start the Ocean subgroup
             of the peek imagegroup and enable various subgroups by clicking the
             top left image icon to visually select the subgroups. Click outside
             the visual subgroup display to disable the menu.  Then click
@@ -105,9 +105,9 @@
             Enter back arrow or url repba.com to return to this page.<br>
            
             Click to Start the following image groups: 
-            <a href=https://repba.com?INSM>  Interiors, </a> ... 
-            <a href=https://repba.com?p=boss/king>  Animal Kingdom, </a> ... 
-            <a href=https://repba.com?p=boss/assorted>  Assorted. </a><p>
+            <a href=https://repba.com?p=boss/interior>  Interiors, </a> ... 
+            <a href=https://repba.com?p=boss/poke>  Poke, </a> ... 
+            <a href=https://repba.com?p=boss/peek>  Peek. </a><p>
 
             8. The RepbaView architecture enables advanced imaging solutions.
             This section summarizes 4 RepbaView image solutions that are

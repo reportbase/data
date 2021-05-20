@@ -1,1 +1,1 @@
-../boss/ultra/0002/describe.txt
+../boss/peek/0001/describe.txt

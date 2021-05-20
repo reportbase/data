@@ -10,7 +10,7 @@ rm -r -f *.out error TMP
 cp meta.ini .meta.ini
 vky.sh
 vkt.sh
-vkh.sh x360
+#vkh.sh x360
 #vkm.sh 
 
 
