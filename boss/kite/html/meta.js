@@ -4,17 +4,17 @@ count:6,
 data:[
 {
 title:"Gallery I",
-name:"ABER",
+name:"ABES",
 count:72,
 },
 {
 title:"Gallery II",
-name:"ABET",
+name:"ABER",
 count:72,
 },
 {
 title:"Gallery III",
-name:"ABQE",
+name:"ABWR",
 count:72,
 },
 {

@@ -140,7 +140,7 @@ count:20,
 {
 title:"Teenagers",
 name:"RETE",
-count:75,
+count:24,
 },
 {
 title:"Sports Paintings",

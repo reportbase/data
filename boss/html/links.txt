@@ -24,6 +24,9 @@ path = PANORAMTOGGLE
 Title = Restart
 path = RESTART
 []
+Title = Test
+path = TEST
+[]
 Title = Help
 path = HELP
 
@@ -46,6 +49,9 @@ path = ZOOM
 []
 Title = Footer (G)
 path = FOOTER
+[]
+Title = Test
+path = TEST
 []
 Title = Help
 path = HELP

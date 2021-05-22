@@ -1,19 +1,19 @@
-var meta = {title:"Wide Photographs",
+var meta = {title:"4K Photographs",
 name:"wait",
 count:3,
 data:[
 {
-title:"Wide Photographs",
+title:"4K Photographs",
 name:"RBQS",
 count:36,
 },
 {
-title:"Wide Photographs",
+title:"4K Photographs",
 name:"RBQT",
 count:36,
 },
 {
-title:"Wide Photographs",
+title:"4K Photographs",
 name:"RBQT",
 count:36,
 },
