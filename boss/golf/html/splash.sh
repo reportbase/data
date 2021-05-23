@@ -1,0 +1,1 @@
+../../poke/html/splash.sh
