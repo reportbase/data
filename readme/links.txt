@@ -1,8 +1,18 @@
+[]
+path = https://playcode.io/771387/
+title = editor 
+describe = iframe examples
+
 https://jobot.com/
 
 []
 path = https://freemusicarchive.org/genre/Electronic
 title = freemusic
+
+[]
+path = https://artvee.com/
+title = artvee
+descrbie = old art
 
 []
 path = https://www.freepik.com/home

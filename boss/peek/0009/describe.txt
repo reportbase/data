@@ -41,8 +41,8 @@
             the screen and pan the image in all directions. Wide image panorams
             are resized to the screen height and panned horizontally. Start a
             panoramic slideshow with a quick horizontal swipe.  Click <a
-            href=https://repba.com?CHOCO>here</a> to see the above iframe in a
-            new window.</a> 
+            href=https://repba.com?CHOCO>here</a> to see the above Iframe in a
+            new window.</a> Click here to edit this demo at <a href="https://playcode.io/771387">playcode.com</a>. 
 
             <p><p>
             Full screen operation depends on the client type as follows.  For

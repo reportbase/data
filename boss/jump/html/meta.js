@@ -1,4 +1,4 @@
-var meta = {title:"City Art",
+var meta = {title:"Military Art",
 name:"jump",
 count:6,
 data:[

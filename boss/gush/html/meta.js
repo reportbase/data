@@ -1,6 +1,6 @@
 var meta = {title:"Hi-Resolution Images",
 name:"gush",
-count:78,
+count:77,
 data:[
 {
 title:"Hi-Resolution Images",
@@ -85,11 +85,6 @@ count:1,
 {
 title:"",
 name:"706P",
-count:1,
-},
-{
-title:"",
-name:"3FAC",
 count:1,
 },
 {
