@@ -1,16 +1,26 @@
-Repba makes high resolution images viewable on small screens.  Rather than
-resizing the entire image to fit the width of the screen, repbaview shows only
-a portion of the image fit to the height of the screen.  The entire image is
-then extended virtually beyond the screen boundaries  and pannable in all
-directions.   This is a perfect solution for high resolution images when you
-want to retain  as much image detail as possible but also make it viewable on small
-screens.      Repbaview allows the original image to be viewed without any
-reduction an image quality or tunned to smaller sizes for specific scerios.
-This can be done because repbaview only shows a portion of the image at one
-time and allows you to pan over the remainder.    Extremely high resolution
-images can be viewed this way, virtually at very high image detail.  
-With repbaview, original full quality images can be
-viewed on small screens.  No longer does one need to sacrifice image quality for
-screen size.    Show the original image without reduction in quality at
-repbaview.
+Repba makes high resolution images viewable on small screens.  Rather than
+resizing the entire image to fit the width of the screen, Repbaview shows only
+the visible portion of the image, resized to the height of the screen.  The
+entire image is is then drawn virtually beyond the screen boundaries and
+pannable in all directions.   This is a perfect solution for high detail, high
+resolution images.  Repbaview can display large original images on small
+screens with no reduction in quality.  At Repbaview, original high resolution
+images can now be panned virtually at the original level of image quality.  At
+Repbaview, no longer does one need to sacrifice image quality for screen size.
 
+Repbaview organizes large collections of images for easy exploration and
+discovery with its visual menu system. It shows the contents of image
+collections with thumbnails of each image.   The menu can then be extended with
+links to external documents.
+
+Repbaview allows large images to be panned with its thumbnail footer.  The
+thumbnail is panned independently of the main display.  Using the thumbnail, one
+can always stay orientated as to which portion is currently in view.
+
+Repbview can be automated with slideshows and inserted into web pages.  With
+its rich URL and messaging system, you can now link to specific portions of an
+image.  
+
+All together, Repbaview is a very capable hi-resolution image viewer
+with many additional features.   Visit repba.com or contact us at
+support@repba.com.
