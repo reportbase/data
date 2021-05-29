@@ -1,3 +1,9 @@
+if [ ! -f "splash.jpg" ]; then
+    if [ ! -f "orig/0000.jpg" ]; then
+        echo "splash.jpg not found"
+    fi
+fi
+
 if [ ! -f "home.jpg" ]; then
     convert -size 1x1 canvas:white home.jpg
 fi

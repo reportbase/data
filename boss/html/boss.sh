@@ -30,7 +30,7 @@ do
     FILENAME="$(basename $i)"
     let LINK++
     printf 'Title = boss/%s\n' "$FILENAME" >> html/boss.ini
-    printf 'Path = https://repba.com/?p=boss/%s\n' "$FILENAME" >> html/boss.ini
+    printf 'Path = https://reportbase.com/?p=boss/%s\n' "$FILENAME" >> html/boss.ini
 done
 
 

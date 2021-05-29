@@ -7,7 +7,6 @@ PROJECTNAME=$1
 printf 'var meta = {' > html/meta.js
 printf 'title:\"%s\",\n' "$PROJECTITLE" >> html/meta.js
 printf 'name:\"%s\",\n' "$PROJECTNAME" >> html/meta.js
-printf 'count:%s,\n' "$PROJECTCOUNT" >> html/meta.js
 printf 'data:[\n' >> html/meta.js
 name=""
 

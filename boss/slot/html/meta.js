@@ -1,6 +1,5 @@
 var meta = {title:"Experiments",
 name:"slot",
-count:28,
 data:[
 {
 title:"Funny Faces",

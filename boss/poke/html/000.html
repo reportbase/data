@@ -1,67 +1,47 @@
 <head>
-<link rel="stylesheet" href="styles.css">
-<style>
-@media (orientation: landscape) { iframe { height:480; } }
-@media (orientation: portrait) { iframe { height:840 } }
-iframe {max-height: 70vh; overflow: auto;}
-body {background-color: white;}
-</style>
 <script type="text/javascript" src="meta.js"></script>
-<script type="text/javascript" src="script.js"></script>
-</head>
-<center>
 <body>
-<iframe name=ifr id=ifr frameborder=0 width=100%></iframe><br>
-<table border=0 border-width=0 style="background:white;border-style:solid">
+<center>
+<table>
 <tr>
-<td width=40></td>
-<td>
-<div style="border-style:solid;border-width:12;padding:8;">
-    <center>
-    <div style="padding:10" class="title">
-        <div style="font-weight:bold" id=title></div>
-    </div>
+<td align=center>
 
-    <div class="content" style="border-style:solid;border-width:6;overflow-y:auto; overflow-x:hidden; padding:8; height:625px;">
+    <div class=content>
         <div id=projects></div>
     </div>
-
-    <div class=section-title>
-        <div id=shorturl></div>
-    </div>
-
-    <div>
-        <a href=javascript:void(0) onclick=auto()>Run</a>&nbsp;/
-        <a href=javascript:void(0) onclick=fullscreen()>Fullscreen</a>&nbsp;
-    </div>
-
     <div class="footer">
         repba.image.services<br>
         support@repba.com<br>
     </div>
-</div>
+   
 </td>
-<td width=40></td>
 </tr>
 </table>
-
-<script type="text/javascript" src="iframe.js"></script>
 <script>
+Number.prototype.pad = function(size)
+{
+    var s = String(this);
+    while (s.length < (size || 2)) {s = "0" + s;}
+	    return s;
+}
+
+function projects() {return document.getElementById("projects"); }
 function title() {return document.getElementById("title");}
-function projects() {return document.getElementById("projects");}
-document.getElementById("ifr").src="/?p=boss/"+meta.name+"&k=0000&e=0&a=1" 
+var url = new URL(window.location.href);
 url.full = url.searchParams.get("f");
 if (!url.full)
-    url.full = "240.gif"
-
+    url.full = "420";
+    
+url.full += ".gif"
 var str = "";
 for (var n = 0; n < meta.data.length; ++n)
 {
-    var id = n.pad(4); 
+    var id = n.pad(4);
     var obj = meta.data[n];
-    str += "<div style=\"display:inline;\"><a target=ifr href=/?p=boss/"+meta.name+"&k="+id+"&a=1><img src=/data/boss/"+meta.name+"/"+id+"/"+url.full+"></img></a></div>\n";
+    str += "<a target=_blank href=/?p=boss/"+
+        meta.name+"&k="+id+"&a=1&image=0><img src=/data/boss/"+meta.name+"/"+id+"/"+url.full+"></img></a></div>\n";
 }
-title().innerHTML = meta.title;
+
 projects().innerHTML = str;
 </script>
 </body>
