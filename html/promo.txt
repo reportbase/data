@@ -1,0 +1,34 @@
+RepbaView displays high resolution images on small screens.  Rather than
+resizing the image to fit the width of the screen, RepbaView displays a
+portion of the image, resized to the height of the screen.  The entire image is
+drawn virtually outside the screen boundaries.  Panning of the screen reveals
+the virtual portion of the image.  Repbaviw is a perfect solution to display
+high detail, high resolution images on small screens. With RepbaView, no longer
+does image quality need to be sacrificed for screen size. 
+
+RepbaView can display images in any web page that supports iframes or as a
+stand-alone web application.    The visual menu has a thumbnail for each image
+and provides access to the entire image collection.   
+
+The virtual thumbnail allows images larger than the screen
+to be panned in all directions at full resolution with original image quality.
+Zoom-in to see even more detail.
+
+RepbaView converts images into first class web resources that can be linked.
+Instead of linking to the entire image, link to just a portion of the image at
+a specific resolution.       
+
+RepbaView Image Services is a startup that has provided successful image
+solutions to several entities during its multi year development period. The web
+application RepbaView, 1.0, has recently been completed and we are now seeking
+business opportunities for the exciting new web application. Our primary take
+to market objective is to license the app for partner delivery of their
+services. We believe RepbaView is a best of class web application providing
+quality views of internet imagery that appears to be highly synergistic with
+Cloudairy solution offerings. We would greatly appreciate your review of the
+following information and consideration of RepbaView partnering opportunities.
+Please note that like Cloundariry, the web application RepbaView is not funded
+by VC or Silicon Valley entities.
+
+Visit repba.com for more information or contact us at support@repba.com.
+

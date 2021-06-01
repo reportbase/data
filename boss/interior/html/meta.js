@@ -1,6 +1,5 @@
 var meta = {title:"Home Interiors",
 name:"interior",
-count:12,
 data:[
 {
 title:"Interiors - Gallery I",

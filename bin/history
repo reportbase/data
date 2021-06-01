@@ -1,3 +1,4 @@
+grep -r --include "*.ini" texthere . #recursive find
 sed -r 's/\s+//g' filename  #clear whitespace
 find . -type f -name $1  #find file
 sed -i 's/\.//g' meta.ini #clear periods

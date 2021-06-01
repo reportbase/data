@@ -1,6 +1,5 @@
 var meta = {title:"Sports Photography",
 name:"tent",
-count:6,
 data:[
 {
 title:"Sports Photograhy - Gallery I",

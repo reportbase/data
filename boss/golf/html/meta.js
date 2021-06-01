@@ -1,6 +1,5 @@
 var meta = {title:"Maps",
 name:"golf",
-count:9,
 data:[
 {
 title:"Golfcourse I",

@@ -1,6 +1,5 @@
 var meta = {title:"Peek Photos",
 name:"peek",
-count:14,
 data:[
 {
 title:"Ocean - HD Photographs",

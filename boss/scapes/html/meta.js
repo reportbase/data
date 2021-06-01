@@ -1,6 +1,5 @@
 var meta = {title:"Landscapes",
 name:"scapes",
-count:24,
 data:[
 {
 title:"Landscapes - Gallery I",

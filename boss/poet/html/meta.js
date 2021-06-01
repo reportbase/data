@@ -1,6 +1,5 @@
 var meta = {title:"Abstract Art",
 name:"poet",
-count:75,
 data:[
 {
 title:"Abstract Art",

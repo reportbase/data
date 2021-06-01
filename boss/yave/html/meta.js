@@ -1,6 +1,5 @@
 var meta = {title:"Comic Books",
 name:"yave",
-count:54,
 data:[
 {
 title:"Conan - Witch Queen",

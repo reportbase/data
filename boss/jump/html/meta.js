@@ -1,6 +1,5 @@
 var meta = {title:"Military Art",
 name:"jump",
-count:6,
 data:[
 {
 title:"Combat - Gallery VI",

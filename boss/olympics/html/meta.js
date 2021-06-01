@@ -1,6 +1,5 @@
 var meta = {title:"Sports Photography",
 name:"olympics",
-count:8,
 data:[
 {
 title:"Sports - Baseball",

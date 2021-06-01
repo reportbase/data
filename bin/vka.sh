@@ -1,7 +1,7 @@
 vkd.sh extent
 vkd.sh aspect
-source <(grep montagecols_4 meta.ini)
-source <(grep MontageCols_4 meta.ini)
+source <(grep montagecols_4 ../meta.ini)
+source <(grep MontageCols_4 ../meta.ini)
 . meta.ini
 
 F1=$montagecols_4

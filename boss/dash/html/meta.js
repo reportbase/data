@@ -1,6 +1,5 @@
 var meta = {title:"",
 name:"dash",
-count:25,
 data:[
 {
 title:"Downtown City",

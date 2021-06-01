@@ -34,7 +34,7 @@
             the initial subgroup. The above image is an iFrame instance of a
             RepbaView subgroup.  iFrames are helpful when imagegroup image
             displays and html text are needed on the same page or when images
-            are desired in a fixed web page window space. Switching a RepbaView
+            are desired in a fixed web page window space. In some modes Switching a RepbaView
             iFrame to an optional full screen new window enhances view and
             control of images. RepbaView's advanced touch based interace allows
             easy panning of wide images that are larger than the screen.  Touch
@@ -56,7 +56,7 @@
 
             Image view tuning involves changing the zoom settings using the
             header and vertical panning. Vertical panning moves the image
-            up/down relative to its anchor point.  Use the above iFrame to
+            up/down relative to its anchor point. In full screen mode,  
             practice the tuning options. If using a cellphone, switch to
             landscape view to better see the iFrame image. To demonstrate
             zooming, stop the image motion by clicking anywhere on the screen.

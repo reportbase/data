@@ -1,6 +1,5 @@
 var meta = {title:"4K Photographs",
 name:"wait",
-count:3,
 data:[
 {
 title:"4K Photographs",

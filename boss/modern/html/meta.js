@@ -1,6 +1,5 @@
 var meta = {title:"Abstract Art",
 name:"modern",
-count:5,
 data:[
 {
 title:"Gallery IV",

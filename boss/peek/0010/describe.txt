@@ -106,7 +106,6 @@
            
             Click to Start the following image groups: 
             <a href=https://repba.com?p=boss/interior>  Interiors, </a> ... 
-            <a href=https://repba.com?p=boss/poke>  Poke, </a> ... 
             <a href=https://repba.com?p=boss/peek>  Peek. </a><p>
 
             8. The RepbaView architecture enables advanced imaging solutions.
@@ -121,7 +120,7 @@
             RepbaView visual footer is used by the solutions to enhance their
             usability and benefit.  <br> <p>
             
-            <a target=ifr href="https://repba.com?PQU0" target=ifr> High
+            <a target=ifr href="https://repba.com?WYUN" target=ifr> High
             Resolution Solution</a>.  The hi-res solution summary and examples
             are located here. High resolution images typically have a width
             greater than 5K pixels with a 3-4:1 aspect ratio of high quality

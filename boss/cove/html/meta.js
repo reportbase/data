@@ -1,6 +1,5 @@
 var meta = {title:"Comic Covers",
 name:"cove",
-count:6,
 data:[
 {
 title:"Comic Book Covers - April.1975",

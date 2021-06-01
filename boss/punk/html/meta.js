@@ -1,6 +1,5 @@
 var meta = {title:"City Art",
 name:"punk",
-count:5,
 data:[
 {
 title:"Futurama",

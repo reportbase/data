@@ -1,6 +1,5 @@
 var meta = {title:"",
 name:"earl",
-count:72,
 data:[
 {
 title:"",
