@@ -36,10 +36,5 @@ title:"Wide Photographs",
 name:"TZIS",
 count:72,
 },
-{
-title:"Wide Photographs",
-name:"RBQT",
-count:36,
-},
 ]
 }

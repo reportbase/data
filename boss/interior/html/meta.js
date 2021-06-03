@@ -1,4 +1,4 @@
-var meta = {title:"Home Interiors",
+var meta = {title:"Interiors",
 name:"interior",
 data:[
 {
