@@ -101,7 +101,8 @@
             repba.com url to return to this page and perform step-7 of the
             RepbaView familiarization.<p><p>
 
-            7. Example Slideshow Demos. 
+            7. Slideshows are used to quickly browse collections of images.
+            All RepbaView imagegroups can be shown as slideshow.  Example slideshow links follow. 
            
             <a href=https://repba.com?p=boss/interior>  Interiors, </a> 
             <a href=https://repba.com?REFF>  Slots </a><p>

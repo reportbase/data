@@ -1,9 +1,9 @@
 vki.sh
 vky.sh
 vkt.sh
-
-rm -r orig
-#vkm.sh
+#scapes.sh
+#rm splash.jpg
+#splash.sh
 
 #vkd.sh a=
 #vkro.sh a 1
