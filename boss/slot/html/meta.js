@@ -136,10 +136,5 @@ title:"Spirit Shopper",
 name:"RESS",
 count:10,
 },
-{
-title:"President's Club",
-name:"RESS",
-count:10,
-},
 ]
 }

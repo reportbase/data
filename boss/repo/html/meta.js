@@ -102,16 +102,6 @@ name:"CGHN",
 count:0,
 },
 {
-title:"US Flag",
-name:"CGHN",
-count:0,
-},
-{
-title:"US Flag",
-name:"CGHN",
-count:0,
-},
-{
 title:"Super Hero",
 name:"CDN9",
 count:0,
@@ -187,21 +177,6 @@ name:"BRIDG",
 count:0,
 },
 {
-title:"Bridge",
-name:"BRIDG",
-count:0,
-},
-{
-title:"Klingons",
-name:"KLING",
-count:0,
-},
-{
-title:"Klingons",
-name:"KLING",
-count:0,
-},
-{
 title:"Klingons",
 name:"KLING",
 count:0,
@@ -215,31 +190,6 @@ count:0,
 title:"A-Wing",
 name:"CRTW",
 count:0,
-},
-{
-title:"A-Wing",
-name:"CRTW",
-count:0,
-},
-{
-title:"A-Wing",
-name:"CRTW",
-count:0,
-},
-{
-title:"A-Wing",
-name:"CRTW",
-count:0,
-},
-{
-title:"A-Wing",
-name:"CRTW",
-count:0,
-},
-{
-title:"Horion Zero II",
-name:"HORZ2",
-count:1,
 },
 {
 title:"Horion Zero II",
@@ -269,6 +219,121 @@ count:5,
 {
 title:"Vorstadt IV (1926)",
 name:"MVOR",
+count:1,
+},
+{
+title:"Abstract",
+name:"BUSF",
+count:1,
+},
+{
+title:"Flower Basket",
+name:"BFFLF",
+count:1,
+},
+{
+title:"Gardener",
+name:"GARDE",
+count:1,
+},
+{
+title:"Gardener II",
+name:"GARD2",
+count:1,
+},
+{
+title:"Gardener III",
+name:"GARD3",
+count:1,
+},
+{
+title:"Bullier",
+name:"BULLI",
+count:1,
+},
+{
+title:"Distribution",
+name:"DISTR",
+count:1,
+},
+{
+title:"Noveau",
+name:"NOVEA",
+count:1,
+},
+{
+title:"Rabelais",
+name:"RABE",
+count:1,
+},
+{
+title:"Rabelais",
+name:"RABE",
+count:1,
+},
+{
+title:"Meditate",
+name:"Meditate",
+count:1,
+},
+{
+title:"Painted Landscape",
+name:"PAIL",
+count:1,
+},
+{
+title:"Youtube",
+name:"YOUT",
+count:1,
+},
+{
+title:"Sprint",
+name:"Sprint",
+count:1,
+},
+{
+title:"Natives",
+name:"NATI",
+count:1,
+},
+{
+title:"Drawing I",
+name:"DRAWI",
+count:1,
+},
+{
+title:"Drawing II",
+name:"DRAII",
+count:1,
+},
+{
+title:"Drawing IV",
+name:"DRAW4",
+count:1,
+},
+{
+title:"Back to the woods (1904)",
+name:"BULLF",
+count:1,
+},
+{
+title:"Back to the woods (1904)",
+name:"BULLF",
+count:1,
+},
+{
+title:"Back to the woods (1904)",
+name:"BULLF",
+count:1,
+},
+{
+title:"Back to the woods (1904)",
+name:"BULLF",
+count:1,
+},
+{
+title:"Back to the woods (1904)",
+name:"BULLF",
 count:1,
 },
 {
