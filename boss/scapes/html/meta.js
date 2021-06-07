@@ -1,4 +1,4 @@
-var meta = {title:"Landscapes",
+var meta = {title:"",
 name:"scapes",
 data:[
 {
