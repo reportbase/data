@@ -19,6 +19,9 @@ do
     if [ ! -f $FULLPATH ]; then
         continue;
     fi
+    
+    IPATH=$(printf '%s%s' "$i" "meta.ini")
+    source <(grep aspect $IPATH)
 
     if [ $LINK -eq 6001 ]; then
         printf '[BOSS]\n' >> html/boss.ini
@@ -27,10 +30,12 @@ do
         printf '[]\n' >> html/boss.ini
     fi
     
-    FILENAME="$(basename $i)"
+    FOLDER="$(basename $i)"
     let LINK++
-    printf 'Title = boss/%s\n' "$FILENAME" >> html/boss.ini
-    printf 'Path = https://reportbase.com/?p=boss/%s\n' "$FILENAME" >> html/boss.ini
+    printf 'Title = %s %s\n' "$FOLDER" "$aspect" >> html/boss.ini
+    printf 'Title1 = %s\n' "$FOLDER" >> html/boss.ini
+    printf 'Title2 = %s\n' "$aspect" >> html/boss.ini
+    printf 'Path = https://reportbase.com/?p=boss/%s\n' "$FOLDER" >> html/boss.ini
 done
 
 
