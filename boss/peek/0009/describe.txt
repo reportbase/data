@@ -78,7 +78,7 @@
             Tap the animated GIF below to load the group.<p>
 
             <a class=center href=https://repba.com?SCAB><img
-                src=/data/boss/scapes/0001/gif/240.gif></img></a><p><p>   
+                src=/data/boss/scap/0001/gif/240.gif></img></a><p><p>   
     </div>
 
     <div class="footer">

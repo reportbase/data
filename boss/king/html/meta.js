@@ -1,4 +1,4 @@
-var meta = {title:"Animal Kingdom",
+var meta = {title:"King Photos",
 name:"king",
 data:[
 {

@@ -104,7 +104,7 @@
             7. Slideshows are used to quickly browse collections of images.
             All RepbaView imagegroups can be shown as slideshow.  Example slideshow links follow. 
            
-            <a href=https://repba.com?p=boss/interior>  Interiors, </a> 
+            <a href=https://repba.com?INSB>  Interiors, </a> 
             <a href=https://repba.com?REFF>  Slots </a><p>
 
             8. The RepbaView architecture enables advanced imaging solutions.

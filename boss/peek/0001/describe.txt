@@ -54,7 +54,7 @@
             interactive controls.  Enter the repba.com url to return to the
             home page and perform step-5.<p>
 
-            <a class=center href=https://repba.com?TXSB><img src=/data/boss/modern/0004/gif/240.gif></img></a>
+            <a class=center href=https://repba.com?TXSB><img src=/data/boss/mode/0004/gif/240.gif></img></a>
     </div>
     <div class="footer">
         repba.image.services

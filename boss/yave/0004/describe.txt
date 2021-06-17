@@ -1,0 +1,60 @@
+<div class="media">
+    <div class="title">
+        RepbaView - Viewing Graphic Novels 
+    </div>
+  
+    <div class="content" style="font-size:medium">
+
+        A wide range of comics and short stories are available in graphic novel
+        format where pages include graphics and related text. RepbaView is
+        designed to effectively view the novels.  
+        Click <a href="https://repba.com?p=boss/yave"> here</a> to view example
+        graphic novels in the Yave imagegroup.  
+        Click <a
+        href=https://repba.com?YAWQ>here</a> to see the above graphic novel in
+        full screen.</a> <p><p>
+
+        Thousands of graphic novel comics and short stories have been created over
+        the years in .jpg format. They are best suited for viewing on wide screen
+        PCs, tablets where the full width of a page can be displayed on the screen.
+        Since their page height is greater than the vertical PC and tablet screen
+        height, down paging is required to properly view a novel.  Common sizes for
+        graphic novels are “5.5 x 8.5” or “8.5 x 11”. Due to printing requirements,
+        the total pages of a comic book are divisible by 4. Repbaview supports
+        viewing graphic novels by both wide and smaller width devices.  Smaller
+        width devices such as cell phones involve more navigation steps where a
+        user must move across the page in addition to moving down.  RepbaView
+        provides an imagegroup menu for users to select specific graphic novels. A
+        thumbnail menu is provided to view individual pages of a novel. <p><p> 
+
+        Steps to view a graphic novel on a wide screen PC or tablet.<br>
+        1. An iFrame could be used to 
+           display a specific graphic novel but the limited screen size would be a disadvantage.<br>
+        2. Click the upper left image menu icon to enable a graphic display of the imagegroup graphic novels. <br>
+        3. Pan thru the images and select the "Punisher Black Widow" comic book.<br>
+        4. Click the top display row to enable the zoom icons and click the "+" icon until the vertical red line is just outside
+           the horizontal screen ends.<br>
+        5. Click the down/up arrow or pgdn/pgup to move down/up the image in vertical rotation increments to move down the image 
+           and read the 54 page comic book. New pages are always displayed at the top of page.<p><p>
+        Notes:<br>
+        -- Tap the footer +/- to move to the next or previous page.<br>
+        -- Click the upper left menu to select a new graphic novel.<br>
+        -- Small width devices require panning to view the covered portion of the page before moving down.<br><p>
+
+        <a href=http://repba.com?YARR>Click here</a> to
+            view a Roger Rabbit graphic novel.  Zoom to maximum level
+            to notice the details. Move the red segment of the visual footer and notice the corresponding
+            location change to the zoomed portion of the larger image. <p> 
+        
+        <a href=http://repba.com?YARS>Click here</a> to
+            view the Rio Strikes Again graphic novel.<p>
+    </div>
+    <div class="footer">
+        <a target=ifr href="/?p=boss/repba&k=0009&a=1">repba.image.services</a>
+    </div>
+</div>
+
+
+
+
+
