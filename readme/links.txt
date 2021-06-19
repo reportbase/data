@@ -1,9 +1,16 @@
 []
+path https://www.artstation.com/contests
+title artstation
+describe artist sell stuff here
+
+[]
 path = https://playcode.io/771387/
 title = editor 
 describe = iframe examples
 
-https://jobot.com/
+[]
+path https://jobot.com/
+describe jobs site
 
 []
 path = https://freemusicarchive.org/genre/Electronic

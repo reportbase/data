@@ -12,7 +12,7 @@ name:"EXECF",
 count:144,
 },
 {
-title:"Spring Fashions",
+title:"Jerseys",
 name:"JERSY",
 count:36,
 },
