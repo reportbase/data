@@ -1,10 +1,10 @@
-var meta = {title:"King Photos",
+var meta = {title:"Animal Kingdom",
 name:"king",
 data:[
 {
-title:"Animal Kingdom - Alligators",
-name:"KIAL",
-count:18,
+title:"Animal Kingdom",
+name:"",
+count:17,
 },
 {
 title:"Animal Kingdom - Brown Bears",
@@ -42,7 +42,7 @@ name:"KILI",
 count:18,
 },
 {
-title:"Animal Kingdom - Lions",
+title:"Animal Kingdom - Lizards",
 name:"KILI",
 count:18,
 },
@@ -67,7 +67,7 @@ name:"KISN",
 count:18,
 },
 {
-title:"Animal Kingdom - Snakes",
+title:"Animal Kingdom - Zebras",
 name:"GW6M",
 count:18,
 },

@@ -1,0 +1,29 @@
+<div class="media">
+    <div class="title">
+        Insert a High Resolution Painting into a Website 
+    </div>
+  
+    <div class="content" style="font-size:medium">
+
+        Three Steps:<p><br>
+        1) Upload a high resolution painting to an image sharing website site such as 
+        drop box or google photo. <p> 
+        
+        2) Create a direct link
+        to the image. Replace src=PATH wth the direct link. Click here for information about 
+        how to create a direct link.<p>
+
+        3) Insert the following text snippit into any html page.<p>
+        
+        &lt;iframe src=PATH width=100% height=400&gt;&lt;/iframe&gt;<p>
+
+    </div>
+    
+    <div class="footer">
+    </div>
+</div>
+
+
+
+
+

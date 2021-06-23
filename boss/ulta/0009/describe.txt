@@ -1,0 +1,49 @@
+<div class="media">
+    <div class="title">
+        Add a High Resolution Topgraphic Map to Any Website 
+    </div>
+  
+    <div class="content" style="font-size:medium">
+
+        Three Steps:<p><br>
+        1) Upload a high resolution image to an image sharing website site such as 
+        drop box or google photo. <p> 
+        
+        2) Create a direct link
+        to the image. Replace src=PATH wth the direct link. Click here for information about 
+        how to create a direct link.<p>
+
+        3) Insert the following text snippit into any html page.<p>
+        
+        &lt;iframe src=PATH width=100% height=400&gt;&lt;/iframe&gt;<p>
+
+        4) Related examples here:<p>
+
+        <a href=https://repba.com?TOPI target=new>Topographic Map - World Ocean Floor</a><br>
+        <a href=https://repba.com?AXN4 target=new>World Atlas - Political Map</a><br>
+        <a href=https://repba.com?STRE target=new>Satellite - City View</a><br>
+        <a href=https://repba.com?GAME target=new>Game Map - Aerial</a><br>
+        <a href=https://repba.com?WORLD target=new>World Atlas - Population Density</a><br>
+        <a href=https://repba.com?TOPO target=new>Satellite Earth - Topgraphy</a><br>
+        <a href=https://repba.com?KHUH target=new>World Political Map</a><br>
+        <a href=https://repba.com?TOPII target=new>Satellite Street View</a><br>
+        <a href=https://repba.com?OLDM target=new>Vintage World Map</a><br>
+        <a href=https://repba.com?C6AQ target=new>Indonesia Topographic Map</a><br>
+        <a href=https://repba.com?CALR target=new>Antarctica Topgraphic Map</a><br>
+        <a href=https://repba.com?WM05 target=new>Physical Map - World</a><br>
+        <a href=https://repba.com?NMVB target=new>Vintage Map - Scandia</a><br>
+        <a href=https://repba.com?CRGH target=new>World of Warcraft - Gamp Map</a><br>
+        <a href=https://repba.com?COIU target=new>Islands - Game Map</a><br>
+        <a href=https://repba.com?POLAR target=new>World - Polar Map</a><br>
+        <a href=https://repba.com?REER target=new>The Earth's Moon - Topographic Map</a><br>
+        <a href=https://repba.com?WERQ target=new>Indonesia - Infographic</a><br>
+        <a href=https://repba.com?RUSSI target=new>Russia- Infographic</a><br>
+            
+    <div class="footer">
+    </div>
+</div>
+
+
+
+
+

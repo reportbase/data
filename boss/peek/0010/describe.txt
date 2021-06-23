@@ -1,10 +1,13 @@
 <div class="media">
     <div class="title">
-        RepbaView 
     </div>
 
     	<div class=content align=left style="font-size:medium">
 
+            <a href=https://repba.com?TOPI target=ifr> Insert a Global Map into a Website </a><p><br>
+            <a href=https://repba.com?YAWI target=ifr> Insert a Comic Book into a Website </a><p>
+            <a href=https://repba.com?6ASM target=ifr> Insert a Painting into a Website </a><p>
+            
             RepbaView displays images in full screen panorama
             using cell phones, tablets and PC screens. It displays full screen
             images horizontally providing continuous wrap around image viewing
@@ -149,22 +152,10 @@
             restricted to the current page. New pages are always displayed at
             the top of the screen.<br> <p>
 
-            -----End of the RepbaView Familiarization Steps-----  <p><p>
-            This site and its supporting doumentation describe RepbaView web
-            application hosting services for customers aiming to display their images in new
-            and creative ways.  <p><p>
-                    
-            Supporting Documents<br>
-            <a href=repba.pdf>RepbaView Description</a><br>
-            <a href=services.pdf>Services Description</a><br>
-            <a href=worksheet.txt>Image Group Worksheet</a><p>
+            
 
-            Site Contact: support@repba.com.<br>
-            Privacy: Site does not update cookies.<br>
-            Images: Referenced images are used only to demonstrate RepaView features and performance.<br><p>
- 
     </div> 
+    
     <div class="footer">
-        repba.image.services
     </div>
 </div>

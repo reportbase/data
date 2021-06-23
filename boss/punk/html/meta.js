@@ -1,4 +1,4 @@
-var meta = {title:"City Art",
+var meta = {title:"Futuristic Cityscapes",
 name:"punk",
 data:[
 {

@@ -1,5 +1,17 @@
 []
-path https://www.artstation.com/contests
+https://postimages.org/
+https://picsum.photos/
+upload photo sites
+
+Explains how to get direct links from hosting services
+https://www.mail-signatures.com/articles/direct-link-to-hosted-image/
+
+google drive
+https://www.labnol.org/internet/embed-google-photos-in-website/29194/
+https://sites.google.com/site/gdocs2direct/
+
+[]
+path https://www.artstation.com
 title artstation
 describe artist sell stuff here
 

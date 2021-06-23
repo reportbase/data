@@ -1,4 +1,4 @@
-var meta = {title:"Interiors",
+var meta = {title:"House Interiors 2k",
 name:"inte",
 data:[
 {
@@ -40,11 +40,6 @@ count:36,
 title:"Interiors - Gallery VIII",
 name:"INYUK",
 count:72,
-},
-{
-title:"Interiors - Gallery IX",
-name:"INIE",
-count:36,
 },
 {
 title:"Interiors - Gallery X",

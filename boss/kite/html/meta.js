@@ -1,4 +1,4 @@
-var meta = {title:"Abstract Art",
+var meta = {title:"Expressionism",
 name:"kite",
 data:[
 {

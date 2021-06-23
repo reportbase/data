@@ -1,15 +1,18 @@
-vki.sh
-vky.sh
-vkt.sh
+#vki.sh
+#vky.sh
+#vkt.sh
 
-vkd.sh z=
-vkro.sh z 50
-vkd.sh c=
-vkro.sh c 5
+peek3.sh
+
+
+#vkd.sh z=
+#vkro.sh z 50
+#vkd.sh c=
+#vkro.sh c 5
 #vkd.sh r=
 #vkro.sh r 50
 #vkd.sh a=
-#vkro.sh a 1
+#vkro.sh a 2
 #rm splash.jpg
 #splash.sh
 #splash.sh

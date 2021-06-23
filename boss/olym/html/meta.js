@@ -1,4 +1,4 @@
-var meta = {title:"Olympics Photos",
+var meta = {title:"Sports Photos",
 name:"olym",
 data:[
 {

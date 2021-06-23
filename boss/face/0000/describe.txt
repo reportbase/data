@@ -1,74 +1,49 @@
-<div>Gallery III<br>
-<a target=ifr href=/?p=boss/assort&k=0002&a=1&s=300&f=1&image=0>000</a> /
-<a target=ifr href=/?p=boss/assort&k=0002&a=1&s=300&f=1&image=1>001</a> /
-<a target=ifr href=/?p=boss/assort&k=0002&a=1&s=300&f=1&image=2>002</a> /
-<a target=ifr href=/?p=boss/assort&k=0002&a=1&s=300&f=1&image=3>003</a> /
-<a target=ifr href=/?p=boss/assort&k=0002&a=1&s=300&f=1&image=4>004</a> /
-<a target=ifr href=/?p=boss/assort&k=0002&a=1&s=300&f=1&image=5>005</a> /
-<a target=ifr href=/?p=boss/assort&k=0002&a=1&s=300&f=1&image=6>006</a> /
-<a target=ifr href=/?p=boss/assort&k=0002&a=1&s=300&f=1&image=7>007</a> /
-<a target=ifr href=/?p=boss/assort&k=0002&a=1&s=300&f=1&image=8>008</a> /
-<a target=ifr href=/?p=boss/assort&k=0002&a=1&s=300&f=1&image=9>009</a> /
-<a target=ifr href=/?p=boss/assort&k=0002&a=1&s=300&f=1&image=10>010</a> /
-<a target=ifr href=/?p=boss/assort&k=0002&a=1&s=300&f=1&image=11>011</a> /
-<a target=ifr href=/?p=boss/assort&k=0002&a=1&s=300&f=1&image=12>012</a> /
-<a target=ifr href=/?p=boss/assort&k=0002&a=1&s=300&f=1&image=13>013</a> /
-<a target=ifr href=/?p=boss/assort&k=0002&a=1&s=300&f=1&image=14>014</a> /
-<a target=ifr href=/?p=boss/assort&k=0002&a=1&s=300&f=1&image=15>015</a> /
-<a target=ifr href=/?p=boss/assort&k=0002&a=1&s=300&f=1&image=16>016</a> /
-<a target=ifr href=/?p=boss/assort&k=0002&a=1&s=300&f=1&image=17>017</a> /
-<a target=ifr href=/?p=boss/assort&k=0002&a=1&s=300&f=1&image=18>018</a> /
-<a target=ifr href=/?p=boss/assort&k=0002&a=1&s=300&f=1&image=19>019</a> /
-<a target=ifr href=/?p=boss/assort&k=0002&a=1&s=300&f=1&image=20>020</a> /
-<a target=ifr href=/?p=boss/assort&k=0002&a=1&s=300&f=1&image=21>021</a> /
-<a target=ifr href=/?p=boss/assort&k=0002&a=1&s=300&f=1&image=22>022</a> /
-<a target=ifr href=/?p=boss/assort&k=0002&a=1&s=300&f=1&image=23>023</a> /
-<a target=ifr href=/?p=boss/assort&k=0002&a=1&s=300&f=1&image=24>024</a> /
-<a target=ifr href=/?p=boss/assort&k=0002&a=1&s=300&f=1&image=25>025</a> /
-<a target=ifr href=/?p=boss/assort&k=0002&a=1&s=300&f=1&image=26>026</a> /
-<a target=ifr href=/?p=boss/assort&k=0002&a=1&s=300&f=1&image=27>027</a> /
-<a target=ifr href=/?p=boss/assort&k=0002&a=1&s=300&f=1&image=28>028</a> /
-<a target=ifr href=/?p=boss/assort&k=0002&a=1&s=300&f=1&image=29>029</a> /
-<a target=ifr href=/?p=boss/assort&k=0002&a=1&s=300&f=1&image=30>030</a> /
-<a target=ifr href=/?p=boss/assort&k=0002&a=1&s=300&f=1&image=31>031</a> /
-<a target=ifr href=/?p=boss/assort&k=0002&a=1&s=300&f=1&image=32>032</a> /
-<a target=ifr href=/?p=boss/assort&k=0002&a=1&s=300&f=1&image=33>033</a> /
-<a target=ifr href=/?p=boss/assort&k=0002&a=1&s=300&f=1&image=34>034</a> /
-<a target=ifr href=/?p=boss/assort&k=0002&a=1&s=300&f=1&image=35>035</a> /
-<a target=ifr href=/?p=boss/assort&k=0002&a=1&s=300&f=1&image=36>036</a> /
-<a target=ifr href=/?p=boss/assort&k=0002&a=1&s=300&f=1&image=37>037</a> /
-<a target=ifr href=/?p=boss/assort&k=0002&a=1&s=300&f=1&image=38>038</a> /
-<a target=ifr href=/?p=boss/assort&k=0002&a=1&s=300&f=1&image=39>039</a> /
-<a target=ifr href=/?p=boss/assort&k=0002&a=1&s=300&f=1&image=40>040</a> /
-<a target=ifr href=/?p=boss/assort&k=0002&a=1&s=300&f=1&image=41>041</a> /
-<a target=ifr href=/?p=boss/assort&k=0002&a=1&s=300&f=1&image=42>042</a> /
-<a target=ifr href=/?p=boss/assort&k=0002&a=1&s=300&f=1&image=43>043</a> /
-<a target=ifr href=/?p=boss/assort&k=0002&a=1&s=300&f=1&image=44>044</a> /
-<a target=ifr href=/?p=boss/assort&k=0002&a=1&s=300&f=1&image=45>045</a> /
-<a target=ifr href=/?p=boss/assort&k=0002&a=1&s=300&f=1&image=46>046</a> /
-<a target=ifr href=/?p=boss/assort&k=0002&a=1&s=300&f=1&image=47>047</a> /
-<a target=ifr href=/?p=boss/assort&k=0002&a=1&s=300&f=1&image=48>048</a> /
-<a target=ifr href=/?p=boss/assort&k=0002&a=1&s=300&f=1&image=49>049</a> /
-<a target=ifr href=/?p=boss/assort&k=0002&a=1&s=300&f=1&image=50>050</a> /
-<a target=ifr href=/?p=boss/assort&k=0002&a=1&s=300&f=1&image=51>051</a> /
-<a target=ifr href=/?p=boss/assort&k=0002&a=1&s=300&f=1&image=52>052</a> /
-<a target=ifr href=/?p=boss/assort&k=0002&a=1&s=300&f=1&image=53>053</a> /
-<a target=ifr href=/?p=boss/assort&k=0002&a=1&s=300&f=1&image=54>054</a> /
-<a target=ifr href=/?p=boss/assort&k=0002&a=1&s=300&f=1&image=55>055</a> /
-<a target=ifr href=/?p=boss/assort&k=0002&a=1&s=300&f=1&image=56>056</a> /
-<a target=ifr href=/?p=boss/assort&k=0002&a=1&s=300&f=1&image=57>057</a> /
-<a target=ifr href=/?p=boss/assort&k=0002&a=1&s=300&f=1&image=58>058</a> /
-<a target=ifr href=/?p=boss/assort&k=0002&a=1&s=300&f=1&image=59>059</a> /
-<a target=ifr href=/?p=boss/assort&k=0002&a=1&s=300&f=1&image=60>060</a> /
-<a target=ifr href=/?p=boss/assort&k=0002&a=1&s=300&f=1&image=61>061</a> /
-<a target=ifr href=/?p=boss/assort&k=0002&a=1&s=300&f=1&image=62>062</a> /
-<a target=ifr href=/?p=boss/assort&k=0002&a=1&s=300&f=1&image=63>063</a> /
-<a target=ifr href=/?p=boss/assort&k=0002&a=1&s=300&f=1&image=64>064</a> /
-<a target=ifr href=/?p=boss/assort&k=0002&a=1&s=300&f=1&image=65>065</a> /
-<a target=ifr href=/?p=boss/assort&k=0002&a=1&s=300&f=1&image=66>066</a> /
-<a target=ifr href=/?p=boss/assort&k=0002&a=1&s=300&f=1&image=67>067</a> /
-<a target=ifr href=/?p=boss/assort&k=0002&a=1&s=300&f=1&image=68>068</a> /
-<a target=ifr href=/?p=boss/assort&k=0002&a=1&s=300&f=1&image=69>069</a> /
-<a target=ifr href=/?p=boss/assort&k=0002&a=1&s=300&f=1&image=70>070</a> /
-<a target=ifr href=/?p=boss/assort&k=0002&a=1&s=300&f=1&image=71>071</a> /
-</div><p>
+<div class="media">
+    <div class="title">
+        Add a High Resolution Topgraphic Map to Any Website 
+    </div>
+  
+    <div class="content" style="font-size:medium">
+
+        Three Steps:<p><br>
+        1) Upload a high resolution image to an image sharing website site such as 
+        drop box or google photo. <p> 
+        
+        2) Create a direct link
+        to the image. Replace src=PATH wth the direct link. Click here for information about 
+        how to create a direct link.<p>
+
+        3) Insert the following text snippit into any html page.<p>
+        
+        &lt;iframe src=PATH width=100% height=400&gt;&lt;/iframe&gt;<p>
+
+        4) Related examples here:<p>
+
+        <a href=https://repba.com?TOPI target=new>Topographic Map - World Ocean Floor</a><br>
+        <a href=https://repba.com?AXN4 target=new>World Atlas - Political Map</a><br>
+        <a href=https://repba.com?STRE target=new>Satellite - City View</a><br>
+        <a href=https://repba.com?GAME target=new>Game Map - Aerial</a><br>
+        <a href=https://repba.com?WORLD target=new>World Atlas - Population Density</a><br>
+        <a href=https://repba.com?TOPO target=new>Satellite Earth - Topgraphy</a><br>
+        <a href=https://repba.com?KHUH target=new>World Political Map</a><br>
+        <a href=https://repba.com?TOPII target=new>Satellite Street View</a><br>
+        <a href=https://repba.com?OLDM target=new>Vintage World Map</a><br>
+        <a href=https://repba.com?C6AQ target=new>Indonesia Topographic Map</a><br>
+        <a href=https://repba.com?CALR target=new>Antarctica Topgraphic Map</a><br>
+        <a href=https://repba.com?WM05 target=new>Physical Map - World</a><br>
+        <a href=https://repba.com?NMVB target=new>Vintage Map - Scandia</a><br>
+        <a href=https://repba.com?CRGH target=new>World of Warcraft - Gamp Map</a><br>
+        <a href=https://repba.com?COIU target=new>Islands - Game Map</a><br>
+        <a href=https://repba.com?POLAR target=new>World - Polar Map</a><br>
+        <a href=https://repba.com?REER target=new>The Earth's Moon - Topographic Map</a><br>
+        <a href=https://repba.com?WERQ target=new>Indonesia - Infographic</a><br>
+        <a href=https://repba.com?RUSSI target=new>Russia- Infographic</a><br>
+            
+    <div class="footer">
+    </div>
+</div>
+
+
+
+
+

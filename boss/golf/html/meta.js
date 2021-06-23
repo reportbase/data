@@ -1,4 +1,4 @@
-var meta = {title:"Maps",
+var meta = {title:"8K Golfcourse Drones",
 name:"golf",
 data:[
 {

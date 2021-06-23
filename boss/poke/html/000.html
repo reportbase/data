@@ -1,48 +1,4 @@
-<head>
-<script type="text/javascript" src="meta.js"></script>
-<body>
-<center>
-<table>
-<tr>
-<td align=center>
 
-    <div class=content>
-        <div id=projects></div>
-    </div>
-    <div class="footer">
-        repba.image.services<br>
-        support@repba.com<br>
-    </div>
    
-</td>
-</tr>
-</table>
-<script>
-Number.prototype.pad = function(size)
-{
-    var s = String(this);
-    while (s.length < (size || 2)) {s = "0" + s;}
-	    return s;
-}
 
-function projects() {return document.getElementById("projects"); }
-function title() {return document.getElementById("title");}
-var url = new URL(window.location.href);
-url.full = url.searchParams.get("f");
-if (!url.full)
-    url.full = "420";
-    
-url.full += ".gif"
-var str = "";
-for (var n = 0; n < meta.data.length; ++n)
-{
-    var id = n.pad(4);
-    var obj = meta.data[n];
-    str += "<a target=_blank href=/?p=boss/"+
-        meta.name+"&k="+id+"&a=1&image=0><img src=/data/boss/"+meta.name+"/"+id+"/"+url.full+"></img></a></div>\n";
-}
-
-projects().innerHTML = str;
-</script>
-</body>
 
