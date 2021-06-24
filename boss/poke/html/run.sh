@@ -1,9 +1,8 @@
-#vki.sh
-#vky.sh
-#vkt.sh
-
-peek3.sh
-
+vki.sh
+vky.sh
+vkt.sh
+rm home.jpg
+#vkd.sh _8
 
 #vkd.sh z=
 #vkro.sh z 50
