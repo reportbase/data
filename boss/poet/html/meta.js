@@ -4,7 +4,7 @@ data:[
 {
 title:"Political Art",
 name:"NBWX",
-count:1,
+count:75,
 },
 {
 title:"Political Art",

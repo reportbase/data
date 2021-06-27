@@ -1,1 +1,1 @@
-../boss/gush/0000/describe.txt
+../boss/gush/0001/describe.txt

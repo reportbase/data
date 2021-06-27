@@ -1,9 +1,0 @@
-convert -size  1280x2000 canvas:white 0135.jpg
-convert -size  1280x2000 canvas:white 0136.jpg
-convert -size  1280x2000 canvas:white 0137.jpg
-convert -size  1280x2000 canvas:white 0138.jpg
-convert -size  1280x2000 canvas:white 0139.jpg
-convert -size  1280x2000 canvas:white 0140.jpg
-convert -size  1280x2000 canvas:white 0141.jpg
-convert -size  1280x2000 canvas:white 0142.jpg
-convert -size  1280x2000 canvas:white 0143.jpg

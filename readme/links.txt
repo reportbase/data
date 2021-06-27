@@ -1,4 +1,12 @@
 []
+iframe generator for code snippits
+path https://indiepen.tech/ 
+
+[]
+describe javascript tutorial
+path https://javascript.info/
+
+[]
 https://postimages.org/
 https://picsum.photos/
 upload photo sites
@@ -358,3 +366,7 @@ title = Vectr
 []
 path = https://keen-slider.io/examples/#examples
 title = javascript slider panorama
+
+
+
+

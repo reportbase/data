@@ -1,15 +1,15 @@
-var meta = {title:"Spherical Projections",
+var meta = {title:"360 VR Video",
 name:"dash",
 data:[
 {
-title:"Downtown City",
-name:"DAFM",
-count:1,
+title:"Downtown Cityscape",
+name:"DASH",
+count:25,
 },
 {
 title:"Business District",
 name:"DABD",
-count:1,
+count:25,
 },
 {
 title:"Movie Theater",
@@ -87,7 +87,7 @@ name:"DASP",
 count:1,
 },
 {
-title:"Dallas Texas",
+title:"Business District",
 name:"DADT",
 count:1,
 },

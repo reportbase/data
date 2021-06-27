@@ -4,7 +4,7 @@ data:[
 {
 title:"Political Art",
 name:"XHF1",
-count:1,
+count:47,
 },
 {
 title:"Political Art",

@@ -3,7 +3,7 @@ name:"gush",
 data:[
 {
 title:"High Resolution Images",
-name:"WYUN",
+name:"GUSH",
 count:77,
 },
 {

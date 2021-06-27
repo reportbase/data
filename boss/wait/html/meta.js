@@ -3,7 +3,7 @@ name:"wait",
 data:[
 {
 title:"4K Photographs - 3840x2160",
-name:"RBQS",
+name:"WAIT",
 count:36,
 },
 {

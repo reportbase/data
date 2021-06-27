@@ -3,13 +3,13 @@ name:"face",
 data:[
 {
 title:"Famous Faces",
-name:"FAMO",
-count:72,
+name:"FACE",
+count:10,
 },
 {
 title:"Spring Fashions",
 name:"EXECF",
-count:144,
+count:10,
 },
 {
 title:"Jerseys",
@@ -23,33 +23,33 @@ count:36,
 },
 {
 title:"Phone Calls",
-name:"EXECF",
-count:72,
+name:"PHONE",
+count:36,
 },
 {
 title:"Teenagers",
 name:"RETE",
-count:24,
+count:36,
 },
 {
 title:"Recipes",
-name:"RERE",
-count:18,
+name:"RECIP",
+count:36,
 },
 {
 title:"Female Models",
 name:"FEMOD",
-count:24,
+count:36,
 },
 {
 title:"Young Faces",
-name:"ASQH",
-count:72,
+name:"YOUNG",
+count:36,
 },
 {
 title:"Food Dishes",
-name:"ASQI",
-count:72,
+name:"DISH",
+count:36,
 },
 ]
 }

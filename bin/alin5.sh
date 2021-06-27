@@ -1,0 +1,39 @@
+#5120 2000
+mkdir orig
+convert -crop 1280x2000 004.000.jpg orig/00_%d.jpg
+convert -crop 1280x2000 004.001.jpg orig/01_%d.jpg
+convert -crop 1280x2000 004.002.jpg orig/02_%d.jpg
+convert -crop 1280x2000 004.003.jpg orig/03_%d.jpg
+convert -crop 1280x2000 004.004.jpg orig/04_%d.jpg
+convert -crop 1280x2000 004.005.jpg orig/05_%d.jpg
+convert -crop 1280x2000 004.006.jpg orig/06_%d.jpg
+convert -crop 1280x2000 004.007.jpg orig/07_%d.jpg
+convert -crop 1280x2000 004.008.jpg orig/08_%d.jpg
+convert -crop 1280x2000 004.009.jpg orig/09_%d.jpg
+convert -crop 1280x2000 004.010.jpg orig/10_%d.jpg
+convert -crop 1280x2000 004.011.jpg orig/11_%d.jpg
+convert -crop 1280x2000 004.012.jpg orig/12_%d.jpg
+convert -crop 1280x2000 004.013.jpg orig/13_%d.jpg
+convert -crop 1280x2000 004.014.jpg orig/14_%d.jpg
+convert -crop 1280x2000 004.015.jpg orig/15_%d.jpg
+convert -crop 1280x2000 004.016.jpg orig/16_%d.jpg
+convert -crop 1280x2000 004.017.jpg orig/17_%d.jpg
+convert -crop 1280x2000 004.018.jpg orig/18_%d.jpg
+convert -crop 1280x2000 004.019.jpg orig/19_%d.jpg
+convert -crop 1280x2000 004.020.jpg orig/20_%d.jpg
+convert -crop 1280x2000 004.021.jpg orig/21_%d.jpg
+convert -crop 1280x2000 004.022.jpg orig/22_%d.jpg
+convert -crop 1280x2000 004.023.jpg orig/23_%d.jpg
+convert -crop 1280x2000 004.024.jpg orig/24_%d.jpg
+convert -crop 1280x2000 004.025.jpg orig/25_%d.jpg
+convert -crop 1280x2000 004.026.jpg orig/26_%d.jpg
+convert -crop 1280x2000 004.027.jpg orig/27_%d.jpg
+convert -crop 1280x2000 004.028.jpg orig/28_%d.jpg
+convert -crop 1280x2000 004.029.jpg orig/29_%d.jpg
+convert -crop 1280x2000 004.030.jpg orig/30_%d.jpg
+convert -crop 1280x2000 004.031.jpg orig/31_%d.jpg
+convert -crop 1280x2000 004.032.jpg orig/32_%d.jpg
+convert -crop 1280x2000 004.033.jpg orig/33_%d.jpg
+convert -crop 1280x2000 004.034.jpg orig/34_%d.jpg
+convert -crop 1280x2000 004.035.jpg orig/35_%d.jpg
+

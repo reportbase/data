@@ -3,18 +3,18 @@ name:"wish",
 data:[
 {
 title:"Wide Photographs",
-name:"4PFO",
-count:36,
+name:"WISH",
+count:3,
 },
 {
 title:"Wide Photographs",
-name:"UPUI",
-count:36,
+name:"WISH1",
+count:3,
 },
 {
 title:"Wide Photographs",
-name:"98ND",
-count:36,
+name:"WISH2",
+count:3,
 },
 ]
 }

@@ -3,7 +3,7 @@ name:"ulta",
 data:[
 {
 title:"Photography - Gallery I",
-name:"ULAM",
+name:"ULTA",
 count:24,
 },
 {

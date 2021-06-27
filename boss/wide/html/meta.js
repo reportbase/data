@@ -3,8 +3,8 @@ name:"wide",
 data:[
 {
 title:"Wide Photographs",
-name:"4BNV",
-count:72,
+name:"WIDE",
+count:7,
 },
 {
 title:"Wide Photographs",

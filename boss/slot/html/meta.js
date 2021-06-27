@@ -89,7 +89,7 @@ count:32,
 {
 title:"Help Quotes",
 name:"REHE",
-count:9,
+count:32,
 },
 {
 title:"Jump Dancers",

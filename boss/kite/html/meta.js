@@ -3,38 +3,38 @@ name:"kite",
 data:[
 {
 title:"Gallery I",
-name:"ABES",
-count:72,
+name:"KITE",
+count:7,
 },
 {
 title:"Gallery II",
-name:"ABER",
-count:72,
+name:"KITE1",
+count:7,
 },
 {
 title:"Gallery III",
-name:"ABWR",
-count:72,
+name:"KITE2",
+count:7,
 },
 {
 title:"Gallery IV",
-name:"ABVE",
-count:72,
+name:"KITE3",
+count:7,
 },
 {
 title:"Gallery V",
-name:"ABUI",
-count:72,
+name:"KITE4",
+count:7,
 },
 {
 title:"Gallery VI",
-name:"ABBN",
-count:72,
+name:"KITE5",
+count:7,
 },
 {
 title:"Expressionism - Gallery I",
-name:"EXUI",
-count:72,
+name:"KITE6",
+count:7,
 },
 ]
 }

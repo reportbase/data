@@ -3,8 +3,8 @@ name:"wood",
 data:[
 {
 title:"Wide Photographs",
-name:"RBVR",
-count:36,
+name:"WOOD",
+count:6,
 },
 {
 title:"Wide Photographs",

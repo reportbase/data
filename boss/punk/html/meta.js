@@ -3,8 +3,8 @@ name:"punk",
 data:[
 {
 title:"Futurama",
-name:"CYAB",
-count:72,
+name:"PUNK",
+count:5,
 },
 {
 title:"Cyber City",

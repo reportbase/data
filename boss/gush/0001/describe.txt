@@ -1,0 +1,90 @@
+<div class="media">
+    <div class="title">
+        RepbaView - Viewing Hi-Resolution Images <p>
+    </div>
+  
+    <div class="content" align=left style="font-size:medium">
+
+            Browser and platform software have limited capabilities to view
+            large Hi-Resolution images.  Hi-Resolution images are easy to
+            create but hard to view.  Hi-Res images that have a height or width
+            of 10K can be particularly challenging to view on small screens.  Click <a
+            href="https://repba.com?p=boss/gush"> here</a> to view an example
+            hi-resolution images in the Gush imagegroup.  Click the left menu
+            icon to select other hi-resolution images.  <a
+            href="https://repba.com?JTFW">Image #6</a> is a large high quality
+            photo of a Florida golfcourse. <a
+            href="https://repba.com?EXD4">Image #9</a> is hires  photo of a
+            European tourist city.  Zoomin to view the tourists sitting by the
+            river.  <p> <p>
+	    
+            The optimal way to pan large images is to resize the image to the 
+            device's screen height and adjust the zoom level
+            and vertical position to a restricted portion of image.
+            
+            This requires a little practice, but with the assistance of a thumbnail 
+            image at the bottom of the screen, you can now easily pan large hi-res images.<p>
+            
+            The features consist of using two windows, working
+            together, enable users to see both the selected zoom and vertical
+            rotated image in perspective to the full image displayed in a
+            second and smaller window.  Large image panning and motion controls
+            are the same as normal full height images.  <p>  
+
+            A large hi-res image is displayed at the top of page in an HTML
+            iFrame. The smaller window is referred to as the “visual footer”
+            that replaces the default footer that allows a user to move though
+            a sequences of images.  Standard RepbaView screen user interaction
+            controls enable users to fully view hi-res images. Using the top
+            iFrame hi-res image, pan horizontally and vertically to see
+            movement of the visual footer position bar.   Start panoramic
+            motion with a horizontal swipe to see the position bar move across
+            the full image displayed in the visual footer. Simply moving your
+            finger or mouse on the screen moves the image accordingly.  
+		    <p> 
+               
+            The “visual footer” is designed to show the selected full height
+            image in relation to the full image.  It contains a moving vertical
+            position bar that includes a red segment showing how the large
+            screen image relates to the full image.  The red segment of the
+            visual footer position bar instantanously reflects horizontal and
+            vertical panning position adjustments and active motion.  If a
+            hi-res image consists of multiple sub-images, panning is
+            constrained to the active sub-image for both the full display and
+            visual footer. The user can select a specific active sub-image by
+            clicking the visual footer area that represents the image. The
+            vertical position bar is then moved to the selected sub-image.  To
+            move the visual footer position bar to another sub-image, click the
+            desired visual footer image segment. <p>
+
+            Click <a href="https://repba.com?p=boss/gush"> here</a> to
+            re-enable Gush hi-resolution imagegroup. Select specific image sub
+            image subgroups, as defined below, to demonstrate RepaView’s
+            features to view Hi-Resolution images.  <p> 
+            
+            For each image,<br> 
+            1) Zoom using the header by clicking the top display row. <br>
+            2) Pan vertically to move the image up/down. <br>
+            3) Start panoramic motion by a screen swipe or using the command menu. <br>
+            4) Stop panoramic motion by clicking anywhere on the screen. <br>
+            5) Click the bottom of the image to enable the visual footer and click random locations of the full
+               image or visual footer to see the corresponding change to the larger image. <br>
+            6) Click the browser back arrow to return to this page. <p>
+
+            <a href=http://repba.com?CALR>Click here</a> to
+            display a large hires info-graphic image of Antartica.  Zoom to maximum level
+            to notice the details. Move the red segment of the visual footer and notice the corresponding
+            location change to the zoomed portion of the Antartica map. <p><p> 
+              
+            <a href=https://repba.com?2WUB>Click here</a> to view a hi-res
+            vector image of a golfcourse. Depress a finger or cursur at the
+            screen edges to move fully around the image.
+    </div>
+    <div class="footer"> <p>
+        <a target=ifr href="http://repba.com?ULAB>repba.image.services</a>
+    </div>
+</div>
+
+
+
+

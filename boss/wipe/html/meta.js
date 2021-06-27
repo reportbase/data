@@ -3,8 +3,8 @@ name:"wipe",
 data:[
 {
 title:"Wide Photographs",
-name:"0EZZ",
-count:24,
+name:"WIPE",
+count:6,
 },
 {
 title:"Wide Photographs",

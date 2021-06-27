@@ -2,29 +2,29 @@ var meta = {title:"Expressionism",
 name:"mode",
 data:[
 {
-title:"Gallery IV",
-name:"ASQE",
-count:72,
+title:"Art - Gallery IV",
+name:"MODE",
+count:5,
 },
 {
-title:"Gallery V",
-name:"ASQF",
-count:72,
+title:"Assorted - Gallery V",
+name:"MODE1",
+count:5,
 },
 {
 title:"Gallery VI",
-name:"ASQG",
-count:72,
+name:"MODE2",
+count:5,
 },
 {
 title:"Expressionism - Gallery VIII",
-name:"TXSM",
-count:72,
+name:"MODE3",
+count:5,
 },
 {
 title:"Expressionism - Gallery X",
-name:"TXSB",
-count:72,
+name:"MODE4",
+count:5,
 },
 ]
 }

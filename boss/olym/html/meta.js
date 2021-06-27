@@ -3,43 +3,43 @@ name:"olym",
 data:[
 {
 title:"Sports - Baseball",
-name:"SOBA",
-count:18,
+name:"OLYM",
+count:8,
 },
 {
 title:"Sports - Basketball",
-name:"SOBK",
-count:18,
+name:"BASK",
+count:8,
 },
 {
 title:"Sports - Football",
-name:"SOFT",
-count:18,
+name:"FOOTB",
+count:8,
 },
 {
 title:"Sports - Hockey I",
-name:"SOHO",
-count:18,
+name:"HOCK1",
+count:8,
 },
 {
 title:"Sports - Track",
-name:"SOTA",
-count:18,
+name:"TRACK",
+count:8,
 },
 {
 title:"Sports - Soccer",
 name:"SOCC",
-count:18,
+count:8,
 },
 {
 title:"Sports - Tennis",
-name:"SOTE",
-count:18,
+name:"TENNI",
+count:8,
 },
 {
 title:"Sports - Hockey II",
-name:"SOH2",
-count:18,
+name:"HOCK2",
+count:8,
 },
 ]
 }

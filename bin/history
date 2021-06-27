@@ -6,3 +6,4 @@ sed '/url=/d' meta.ini #delete line from ini
 find data/ -name '*.json' -exec cat {} \; > uber.json   #recurse folders concat them
 rename "s/oldExtension$/newExtension/" *.txt   #rename all files
 mkdir -p 00{00..72}  #make multiple directories
+FOLDER=$(printf "%04d" "$i")

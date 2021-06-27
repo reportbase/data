@@ -3,8 +3,8 @@ name:"fame",
 data:[
 {
 title:"8K Action Photography",
-name:"9MNP",
-count:1,
+name:"FAME",
+count:65,
 },
 {
 title:"8K Action Photography",

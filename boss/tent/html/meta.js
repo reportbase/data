@@ -1,20 +1,20 @@
-var meta = {title:"Sports Photography",
+var meta = {title:"",
 name:"tent",
 data:[
 {
 title:"Sports Photograhy - Gallery I",
-name:"SPAI",
-count:72,
+name:"TENT",
+count:6,
 },
 {
 title:"Sports Photograhy - Gallery II",
 name:"SPAD",
-count:72,
+count:6,
 },
 {
 title:"Sports Photograhy - Gallery III",
 name:"JPAE",
-count:72,
+count:6,
 },
 {
 title:"Sports Photograhy - Gallery V",
