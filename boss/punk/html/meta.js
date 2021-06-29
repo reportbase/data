@@ -8,23 +8,23 @@ count:5,
 },
 {
 title:"Cyber City",
-name:"CYKB",
-count:72,
+name:"PUNK1",
+count:5,
 },
 {
 title:"Multiverse",
-name:"CYIU",
-count:72,
+name:"PUNK2",
+count:5,
 },
 {
 title:"Tiny Town",
-name:"CYRQ",
-count:72,
+name:"PUNK3",
+count:5,
 },
 {
 title:"Megaopolis",
-name:"CYWE",
-count:72,
+name:"PUNK4",
+count:5,
 },
 ]
 }

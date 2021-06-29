@@ -1,74 +1,93 @@
-<div>Gallery IV<br>
-<a target=ifr href=/?p=boss/assort&k=0003&a=1&s=300&f=1&image=0>000</a> /
-<a target=ifr href=/?p=boss/assort&k=0003&a=1&s=300&f=1&image=1>001</a> /
-<a target=ifr href=/?p=boss/assort&k=0003&a=1&s=300&f=1&image=2>002</a> /
-<a target=ifr href=/?p=boss/assort&k=0003&a=1&s=300&f=1&image=3>003</a> /
-<a target=ifr href=/?p=boss/assort&k=0003&a=1&s=300&f=1&image=4>004</a> /
-<a target=ifr href=/?p=boss/assort&k=0003&a=1&s=300&f=1&image=5>005</a> /
-<a target=ifr href=/?p=boss/assort&k=0003&a=1&s=300&f=1&image=6>006</a> /
-<a target=ifr href=/?p=boss/assort&k=0003&a=1&s=300&f=1&image=7>007</a> /
-<a target=ifr href=/?p=boss/assort&k=0003&a=1&s=300&f=1&image=8>008</a> /
-<a target=ifr href=/?p=boss/assort&k=0003&a=1&s=300&f=1&image=9>009</a> /
-<a target=ifr href=/?p=boss/assort&k=0003&a=1&s=300&f=1&image=10>010</a> /
-<a target=ifr href=/?p=boss/assort&k=0003&a=1&s=300&f=1&image=11>011</a> /
-<a target=ifr href=/?p=boss/assort&k=0003&a=1&s=300&f=1&image=12>012</a> /
-<a target=ifr href=/?p=boss/assort&k=0003&a=1&s=300&f=1&image=13>013</a> /
-<a target=ifr href=/?p=boss/assort&k=0003&a=1&s=300&f=1&image=14>014</a> /
-<a target=ifr href=/?p=boss/assort&k=0003&a=1&s=300&f=1&image=15>015</a> /
-<a target=ifr href=/?p=boss/assort&k=0003&a=1&s=300&f=1&image=16>016</a> /
-<a target=ifr href=/?p=boss/assort&k=0003&a=1&s=300&f=1&image=17>017</a> /
-<a target=ifr href=/?p=boss/assort&k=0003&a=1&s=300&f=1&image=18>018</a> /
-<a target=ifr href=/?p=boss/assort&k=0003&a=1&s=300&f=1&image=19>019</a> /
-<a target=ifr href=/?p=boss/assort&k=0003&a=1&s=300&f=1&image=20>020</a> /
-<a target=ifr href=/?p=boss/assort&k=0003&a=1&s=300&f=1&image=21>021</a> /
-<a target=ifr href=/?p=boss/assort&k=0003&a=1&s=300&f=1&image=22>022</a> /
-<a target=ifr href=/?p=boss/assort&k=0003&a=1&s=300&f=1&image=23>023</a> /
-<a target=ifr href=/?p=boss/assort&k=0003&a=1&s=300&f=1&image=24>024</a> /
-<a target=ifr href=/?p=boss/assort&k=0003&a=1&s=300&f=1&image=25>025</a> /
-<a target=ifr href=/?p=boss/assort&k=0003&a=1&s=300&f=1&image=26>026</a> /
-<a target=ifr href=/?p=boss/assort&k=0003&a=1&s=300&f=1&image=27>027</a> /
-<a target=ifr href=/?p=boss/assort&k=0003&a=1&s=300&f=1&image=28>028</a> /
-<a target=ifr href=/?p=boss/assort&k=0003&a=1&s=300&f=1&image=29>029</a> /
-<a target=ifr href=/?p=boss/assort&k=0003&a=1&s=300&f=1&image=30>030</a> /
-<a target=ifr href=/?p=boss/assort&k=0003&a=1&s=300&f=1&image=31>031</a> /
-<a target=ifr href=/?p=boss/assort&k=0003&a=1&s=300&f=1&image=32>032</a> /
-<a target=ifr href=/?p=boss/assort&k=0003&a=1&s=300&f=1&image=33>033</a> /
-<a target=ifr href=/?p=boss/assort&k=0003&a=1&s=300&f=1&image=34>034</a> /
-<a target=ifr href=/?p=boss/assort&k=0003&a=1&s=300&f=1&image=35>035</a> /
-<a target=ifr href=/?p=boss/assort&k=0003&a=1&s=300&f=1&image=36>036</a> /
-<a target=ifr href=/?p=boss/assort&k=0003&a=1&s=300&f=1&image=37>037</a> /
-<a target=ifr href=/?p=boss/assort&k=0003&a=1&s=300&f=1&image=38>038</a> /
-<a target=ifr href=/?p=boss/assort&k=0003&a=1&s=300&f=1&image=39>039</a> /
-<a target=ifr href=/?p=boss/assort&k=0003&a=1&s=300&f=1&image=40>040</a> /
-<a target=ifr href=/?p=boss/assort&k=0003&a=1&s=300&f=1&image=41>041</a> /
-<a target=ifr href=/?p=boss/assort&k=0003&a=1&s=300&f=1&image=42>042</a> /
-<a target=ifr href=/?p=boss/assort&k=0003&a=1&s=300&f=1&image=43>043</a> /
-<a target=ifr href=/?p=boss/assort&k=0003&a=1&s=300&f=1&image=44>044</a> /
-<a target=ifr href=/?p=boss/assort&k=0003&a=1&s=300&f=1&image=45>045</a> /
-<a target=ifr href=/?p=boss/assort&k=0003&a=1&s=300&f=1&image=46>046</a> /
-<a target=ifr href=/?p=boss/assort&k=0003&a=1&s=300&f=1&image=47>047</a> /
-<a target=ifr href=/?p=boss/assort&k=0003&a=1&s=300&f=1&image=48>048</a> /
-<a target=ifr href=/?p=boss/assort&k=0003&a=1&s=300&f=1&image=49>049</a> /
-<a target=ifr href=/?p=boss/assort&k=0003&a=1&s=300&f=1&image=50>050</a> /
-<a target=ifr href=/?p=boss/assort&k=0003&a=1&s=300&f=1&image=51>051</a> /
-<a target=ifr href=/?p=boss/assort&k=0003&a=1&s=300&f=1&image=52>052</a> /
-<a target=ifr href=/?p=boss/assort&k=0003&a=1&s=300&f=1&image=53>053</a> /
-<a target=ifr href=/?p=boss/assort&k=0003&a=1&s=300&f=1&image=54>054</a> /
-<a target=ifr href=/?p=boss/assort&k=0003&a=1&s=300&f=1&image=55>055</a> /
-<a target=ifr href=/?p=boss/assort&k=0003&a=1&s=300&f=1&image=56>056</a> /
-<a target=ifr href=/?p=boss/assort&k=0003&a=1&s=300&f=1&image=57>057</a> /
-<a target=ifr href=/?p=boss/assort&k=0003&a=1&s=300&f=1&image=58>058</a> /
-<a target=ifr href=/?p=boss/assort&k=0003&a=1&s=300&f=1&image=59>059</a> /
-<a target=ifr href=/?p=boss/assort&k=0003&a=1&s=300&f=1&image=60>060</a> /
-<a target=ifr href=/?p=boss/assort&k=0003&a=1&s=300&f=1&image=61>061</a> /
-<a target=ifr href=/?p=boss/assort&k=0003&a=1&s=300&f=1&image=62>062</a> /
-<a target=ifr href=/?p=boss/assort&k=0003&a=1&s=300&f=1&image=63>063</a> /
-<a target=ifr href=/?p=boss/assort&k=0003&a=1&s=300&f=1&image=64>064</a> /
-<a target=ifr href=/?p=boss/assort&k=0003&a=1&s=300&f=1&image=65>065</a> /
-<a target=ifr href=/?p=boss/assort&k=0003&a=1&s=300&f=1&image=66>066</a> /
-<a target=ifr href=/?p=boss/assort&k=0003&a=1&s=300&f=1&image=67>067</a> /
-<a target=ifr href=/?p=boss/assort&k=0003&a=1&s=300&f=1&image=68>068</a> /
-<a target=ifr href=/?p=boss/assort&k=0003&a=1&s=300&f=1&image=69>069</a> /
-<a target=ifr href=/?p=boss/assort&k=0003&a=1&s=300&f=1&image=70>070</a> /
-<a target=ifr href=/?p=boss/assort&k=0003&a=1&s=300&f=1&image=71>071</a> /
-</div><p>
+<div class="media">
+    <div class="title">
+    </div>
+
+    	<div class=content align=left style="font-size:medium">
+            
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+        eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
+        ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
+        aliquip ex ea commodo consequat. Duis aute irure dolor in
+        reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
+        pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
+        culpa qui officia deserunt mollit anim id est laborum.<p><br>
+
+        <iframe src=/?MODE1 width=100% scrolling=no frameborder=0></iframe><p>
+
+        Sed ut perspiciatis unde omnis iste natus error sit voluptatem
+        accusantium doloremque laudantium, totam rem aperiam, eaque ipsa
+        quae ab illo inventore veritatis et quasi architecto beatae vitae
+        dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit
+        aspernatur aut odit aut fugit, sed quia consequuntur magni dolores
+        eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam
+        est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci
+        velit, sed quia non numquam eius modi tempora incidunt ut labore et
+        dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam,
+        quis nostrum exercitationem ullam corporis suscipit laboriosam,
+        nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure
+        reprehenderit qui in ea voluptate velit esse quam nihil molestiae
+        consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla
+        pariatur?<p>
+
+        <iframe src=/?MODE2 width=100% scrolling=no frameborder=0></iframe><p>
+
+        At vero eos et accusamus et iusto odio dignissimos ducimus qui
+        blanditiis praesentium voluptatum deleniti atque corrupti quos dolores
+        et quas molestias excepturi sint occaecati cupiditate non provident,
+        similique sunt in culpa qui officia deserunt mollitia animi, id est
+        laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita
+        distinctio. Nam libero tempore, cum soluta nobis est eligendi optio
+        cumque nihil impedit quo minus id quod maxime placeat facere possimus,
+        omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem
+        quibusdam et aut officiis debitis aut rerum necessitatibus saepe
+        eveniet ut et voluptates repudiandae sint et molestiae non recusandae.
+        Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis
+        voluptatibus maiores alias consequatur aut<p>
+        
+        <iframe src=/?MODE3 width=100% scrolling=no frameborder=0></iframe><p>
+
+        Donec semper sodales enim, in cursus elit efficitur quis. Sed sodales,
+        ipsum commodo eleifend bibendum, justo tortor dignissim purus, vitae
+        malesuada nisl nisl ut enim. Donec fermentum aliquam libero, non
+        laoreet est facilisis non. Phasellus consectetur purus non metus
+        facilisis tristique. Morbi laoreet est neque, non convallis est semper
+        vel. In malesuada metus orci, nec malesuada tellus eleifend id.
+        Phasellus congue mauris sit amet sem cursus convallis. Donec nec libero
+        nec arcu posuere malesuada vitae non nulla.<p>
+
+        <iframe src=/?MODE4 width=100% scrolling=no frameborder=0></iframe><p>
+
+        Nam luctus iaculis urna et semper. Suspendisse in est eu arcu
+        ullamcorper venenatis in id ex. Nullam lobortis libero ante, ac
+        ullamcorper erat interdum id. Aenean id urna vehicula, bibendum tellus
+        et, lobortis felis. Phasellus convallis, orci sit amet gravida
+        interdum, elit lacus aliquam nisl, vel commodo justo ante ac purus.
+        Cras et luctus justo. Morbi viverra luctus mollis. Maecenas ut erat
+        vitae arcu efficitur tristique. Aenean lectus magna, rutrum non
+        tincidunt eget, lobortis ac dui. Sed tempus, lorem a accumsan
+        consectetur, lacus justo tincidunt dolor, at viverra diam augue eget
+        tortor. Vestibulum sem justo, euismod ac justo a, posuere scelerisque
+        tortor. Aliquam ultricies malesuada ex, ut sodales augue mattis non.
+        Proin vestibulum sem dapibus pulvinar auctor.<p>
+
+        <a href=/?ROGER target=ifr>comics</a>
+        <a href=/?DASH target=ifr>vr</a>
+        <a href=/?EARL target=ifr>panoramas</a>
+        <a href=/?COVE target=ifr>covers</a>
+        <a href=/?FABL target=ifr>fables</a>
+        <a href=/?FACE target=ifr>face</a>
+        <a href=/?FAME target=ifr>fame</a>
+        <a href=/?GAME target=ifr>game</a>
+        <a href=/?GUSH target=ifr>gush</a>
+        <a href=/?INTE target=ifr>inte</a>
+        <a href=/?KING target=ifr>king</a>
+        <a href=/?KITE target=ifr>kite</a>
+        <a href=/?MODE target=ifr>mode</a>
+        <a href=/?NAVY target=ifr>navy</a>
+        <a href=/?PEEK target=ifr>peek</a>.
+
+    </div> 
+    
+    <div class="footer">
+    </div>
+</div>

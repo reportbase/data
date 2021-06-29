@@ -45,8 +45,11 @@
         voluptatibus maiores alias consequatur aut 
             
         <a href=/?ROGER target=ifr>comics</a>
-        <a href=/?DASH target=ifr>360 projections</a>
+        <a href=/?DASH target=ifr>vr</a>
         <a href=/?EARL target=ifr>panoramas</a>
+        <a href=/?COVE target=ifr>covers</a>
+        <a href=/?DEAD target=ifr>dead</a>
+        <a href=/?FABL target=ifr>fables</a>
         <a href=/?KING target=ifr>king</a>
         <a href=/?PEEK target=ifr>peek</a>.
 

@@ -4,17 +4,17 @@ data:[
 {
 title:"4K Photographs - 3840x2160",
 name:"WAIT",
-count:36,
+count:3,
 },
 {
 title:"4K Photographs - 3840x2160",
-name:"RBQT",
-count:36,
+name:"WAIT1",
+count:3,
 },
 {
 title:"4K Photographs - 3840x2160",
-name:"RBWO",
-count:36,
+name:"WAIT2",
+count:3,
 },
 ]
 }

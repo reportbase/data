@@ -3,7 +3,7 @@ name:"poet",
 data:[
 {
 title:"Political Art",
-name:"NBWX",
+name:"POET",
 count:75,
 },
 {

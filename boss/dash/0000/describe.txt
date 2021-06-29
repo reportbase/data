@@ -42,13 +42,23 @@
         quibusdam et aut officiis debitis aut rerum necessitatibus saepe
         eveniet ut et voluptates repudiandae sint et molestiae non recusandae.
         Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis
-        voluptatibus maiores alias consequatur aut 
+        voluptatibus maiores alias consequatur aut.<p> 
             
-        <a href=/?ROGER target=ifr>perferendis</a>
-        <a href=/?DASH target=ifr>doloribus</a>
-        <a href=/?KING target=ifr>asperiores</a>
-        <a href=/?PEEK target=ifr>repellat?</a>
+        <iframe src=/?DARE width=100% scrolling=no frameborder=0></iframe><p>
 
+        Vivamus accumsan pellentesque lorem. Sed congue vel arcu at
+        ullamcorper. Nunc sit amet vehicula diam. Maecenas venenatis varius
+        euismod. Ut nec malesuada metus, sed ullamcorper sem. In mollis aliquet
+        neque ultrices accumsan. Fusce mollis ornare nisi ut finibus.
+        Suspendisse velit sapien, pharetra ac sagittis at, consequat at lorem.
+        Proin vulputate eget odio sed eleifend. Pellentesque posuere a nulla
+        viverra accumsan. Aenean ac suscipit lacus. Nulla finibus mollis nibh
+        non dictum. Cras felis neque, auctor et eleifend nec, tempor nec orci.
+        In tristique urna risus, sit amet tincidunt eros condimentum eu. In
+        aliquam volutpat ante. Donec leo augue, euismod sed nisi ut, dapibus
+        pretium eros.<p>
+
+        <iframe src=/?DATR width=100% scrolling=no frameborder=0></iframe><p>
     </div> 
     
     <div class="footer">

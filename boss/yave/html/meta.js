@@ -4,12 +4,12 @@ data:[
 {
 title:"Alien Legion - Marvel Graphic Novel",
 name:"YAAL",
-count:54,
+count:30,
 },
 {
 title:"Aliens vs Predator - War",
-name:"YAAW",
-count:54,
+name:"ALIEN",
+count:30,
 },
 {
 title:"Alien vs Predator - Eternal #1-4",
@@ -23,13 +23,13 @@ count:96,
 },
 {
 title:"Aliens vs Predator vs Terminator",
-name:"YAAPT",
+name:"TERMI",
 count:96,
 },
 {
-title:"Aliens vs Predator vs Terminator",
-name:"YAAPT",
-count:96,
+title:"Tales From the Crypt",
+name:"CRYPT",
+count:36,
 },
 {
 title:"Conan - Witch Queen",
@@ -68,7 +68,7 @@ count:54,
 },
 {
 title:"Silver Surfer - The Enslavers",
-name:"YASU",
+name:"SILVE",
 count:54,
 },
 {
@@ -133,7 +133,7 @@ count:54,
 },
 {
 title:"Willow",
-name:"YAWI",
+name:"WILLO",
 count:54,
 },
 {
@@ -150,126 +150,6 @@ count:54,
 title:"Genghis Grimtoad - The Chronicles",
 name:"YAGG",
 count:54,
-},
-{
-title:"Tales From the Crypt",
-name:"CRYPT",
-count:36,
-},
-{
-title:"Tales From the Crypt",
-name:"CRYPT",
-count:36,
-},
-{
-title:"Tales From the Crypt",
-name:"CRYPT",
-count:36,
-},
-{
-title:"Tales From the Crypt",
-name:"CRYPT",
-count:36,
-},
-{
-title:"Tales From the Crypt",
-name:"CRYPT",
-count:36,
-},
-{
-title:"Tales From the Crypt",
-name:"CRYPT",
-count:36,
-},
-{
-title:"Tales From the Crypt",
-name:"CRYPT",
-count:36,
-},
-{
-title:"Tales From the Crypt",
-name:"CRYPT",
-count:36,
-},
-{
-title:"Tales From the Crypt",
-name:"CRYPT",
-count:36,
-},
-{
-title:"Tales From the Crypt",
-name:"CRYPT",
-count:36,
-},
-{
-title:"Tales From the Crypt",
-name:"CRYPT",
-count:36,
-},
-{
-title:"Tales From the Crypt",
-name:"CRYPT",
-count:36,
-},
-{
-title:"Tales From the Crypt",
-name:"CRYPT",
-count:36,
-},
-{
-title:"Tales From the Crypt",
-name:"CRYPT",
-count:36,
-},
-{
-title:"Tales From the Crypt",
-name:"CRYPT",
-count:36,
-},
-{
-title:"Tales From the Crypt",
-name:"CRYPT",
-count:36,
-},
-{
-title:"Tales From the Crypt",
-name:"CRYPT",
-count:36,
-},
-{
-title:"Tales From the Crypt",
-name:"CRYPT",
-count:36,
-},
-{
-title:"Tales From the Crypt",
-name:"CRYPT",
-count:36,
-},
-{
-title:"Tales From the Crypt",
-name:"CRYPT",
-count:36,
-},
-{
-title:"Tales From the Crypt",
-name:"CRYPT",
-count:36,
-},
-{
-title:"Tales From the Crypt",
-name:"CRYPT",
-count:36,
-},
-{
-title:"Tales From the Crypt",
-name:"CRYPT",
-count:36,
-},
-{
-title:"Tales From the Crypt",
-name:"CRYPT",
-count:36,
 },
 ]
 }

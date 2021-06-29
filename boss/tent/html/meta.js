@@ -8,28 +8,28 @@ count:6,
 },
 {
 title:"Sports Photograhy - Gallery II",
-name:"SPAD",
+name:"TENT1",
 count:6,
 },
 {
 title:"Sports Photograhy - Gallery III",
-name:"JPAE",
+name:"TENT2",
 count:6,
 },
 {
 title:"Sports Photograhy - Gallery V",
-name:"GPAY",
-count:72,
+name:"TENT3",
+count:6,
 },
 {
 title:"Sports Photograhy - Gallery IV",
-name:"SPAF",
-count:72,
+name:"TENT4",
+count:6,
 },
 {
 title:"Sports Photograhy - Gallery X",
-name:"SPAG",
-count:72,
+name:"TENT5",
+count:6,
 },
 ]
 }

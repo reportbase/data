@@ -4,12 +4,12 @@ data:[
 {
 title:"",
 name:"EARL",
-count:1,
+count:72,
 },
 {
 title:"",
 name:"DVLV",
-count:1,
+count:72,
 },
 {
 title:"",
@@ -113,7 +113,7 @@ count:1,
 },
 {
 title:"",
-name:"FCIN",
+name:"GTEA",
 count:1,
 },
 {

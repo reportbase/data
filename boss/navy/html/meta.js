@@ -3,32 +3,32 @@ name:"navy",
 data:[
 {
 title:"Combat - Gallery VI",
-name:"CBDA",
+name:"NAVY",
 count:72,
 },
 {
 title:"Combat - Gallery V",
-name:"CBTQ",
+name:"NAVY1",
 count:72,
 },
 {
 title:"Combat - Gallery IV",
-name:"CBTR",
+name:"NAVY2",
 count:72,
 },
 {
 title:"Combat - Gallery III",
-name:"KBTR",
+name:"NAVY3",
 count:72,
 },
 {
 title:"Figher Jets - Gallery II",
-name:"CBAR",
+name:"NAVY4",
 count:72,
 },
 {
 title:"Figher Jets - Gallery I",
-name:"CBIO",
+name:"NAVY5",
 count:72,
 },
 ]

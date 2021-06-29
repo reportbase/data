@@ -68,7 +68,7 @@ count:14,
 },
 {
 title:"Spiderman - HD Photographs",
-name:"PESP",
+name:"SPID",
 count:14,
 },
 ]

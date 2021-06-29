@@ -3,8 +3,8 @@ name:"slot",
 data:[
 {
 title:"Funny Faces",
-name:"REFF",
-count:16,
+name:"SLOT",
+count:27,
 },
 {
 title:"Summertime",
@@ -13,7 +13,7 @@ count:30,
 },
 {
 title:"Cats",
-name:"RECA",
+name:"CATS",
 count:30,
 },
 {
@@ -28,7 +28,7 @@ count:12,
 },
 {
 title:"Chair Spins",
-name:"RECH",
+name:"CHAIR",
 count:24,
 },
 {
@@ -43,7 +43,7 @@ count:10,
 },
 {
 title:"Costumes",
-name:"RECO",
+name:"COSTU",
 count:50,
 },
 {

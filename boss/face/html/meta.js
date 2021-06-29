@@ -14,42 +14,42 @@ count:10,
 {
 title:"Jerseys",
 name:"JERSY",
-count:36,
+count:10,
 },
 {
 title:"Exectuive Fashions",
 name:"EXECF",
-count:36,
+count:10,
 },
 {
 title:"Phone Calls",
 name:"PHONE",
-count:36,
+count:10,
 },
 {
 title:"Teenagers",
 name:"RETE",
-count:36,
+count:10,
 },
 {
 title:"Recipes",
 name:"RECIP",
-count:36,
+count:10,
 },
 {
 title:"Female Models",
 name:"FEMOD",
-count:36,
+count:10,
 },
 {
 title:"Young Faces",
 name:"YOUNG",
-count:36,
+count:10,
 },
 {
 title:"Food Dishes",
 name:"DISH",
-count:36,
+count:10,
 },
 ]
 }
