@@ -57,19 +57,6 @@
 
         <iframe src=/?INTE4 width=100% scrolling=no frameborder=0></iframe><p>
 
-        <a href=/?ROGER target=ifr>comics</a>
-        <a href=/?DASH target=ifr>vr</a>
-        <a href=/?EARL target=ifr>panoramas</a>
-        <a href=/?COVE target=ifr>covers</a>
-        <a href=/?FABL target=ifr>fables</a>
-        <a href=/?FACE target=ifr>face</a>
-        <a href=/?FAME target=ifr>fame</a>
-        <a href=/?GAME target=ifr>game</a>
-        <a href=/?GUSH target=ifr>gush</a>
-        <a href=/?INTE target=ifr>inte</a>
-        <a href=/?KING target=ifr>king</a>
-        <a href=/?PEEK target=ifr>peek</a>.
-
     </div> 
     
     <div class="footer">

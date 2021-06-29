@@ -6,4 +6,3 @@ html/./meta.sh $PROJECTNAME
 all.sh $PROJECTNAME 
 html/./links.sh $PROJECTNAME 
 #vks.sh $width $height
-
