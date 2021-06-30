@@ -4,7 +4,7 @@ data:[
 {
 title:"Interiors - Gallery I",
 name:"INTE",
-count:36,
+count:11,
 },
 {
 title:"Interiors - Gallery II",

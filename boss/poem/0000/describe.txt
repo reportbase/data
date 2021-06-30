@@ -11,8 +11,10 @@
         reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
         pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
         culpa qui officia deserunt mollit anim id est laborum.<p><br>
-
-        <iframe src=/?GPPD width=100% scrolling=no frameborder=0></iframe><p>
+    	
+        <div align=center>
+        <iframe src=/?GPPD width=600 scrolling=no frameborder=0></iframe><p>
+        </div>
 
         Sed ut perspiciatis unde omnis iste natus error sit voluptatem
         accusantium doloremque laudantium, totam rem aperiam, eaque ipsa
@@ -29,7 +31,9 @@
         consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla
         pariatur?<p>
 
-        <iframe src=/?STOG width=100% scrolling=no frameborder=0></iframe><p>
+        <div align=center>
+        <iframe src=/?STOG width=600 scrolling=no frameborder=0></iframe><p>
+        </div>
 
         At vero eos et accusamus et iusto odio dignissimos ducimus qui
         blanditiis praesentium voluptatum deleniti atque corrupti quos dolores
@@ -44,8 +48,10 @@
         Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis
         voluptatibus maiores alias consequatur aut<p>
         
-        <iframe src=/?BXHA width=100% scrolling=no frameborder=0></iframe><p>
-        
+        <div align=center>
+        <iframe src=/?BXHA width=600 scrolling=no frameborder=0></iframe><p>
+        </div>
+
         Donec semper sodales enim, in cursus elit efficitur quis. Sed sodales,
         ipsum commodo eleifend bibendum, justo tortor dignissim purus, vitae
         malesuada nisl nisl ut enim. Donec fermentum aliquam libero, non
@@ -55,7 +61,9 @@
         Phasellus congue mauris sit amet sem cursus convallis. Donec nec libero
         nec arcu posuere malesuada vitae non nulla.<p>
 
-        <iframe src=/?S6KQ width=100% scrolling=no frameborder=0></iframe><p>
+        <div align=center>
+        <iframe src=/?S6KQ width=600 scrolling=no frameborder=0></iframe><p>
+        </div>
 
         Nam luctus iaculis urna et semper. Suspendisse in est eu arcu
         ullamcorper venenatis in id ex. Nullam lobortis libero ante, ac
@@ -69,24 +77,6 @@
         tortor. Vestibulum sem justo, euismod ac justo a, posuere scelerisque
         tortor. Aliquam ultricies malesuada ex, ut sodales augue mattis non.
         Proin vestibulum sem dapibus pulvinar auctor.<p>
-
-        <a href=/?ROGER target=ifr>comics</a>
-        <a href=/?DASH target=ifr>vr</a>
-        <a href=/?EARL target=ifr>panoramas</a>
-        <a href=/?COVE target=ifr>covers</a>
-        <a href=/?FABL target=ifr>fables</a>
-        <a href=/?FACE target=ifr>face</a>
-        <a href=/?FAME target=ifr>fame</a>
-        <a href=/?GAME target=ifr>game</a>
-        <a href=/?GUSH target=ifr>gush</a>
-        <a href=/?INTE target=ifr>inte</a>
-        <a href=/?KING target=ifr>king</a>
-        <a href=/?KITE target=ifr>kite</a>
-        <a href=/?MODE target=ifr>mode</a>
-        <a href=/?NAVY target=ifr>navy</a>
-        <a href=/?OLYM target=ifr>olym</a>
-        <a href=/?PASS target=ifr>pass</a>
-        <a href=/?PEEK target=ifr>peek</a>.
 
     </div> 
     

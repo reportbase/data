@@ -70,39 +70,7 @@
         tortor. Aliquam ultricies malesuada ex, ut sodales augue mattis non.
         Proin vestibulum sem dapibus pulvinar auctor.<p>
 
-        <a href=/?ROGER target=ifr>roger</a>
-        <a href=/?DASH target=ifr>dash</a>
-        <a href=/?EARL target=ifr>earl</a>
-        <a href=/?COVE target=ifr>cove</a>
-        <a href=/?FABL target=ifr>fabl</a>
-        <a href=/?FACE target=ifr>face</a>
-        <a href=/?FAME target=ifr>fame</a>
-        <a href=/?GAME target=ifr>game</a>
-        <a href=/?GUSH target=ifr>gush</a>
-        <a href=/?INTE target=ifr>inte</a>
-        <a href=/?KING target=ifr>king</a>
-        <a href=/?KITE target=ifr>kite</a>
-        <a href=/?MODE target=ifr>mode</a>
-        <a href=/?NAVY target=ifr>navy</a>
-        <a href=/?OLYM target=ifr>olym</a>
-        <a href=/?PASS target=ifr>pass</a>
-        <a href=/?PEEK target=ifr>peek</a>
-        <a href=/?POKE target=ifr>poke</a>
-        <a href=/?POEM target=ifr>poem</a>
-        <a href=/?POET target=ifr>poet</a>
-        <a href=/?POSE target=ifr>pose</a>
-        <a href=/?PUNK target=ifr>punk</a>
-        <a href=/?RAIN target=ifr>rain</a>
-        <a href=/?SCAP target=ifr>scap</a>
-        <a href=/?SLOT target=ifr>slot</a>
-        <a href=/?TENT target=ifr>tent</a>
-        <a href=/?ULTA target=ifr>ulta</a>
-        <a href=/?WAIT target=ifr>wait</a>
-        <a href=/?WIDE target=ifr>wide</a>
-        <a href=/?WIPE target=ifr>wipe</a>
-        <a href=/?WISH target=ifr>wish</a>
-        <a href=/?WOOD target=ifr>wood</a>
-    </div> 
+   </div> 
     
     <div class="footer">
     </div>

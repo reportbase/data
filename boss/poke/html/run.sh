@@ -1,7 +1,6 @@
 vki.sh
 vky.sh
 vkt.sh
-
 #mvname.sh 3 1
 #mvname.sh 6 2
 #mvname.sh 9 3
@@ -11,11 +10,11 @@ vkt.sh
 #vkd.sh z=
 #vkro.sh z 0
 #vkd.sh c=
-#vkro.sh c 5
+#vkro.sh c 0
 #vkd.sh r=
 #vkro.sh r 50
 #vkd.sh a=
-#vkro.sh a 2
+#vkro.sh a 1
 
 #rm splash.jpg
 #splash.sh

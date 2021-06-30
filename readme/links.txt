@@ -5,6 +5,8 @@ path https://indiepen.tech/
 []
 describe javascript tutorial
 path https://javascript.info/
+https://www.30secondsofcode.org/js/p/1
+https://github.com/trekhleb/javascript-algorithms
 
 []
 https://postimages.org/
