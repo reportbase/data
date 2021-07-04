@@ -1,0 +1,14 @@
+<form>
+<select onchange="selectproject()" style="width:200" id="sfr" name="sfr">
+<option value=FACE>FACE</option>
+<option value=EXECF>EXECF</option>
+<option value=JERSY>JERSY</option>
+<option value=EXECF>EXECF</option>
+<option value=PHONE>PHONE</option>
+<option value=RETE>RETE</option>
+<option value=RECIP>RECIP</option>
+<option value=FEMOD>FEMOD</option>
+<option value=YOUNG>YOUNG</option>
+<option value=DISH>DISH</option>
+</select>
+</form>

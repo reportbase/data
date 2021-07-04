@@ -3,14 +3,53 @@
     </div>
 
     	<div class=content align=left style="font-size:medium">
-            
+<form>
+<select onchange="selectproject()" style="width:200" id="sfr" name="sfr">
+<option value=RAIN>RAIN</option>
+<option value=AXN4>AXN4</option>
+<option value=STRE>STRE</option>
+<option value=GAME>GAME</option>
+<option value=WORLD>WORLD</option>
+<option value=TOPO>TOPO</option>
+<option value=KHUH>KHUH</option>
+<option value=TOPII>TOPII</option>
+<option value=OLDM>OLDM</option>
+<option value=C6AQ>C6AQ</option>
+<option value=CALR>CALR</option>
+<option value=WM05>WM05</option>
+<option value=NMVB>NMVB</option>
+<option value=CRGH>CRGH</option>
+<option value=COIU>COIU</option>
+<option value=POLAR>POLAR</option>
+<option value=WERQ>WERQ</option>
+<option value=REER>REER</option>
+<option value=RUSSI>RUSSI</option>
+<option value=JIPO>JIPO</option>
+<option value=JIPA>JIPA</option>
+<option value=JUPA>JUPA</option>
+<option value=JUPU>JUPU</option>
+<option value=JIPI>JIPI</option>
+<option value=JIPE>JIPE</option>
+<option value=JAPE>JAPE</option>
+<option value=JAPA>JAPA</option>
+<option value=AAPB>AAPB</option>
+<option value=AAPE>AAPE</option>
+<option value=AAPG>AAPG</option>
+<option value=AAPI>AAPI</option>
+<option value=AAPJ>AAPJ</option>
+<option value=DRWO>DRWO</option>
+<option value=DRWU>DRWU</option>
+<option value=DRWK>DRWK</option>
+<option value=DRWJ>DRWJ</option>
+</select>
+</form>
         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
         eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
         ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
         aliquip ex ea commodo consequat. Duis aute irure dolor in
         reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
         pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-        culpa qui officia deserunt mollit anim id est laborum.<p><br>
+        culpa qui officia deserunt mollit anim id est laborum.<p>
 
         <iframe src=/?AXN4 width=100% scrolling=no frameborder=0></iframe><p>
 

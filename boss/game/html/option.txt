@@ -1,0 +1,12 @@
+<form>
+<select onchange="selectproject()" style="width:200" id="sfr" name="sfr">
+<option value=GAME>GAME</option>
+<option value=GAME1>GAME1</option>
+<option value=GAME2>GAME2</option>
+<option value=GAME3>GAME3</option>
+<option value=GAME4>GAME4</option>
+<option value=GAME5>GAME5</option>
+<option value=GAME6>GAME6</option>
+<option value=GAME7>GAME7</option>
+</select>
+</form>

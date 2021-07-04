@@ -3,7 +3,17 @@
     </div>
 
     	<div class=content align=left style="font-size:medium">
-            
+
+        <form>
+        <select onchange="selectproject()" style="width:200" id="sfr" name="sfr">
+          <option value="rise">rise</option>
+          <option value="rise1">rise 1</option>
+          <option value="rise2">rise 2</option>
+          <option value="rise3">rise 3</option>
+          <option value="rise4">rise 4</option>
+        </select>
+        </form>
+
         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
         eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
         ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut

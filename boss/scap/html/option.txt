@@ -1,0 +1,27 @@
+<form>
+<select onchange="selectproject()" style="width:200" id="sfr" name="sfr">
+<option value=SCAP>SCAP</option>
+<option value=SCAP1>SCAP1</option>
+<option value=SCAP2>SCAP2</option>
+<option value=SCAP3>SCAP3</option>
+<option value=SCAP4>SCAP4</option>
+<option value=SCAP5>SCAP5</option>
+<option value=SCAP6>SCAP6</option>
+<option value=SCAP7>SCAP7</option>
+<option value=SCAP8>SCAP8</option>
+<option value=SCAP9>SCAP9</option>
+<option value=SCA10>SCA10</option>
+<option value=SCA11>SCA11</option>
+<option value=SCA12>SCA12</option>
+<option value=SCA13>SCA13</option>
+<option value=SCA14>SCA14</option>
+<option value=SCA15>SCA15</option>
+<option value=SCA16>SCA16</option>
+<option value=SPA17>SPA17</option>
+<option value=SCA18>SCA18</option>
+<option value=SCA19>SCA19</option>
+<option value=SCA20>SCA20</option>
+<option value=SCA21>SCA21</option>
+<option value=SCA22>SCA22</option>
+</select>
+</form>

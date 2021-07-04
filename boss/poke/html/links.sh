@@ -36,11 +36,15 @@ for i in $(seq 0 $SIZE); do
     printf 'Title = %s\n' "$title" >> html/links.ini
     printf 'Title1 = %s\n' "$title1" >> html/links.ini
     printf 'Title2 = %s\n' "$title2" >> html/links.ini
+    printf 'Extent = %s\n' "$extent" >> html/links.ini
+    printf 'Aspect = %s\n' "$aspect" >> html/links.ini
     printf 'Path = /?p=boss/%s&k=%s&a=%s&z=%s&c=%s&r=%s\n' $PROJECT $FOLDER $a $z $c $r >> html/links.ini
 
     title="" 
     title1="" 
     title2="" 
+    extent="" 
+    aspect="" 
 done
 
 cat html/links.txt >> html/links.ini

@@ -1,0 +1,21 @@
+<form>
+<select onchange="selectproject()" style="width:200" id="sfr" name="sfr">
+<option value=PIKE>PIKE</option>
+<option value=ANIM1>ANIM1</option>
+<option value=ANIM2>ANIM2</option>
+<option value=OCEAN>OCEAN</option>
+<option value=VIKIN>VIKIN</option>
+<option value=DISNE>DISNE</option>
+<option value=CANDY>CANDY</option>
+<option value=MONUM>MONUM</option>
+<option value=MARIO>MARIO</option>
+<option value=ZELDA>ZELDA</option>
+<option value=AVENG>AVENG</option>
+<option value=CHAMP>CHAMP</option>
+<option value=ANIM5>ANIM5</option>
+<option value=ANIM2>ANIM2</option>
+<option value=ANIM7>ANIM7</option>
+<option value=ANIM9>ANIM9</option>
+<option value=ANIM4>ANIM4</option>
+</select>
+</form>

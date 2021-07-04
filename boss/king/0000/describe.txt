@@ -3,7 +3,27 @@
     </div>
 
     	<div class=content align=left style="font-size:medium">
-            
+<form>
+<select onchange="selectproject()" style="width:200" id="sfr" name="sfr">
+<option value=KING>KING</option>
+<option value=BEAR>BEAR</option>
+<option value=FROG>FROG</option>
+<option value=GIRAF>GIRAF</option>
+<option value=GORIL>GORIL</option>
+<option value=HIPPO>HIPPO</option>
+<option value=LEOPA>LEOPA</option>
+<option value=LION>LION</option>
+<option value=LIZA>LIZA</option>
+<option value=MONKY>MONKY</option>
+<option value=PANDA>PANDA</option>
+<option value=POLAR>POLAR</option>
+<option value=SNAKE>SNAKE</option>
+<option value=ZEBRA>ZEBRA</option>
+<option value=HORSE>HORSE</option>
+<option value=ELEPH>ELEPH</option>
+<option value=TIGER>TIGER</option>
+</select>
+</form>            
         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
         eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
         ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut

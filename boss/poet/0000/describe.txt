@@ -3,6 +3,60 @@
     </div>
 
     	<div class=content align=left style="font-size:medium">
+
+<form>
+<select onchange="selectproject()" style="width:200" id="sfr" name="sfr">
+<option value=POET>POET</option>
+<option value=TIOH>TIOH</option>
+<option value=D22P>D22P</option>
+<option value=ENH2>ENH2</option>
+<option value=K34Q>K34Q</option>
+<option value=V9BM>V9BM</option>
+<option value=UBYZ>UBYZ</option>
+<option value=TF0W>TF0W</option>
+<option value=6WAV>6WAV</option>
+<option value=OUYF>OUYF</option>
+<option value=ZMZB>ZMZB</option>
+<option value=WV2Q>WV2Q</option>
+<option value=EGIS>EGIS</option>
+<option value=EKDW>EKDW</option>
+<option value=O3B2>O3B2</option>
+<option value=VNUP>VNUP</option>
+<option value=AEGU>AEGU</option>
+<option value=1DAV>1DAV</option>
+<option value=HCMM>HCMM</option>
+<option value=V6SC>V6SC</option>
+<option value=A5TD>A5TD</option>
+<option value=JSII>JSII</option>
+<option value=9W1Q>9W1Q</option>
+<option value=O7PH>O7PH</option>
+<option value=TWNN>TWNN</option>
+<option value=JZ32>JZ32</option>
+<option value=ZWYT>ZWYT</option>
+<option value=FUIX>FUIX</option>
+<option value=PHV4>PHV4</option>
+<option value=3K5Q>3K5Q</option>
+<option value=JBBO>JBBO</option>
+<option value=0WLU>0WLU</option>
+<option value=Z2JW>Z2JW</option>
+<option value=OB1V>OB1V</option>
+<option value=JX1U>JX1U</option>
+<option value=ELLH>ELLH</option>
+<option value=LD8T>LD8T</option>
+<option value=LY6I>LY6I</option>
+<option value=KAVG>KAVG</option>
+<option value=8Q9D>8Q9D</option>
+<option value=W5VO>W5VO</option>
+<option value=AW4S>AW4S</option>
+<option value=UD68>UD68</option>
+<option value=5C6E>5C6E</option>
+<option value=SHLD>SHLD</option>
+<option value=V20N>V20N</option>
+<option value=L9Z3>L9Z3</option>
+<option value=ECDC>ECDC</option>        
+        <form onsubmit="return foo()">
+            <input type="url" id="name" name="name" size=100%>
+        </form><p><br>
             
         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
         eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
@@ -13,7 +67,7 @@
         culpa qui officia deserunt mollit anim id est laborum.<p><br>
 
         <div align=center>
-        <iframe src=/?TIOH width=400 scrolling=no frameborder=0></iframe><p>
+        <iframe src=/?EKDW width=400 scrolling=no frameborder=0></iframe><p>
         </div>
 
         Sed ut perspiciatis unde omnis iste natus error sit voluptatem

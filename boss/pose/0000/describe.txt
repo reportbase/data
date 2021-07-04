@@ -3,7 +3,98 @@
     </div>
 
     	<div class=content align=left style="font-size:medium">
-            
+
+<form>
+<select onchange="selectproject()" style="width:200" id="sfr" name="sfr">
+<option value=POSE>POSE</option>
+<option value=LJRV>LJRV</option>
+<option value=ZH0X>ZH0X</option>
+<option value=C36B>C36B</option>
+<option value=UNFV>UNFV</option>
+<option value=JHYD>JHYD</option>
+<option value=QPJK>QPJK</option>
+<option value=M2KM>M2KM</option>
+<option value=KZEJ>KZEJ</option>
+<option value=WNKI>WNKI</option>
+<option value=IELA>IELA</option>
+<option value=LVLK>LVLK</option>
+<option value=ZUQS>ZUQS</option>
+<option value=1WWJ>1WWJ</option>
+<option value=ELTF>ELTF</option>
+<option value=OP63>OP63</option>
+<option value=HXXD>HXXD</option>
+<option value=MHRI>MHRI</option>
+<option value=FPQZ>FPQZ</option>
+<option value=NJIV>NJIV</option>
+<option value=XFCP>XFCP</option>
+<option value=FGOB>FGOB</option>
+<option value=876I>876I</option>
+<option value=S9EY>S9EY</option>
+<option value=FGFV>FGFV</option>
+<option value=JTKF>JTKF</option>
+<option value=N9DA>N9DA</option>
+<option value=UHMS>UHMS</option>
+<option value=LXUT>LXUT</option>
+<option value=WCOB>WCOB</option>
+<option value=C664>C664</option>
+<option value=3PLZ>3PLZ</option>
+<option value=ZMG6>ZMG6</option>
+<option value=T8IJ>T8IJ</option>
+<option value=0ZDM>0ZDM</option>
+<option value=XS4A>XS4A</option>
+<option value=HQWL>HQWL</option>
+<option value=MME8>MME8</option>
+<option value=EVFW>EVFW</option>
+<option value=Z2YO>Z2YO</option>
+<option value=WD9C>WD9C</option>
+<option value=E14D>E14D</option>
+<option value=6GMY>6GMY</option>
+<option value=QW23>QW23</option>
+<option value=QKGN>QKGN</option>
+<option value=5QPT>5QPT</option>
+<option value=D1OW>D1OW</option>
+<option value=BF4G>BF4G</option>
+<option value=Z5RI>Z5RI</option>
+<option value=LLR1>LLR1</option>
+<option value=27HC>27HC</option>
+<option value=X60H>X60H</option>
+<option value=8KFS>8KFS</option>
+<option value=55R2>55R2</option>
+<option value=GATJ>GATJ</option>
+<option value=VTHP>VTHP</option>
+<option value=AVRD>AVRD</option>
+<option value=OHD5>OHD5</option>
+<option value=UDWM>UDWM</option>
+<option value=LEAB>LEAB</option>
+<option value=AJQM>AJQM</option>
+<option value=QDCA>QDCA</option>
+<option value=FBJD>FBJD</option>
+<option value=IEJ6>IEJ6</option>
+<option value=SO2C>SO2C</option>
+<option value=LDZC>LDZC</option>
+<option value=MWSI>MWSI</option>
+<option value=C5F0>C5F0</option>
+<option value=QUAT>QUAT</option>
+<option value=8E38>8E38</option>
+<option value=FAFC>FAFC</option>
+<option value=JUSM>JUSM</option>
+<option value=J2QC>J2QC</option>
+<option value=DX0B>DX0B</option>
+<option value=VAIQ>VAIQ</option>
+<option value=ONPZ>ONPZ</option>
+<option value=6WQO>6WQO</option>
+<option value=9AI3>9AI3</option>
+<option value=1SJT>1SJT</option>
+<option value=YMDO>YMDO</option>
+<option value=WDYS>WDYS</option>
+<option value=LDIC>LDIC</option>
+<option value=XZ2S>XZ2S</option>
+<option value=HCR5>HCR5</option>
+<option value=9QLO>9QLO</option>
+<option value=CFGG>CFGG</option>
+<option value=C3OV>C3OV</option>
+</select>
+</form>            
         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
         eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
         ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut

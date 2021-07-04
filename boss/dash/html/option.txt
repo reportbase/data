@@ -1,0 +1,29 @@
+<form>
+<select onchange="selectproject()" style="width:200" id="sfr" name="sfr">
+<option value=DASH>DASH</option>
+<option value=DABD>DABD</option>
+<option value=DAMT>DAMT</option>
+<option value=DASC>DASC</option>
+<option value=DAOA>DAOA</option>
+<option value=DATC>DATC</option>
+<option value=DASS>DASS</option>
+<option value=DALR>DALR</option>
+<option value=DACO>DACO</option>
+<option value=DAAC>DAAC</option>
+<option value=DAWH>DAWH</option>
+<option value=DADB>DADB</option>
+<option value=DAIB>DAIB</option>
+<option value=DAMP>DAMP</option>
+<option value=DARE>DARE</option>
+<option value=DACI>DACI</option>
+<option value=DASP>DASP</option>
+<option value=DADT>DADT</option>
+<option value=DABR>DABR</option>
+<option value=DATR>DATR</option>
+<option value=DAVC>DAVC</option>
+<option value=DALB>DALB</option>
+<option value=DAWI>DAWI</option>
+<option value=DARM>DARM</option>
+<option value=Q4QB>Q4QB</option>
+</select>
+</form>

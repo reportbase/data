@@ -1,0 +1,15 @@
+<form>
+<select onchange="selectproject()" style="width:200" id="sfr" name="sfr">
+<option value=INTE>INTE</option>
+<option value=INTE1>INTE1</option>
+<option value=INTE2>INTE2</option>
+<option value=INTE3>INTE3</option>
+<option value=INTE4>INTE4</option>
+<option value=INTE5>INTE5</option>
+<option value=INTE6>INTE6</option>
+<option value=INTE7>INTE7</option>
+<option value=INTE8>INTE8</option>
+<option value=INTE9>INTE9</option>
+<option value=INT10>INT10</option>
+</select>
+</form>

@@ -3,7 +3,76 @@
     </div>
 
     	<div class=content align=left style="font-size:medium">
-            
+<form>
+<select onchange="selectproject()" style="width:200" id="sfr" name="sfr">
+<option value=FAME>FAME</option>
+<option value=MHFK>MHFK</option>
+<option value=RMWI>RMWI</option>
+<option value=AOUE>AOUE</option>
+<option value=MSCC>MSCC</option>
+<option value=Y930>Y930</option>
+<option value=VCR1>VCR1</option>
+<option value=ZRZK>ZRZK</option>
+<option value=RZ3U>RZ3U</option>
+<option value=SJDK>SJDK</option>
+<option value=30TP>30TP</option>
+<option value=CNKY>CNKY</option>
+<option value=LXQE>LXQE</option>
+<option value=U6FC>U6FC</option>
+<option value=BCZE>BCZE</option>
+<option value=O9D9>O9D9</option>
+<option value=X20W>X20W</option>
+<option value=JGEL>JGEL</option>
+<option value=PV9R>PV9R</option>
+<option value=F7IZ>F7IZ</option>
+<option value=VLKC>VLKC</option>
+<option value=6UKQ>6UKQ</option>
+<option value=FC8U>FC8U</option>
+<option value=XFNF>XFNF</option>
+<option value=NQCF>NQCF</option>
+<option value=CVFU>CVFU</option>
+<option value=7IBS>7IBS</option>
+<option value=FDJS>FDJS</option>
+<option value=0QYG>0QYG</option>
+<option value=IAZE>IAZE</option>
+<option value=1W5M>1W5M</option>
+<option value=TTAV>TTAV</option>
+<option value=OL2D>OL2D</option>
+<option value=RW8O>RW8O</option>
+<option value=JQ8K>JQ8K</option>
+<option value=ZLZT>ZLZT</option>
+<option value=X2EU>X2EU</option>
+<option value=YRPF>YRPF</option>
+<option value=DGZ8>DGZ8</option>
+<option value=IFZG>IFZG</option>
+<option value=VLM6>VLM6</option>
+<option value=EI1N>EI1N</option>
+<option value=SU2P>SU2P</option>
+<option value=YWCW>YWCW</option>
+<option value=HCHT>HCHT</option>
+<option value=LYFT>LYFT</option>
+<option value=8SSN>8SSN</option>
+<option value=X35X>X35X</option>
+<option value=RWSZ>RWSZ</option>
+<option value=IEWI>IEWI</option>
+<option value=KW7L>KW7L</option>
+<option value=JDOZ>JDOZ</option>
+<option value=Z1PQ>Z1PQ</option>
+<option value=BUKG>BUKG</option>
+<option value=JUYD>JUYD</option>
+<option value=BZKP>BZKP</option>
+<option value=HFDM>HFDM</option>
+<option value=1YJS>1YJS</option>
+<option value=9PBV>9PBV</option>
+<option value=VKVN>VKVN</option>
+<option value=MKNR>MKNR</option>
+<option value=ZNG7>ZNG7</option>
+<option value=CZZF>CZZF</option>
+<option value=6ZAF>6ZAF</option>
+<option value=YPIT>YPIT</option>
+</select>
+</form>
+
         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
         eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
         ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut

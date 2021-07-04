@@ -1,0 +1,7 @@
+<form>
+<select onchange="selectproject()" style="width:200" id="sfr" name="sfr">
+<option value=FABL>FABL</option>
+<option value=FABL1>FABL1</option>
+<option value=FABL2>FABL2</option>
+</select>
+</form>

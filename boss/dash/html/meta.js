@@ -1,4 +1,4 @@
-var meta = {title:"360 VR Video",
+var meta = {title:"360 Projections",
 name:"dash",
 data:[
 {

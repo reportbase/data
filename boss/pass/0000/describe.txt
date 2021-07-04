@@ -3,7 +3,81 @@
     </div>
 
     	<div class=content align=left style="font-size:medium">
-            
+<form>
+<select onchange="selectproject()" style="width:200" id="sfr" name="sfr">
+<option value=PASS>PASS</option>
+<option value=GY5N>GY5N</option>
+<option value=6ASM>6ASM</option>
+<option value=AJII>AJII</option>
+<option value=1MVH>1MVH</option>
+<option value=UN9B>UN9B</option>
+<option value=IN2Q>IN2Q</option>
+<option value=RIHY>RIHY</option>
+<option value=VPFE>VPFE</option>
+<option value=QMB6>QMB6</option>
+<option value=RSRE>RSRE</option>
+<option value=4ZKR>4ZKR</option>
+<option value=Z8GG>Z8GG</option>
+<option value=7V6M>7V6M</option>
+<option value=DLZ8>DLZ8</option>
+<option value=GZM3>GZM3</option>
+<option value=IHVC>IHVC</option>
+<option value=UAHC>UAHC</option>
+<option value=WDNN>WDNN</option>
+<option value=Y7KR>Y7KR</option>
+<option value=RG4I>RG4I</option>
+<option value=20T6>20T6</option>
+<option value=BC8K>BC8K</option>
+<option value=UWMC>UWMC</option>
+<option value=L8QX>L8QX</option>
+<option value=K2RX>K2RX</option>
+<option value=KBSW>KBSW</option>
+<option value=3RQW>3RQW</option>
+<option value=IEAN>IEAN</option>
+<option value=QLGS>QLGS</option>
+<option value=DEHW>DEHW</option>
+<option value=XSG6>XSG6</option>
+<option value=KZJN>KZJN</option>
+<option value=7Q24>7Q24</option>
+<option value=3RDB>3RDB</option>
+<option value=3T1I>3T1I</option>
+<option value=OPWN>OPWN</option>
+<option value=EPNR>EPNR</option>
+<option value=TOGM>TOGM</option>
+<option value=TMO9>TMO9</option>
+<option value=OHLG>OHLG</option>
+<option value=XNRV>XNRV</option>
+<option value=K9P9>K9P9</option>
+<option value=NGPR>NGPR</option>
+<option value=6Q1F>6Q1F</option>
+<option value=CGJ7>CGJ7</option>
+<option value=RECS>RECS</option>
+<option value=TJWL>TJWL</option>
+<option value=1CYB>1CYB</option>
+<option value=BB3I>BB3I</option>
+<option value=2RWZ>2RWZ</option>
+<option value=F3CX>F3CX</option>
+<option value=OCRL>OCRL</option>
+<option value=Z9V7>Z9V7</option>
+<option value=T1BL>T1BL</option>
+<option value=VAER>VAER</option>
+<option value=71AI>71AI</option>
+<option value=LDRM>LDRM</option>
+<option value=WL9T>WL9T</option>
+<option value=RQPV>RQPV</option>
+<option value=BZRJ>BZRJ</option>
+<option value=JK8F>JK8F</option>
+<option value=SMX0>SMX0</option>
+<option value=PMH9>PMH9</option>
+<option value=4QXU>4QXU</option>
+<option value=2AXA>2AXA</option>
+<option value=CFHQ>CFHQ</option>
+<option value=QXVE>QXVE</option>
+<option value=VNDN>VNDN</option>
+<option value=EB1I>EB1I</option>
+<option value=H23E>H23E</option>
+</select>
+</form>            
         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
         eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
         ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut

@@ -1,0 +1,51 @@
+<form>
+<select onchange="selectproject()" style="width:200" id="sfr" name="sfr">
+<option value=POEM>POEM</option>
+<option value=GPPD>GPPD</option>
+<option value=BXHA>BXHA</option>
+<option value=XGIH>XGIH</option>
+<option value=N36R>N36R</option>
+<option value=S6KQ>S6KQ</option>
+<option value=XY4S>XY4S</option>
+<option value=AV07>AV07</option>
+<option value=FTUM>FTUM</option>
+<option value=U9H6>U9H6</option>
+<option value=RUXX>RUXX</option>
+<option value=7ZQH>7ZQH</option>
+<option value=RBKL>RBKL</option>
+<option value=DDDW>DDDW</option>
+<option value=UJBX>UJBX</option>
+<option value=XWGB>XWGB</option>
+<option value=STOG>STOG</option>
+<option value=FUHP>FUHP</option>
+<option value=0TOM>0TOM</option>
+<option value=UAKW>UAKW</option>
+<option value=D58I>D58I</option>
+<option value=R8LH>R8LH</option>
+<option value=Y9OO>Y9OO</option>
+<option value=HDQB>HDQB</option>
+<option value=Z7HK>Z7HK</option>
+<option value=3OA3>3OA3</option>
+<option value=SRNS>SRNS</option>
+<option value=TGRD>TGRD</option>
+<option value=SWMB>SWMB</option>
+<option value=ZJ1Q>ZJ1Q</option>
+<option value=AJMU>AJMU</option>
+<option value=JUK6>JUK6</option>
+<option value=FLA4>FLA4</option>
+<option value=ZJ0L>ZJ0L</option>
+<option value=RRV0>RRV0</option>
+<option value=V3YO>V3YO</option>
+<option value=IWZ6>IWZ6</option>
+<option value=AOWP>AOWP</option>
+<option value=T3E6>T3E6</option>
+<option value=DDBE>DDBE</option>
+<option value=KTAW>KTAW</option>
+<option value=NKMZ>NKMZ</option>
+<option value=1M8Y>1M8Y</option>
+<option value=BULLF>BULLF</option>
+<option value=TNN2>TNN2</option>
+<option value=SNF1>SNF1</option>
+<option value=9CMH>9CMH</option>
+</select>
+</form>

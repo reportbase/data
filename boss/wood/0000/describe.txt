@@ -3,6 +3,17 @@
     </div>
 
     	<div class=content align=left style="font-size:medium">
+
+        <form>
+        <select onchange="selectproject()" style="width:200" id="sfr" name="sfr">
+          <option value="wood">wood</option>
+          <option value="wood1">wood 1</option>
+          <option value="wood2">wood 2</option>
+          <option value="wood3">wood 3</option>
+          <option value="wood4">wood 4</option>
+          <option value="wood5">wood 5</option>
+        </select>
+        </form>
             
         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
         eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim

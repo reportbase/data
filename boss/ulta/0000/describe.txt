@@ -3,7 +3,23 @@
     </div>
 
     	<div class=content align=left style="font-size:medium">
-            
+
+        <form>
+        <select onchange="selectproject()" style="width:200" id="sfr" name="sfr">
+          <option value="ulta">Ulta</option>
+          <option value="ulta1">Ulta 1</option>
+          <option value="ulta2">Ulta 2</option>
+          <option value="ulta3">Ulta 3</option>
+          <option value="ulta4">Ulta 4</option>
+          <option value="ULTA5">Ulta 5</option>
+          <option value="ulta6">Ulta 6</option>
+          <option value="ulta7">Ulta 7</option>
+          <option value="ulta8">Ulta 8</option>
+          <option value="ulta9">Ulta 9</option>
+          <option value="ult10">Ulta 10</option>
+        </select>
+        </form>
+
         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
         eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
         ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut

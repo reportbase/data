@@ -3,7 +3,84 @@
     </div>
 
     	<div class=content align=left style="font-size:medium">
-            
+<form>
+<select onchange="selectproject()" style="width:200" id="sfr" name="sfr">
+<option value=EARL>EARL</option>
+<option value=DVLV>DVLV</option>
+<option value=VL4M>VL4M</option>
+<option value=L8YR>L8YR</option>
+<option value=ROWD>ROWD</option>
+<option value=HLHJ>HLHJ</option>
+<option value=CHSD>CHSD</option>
+<option value=77ER>77ER</option>
+<option value=6EBZ>6EBZ</option>
+<option value=29JA>29JA</option>
+<option value=0S98>0S98</option>
+<option value=UNGB>UNGB</option>
+<option value=ZMK8>ZMK8</option>
+<option value=YFPI>YFPI</option>
+<option value=XC6M>XC6M</option>
+<option value=JTIL>JTIL</option>
+<option value=WGIM>WGIM</option>
+<option value=GWJE>GWJE</option>
+<option value=03ZU>03ZU</option>
+<option value=ZDO3>ZDO3</option>
+<option value=UYFL>UYFL</option>
+<option value=ZCNA>ZCNA</option>
+<option value=GTEA>GTEA</option>
+<option value=LDV6>LDV6</option>
+<option value=CHRQ>CHRQ</option>
+<option value=3K85>3K85</option>
+<option value=437P>437P</option>
+<option value=68PO>68PO</option>
+<option value=KVWS>KVWS</option>
+<option value=LQCO>LQCO</option>
+<option value=3USV>3USV</option>
+<option value=VXQT>VXQT</option>
+<option value=QPVK>QPVK</option>
+<option value=4XMF>4XMF</option>
+<option value=ZJL9>ZJL9</option>
+<option value=RHS3>RHS3</option>
+<option value=8ORX>8ORX</option>
+<option value=M2GN>M2GN</option>
+<option value=C3WL>C3WL</option>
+<option value=9ZUQ>9ZUQ</option>
+<option value=Y3SB>Y3SB</option>
+<option value=9JJE>9JJE</option>
+<option value=KGY9>KGY9</option>
+<option value=BIK3>BIK3</option>
+<option value=VH6X>VH6X</option>
+<option value=KOVW>KOVW</option>
+<option value=4KDW>4KDW</option>
+<option value=CNTR>CNTR</option>
+<option value=Z92F>Z92F</option>
+<option value=68DJ>68DJ</option>
+<option value=EJIC>EJIC</option>
+<option value=6GFM>6GFM</option>
+<option value=CALT>CALT</option>
+<option value=R7TU>R7TU</option>
+<option value=I5LR>I5LR</option>
+<option value=WWLJ>WWLJ</option>
+<option value=ZCFY>ZCFY</option>
+<option value=AEX2>AEX2</option>
+<option value=5ECJ>5ECJ</option>
+<option value=S5ZO>S5ZO</option>
+<option value=Q6FS>Q6FS</option>
+<option value=RP73>RP73</option>
+<option value=NF06>NF06</option>
+<option value=HZT9>HZT9</option>
+<option value=OJR9>OJR9</option>
+<option value=RHST>RHST</option>
+<option value=TURE>TURE</option>
+<option value=TRTY>TRTY</option>
+<option value=TYTE>TYTE</option>
+<option value=PIRAT>PIRAT</option>
+<option value=8BEY>8BEY</option>
+<option value=YTEF>YTEF</option>
+<option value=YTEB>YTEB</option>
+<option value=YTEE>YTEE</option>
+</select>
+</form>            
         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
         eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
         ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut

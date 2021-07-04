@@ -3,7 +3,15 @@
     </div>
 
     	<div class=content align=left style="font-size:medium">
-            
+<form>
+<select onchange="selectproject()" style="width:200" id="sfr" name="sfr">
+<option value=DEAD>DEAD</option>
+<option value=DEAD1>DEAD1</option>
+<option value=DEAD2>DEAD2</option>
+<option value=DEAD3>DEAD3</option>
+<option value=DEAD4>DEAD4</option>
+</select>
+</form>            
         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
         eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
         ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut

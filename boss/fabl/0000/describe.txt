@@ -3,7 +3,13 @@
     </div>
 
     	<div class=content align=left style="font-size:medium">
-            
+<form>
+<select onchange="selectproject()" style="width:200" id="sfr" name="sfr">
+<option value=FABL>FABL</option>
+<option value=FABL1>FABL1</option>
+<option value=FABL2>FABL2</option>
+</select>
+</form>            
         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
         eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
         ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
@@ -44,14 +50,6 @@
         Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis
         voluptatibus maiores alias consequatur aut<p>
         
-        <a href=/?ROGER target=ifr>roger</a>
-        <a href=/?DASH target=ifr>vr</a>
-        <a href=/?EARL target=ifr>panoramas</a>
-        <a href=/?COVE target=ifr>covers</a>
-        <a href=/?FABL target=ifr>fables</a>
-        <a href=/?KING target=ifr>king</a>
-        <a href=/?PEEK target=ifr>peek</a>.
-
     </div> 
     
     <div class="footer">

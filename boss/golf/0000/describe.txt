@@ -3,6 +3,23 @@
     </div>
 
     	<div class=content align=left style="font-size:medium">
+<form>
+<select onchange="selectproject()" style="width:200" id="sfr" name="sfr">
+<option value=GOLF>GOLF</option>
+<option value=GOLF1>GOLF1</option>
+<option value=GOLF2>GOLF2</option>
+<option value=GOLF3>GOLF3</option>
+<option value=GOLF4>GOLF4</option>
+<option value=GOLF5>GOLF5</option>
+<option value=GOLF6>GOLF6</option>
+<option value=GOLF7>GOLF7</option>
+<option value=GOLF8>GOLF8</option>
+</select>
+</form>
+        <iframe width="100%" src="https://www.youtube.com/embed/kDK0GYt_5Lk"
+        title="YouTube video player" frameborder="0" allow="accelerometer;
+        autoplay; clipboard-write; encrypted-media; gyroscope;
+        picture-in-picture" allowfullscreen></iframe><p><br>
 
         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
         eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
@@ -10,7 +27,7 @@
         aliquip ex ea commodo consequat. Duis aute irure dolor in
         reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
         pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-        culpa qui officia deserunt mollit anim id est laborum.<p><br>
+        culpa qui officia deserunt mollit anim id est laborum.<p>
 
         <div align=center>
         <iframe src=/?GOLF1 width=600 scrolling=no frameborder=0></iframe><p>

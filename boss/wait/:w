@@ -1,0 +1,28 @@
+#10.0
+MontageCols_4=4
+drawsize_4=9
+ZoomEnd_4=80000
+#3.0
+MontageCols_4=3
+drawsize_4=12
+ZoomEnd_4=80000
+#2.0
+MontageCols_4=2
+drawsize_4=18
+ZoomEnd_4=80000
+#1.0
+MontageCols_4=1
+drawsize_4=36
+ZoomEnd_4=80000
+#10.0
+count=3
+title="4K Photographs - 3840x2160"
+title1="4K Photographs"
+title2="3840x2160"
+linkname_9=9001
+footer_4=THUMB
+tap_4=NOVEL
+fillwidth_8=720
+width=639
+height=360
+

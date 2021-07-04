@@ -3,7 +3,17 @@
     </div>
 
     	<div class=content align=left style="font-size:medium">
-            
+<form>
+<select onchange="selectproject()" style="width:200" id="sfr" name="sfr">
+<option value=KITE>KITE</option>
+<option value=KITE1>KITE1</option>
+<option value=KITE2>KITE2</option>
+<option value=KITE3>KITE3</option>
+<option value=KITE4>KITE4</option>
+<option value=KITE5>KITE5</option>
+<option value=KITE6>KITE6</option>
+</select>
+</form>            
         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
         eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
         ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut

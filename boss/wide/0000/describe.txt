@@ -4,6 +4,18 @@
 
     	<div class=content align=left style="font-size:medium">
             
+        <form>
+        <select onchange="selectproject()" style="width:200" id="sfr" name="sfr">
+          <option value="wide">wide</option>
+          <option value="wide1">wide 1</option>
+          <option value="wide2">wide 2</option>
+          <option value="wide3">wide 3</option>
+          <option value="wide4">wide 4</option>
+          <option value="wide5">wide 5</option>
+          <option value="wide6">wide 6</option>
+        </select>
+        </form>
+
         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
         eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
         ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut

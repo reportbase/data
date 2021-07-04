@@ -1,0 +1,12 @@
+<form>
+<select onchange="selectproject()" style="width:200" id="sfr" name="sfr">
+<option value=OLYM>OLYM</option>
+<option value=BASK>BASK</option>
+<option value=FOOTB>FOOTB</option>
+<option value=HOCK1>HOCK1</option>
+<option value=TRACK>TRACK</option>
+<option value=SOCC>SOCC</option>
+<option value=TENNI>TENNI</option>
+<option value=HOCK2>HOCK2</option>
+</select>
+</form>

@@ -1,5 +1,4 @@
 if [ ! -f "splash.jpg" ]; then
-    
     rm thumb.jpg 2> /dev/null
     rm splash.jpg 2> /dev/null
     convert 002.000.jpg +append splash.jpg

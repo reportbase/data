@@ -1,0 +1,31 @@
+<form>
+<select onchange="selectproject()" style="width:200" id="sfr" name="sfr">
+<option value=SLOT>SLOT</option>
+<option value=RESU>RESU</option>
+<option value=CATS>CATS</option>
+<option value=RESM>RESM</option>
+<option value=REWI>REWI</option>
+<option value=CHAIR>CHAIR</option>
+<option value=RESP>RESP</option>
+<option value=RECB>RECB</option>
+<option value=COSTU>COSTU</option>
+<option value=REBD>REBD</option>
+<option value=RECD>RECD</option>
+<option value=RECF>RECF</option>
+<option value=REFS>REFS</option>
+<option value=REMC>REMC</option>
+<option value=REBO>REBO</option>
+<option value=REGI>REGI</option>
+<option value=REEX>REEX</option>
+<option value=REHE>REHE</option>
+<option value=REJD>REJD</option>
+<option value=RECH>RECH</option>
+<option value=REGL>REGL</option>
+<option value=RETO>RETO</option>
+<option value=RESP>RESP</option>
+<option value=REHD>REHD</option>
+<option value=REAL>REAL</option>
+<option value=RECF>RECF</option>
+<option value=RESS>RESS</option>
+</select>
+</form>

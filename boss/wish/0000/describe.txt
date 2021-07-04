@@ -3,7 +3,16 @@
     </div>
 
     	<div class=content align=left style="font-size:medium">
-            
+
+        <form>
+        <select onchange="selectproject()" style="width:200" id="sfr" name="sfr">
+          <option value="wish">wish</option>
+          <option value="wish1">wish 1</option>
+          <option value="wish2">wish 2</option>
+          <option value="wish3">wish 3</option>
+        </select>
+        </form>
+             
         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
         eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
         ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
