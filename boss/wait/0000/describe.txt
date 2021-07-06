@@ -10,11 +10,6 @@
         </select>
         </form>
 
-        <form onsubmit="return foo()">
-            Enter Dropbox URL: (Example: https://reportbase.com/?p=boss/poke&k= 0000&d=0&z=80&c=4&r=58&a=2&g= hrfe6stipc28c3t/IMG_3608.JPG)<p><br>
-            <input type="url" id="name" name="name" size=100%>
-        </form><p>
-
         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
         eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
         ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
