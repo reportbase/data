@@ -36,5 +36,8 @@
 <option value=DRWU>DRWU</option>
 <option value=DRWK>DRWK</option>
 <option value=DRWJ>DRWJ</option>
+<option value=DREQ>DREQ</option>
+<option value=DRTW>DRTW</option>
+<option value=D531>D531</option>
 </select>
 </form>
