@@ -1,12 +1,12 @@
 vki.sh
 vky.sh
 vkt.sh
-
+#mv splash.jpg 008.000.jpg
+#ln -s 008.000.jpg splash.jpg
 #convert 012.000.jpg -resize x2160 009.000.jpg
 #vkd.sh stretch
 #vka.sh
 #rm splash.jpg
-#ln -s 001.000.jpg splash.jpg
 
 #mvname.sh 3 1
 #mvname.sh 6 2
