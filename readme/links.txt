@@ -1,4 +1,8 @@
 []
+title = Obfuscator
+path = https://obfuscator.io/
+
+[]
 path = https://www.webpagetest.org
 title = Webpagetest
 describe = speed test
@@ -117,10 +121,6 @@ title = PNG Tools
 []
 path = https://webassembly.studio/
 title = Web Assembly Studio
-
-[]
-title = Obfuscator
-path = https://obfuscator.io/
 
 [] 
 title = svg path editor
